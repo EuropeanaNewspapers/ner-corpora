@@ -457,7 +457,7 @@ Zwischen POS O
 Italien POS B-LOC
 Belgien, POS B-LOC
 Frankreich, POS B-LOC
-Großbritannien POS O
+Großbritannien POS B-LOC
 und POS O
 Deutschland. POS B-LOC
 die' POS O
@@ -477,16 +477,16 @@ Schulden POS O
 an POS O
 Amerika POS B-LOC
 und POS O
-Groß POS O
-britannien POS O
+Groß POS B-LOC
+britannien POS I-LOC
 deckt. POS O
 Die POS O
 Bestrebungen POS O
 für POS O
 den POS O
 Anschluß POS O
-Oester POS O
-reichs POS O
+Oester POS B-LOC
+reichs POS I-LOC
 an POS O
 Deutschland POS B-LOC
 und POS O
@@ -531,11 +531,11 @@ gegen POS O
 Italien POS B-LOC
 ist POS O
 in POS O
-Oesterreich POS O
+Oesterreich POS B-LOC
 mit POS O
 Ausnahme POS O
 von POS O
-Innsbruck POS O
+Innsbruck POS B-LOC
 so POS O
 popMr, POS O
 wie POS O
@@ -622,7 +622,7 @@ blassen, POS O
 schwarzgelockten POS O
 Prinzeßchen POS O
 aus POS O
-Sizilien, POS O
+Sizilien, POS B-LOC
 Neapel POS B-LOC
 und POS O
 Parma, POS O
@@ -668,7 +668,7 @@ in POS O
 Anerkennung POS O
 seiner POS O
 bisherigen POS O
-Tätüg- POS O
+Tätig- POS O
 keit POS O
 im POS O
 Interesse POS O
@@ -683,7 +683,7 @@ zuteil. POS O
 Der POS O
 Kommissär POS O
 des POS O
-Wohitäti«gkeits- POS B-ORG
+Wohitätigkeits- POS B-ORG
 Werkes, POS I-ORG
 Scripilitti, POS B-PER
 -verlas POS O
@@ -718,7 +718,7 @@ Fettes POS O
 «und POS O
 der POS O
 Eier POS O
-beschltoß POS O
+beschloß POS O
 der POS O
 Werwaltungsrat POS O
 nach POS O
@@ -1132,12 +1132,12 @@ dis POS O
 Kas POS O
 sette POS O
 zur POS O
-Nifbewahrung POS O
+Aufbewahrung POS O
 anvertraut POS O
 hatte, POS O
 -ver POS O
 ließ, POS O
-fiir POS O
+für POS O
 einen POS O
 Tag POS O
 ihre POS O
@@ -1311,7 +1311,7 @@ von POS O
 Trento POS B-LOC
 her POS O
 in POS O
-Botzano POS B-LOC
+Bolzano POS B-LOC
 anlangt, POS O
 berichtete POS O
 dem POS O
@@ -2138,7 +2138,7 @@ für POS O
 die POS O
 Deutschen POS O
 in POS O
-Oberfchlefien POS O
+Oberschlesien POS O B-LOC
 oder POS O
 dio POS O
 Ukrainer POS O
@@ -2578,7 +2578,7 @@ trag POS O
 über POS O
 die POS O
 neue POS O
-Türkei POS O
+Türkei POS B-LOC
 und POS O
 ihr POS O
 Bil POS O
@@ -2951,7 +2951,7 @@ fr POS O
 anzösische POS O
 Komödie POS O
 I POS O
-Franzöfisch POS O
+Französisch POS O
 wird POS O
 auch POS O
 mehr POS O
@@ -3222,7 +3222,7 @@ vom POS O
 Tode POS O
 Franzi, POS B-PER
 von POS O
-Innsbruck POS O
+Innsbruck POS B-LOC
 nach POS O
 Wien POS B-LOC
 dringt! POS O
@@ -36297,12 +36297,12 @@ daß POS O
 Wien POS B-LOC
 zur POS O
 Bedeutung POS O
-Innsbrucks POS O
+Innsbrucks POS B-LOC
 und POS O
-Innsbruck POS O
+Innsbruck POS B-LOC
 zur POS O
 Bedeutung POS O
-Saalfeldens POS O
+Saalfeldens POS B-LOC
 herabsänke. POS O
 Die POS O
 Idee POS O
@@ -36314,7 +36314,7 @@ hohengollernsches POS O
 Deutschland POS B-LOC
 begegnet POS O
 in POS O
-Oesterreich POS O
+Oesterreich POS B-LOC
 leidenschaftlicher, POS O
 allgemeiner POS O
 Ab POS O
@@ -62766,7 +62766,7 @@ man POS O
 sich POS O
 im POS O
 österreichischen POS B-ORG
-Natdonalrat POS I-ORG
+Nationalrat POS I-ORG
 mit POS O
 an- POS O
 Vieren POS O
@@ -63171,7 +63171,7 @@ durch POS O
 sie POS O
 die POS O
 kommunistische POS B-ORG
-Dartei POS I-ORG
+Partei POS I-ORG
 die POS O
 Armee POS O
 . POS O
