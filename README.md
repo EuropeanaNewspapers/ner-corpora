@@ -27,10 +27,10 @@ America I-LOC
 
 The BIO files in this repository are based on OCRed and manually annotated texts from the following libraries:
 
-* [enp_at.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_at.bio) - BIO file from newspapers of the [Austrian National Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01252)
-* [enp_de.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_de.bio) - BIO file from newspapers of the [Dr Friedrich Teßmann Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P02013)
-* [enp_fr.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_fr.bio) - BIO file from newspapers of the [National Library of France](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01190)
-* [enp_nl.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_nl.bio) - BIO file from newspapers of the [National Library of the Netherlands](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01350)
+* [enp_at.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_at.bio) - newspapers from the [Austrian National Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01252)
+* [enp_de.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_de.bio) - newspapers from the [Dr Friedrich Teßmann Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P02013)
+* [enp_fr.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_fr.bio) - newspapers from the [National Library of France](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01190)
+* [enp_nl.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_nl.bio) - newspapers from the [National Library of the Netherlands](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01350)
 
 For the full data set including the [ALTO](http://www.loc.gov/standards/alto/) OCR files and the binary classifiers derived, please go [here](http://lab.kbresearch.nl/static/html/eunews.html).
 
