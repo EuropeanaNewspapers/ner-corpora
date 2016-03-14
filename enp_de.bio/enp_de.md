@@ -4,6 +4,6 @@ http://digital.tessmann.it/tessmannDigital/Zeitungsarchiv/Seite/Zeitung/26/1/02.
 * [**L000440 - L000642**]    
 Alpenzeitung, 02-03-1926, AZ_1926_03_02_02_object_2645635  
 http://digital.tessmann.it/tessmannDigital/Zeitungsarchiv/Seite/Zeitung/26/1/02.03.1926/106676/2
-* [**L000440 - L000864**]    
+* [**L000440 - L001056**]    
 Alpenzeitung, 02-03-1926, AZ_1926_03_02_03_object_2645635  
 http://digital.tessmann.it/tessmannDigital/Zeitungsarchiv/Seite/Zeitung/26/1/02.03.1926/106676/3 
