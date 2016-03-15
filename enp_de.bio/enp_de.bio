@@ -1051,11 +1051,11 @@ den POS O
 verstorbenen POS O
 Johann POS B-PER
 Egger. POS I-PER
-
-Schwurgerichts-Verhandlungen
-in
-Bolzano
-
+Schwurgerichts-Verhandlungen POS O
+in POS O
+Bolzano POS O
+- 10. POS O
+März. POS O
 Gamberini POS B-PER
 Gallisto, POS I-PER
 nach POS O
