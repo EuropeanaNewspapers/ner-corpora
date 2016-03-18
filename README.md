@@ -36,7 +36,12 @@ For the full data set including the [ALTO](http://www.loc.gov/standards/alto/) O
 
 ### License 
 
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/)  
+This means you are free to use this data without any restrictions - even in commercial applications. We're thankful if you give proper attribution though:  
+
+*Europeana Newspapers NER corpora*  
+*Europeana Newspapers Project, 2012-2015.*    
+*https://github.com/EuropeanaNewspapers/ner-corpora/.*
 
 ### Known issues
 
