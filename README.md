@@ -4,7 +4,7 @@ Named Entity Recognition corpora for Dutch, French, German from [Europeana Newsp
 
 ### Introduction
 
-The corpora consist of files divided by language, encoded in the BIO format ([Ramshaw & Marcus, 1995](http://www.aclweb.org/anthology/W/W95/W95-0107.pdf)). The BIO format is a simple, text-based format that divides texts into single tokens per line, and, separated by a whitespace, tags to indicate which ones are named entities. The most commonly used tags are *PER* (person), *LOC* (location) and *ORG* (organization). To indicate named entities that span multiple tokens, the tags have a prefix of either *B-* (begining of named entity) or *I-* (continuation of named entity). Typically, BIO files also contain *O* or *POS O* tags (which are from part-of-speech tagging), indicating that the token is not a named entity.
+The corpora consist of files divided by language, encoded in the BIO format ([Ramshaw & Marcus, 1995](http://www.aclweb.org/anthology/W/W95/W95-0107.pdf)). The BIO format is a simple, text-based format that divides texts into single tokens per line, and, separated by a whitespace, tags to indicate which ones are named entities. The most commonly used tags are *PER* (person), *LOC* (location) and *ORG* (organization). To indicate named entities that span multiple tokens, the tags have a prefix of either *B-* (begining of named entity) or *I-* (continuation of named entity). BIO files may also contain *O* tags, indicating that the token is not a named entity, or *POS* tags, which can be derived by part-of-speech tagging.
 
 Example:
 ```
@@ -48,4 +48,4 @@ We're thankful if you give proper attribution though:
 
 Due to the way the above corpora were initially constructed, some additional cleanup is required to really leverage the full potential of the data for demanding tasks such as evaluation, where high accuracy data is needed. At the moment, the files are not only full of OCR errors, but even worse, to optimise the classifiers, sentences (and in some cases, parts of sentences) containing a lot of noise have been filtered (i.e. cut). This makes it quite difficult to map the derived texts to the original source articles, and probably has some even worse effects (e.g. Stanford NER evaluates sentence position as a feature). 
 
-*Instructions on how to help cleanup the data will be posted [here](https://github.com/EuropeanaNewspapers/ner-corpora/wiki/Corpus-cleanup) soon!*
+*Instructions how to help cleanup the data can be found [here](https://github.com/EuropeanaNewspapers/ner-corpora/wiki/Corpus-cleanup) .*
