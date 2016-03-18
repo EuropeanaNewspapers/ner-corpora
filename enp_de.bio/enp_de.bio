@@ -39,7 +39,8 @@ zwei POS O
 Völker, POS O
 welche POS O
 Europa POS B-LOC
-und der POS O
+und POS O
+der POS O
 Welt POS O
 noch POS O
 viel POS O
@@ -54,8 +55,7 @@ hier POS O
 der POS O
 Kongreß POS O
 aller POS O
-Gene POS O
-ralagenten POS O
+Generalagenten POS O
 des POS O
 Istituto POS B-ORG
 Nazionale POS I-ORG
@@ -83,12 +83,11 @@ Trotzky POS I-PER
 zum POS O
 Präsidenten POS O
 der POS O
-technisch-wirtschaft POS O
-lichen POS O
+technisch-wirtschaftlichen POS O
 Abteilung POS O
 des POS O
-volkswirtschaftlichen POS O
-Rates POS O
+volkswirtschaftlichen POS B-ORG
+Rates POS I-ORG
 ernannt POS O
 wurde. POS O
 Der POS O
@@ -132,8 +131,7 @@ hier, POS O
 die POS O
 Deutschen POS O
 sollten POS O
-ver POS O
-stehen, POS O
+verstehen, POS O
 daß POS O
 es POS O
 nicht POS O
@@ -149,8 +147,7 @@ diesseits POS O
 des POS O
 natürlichen POS O
 Schuhwalles POS O
-Ita POS B-LOC
-liens POS I-LOC
+Italiens POS B-LOC
 auf POS O
 italienischer POS O
 Raumfläche POS O
@@ -479,8 +476,8 @@ daß POS O
 Italien POS B-LOC
 und POS O
 die POS O
-Kleine POS O
-Entente POS O
+Kleine POS B-ORG
+Entente POS I-ORG
 sich POS O
 enger POS O
 zusammenschließen POS O
@@ -637,8 +634,8 @@ Tätigkeit POS O
 im POS O
 Interesse POS O
 der POS O
-Leipziger POS O
-Messe POS O
+Leipziger POS B-ORG
+Messe POS I-ORG
 eine POS O
 besondere POS O
 Ehrung POS O
