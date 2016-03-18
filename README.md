@@ -42,4 +42,4 @@ For the full data set including the [ALTO](http://www.loc.gov/standards/alto/) O
 
 Due to the way the above corpora were initially constructed, some additional cleanup is required to really leverage the full potential of the data for demanding tasks such as evaluation, where high accuracy data is needed. At the moment, the files are not only full of OCR errors, but even worse, to optimise the classifiers, sentences (and in some cases, parts of sentences) containing a lot of noise have been filtered (i.e. cut). This makes it quite difficult to map the derived texts to the original source articles, and probably has some even worse effects (e.g. Stanford NER evaluates sentence position as a feature). 
 
-*Instructions on how to help cleanup the data will be posted here soon!*
+*Instructions on how to help cleanup the data will be posted [here](https://github.com/EuropeanaNewspapers/ner-corpora/wiki/Corpus-cleanup) soon!*
