@@ -36,8 +36,10 @@ For the full data set including the [ALTO](http://www.loc.gov/standards/alto/) O
 
 ### License 
 
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/)  
-This means you are free to use this data without any restrictions - even in commercial applications.   
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+This means you are free to use this data without any restrictions - even in commercial applications. 
+
 We're thankful if you give proper attribution though:  
 
 *Europeana Newspapers NER corpora*  
@@ -48,4 +50,4 @@ We're thankful if you give proper attribution though:
 
 Due to the way the above corpora were initially constructed, some additional cleanup is required to really leverage the full potential of the data for demanding tasks such as evaluation, where high accuracy data is needed. At the moment, the files are not only full of OCR errors, but even worse, to optimise the classifiers, sentences (and in some cases, parts of sentences) containing a lot of noise have been filtered (i.e. cut). This makes it quite difficult to map the derived texts to the original source articles, and probably has some even worse effects (e.g. Stanford NER evaluates sentence position as a feature). 
 
-*Instructions how to help clean up the data can be found [here](https://github.com/EuropeanaNewspapers/ner-corpora/wiki/Corpus-cleanup).*
+Instructions how to help clean up the data can be found [here](https://github.com/EuropeanaNewspapers/ner-corpora/wiki/Corpus-cleanup).
