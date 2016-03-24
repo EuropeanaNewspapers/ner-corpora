@@ -247,150 +247,150 @@ Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en a
 http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100592707?page=10  
 http://resolver.kb.nl/resolve?urn=ddd:000018165:mpeg21:p010  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 04-11-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593885?page=3, DDD_000023647_003  
+Weekblad van Tilburg, 04-11-1865, DDD_000023647_003  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593885?page=3  
 http://resolver.kb.nl/resolve?urn=ddd:000023647:mpeg21:p003  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 18-11-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593834?page=1, DDD_000023649_001 
+Weekblad van Tilburg, 18-11-1865, DDD_000023649_001  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593834?page=1  
 http://resolver.kb.nl/resolve?urn=ddd:000023649:mpeg21:p001  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 18-11-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593834?page=2, DDD_000023649_002  
+Weekblad van Tilburg, 18-11-1865, DDD_000023649_002  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593834?page=2  
 http://resolver.kb.nl/resolve?urn=ddd:000023649:mpeg21:p002  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 18-11-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593834?page=3, DDD_000023649_003  
+Weekblad van Tilburg, 18-11-1865, DDD_000023649_003  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593834?page=3  
 http://resolver.kb.nl/resolve?urn=ddd:000023649:mpeg21:p003  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 18-11-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593834?page=4, DDD_000023649_004  
+Weekblad van Tilburg, 18-11-1865, DDD_000023649_004  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593834?page=4  
 http://resolver.kb.nl/resolve?urn=ddd:000023649:mpeg21:p004  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 25-11-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593903?page=1, DDD_000023650_001  
+Weekblad van Tilburg, 25-11-1865, DDD_000023650_001  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593903?page=1  
 http://resolver.kb.nl/resolve?urn=ddd:000023650:mpeg21:p001  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 25-11-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593903?page=2, DDD_000023650_002  
+Weekblad van Tilburg, 25-11-1865, DDD_000023650_002  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593903?page=2  
 http://resolver.kb.nl/resolve?urn=ddd:000023650:mpeg21:p002  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 25-11-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593903?page=3, DDD_000023650_003  
+Weekblad van Tilburg, 25-11-1865, DDD_000023650_003  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593903?page=3  
 http://resolver.kb.nl/resolve?urn=ddd:000023650:mpeg21:p003  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 25-11-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593903?page=4, DDD_000023650_004  
+Weekblad van Tilburg, 25-11-1865, DDD_000023650_004  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593903?page=4  
 http://resolver.kb.nl/resolve?urn=ddd:000023650:mpeg21:p004  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 02-12-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593894?page=1, DDD_000023651_001  
+Weekblad van Tilburg, 02-12-1865, DDD_000023651_001  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593894?page=1  
 http://resolver.kb.nl/resolve?urn=ddd:000023651:mpeg21:p001  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 02-12-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593894?page=3, DDD_000023651_003  
+Weekblad van Tilburg, 02-12-1865, DDD_000023651_003  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593894?page=3  
 http://resolver.kb.nl/resolve?urn=ddd:000023651:mpeg21:p003  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 09-12-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593880?page=1, DDD_000023652_001  
+Weekblad van Tilburg, 09-12-1865, DDD_000023652_001  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593880?page=1  
 http://resolver.kb.nl/resolve?urn=ddd:000023652:mpeg21:p001  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 16-12-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593911?page=1, DDD_000023653_001  
+Weekblad van Tilburg, 16-12-1865, DDD_000023653_001  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593911?page=1  
 http://resolver.kb.nl/resolve?urn=ddd:000023653:mpeg21:p001  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 16-12-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593911?page=2, DDD_000023653_002  
+Weekblad van Tilburg, 16-12-1865, DDD_000023653_002  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593911?page=2  
 http://resolver.kb.nl/resolve?urn=ddd:000023653:mpeg21:p002  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 16-12-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593911?page=3, DDD_000023653_003  
+Weekblad van Tilburg, 16-12-1865, DDD_000023653_003  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593911?page=3  
 http://resolver.kb.nl/resolve?urn=ddd:000023653:mpeg21:p003  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 16-12-1865  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593911?page=4, DDD_000023653_004  
+Weekblad van Tilburg, 16-12-1865, DDD_000023653_004  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593911?page=4  
 http://resolver.kb.nl/resolve?urn=ddd:000023653:mpeg21:p004  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 20-01-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593893?page=3, DDD_000023658_003  
+Weekblad van Tilburg, 20-01-1866, DDD_000023658_003  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593893?page=3  
 http://resolver.kb.nl/resolve?urn=ddd:000023658:mpeg21:p003  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 27-01-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593898?page=1, DDD_000023659_001  
+Weekblad van Tilburg, 27-01-1866, DDD_000023659_001  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593898?page=1  
 http://resolver.kb.nl/resolve?urn=ddd:000023659:mpeg21:p001  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 27-01-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593898?page=2, DDD_000023659_002  
+Weekblad van Tilburg, 27-01-1866, DDD_000023659_002  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593898?page=2  
 http://resolver.kb.nl/resolve?urn=ddd:000023659:mpeg21:p002  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 27-01-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593898?page=3, DDD_000023659_003  
+Weekblad van Tilburg, 27-01-1866, DDD_000023659_003  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593898?page=3  
 http://resolver.kb.nl/resolve?urn=ddd:000023659:mpeg21:p003  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 27-01-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593898?page=4, DDD_000023659_004  
+Weekblad van Tilburg, 27-01-1866, DDD_000023659_004  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593898?page=4  
 http://resolver.kb.nl/resolve?urn=ddd:000023659:mpeg21:p004  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 10-02-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593902?page=1, DDD_000023661_001  
+Weekblad van Tilburg, 10-02-1866, DDD_000023661_001  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593902?page=1  
 http://resolver.kb.nl/resolve?urn=ddd:000023661:mpeg21:p001  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 10-02-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593902?page=2, DDD_000023661_002  
+Weekblad van Tilburg, 10-02-1866, DDD_000023661_002  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593902?page=2  
 http://resolver.kb.nl/resolve?urn=ddd:000023661:mpeg21:p002  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 10-02-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593902?page=3, DDD_000023661_003  
+Weekblad van Tilburg, 10-02-1866, DDD_000023661_003  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593902?page=3  
 http://resolver.kb.nl/resolve?urn=ddd:000023661:mpeg21:p003  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 10-02-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593902?page=4, DDD_000023661_004  
+Weekblad van Tilburg, 10-02-1866, DDD_000023661_004  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593902?page=4  
 http://resolver.kb.nl/resolve?urn=ddd:000023661:mpeg21:p004  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 17-02-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593914?page=1, DDD_000023662_001  
+Weekblad van Tilburg, 17-02-1866, DDD_000023662_001  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593914?page=1  
 http://resolver.kb.nl/resolve?urn=ddd:000023662:mpeg21:p001  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 17-02-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593914?page=2, DDD_000023662_002  
+Weekblad van Tilburg, 17-02-1866, DDD_000023662_002  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593914?page=2  
 http://resolver.kb.nl/resolve?urn=ddd:000023662:mpeg21:p002  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 17-02-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593914?page=3, DDD_000023662_003  
+Weekblad van Tilburg, 17-02-1866, DDD_000023662_003  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593914?page=3  
 http://resolver.kb.nl/resolve?urn=ddd:000023662:mpeg21:p003  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 17-02-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593914?page=4, DDD_000023662_004  
+Weekblad van Tilburg, 17-02-1866, DDD_000023662_004  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593914?page=4  
 http://resolver.kb.nl/resolve?urn=ddd:000023662:mpeg21:p004  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 03-03-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593901?page=3, DDD_000023664_003  
+Weekblad van Tilburg, 03-03-1866, DDD_000023664_003  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593901?page=3  
 http://resolver.kb.nl/resolve?urn=ddd:000023664:mpeg21:p003  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 17-03-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593916?page=1, DDD_000023666_001  
+Weekblad van Tilburg, 17-03-1866, DDD_000023666_001  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593916?page=1  
 http://resolver.kb.nl/resolve?urn=ddd:000023666:mpeg21:p001  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 17-03-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593916?page=2, DDD_000023666_002  
+Weekblad van Tilburg, 17-03-1866, DDD_000023666_002  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593916?page=2  
 http://resolver.kb.nl/resolve?urn=ddd:000023666:mpeg21:p002  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 17-03-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593916?page=3, DDD_000023666_003  
+Weekblad van Tilburg, 17-03-1866, DDD_000023666_003  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593916?page=3  
 http://resolver.kb.nl/resolve?urn=ddd:000023666:mpeg21:p003  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 17-03-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593916?page=4, DDD_000023666_004  
+Weekblad van Tilburg, 17-03-1866, DDD_000023666_004  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593916?page=4  
 http://resolver.kb.nl/resolve?urn=ddd:000023666:mpeg21:p004  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 24-03-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593873?page=1, DDD_000023667_001  
+Weekblad van Tilburg, 24-03-1866, DDD_000023667_001  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593873?page=1  
 http://resolver.kb.nl/resolve?urn=ddd:000023667:mpeg21:p001  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 24-03-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593873?page=2, DDD_000023667_002  
+Weekblad van Tilburg, 24-03-1866, DDD_000023667_002  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593873?page=2  
 http://resolver.kb.nl/resolve?urn=ddd:000023667:mpeg21:p002  
 * [**L000??? - L000???**]  
-Weekblad van Tilburg, 24-03-1866  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593873?page=3, DDD_000023667_003  
+Weekblad van Tilburg, 24-03-1866, DDD_000023667_003  
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000100593873?page=3  
 http://resolver.kb.nl/resolve?urn=ddd:000023667:mpeg21:p003  
