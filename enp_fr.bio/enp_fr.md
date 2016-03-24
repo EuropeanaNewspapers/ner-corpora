@@ -1,15 +1,61 @@
-* [**L000??? - L000???**]  
+* [**L000001 - L007184**]  
 L'Ouest-Éclair, 23-04-1906, 641047
 http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
-http://gallica.bnf.fr/ark:/12148/bpt6k641047g/  
-* [**L000??? - L000???**]  
+http://gallica.bnf.fr/ark:/12148/bpt6k641047g/f1.item  
+* [**L007185 - L014575**]  
+L'Ouest-Éclair, 23-04-1906, 641047
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
+http://gallica.bnf.fr/ark:/12148/bpt6k641047g/f2.item  
+* [**L014582 - L021463**]  
+L'Ouest-Éclair, 23-04-1906, 641047
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
+http://gallica.bnf.fr/ark:/12148/bpt6k641047g/f3.item  
+* [**L021470 - L026600**]  
+L'Ouest-Éclair, 23-04-1906, 641047
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
+http://gallica.bnf.fr/ark:/12148/bpt6k641047g/f4.item  
+* [**L026607 - L032374**]  
 L'Ouest-Éclair, 25-07-1906, 641140
 http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
-http://gallica.bnf.fr/ark:/12148/bpt6k6411404/  
-* [**L000??? - L000???**]  
+http://gallica.bnf.fr/ark:/12148/bpt6k6411404/f1.item  
+* [**L032381 - L038569**]  
+L'Ouest-Éclair, 25-07-1906, 641140
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
+http://gallica.bnf.fr/ark:/12148/bpt6k6411404/f2.item  
+* [**L038576 - L046183**]  
+L'Ouest-Éclair, 25-07-1906, 641140
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
+http://gallica.bnf.fr/ark:/12148/bpt6k6411404/f3.item  
+* [**L046190 - L053903**]  
+L'Ouest-Éclair, 25-07-1906, 641140
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
+http://gallica.bnf.fr/ark:/12148/bpt6k6411404/f4.item  
+* [**L053910 - L061980**]  
+L'Ouest-Éclair, 25-07-1906, 641140
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
+http://gallica.bnf.fr/ark:/12148/bpt6k6411404/f5.item  
+* [**L061987 - L064844**]  
+L'Ouest-Éclair, 25-07-1906, 641140
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
+http://gallica.bnf.fr/ark:/12148/bpt6k6411404/f6.item  
+* [**L064850 - L070688**]  
 L'Ouest-Éclair, 27-07-1906, 641142
 http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
-http://gallica.bnf.fr/ark:/12148/bpt6k641142w/  
+http://gallica.bnf.fr/ark:/12148/bpt6k641142w/f1.item  
+* [**L070695 - L076728**]  
+L'Ouest-Éclair, 27-07-1906, 641142
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
+http://gallica.bnf.fr/ark:/12148/bpt6k641142w/f2.item  
+* [**L076734 - L083564**]  
+L'Ouest-Éclair, 27-07-1906, 641142
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
+http://gallica.bnf.fr/ark:/12148/bpt6k641142w/f3.item  
+* [**L083571 - L000???**]  
+L'Ouest-Éclair, 27-07-1906, 641142
+http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
+http://gallica.bnf.fr/ark:/12148/bpt6k641142w/f4.item  
+
+
 * [**L000??? - L000???**]  
 L'Ouest-Éclair, 26-07-1920, 646252
 http://www.theeuropeanlibrary.org/tel4/newspapers/issue/  
