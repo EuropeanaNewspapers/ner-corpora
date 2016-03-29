@@ -175,19 +175,19 @@ http://gallica.bnf.fr/ark:/12148/bpt6k661644p/f16.item
 * [**L000??? - L000???**]  
 Le Siècle, 20-10-1916, 7502656  
 http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000113949257?page=1  
-http://gallica.bnf.fr/ark:/12148/bpt6k7502656/f1.item  
+http://gallica.bnf.fr/ark:/12148/bpt6k7502656p/f1.item  
 * [**L000??? - L000???**]  
 Le Siècle, 20-10-1916, 7502656  
 http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000113949257?page=2  
-http://gallica.bnf.fr/ark:/12148/bpt6k7502656/f2.item  
+http://gallica.bnf.fr/ark:/12148/bpt6k7502656p/f2.item  
 * [**L000??? - L000???**]  
 Le Siècle, 20-10-1916, 7502656  
 http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000113949257?page=3  
-http://gallica.bnf.fr/ark:/12148/bpt6k7502656/f3.item  
+http://gallica.bnf.fr/ark:/12148/bpt6k7502656p/f3.item  
 * [**L000??? - L000???**]  
 Le Siècle, 20-10-1916, 7502656  
 http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000113949257?page=4  
-http://gallica.bnf.fr/ark:/12148/bpt6k7502656/f4.item  
+http://gallica.bnf.fr/ark:/12148/bpt6k7502656p/f4.item  
 * [**L000??? - L000???**]  
 Le Rappel, 23-10-1870, 7533168  
 http://gallica.bnf.fr/ark:/12148/bpt6k75331689/f1.item  
@@ -225,62 +225,62 @@ http://gallica.bnf.fr/ark:/12148/bpt6k7536374n/f1.item
 Le Rappel, 04-05-1871, 7536374  
 http://gallica.bnf.fr/ark:/12148/bpt6k7536374n/f2.item  
 * [**L000??? - L000???**]  
-???, ???, 7500610  
-http://gallica.bnf.fr/ark:/12148/bpt6k7500610/f1.item  
+La Lanterne, 08-08-1886, 7500610  
+http://gallica.bnf.fr/ark:/12148/bpt6k75006102/f1.item  
 * [**L000??? - L000???**]  
-???, ???, 7500610  
-http://gallica.bnf.fr/ark:/12148/bpt6k7500610/f2.item  
+La Lanterne, 08-08-1886, 7500610  
+http://gallica.bnf.fr/ark:/12148/bpt6k75006102/f2.item  
 * [**L000??? - L000???**]  
-???, ???, 7500610  
-http://gallica.bnf.fr/ark:/12148/bpt6k7500610/f3.item  
+La Lanterne, 08-08-1886, 7500610  
+http://gallica.bnf.fr/ark:/12148/bpt6k75006102/f3.item  
 * [**L000??? - L000???**]  
-???, ???, 7500610  
-http://gallica.bnf.fr/ark:/12148/bpt6k7500610/f4.item  
+La Lanterne, 08-08-1886, 7500610  
+http://gallica.bnf.fr/ark:/12148/bpt6k75006102/f4.item  
 * [**L000??? - L000???**]  
-???, ???, 7505455  
-http://gallica.bnf.fr/ark:/12148/bpt6k7505455/f1.item  
+La Lanterne, 01-04-1890, 7505455  
+http://gallica.bnf.fr/ark:/12148/bpt6k7505455h/f1.item  
 * [**L000??? - L000???**]  
-???, ???, 7505455  
-http://gallica.bnf.fr/ark:/12148/bpt6k7505455/f2.item  
+La Lanterne, 01-04-1890, 7505455  
+http://gallica.bnf.fr/ark:/12148/bpt6k7505455h/f2.item  
 * [**L000??? - L000???**]  
-???, ???, 7505455  
-http://gallica.bnf.fr/ark:/12148/bpt6k7505455/f3.item  
+La Lanterne, 01-04-1890, 7505455  
+http://gallica.bnf.fr/ark:/12148/bpt6k7505455h/f3.item  
 * [**L000??? - L000???**]  
-???, ???, 7505455  
-http://gallica.bnf.fr/ark:/12148/bpt6k7505455/f4.item  
+La Lanterne, 01-04-1890, 7505455  
+http://gallica.bnf.fr/ark:/12148/bpt6k7505455h/f4.item  
 * [**L000??? - L000???**]  
-???, ???, 7528285  
-http://gallica.bnf.fr/ark:/12148/bpt6k7528285/f1.item  
+La Lanterne, 28-01-1894, 7528285  
+http://gallica.bnf.fr/ark:/12148/bpt6k7528285f/f1.item  
 * [**L000??? - L000???**]  
-???, ???, 7528285  
-http://gallica.bnf.fr/ark:/12148/bpt6k7528285/f2.item  
+La Lanterne, 28-01-1894, 7528285  
+http://gallica.bnf.fr/ark:/12148/bpt6k7528285f/f2.item  
 * [**L000??? - L000???**]  
-???, ???, 7528285  
-http://gallica.bnf.fr/ark:/12148/bpt6k7528285/f3.item  
+La Lanterne, 28-01-1894, 7528285  
+http://gallica.bnf.fr/ark:/12148/bpt6k7528285f/f3.item  
 * [**L000??? - L000???**]  
-???, ???, 7528285  
-http://gallica.bnf.fr/ark:/12148/bpt6k7528285/f4.item  
+La Lanterne, 28-01-1894, 7528285  
+http://gallica.bnf.fr/ark:/12148/bpt6k7528285f/f4.item  
 * [**L000??? - L000???**]  
-???, ???, 7529273  
-http://gallica.bnf.fr/ark:/12148/bpt6k7529273/f1.item  
+La Lanterne, 14-04-1891, 7529273  
+http://gallica.bnf.fr/ark:/12148/bpt6k7529273j/f1.item  
 * [**L000??? - L000???**]  
-???, ???, 7529273  
-http://gallica.bnf.fr/ark:/12148/bpt6k7529273/f2.item  
+La Lanterne, 14-04-1891, 7529273  
+http://gallica.bnf.fr/ark:/12148/bpt6k7529273j/f2.item  
 * [**L000??? - L000???**]  
-???, ???, 7529273  
-http://gallica.bnf.fr/ark:/12148/bpt6k7529273/f3.item  
+La Lanterne, 14-04-1891, 7529273  
+http://gallica.bnf.fr/ark:/12148/bpt6k7529273j/f3.item  
 * [**L000??? - L000???**]  
-???, ???, 7529273  
-http://gallica.bnf.fr/ark:/12148/bpt6k7529273/f4.item  
+La Lanterne, 14-04-1891, 7529273  
+http://gallica.bnf.fr/ark:/12148/bpt6k7529273j/f4.item  
 * [**L000??? - L000???**]  
-???, ???, 7532414  
-http://gallica.bnf.fr/ark:/12148/bpt6k7532414/f1.item  
+Le Rappel, 02-09-1873, 7532414  
+http://gallica.bnf.fr/ark:/12148/bpt6k7532414g/f1.item  
 * [**L000??? - L000???**]  
-???, ???, 7532414  
-http://gallica.bnf.fr/ark:/12148/bpt6k7532414/f2.item  
+Le Rappel, 02-09-1873, 7532414  
+http://gallica.bnf.fr/ark:/12148/bpt6k7532414g/f2.item  
 * [**L000??? - L000???**]  
-???, ???, 7532414  
-http://gallica.bnf.fr/ark:/12148/bpt6k7532414/f3.item  
+Le Rappel, 02-09-1873, 7532414  
+http://gallica.bnf.fr/ark:/12148/bpt6k7532414g/f3.item  
 * [**L000??? - L000???**]  
-???, ???, 7532414  
-http://gallica.bnf.fr/ark:/12148/bpt6k7532414/f4.item  
+Le Rappel, 02-09-1873, 7532414  
+http://gallica.bnf.fr/ark:/12148/bpt6k7532414g/f4.item  
