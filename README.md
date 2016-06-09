@@ -40,8 +40,8 @@ For the full data set including the [ALTO](http://www.loc.gov/standards/alto/) O
 
 You are free to use this data without restrictions. We're thankful if you give attribution to:  
 
-*Europeana Newspapers NER corpora* 
-*https://github.com/EuropeanaNewspapers/ner-corpora/.*
+*Europeana Newspapers NER corpora*   
+*https://github.com/EuropeanaNewspapers/ner-corpora/.*  
 *Europeana Newspapers Project, 2012-2015.*    
 *http://www.europeana-newspapers.eu/.*
 
