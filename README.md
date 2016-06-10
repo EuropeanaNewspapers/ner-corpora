@@ -4,7 +4,7 @@ Named Entity Recognition corpora for Dutch, French, German from [Europeana Newsp
 
 ### Introduction
 
-The corpora consist of files divided by language, encoded in the BIO format ([Ramshaw & Marcus, 1995](http://www.aclweb.org/anthology/W/W95/W95-0107.pdf)). The BIO format is a simple, text-based format that divides texts into single tokens per line, and, separated by a whitespace, tags to indicate which ones are named entities. The most commonly used tags are *PER* (person), *LOC* (location) and *ORG* (organization). To indicate named entities that span multiple tokens, the tags have a prefix of either *B-* (begining of named entity) or *I-* (continuation of named entity). *O* tags are used to indicate that the token is not a named entity.
+The corpora comprise files divided by language, encoded in the BIO format ([Ramshaw & Marcus, 1995](http://www.aclweb.org/anthology/W/W95/W95-0107.pdf)). The BIO format is a simple, text-based format that divides texts into single tokens per line, and, separated by a whitespace, tags to indicate which ones are named entities. The most commonly used tags are *PER* (person), *LOC* (location) and *ORG* (organization). To indicate named entities that span multiple tokens, the tags have a prefix of either *B-* (begining of named entity) or *I-* (continuation of named entity). *O* tags are used to indicate that the token is not a named entity.
 
 Example:
 ```
@@ -38,13 +38,12 @@ For the full data set including the [ALTO](http://www.loc.gov/standards/alto/) O
 
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This means you are free to use this data without any restrictions - even in commercial applications. 
+You are free to use this data without restrictions. We're thankful if you give attribution to:  
 
-We're thankful if you give proper attribution though:  
-
-*Europeana Newspapers NER corpora*  
+*Europeana Newspapers NER corpora*   
+*https://github.com/EuropeanaNewspapers/ner-corpora/.*  
 *Europeana Newspapers Project, 2012-2015.*    
-*https://github.com/EuropeanaNewspapers/ner-corpora/.*
+*http://www.europeana-newspapers.eu/.*
 
 ### References
 
@@ -53,6 +52,6 @@ Proceedings of the 10th edition of the Language Resources and Evaluation Confere
 
 ### Known issues
 
-Due to the way the above corpora were initially constructed, some additional cleanup is required to really leverage the full potential of the data for demanding tasks such as evaluation, where high accuracy data is needed. At the moment, the files are not only full of OCR errors, but even worse, to optimise the classifiers, sentences (and in some cases, parts of sentences) containing a lot of noise have been filtered (i.e. cut). This makes it quite difficult to map the derived texts to the original source articles, and probably has some even worse effects (e.g. Stanford NER evaluates sentence position as a feature). 
+The way the above corpora were produced, additional work is required to leverage the full potential of the annotated data for tasks such as evaluation, where gold standard quality is required. Currently, the data still contains many OCR errors, and, due to post-processing, parts of sentences containing a lot of noise have been filtered (i.e. cut). This also makes it difficult to map the annotated texts to the original newspaper articles, and may have negative effects on sentence position as a feature. 
 
 Instructions how to help clean up the data can be found [here](https://github.com/EuropeanaNewspapers/ner-corpora/wiki/Corpus-cleanup).
