@@ -29,6 +29,7 @@ The BIO files in this repository are based on OCRed and manually annotated texts
 
 * [enp_DE.onb.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_DE.onb.bio) - newspapers from the [Austrian National Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01252)
 * [enp_DE.lft.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_DE.lft.bio) - newspapers from the [Dr Friedrich Teßmann Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P02013)
+* [enp_DE.sbb.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_DE.sbb.bio) - newspapers from the [Berlin State Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01606)
 * [enp_FR.bnf.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_FR.bnf.bio) - newspapers from the [National Library of France](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01190)
 * [enp_NL.kb.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_NL.kb.bio) - newspapers from the [National Library of the Netherlands](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01350)
 
