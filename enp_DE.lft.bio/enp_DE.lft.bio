@@ -1226,7 +1226,7 @@ verehelichte O
 Garber O
 wegen O
 vorsätzlichen O
-Mordes O. O
+Mordes O
 Ing. O
 Traba B-PER
 Giuseppe I-PER
@@ -1577,8 +1577,8 @@ Nähe O
 des O
 Militärfriedhofes O
 in O
-S. O B-LOC
-Giacomo O I-LOC
+S. B-LOC
+Giacomo I-LOC
 auf O
 dem O
 Bahndamm O
@@ -2627,7 +2627,7 @@ für O
 die O
 Deutschen O
 in O
-Oberschlesien O B-LOC
+Oberschlesien B-LOC
 oder O
 dio O
 Ukrainer O
