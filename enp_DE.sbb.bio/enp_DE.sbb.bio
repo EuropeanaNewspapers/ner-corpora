@@ -2066,88 +2066,88 @@ dcr O
 Pforte O
 verlangt O
 . O
-Nachdem 
-zwei 
-auf 
-den 
-Gegenstand 
-bezügliche 
-Noten 
-Sr
-. 
-Excellenz 
-unbeantwortet 
-geblieben
-, 
-hat 
-cr 
-am 
-letzten 
-Montag 
-sein 
-Gesuch 
-erneuert
-; 
-da 
-abermals 
-kcinc 
-Antwort 
-erfolgte
-, 
-ließ 
-cr 
-dcr 
-türkischen 
-Regierung 
-eine 
-Mittheilung 
-zugehe»
-, 
-indem 
-er 
-ihr 
-drei 
-Tage 
-Zeit 
-ließ
-, 
-nachstehende 
-Forderungen 
-zu 
-bewilligen
-, 
-nämlich
-: 
-die 
-Zurückgabe 
-der 
-Papiere 
-Koller?
-, 
-die 
-Freilassung 
-Ahmed 
-TewfikS
-, 
-des 
-nittselmännischcu 
-Priesters
-, 
-welcher 
-angeblich 
-znin 
-Tode 
-vernrtheilt 
-worden 
-war
-, 
-weil 
-er 
-bei 
-der 
-Uebc>sctznng 
-dcr 
-Bibcl 
+Nachdem O
+zwei O 
+auf O 
+den O 
+Gegenstand O 
+bezügliche O 
+Noten O 
+Sr O
+. O 
+Excellenz O 
+unbeantwortet O 
+geblieben O
+, O 
+hat O 
+cr O 
+am O 
+letzten O 
+Montag O 
+sein O 
+Gesuch O 
+erneuert O
+; O 
+da O 
+abermals O 
+kcinc O 
+Antwort O 
+erfolgte O
+, O 
+ließ O 
+er O 
+der O 
+türkischen B-ORG 
+Regierung I-ORG 
+eine O 
+Mittheilung O 
+zugehe» O
+, O 
+indem O 
+er O 
+ihr O 
+drei O 
+Tage O 
+Zeit O 
+ließ O
+, O 
+nachstehende O 
+Forderungen O 
+zu O 
+bewilligen O
+, O 
+nämlich O
+: O 
+die O 
+Zurückgabe O 
+der O 
+Papiere O 
+Koller? O
+, O 
+die O 
+Freilassung O 
+Ahmed B-PER 
+TewfikS I-PER
+, O 
+des O 
+nittselmännischcu O 
+Priesters O
+, O 
+welcher O 
+angeblich O 
+zum O 
+Tode O 
+verurtheilt O 
+worden O 
+war O
+, O 
+weil O 
+er O 
+bei O 
+der O 
+Uebersetzung O 
+der O 
+Bibel O 
 in« 
 Türkische 
 betheiligt 
@@ -15025,7 +15025,7 @@ Pferdebahnen
 — 
 insonderheit 
 in 
-Berlin 
+Berlin B-LOC 
 — 
 sich 
 das 
@@ -15640,7 +15640,7 @@ GroßherzoaS
 von 
 Baden 
 von 
-Berlin 
+Berlin B-LOC 
 gebracht
 , 
 die 
@@ -15663,7 +15663,7 @@ der
 Großherzog 
 von 
 Baden 
-Berlin
+Berlin B-LOC
 , 
 und 
 gerne 
@@ -16813,7 +16813,7 @@ Schipmann
 Deutsche 
 Transport-Versicherungs-Gesellschaft 
 in 
-Berlin
+Berlin B-LOC
 ) 
 die 
 in 
@@ -19182,7 +19182,7 @@ La
 Plata-Liuien
 ; 
 „
-Berlin
+Berlin B-LOC
 “ 
 am 
 10
@@ -19249,7 +19249,7 @@ am
 Mai 
 1890 
 nach 
-Berlin 
+Berlin B-LOC 
 12956 
 Ctr
 . 
@@ -19282,7 +19282,7 @@ Fass
 Spiritus
 ; 
 nach 
-Potsdam 
+Potsdam B-LOC
 2200 
 Ctr
 . 
@@ -19297,7 +19297,7 @@ Dr
 . 
 Konewka
 , 
-Berlin
+Berlin B-LOC
 . 
 — 
 Rotationsdruck 
@@ -19331,7 +19331,7 @@ Metzoldt
 )
 “
 , 
-Berlin 
+Berlin B-LOC 
 W
 .
 , 
