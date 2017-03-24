@@ -2066,88 +2066,88 @@ dcr O
 Pforte O
 verlangt O
 . O
-Nachdem 
-zwei 
-auf 
-den 
-Gegenstand 
-bezügliche 
-Noten 
-Sr
-. 
-Excellenz 
-unbeantwortet 
-geblieben
-, 
-hat 
-cr 
-am 
-letzten 
-Montag 
-sein 
-Gesuch 
-erneuert
-; 
-da 
-abermals 
-kcinc 
-Antwort 
-erfolgte
-, 
-ließ 
-cr 
-dcr 
-türkischen 
-Regierung 
-eine 
-Mittheilung 
-zugehe»
-, 
-indem 
-er 
-ihr 
-drei 
-Tage 
-Zeit 
-ließ
-, 
-nachstehende 
-Forderungen 
-zu 
-bewilligen
-, 
-nämlich
-: 
-die 
-Zurückgabe 
-der 
-Papiere 
-Koller?
-, 
-die 
-Freilassung 
-Ahmed 
-TewfikS
-, 
-des 
-nittselmännischcu 
-Priesters
-, 
-welcher 
-angeblich 
-znin 
-Tode 
-vernrtheilt 
-worden 
-war
-, 
-weil 
-er 
-bei 
-der 
-Uebc>sctznng 
-dcr 
-Bibcl 
+Nachdem O
+zwei O 
+auf O 
+den O 
+Gegenstand O 
+bezügliche O 
+Noten O 
+Sr O
+. O 
+Excellenz O 
+unbeantwortet O 
+geblieben O
+, O 
+hat O 
+cr O 
+am O 
+letzten O 
+Montag O 
+sein O 
+Gesuch O 
+erneuert O
+; O 
+da O 
+abermals O 
+kcinc O 
+Antwort O 
+erfolgte O
+, O 
+ließ O 
+er O 
+der O 
+türkischen B-ORG 
+Regierung I-ORG 
+eine O 
+Mittheilung O 
+zugehe» O
+, O 
+indem O 
+er O 
+ihr O 
+drei O 
+Tage O 
+Zeit O 
+ließ O
+, O 
+nachstehende O 
+Forderungen O 
+zu O 
+bewilligen O
+, O 
+nämlich O
+: O 
+die O 
+Zurückgabe O 
+der O 
+Papiere O 
+Koller? O
+, O 
+die O 
+Freilassung O 
+Ahmed B-PER 
+TewfikS I-PER
+, O 
+des O 
+nittselmännischcu O 
+Priesters O
+, O 
+welcher O 
+angeblich O 
+zum O 
+Tode O 
+verurtheilt O 
+worden O 
+war O
+, O 
+weil O 
+er O 
+bei O 
+der O 
+Uebersetzung O 
+der O 
+Bibel O 
 in« 
 Türkische 
 betheiligt 
@@ -2541,7 +2541,7 @@ unterstützen
 . 
 Deutschland
 . 
-Berlin
+Berlin B-LOC
 , 
 31
 . 
@@ -3179,7 +3179,7 @@ Nachrichten
 wird 
 heute 
 in 
-Berlin 
+Berlin B-LOC 
 seitens 
 dcr 
 Bevollmächtigten 
@@ -4994,7 +4994,7 @@ Rudolph
 Lepkes 
 Kunstauktionshaus 
 in 
-Berlin 
+Berlin B-LOC 
 gekündigt 
 und 
 die 
@@ -6490,7 +6490,7 @@ Dr
 Erich 
 G u t m a ch e r 
 (
-Berlin
+Berlin B-LOC
 )
 . 
 — 
@@ -7567,7 +7567,7 @@ die Inserate
 Robert 
 »ranke
 .
-Berlin
+Berlin B-LOC
 . 
 Snut 
 und 
@@ -7905,7 +7905,7 @@ des
 Hotels 
 Kaiserhof 
 in 
-Berlin 
+Berlin B-LOC 
 abgeschickt 
 worden
 . 
@@ -10111,7 +10111,7 @@ seit
 zwei 
 Jahre» 
 in 
-Berlin 
+Berlin B-LOC 
 und 
 ist 
 an 
@@ -13238,7 +13238,7 @@ Morgen
 voraiic-nchiliches 
 Weiler 
 in 
-Berlin 
+Berlin B-LOC 
 und 
 Umgegend
 . 
@@ -13393,7 +13393,7 @@ Hapiirmida
 NW leicht 
 -4 
 bedeckt 
-Berlin 
+Berlin B-LOC 
 7« JO 
 W mäs:rg 
 Reger» 
@@ -13556,7 +13556,7 @@ Heppen
 heim 
 er 
 tn 
-Berlin
+Berlin B-LOC
 . 
 SiiKt 
 und 
@@ -13567,376 +13567,3634 @@ u
 bull 
 Mali«
 . 
-Berlin 
+Berlin B-LOC 
 SW
 . 
 <-- F_SBB_00009_18900404_038_080_1_003 -->
-fcli Sämmtliche Bureaus und Kassen der städtischen 
-tverwaltuua werde» om Sonnabeiid. des Osterfestes wegen, bereits 
-um I Uhr Mittags geschlossen, mit Ausnahme des Zentral-BüreanS, 
-welches bis 4 Uhr Nachmittags zur Entgegennahme von wichtigen 
-Sachen geöffnet bleibt. 
-+ Für das BundeSschiesten 1» Berlin hat der Kaiser airf 
-die Bitte deS Vorstandes einen Ehrenpreis, bestehend in einer nach 
-dem Entwürfe des Professors Doepler jun. angefertigten silbernen 
-Kanne mit Hirschgeweih und der Diana, verliehen. — Der große 
-gestzug ans Anlass des lv. dentschen Bnndesschießens wird sich 
-zu einer der großartigste» Kundgebungen gestalten, die Berlin je ge 
-sehen. 50 000 Mark sind für Veranstaltung des Zuges bewilligt, 
-und mit dem Festausschuss wird die Berliner Künstlerschaft zusammen 
-das ganze Arrangement leiten. 
-sät A«S Neiuertrag der am Dienstag Abend von Ernst 
-v. Wildenbruch veranstalteten zweiten Vorlesung seines vaterländr- 
-scheu Schauspiels .Der Generalfeldoberft' ist der Unter,tützmigska),« 
-des Vereins „Berliner Presse' di« Summe von 250 M. zugeflossen; 
-«ine gleiche Smnnie hat der „Bercin zur Begründung deutscher 
-Volksbühnen" erhalten. Der große Saal d«S ArchstcktenhauseS war 
-auch bei dieser zweiten Vorlesung ausverkauft. — Die Herren der 
-chinesischen Gesandtschaft, welche dem letzte» großen Balljest des 
-Vereins Berliner Presse" beigewohnt, haben in der Rück. 
-«rinncrung a» den gehabten Genuss dem Verein für seine Unter- 
-stütznngskasse eine nainhaste Summe überwiesen. 
--s-db Die Vorstände der deutschen Junungs - Ansschüsse 
-«nd Jiuluugs- Verbände treten vom 26. bis 28. April in Berlin 
-zusammen, um in Bezug ans Arbeiter. Streiks Beschlüge zu fassen. 
-Bei dem ersten Versuche eines Streiks jpll das ganze Gewerk die 
-Arbeit einstellen. (?) 
-fdb Die Gastwirts -Innung geht jetzt auch gegen ihre 
-bereits ausgeschiedenen Mitglieder mit der Einziehung von Bei 
-trägen exekutorisch vor. Der deutsche Gaflivirts-Verdand bereitet 
-«ine Petition an den Reichstag vor, das; das Recht des h l00k nur 
-dann Innungen verliehe» werde, wenn tatsächlich der größere Teil 
-der betreffende» Gewerbetreibenden ihnen angehört. 
-fbb Ein Lehrer in Rixdorf war wegen Ueberschreitung deS 
-Züchtigungsrechtes gegen einen Knaben vom Schöffengericht zu 30 2t. 
-verurteilt worden. Er beruhigte sich bei den, Erkenntniss nicht, son 
-dern ging bis an das Reichsgericht, welches eine neue Beweisauf 
-nahme anordnete. Durch diesettie stellte sich heraus, daß der Junge 
-«in verzogener Bengel sei, der schon Nichtsnutzigkeiten in Menge aus 
-geübt, Katzen gequält und sogar Steine auf die Schienen der Ring 
-dahn gelegt hatte. Zn der erneuten Derhandlmig wurde der Lehrer 
-freigesprochen. 
-fv Ein Verein festangestellter Inserate» Acquisiteure 
-soll, wie der „Kons." erfährt, in nächster Zeit hierseldst begründet 
-werden. Die Mitglieder dieses Vereins wollen ihre Erfahrungen 
-über diejenigen Inserenten, welche grundsätzlich nie bezahlen und hie 
-Zeitiingsexpeditionen brandschatzen, gegenseitig austausche». Anoge- 
-ichlossen von der Aufnahme in de» zu gründenden Verein sollen die 
-jenigen Standesgenvsscn sein, welche durch unlautere Konkurrenz- 
-manipulationen das Annonceiiwese» schädige». 
-+l>j Durch die kürzlich erfolgte Verhaftung des Geflügel- 
-diebes Konrad in Friedrichodcrg ist es gelungen, eine ganze Diebes 
-bande, die überaus fleißig gewesen zu sein scheint, dingfest zu machen. 
-+ I« Tteastburg (Elsass) baden dieser Tage Besprcchuugcn 
-stattgefunden, welche sich auf die Freilegung des Münsters beziehen. 
-Selbstverständlich ist hierzu eine Lotterie in Aussicht genommen. 
-»Nie ohne dieses!" 
-f Die in London erscheinende „Icwish Standard" 
-schreibt: „Kürzlich sprachen zwei Griechen beim Rabbiner in 
-Smyrna vor und boten ein kleines Kind z»m Kaufe an. Das 
-Kind, sagten sie, möchte für das bevorstehende Paflahfest sich zum 
-Schlachten nützlich erweisen. Der Sohn des Oberrabbinero 
-Palacci ließ die beiden Griechen sofort verhaften und es wird 
-ihnen jetzt der Prozess gemacht." 
-f Aus Dresden berichtet die „Doss. Ztg.", daß die Tiedge- 
-Stiftung dem Dichter Hermann Lingg eine namhafte Summe als 
-Ehrenpreis zuerkannt hat, eine seltene Auszeichnung, die zuletzt Fritz 
-Reuter zu Teil geworden war. 
--f Das Spielen mit den» Revolver hat in Köln am l. d. Dt. 
-wiederum ei» Menschenleben gefordert. Zwei Freunde, von denen 
-der eine verheiratet ist, suchten, nachdem sie den Abend vergnügt 
-verbracht hatten, di« Wohnung deS Unverheirateten aus, um sich dort 
-noch zu unterhalte». Au, einem Tische lag ein geladener Revolver, 
-mit den; der Verheiratete im Scherze nach seinem Kopfe zielte. Roch 
-ehe sein Freund ihn aus die Gefährlichkeit der Waffe aufmerksam 
-machen konnte, krachte ei» Schuss, und der Unvorsichtige bezahlte 
-den Scherz mit dem Lebe». Tüdtlich getroffen verschied er, noch ehe 
-der schnell herbeigeholte Arzt eingetroffen war. 
--fi Ueber das Unglück ans dem Rhein bei Lanfenburg 
-werden jetzt nähere Einzelheiten berichtet. Vier Fabrikarbeiterinnen 
-hatten sich, um einen Ausflug zu machen, nach Haucnstein begeben 
-(ein« Stunde oberhalb Lanftiibnrg) »nd wurden von drei Burschen 
-mit einen» sogenannten „Waidling" rheinabwärts geführt. Oberhalb 
-Lanfenburg (beim sogenannten Katzengraben) muss das Fahrzeug in 
-folge hervortretender Felsen umgekippt sein; zwei der Bursche» 
-loniiten anS Land schwimmen, während eines der Mädchen sofort 
-ertrank. Zwei Mädchen und ei» Bursche hielten sich am umge 
-stürzten Schiffchen n»d trieben, um Hilfe rufend, abwärts dem furcht- 
-baren Rheinsttudel Laufen zul Man musste den Armen zusehen, 
-ohn« daß es möglich gewesen wäre, ihnen zu helfe», da der Rhein 
-hier zu reißend ist und immer schueller fließt. Die letzten Rufe er 
-tönten noch schauerlich unter der Rbeinbrücke — das schäumende 
-und tosende Element des Rheinfalles kennt kern Erbarmen: 
-schonungslos wurden die armen Opfer in die Tiefe geriffen. 
-f AnS London wird telegraphirt: Bei dem Eornwalis-Wett- 
-rennen brach eine Haupttribnne zusammen. 2000 Personen stürzten 
-30 Fuß lies herab; viele wurden schwer verwundet. 
-fR „Dreimal umziehen — einmal abbrennen;" Dies 
-alte berliner Sprichwort bewährt seine Richtigkeit noch inimer, trotz 
-aller im Lauft der Jahre vorgenommenen Verkehrtverbesferungen, 
-und der letzte Ninzugsterinin lieferte zahllose Bilder für die alte 
-berliner Redensart. Ein sehr „schwerer" Unfall ereignete sich am 
-Mittwoch in der Prinzen straße. Beim Transport eines eisernen Geld- 
-schranks brach ein Rad des Wagens, der überhaupt für die schwere 
-Last zu schwach erschien, »nd der Geldschrank rutschte von den dicken 
-untergelegten Brettern ans die dünne Verschalung deS WagenS, diese 
-durchdrückend. Erst nach langer mühevoller Arbeit konnte daS schwere 
-Eisenmöbel ans einem anderen Wagen weiter geschasst werden. Sehr 
-glücklich verlief ein anderer „Mööelfall" auf dem Morihplah. Hier 
-glitt von einer Möbelsuhre eine Trnmeaux - Spiegel herab auf das 
-Straßenpflaster. Es geschah dies aber so, daß der Spiegel niit dem 
-Scitenrahmen zuerst den Boden berührte und dann ans die hölzerne 
-Rückwand fiel, so daß er völlig unversehrt blieb. Als die darüber 
-ersreuten Fuhrleute ihn aber wieder an seinen alten Platz aus den 
-Wagen bringen wallten, fiel ihnen von dort die Marmorplatte des 
-Spiegels entgegen und zerbarst ans dein Pflaster in kleine Stücke. 
-Einen kläglichen Anblick hatten die Vorübergehenden ans dem Oranien 
-platz an» Mittwoch Morgen. Unter einem Scherbenhaufen, der von 
-irdenem Kochgeschirr und Blunicntöpftn herrührte, befand sich ein 
-zerdrückter Vogelbauer und darin ein todter Kanarienvogel. Der 
-Unfall ist wahrscheinlich spät Abends oder in der Nacht pässirt und 
-die Fuhrleute haben daS zeitraubende Anfräummigsgeschäft den 
-Straßenkehrern überlassen. 
-f Die kaufmännischen Fortbildungsschulen (Kölnisches 
-Gymnasium und Friedrich - WerdcrschrS Gymnasium) eröffnete» am 
-Dienstag ihr Sommerhalbjahr mit einen, feierliche» Schulakte, zu 
-welchem sich außer dem vollzählig erschienene» Kuratorium eine 
-nberauS große Anzahl von Kaufleuten und sonstigen Gönnern deS 
-Unternehmens in der großen Aula deS Köllnischc» Gymnasiums 
-eingefunden hatte. Der Letter der Anstalt, Herr Rektor Schmitt, 
-hob zunächst daS für dft Schüler Wissenswerteste hervor, worauf 
-ein Schüler, Herr Pehold, Namens des Stammes der alte» Schüler 
-dem Kuratorium für di« uneigennützige» Bemühungen und oft niühe- 
-vollni Arbeiten dankte und die- durch regen Eifer und Fleiß zu 
-belohnen versprach. Hierauf verbreitete sich der Vorsitzende des 
-Kuratoriums, Herr Rechtsanwalt Dr. Haaft, in längerer Rede über 
-Zweck und Ziel« de» gemeinnützigen Unternehmens, besten Erhal 
-tung ln erster Reise beni fSrdeMen und wohlwollenden Entgegen, 
-kommen der hohen Behörden zu verdanke», dann aber vor allen 
-Dingen durch die freigebige Unterstützung aller kaufmännischen Kreis« 
-Berlins ermöglicht werde. 
-t Die Sicherheit deö Straßenverkehrs ist — berichtet die 
-Fachzeitschrift „Der Fuhrhalter' zutreffend — für Großstädte eine so 
-viierlässtiche Vorbedingung, um das Pnlfiren des allgemeinen Ver 
-kehrs zu ermöglichen, daß gerade hierüber nicht oft genug berichtet 
-werden kann. Will man auch zngeben, daß durch den geradezu 
-enormen Betrieb der Pferdebahnen — insonderheit in Berlin — 
-sich das liebe Publikimr nicht mehr als einziger Inhaber der 
-Straßen bewachtet, sondern vorsichtig sich in Acht nimmt, daß di« 
-eigenen Knochen nicht zermalmt werden, und kann auch angeiionimen 
-werden, daß di« Mehrheit des Fahrpersonal» — gerade in Rücksicht 
-des gesteigerten Verkehrs — umsichtiger »nd gewissenhafter tut Dienst 
-sich bewegt, so bleiben doch noch manche Wünsche erfüllbar, die 
-aber erst abgestellt werden können, tvcnu die Ausbreitung des Fahr 
-unterrichts eine allgemeine geworden, hierzu Anstalten vorhanden 
-sind, in denen „Fahren" nicht gelernt, aber grundlegend gelehrt wttd. 
-Was wird nicht Alles unter „Fahren" verstanden? Jeder glaubt 
-„fahren" $u können und doch: in der einen Hand die Leine, in der 
-anderen eine Peitsche, bedeutet durchaus noch nicht, ans das Prädikat 
-„Fahren" Anspruch zu haben. Freilich muff dies auch geübt, mehr 
-noch aber gelehrt werde» und ehe die mit so »»geheurem Kapital 
-arbeitenden Unternehmer nicht selbst die Hand in die Wunde legen, 
-wird es besser, vollendeter kaum werden. Fast täglich passiren Zu 
-sammenstöße, an deren Entstehung aber — in de» weitaus meisten 
-Fällen — in der Regel beide Teile Schuld, niindestens eine „Ursache" 
-tragen. Viel drückender sind aber Ueberfahrungen, weil solche be 
-dauerlicher Weift sehr oft zmu Nachteile der Wagenführer Auslegung 
-finden und leider auch zu strafrechtlichem Einschreiten Anlass geben. 
-Gerade aber weil der Verkehr in seiner eilfertigen Abfertigung freie 
-Passage erfordert, sollte das zu Fuß gehende Publikum vor Allem 
-beachten, baß tunlichst der Straßeiidamm frei und dadurch die Kom- 
-mnnikation nach Möglichkeit eine «»gehinderte tmhe. Beachte man 
-doch den Riesenverkehr in London, dessen Eity-lEaßen nicht breiter 
-und wegsamer als unserer ReichS-Hauptstadt-Straßen, aber als das 
-Herz der großen Weltstadt angesehen werden können, Straßen wie 
-Lombard - Street, Mark Lane, Mincing Lane, Paternoster Kow, 
-Fleet Street in denen die Welt-Kaiifhäuftr ihre Lager rc. besitzen, 
-so »inss doch zugegeben werden, daß Passanten und Wagenführer in 
-peinlichster Obacht sich gegenseitig unterstützen, gegenseitig ihre Rechte 
-wahren. Gerade hierin liegt eben die Gewähr der Sicherheit des 
-Straßenverkehrs »nd wenn der Deutsche dies erst recht beachtet, aber 
-auch im Fahrwescn die Errungenschaften der Neuzeit ans das Personal 
-verniehrt einwirken, daun werden Klagen gemindert, unter deren 
-Folgen oft geling beide Teile leiden und Schmerzen ertragen müffen. 
-f bli Ein MöbclFuhrmann sucht mittelst Annonce ein paar 
-Herren, welche ihm in der Lindenstraße Möbel znm Fahren über 
-geben haben. An Vergefflichkeit ist doch bei solchein Objekt kaum 
-zu glauben. — Sollte e» sich mit gestohlene Sachen handeln? 
-Nach Schluff der Redattio« eingetroffene Depeschen. 
-(Helfen kt rchen» 3. April. Die BergmerkSverwaltiingen 
-der ausständigen Zechen fordern die Belegschaften durch An 
-schlag auf, ungesäumt zur Arbeit zurückzukehren. Wer bis 
-zuni 9. d. Mts. einschließlich nicht die Arbeit wieder auf 
-genommen hat, soll als abgekehrt und nicht mehr zur Beleg 
-schaft gehörig angesehen werden. 
-Dortmund, 3. April. Ter „Rhcin.-Wcstf. Ztg." zufolge 
-macht die Besserung in der Ausstandobcwegnng weitere Fort 
-schritte. Heute Nachmittag sind die Belegschaften der Gruben 
-„Bruchstraße", „(frone" und „Borussia" vollzählig angefahren. 
-Ans der Grube „Neu-Jserlohn" arbeiteten heute Neichinittag 
-von 590 Mann 227, ans Gnibe „Hannover" fuhren heute 
-Nachmittag von 190 Mann 96 an. 
-Karlsruhe» 3. April. Die „Daily NcwS" haben Mit 
-teilungen von ihrem wiener Korrespondenten in Bezug auf 
-die Abreise deS GroßherzoaS von Baden von Berlin gebracht, 
-die sich nur als dreiste Erfindungen charaktcrisiren lasse». I» 
-herzlichster Uebereinstimmung mit dem Kaiser verließ der Groß 
-herzog von Baden Berlin, und gerne gab er den kaiserlichen 
-Majestäten die gewünschte Zusage, so oft zu ihnen zu kommen 
-als möglich. 
-Paris, 3. April. Frollea», Bischof von Evreux, ist 
-heule gestorben. 
-Nom» 3. April. Die „Riforina" meldet, daß der König 
-dem bisherigen französischen Minister des Aenßeren, Spuller, 
-in Anerkennung der erfolgreichen Bemühungen desselben, die 
-Beziehungen zwischen Frankreich und Italien' herzlich zu ge 
-stalten, das Großkrcnz de>5 Mauritills- und Lazarus - Ordcnö 
-verliehen habe. 
-Petersburg» 3. April. Die heute in Warschau abgehal 
-tene Generalversanimlnng der Warschau-Wiener und Warschau- 
-Bromberger Eisenbahn beschloss mit 350 gegen 17 Stimmen, 
-der Regierung einen Teil der Einnahmen zu überlassen und 
-einen finanziellen Vergleich auf der von dem BerwaltnngSrat 
-vorgeschlagenen Basis einzugehen, wenn die Regiernng die 
-Nmivandluiig der 5prozentigcn Obligationen in »prozentige 
-steuerfreie Obligationen billigt. Die ausländischen Aktionäre 
-enthielten sich der Abstimmung. 
-Sofia, 3. April. (Nieldung der Agence Balcaniqne.) Die 
-Nachricht von der Abreise des hiesigen Vertreters Serbiens 
-aus Sofia ist erfunden; unrichtig ist 'auch die Meldung von 
-dem Abbruch der serbisch-bulgarischen Beziehungen. Die An 
-gelegenheit des Konsuls Mintfchowitsch ist aus dein beste» 
-Wege, geregelt zu werden. 
-' Kairo, 3. April. (Telegramm des Rentcrschen BnrrauS.) 
-Da die Antwort der französischen Regierung in Betreff der 
-Konversion der ägyptischen Schuld günstig lautete, so werden 
-Palmer, finanzieller Beirat der ägyptischen Regierung, unb 
-Tigrane Pascha, NntcrstaatSsekretär des Aenßeren, mit dem 
-nächsten Postdampfer nach Paris abreisen, um über die Einzel- 
-heiten der Konversion Besprechungen zu pflegen. 
-Börne tmei Handel. 
-b Bon der berliner Börse, S. April. Die Kurse im Spcku- 
-lationSmarkt lunchte» heute im Allgemeinen ziemlich starke Schwan 
-kungen durch, unb die Fixer rüsteten sich zu einem neuen Feldzuge. 
-Aber a»ch den Gelüsten dieser bösen Menschen, deren Freude um so 
-größer ist, je inehr die Kurse sinken, ist ein Ziel gesteckt. Da ist 
-zun; Beispiel die Schwänze, eine Gefahr, weiche nur den Fixern 
-droht. Die Schwänze »st ein Konsortium vou möglichst wenigen 
-Finanzkrüfteii ersten Ranges, und sie bildet sich in dem Augenblicke, 
-da es offenbar wird, daß die Fixer sich über Gebühr, das heißt 
-in größeren Posten, als überhaupt von der Waare existirt, 
-durch "staiiko-Abgabeii per Ultmo engagirt haben. Die Schwänze 
-kaust Alles, was von dem versixtcn Papier zu bekommen ist, effektiv 
-an, legt es inö Depot und fordert am Ultimo von den arglosen 
-Fixern, welche ja gar nicht wirtlich liefern, soiKrern nur die 'Diffe- 
-renz zu ihren Gunsten verrechnen wollten, die effektive Lieferung der 
-Effekten. Da ist guter Rat teuer. Die Schwänze giebt kein Stück 
-heraus, es sei denn, daß ein Preis gezahlt wird, der alle Unkosten und 
-ausgestandene» Schmerzen reichlich paralysirt: mit anderen Worten, 
-sie diktirt den Kurs, und der geträumte Gewinn verwandelt sich 
-unter de» Singen der Fixer in einen herben Verlust. Die Schwänze 
-muss natürlich in sich selbst kugelfest sein, denn wenn ein Angstmeier 
-darunter ist, geht der künstliche Bau in die Brüche. 
-Die Kurse konnte» bei dieser Sadilage heute keinen rechten Auf 
-schwung gewinnen, und überall, abgesehen vom Mcmtanmarkt, ging 
-eö still her. Bochnmer notirten 171, 168,50, 171, 168,50, 167, 
-Dortmunder 91, 89*/„ 89, Harpener fielen ihrer alten Gewohnheit 
-gemäß gleich ordentlich von 212 auf 205. Banken zeigten ebenfalls 
-weniger Lebe» als gestern und aus dem Bahnenmarkt schienen die 
-Ostpreußen erschüttert. Der Verkehr auf dieser Bahn ist gegen 
-wärtig so ungewöhnlich schwach, daß man einem Gerüchte vom Ge- 
-treidemarkt, von den Vorräten der alten russischen Ernte sei nichts 
-mehr vorhanden, gern Glauben scheuste. Der Kassainarkt zeigte 
-Festigkeit; wahrscheinlich eine Folge der gestrigen Hcmffe im Speku 
-lationSinarst. 
-Ostpreusslsclie SOdl.nlin. Die Genera I*ers*nwu!ung findet 
-am 24. April er. iu Königsberg i. Pr, statt Auf der Tagesordnung 
-steht ausser den gewöhnlichen Gegenständen der Antrag eines Aktio 
-närs betreffs Konverliruug der 4%procentigen Prioritäts-Obligationen 
-in 3%procentige. 
-Figcnbnlin - Einnahmen. Oestr eiehisehe Nordwest 
-bahn. Einnahme vom 1. Januar bis 31. März: Garantirte Linie 
-2 035150 sl. (+ 147 665 ff.) nngarant. Linie 1322 781 fl. (-*- 53 626 fl.) 
-— Anatolische Eisenbahnen (llaydar-Pascha-lsmid). Ein 
-nahme pro Februar 42373 Frei. Ausgabe pro Februar 32 056 Frcs; 
-Einnahmen Tom ). Januar bis 28 Februar 93 130 Frcs., Ausgaben füi 
-die gleiche Zeit 69 216 Frcs. — Crefeld-Uerdingcr Localbahn. 
-Betriebs-Einnahmen pro März 20 238 X (+ 1258 X\ 
-Vereinigte DnnipIVieliifr—(le.sellHchan in Kopenhagen, 
-Die (iesellschaft. welche die stattliche Zahl von 100 Dampfern besitzt, 
-hat in 1889 einen Frachtengewinn von 14217 000 Kr. erzielt und ver 
-bleibt nach Abzug der Betriebskosten von 10 499 000 Kr. ein Itoti 
-gewinn von 3 768 000 Kr. Nach Kürzung von Abschreibungen. Tan 
-tiemen. stellt sich der Reingewinn auf I 170 000 Kr., aus dem 10 pOL 
-Dividende mit 800 000 Kr. verteilt, 200000 Kr. dem Pcnsipns- und 
-Unterstützungsfonds überwiesen und 170 000 Kr. auf neue Rechnung 
-vorgetragen werden. 
-Hn«lischt: Rank. In der General-Versammlung wurde die vor 
-geschlagene Dividende pro 1889 von 14 X 25 «X pro Aktie genehmigt 
-Dresdner Bankverein. Die Generalversammlung genehmigte 
-die Bilanz pro 1889. erteilte die Decliarge und wählte das aus 
-scheidende Mitglied des Aufsichlsrates, Herrn Fabrikbesitzer Oscar 
-Bierling (Dresden) wieder. Die Dividende von 8 pCt gleich 80 Mark 
-pro alte Aktie und 40 Mark pro junge Aktie wird sofort ausgezahlt. 
-Stru£Scnbnhii>Einii.ihnieii. Per März: Potsdamer 10 953 
-Mark.— Allgemeine Berliner Omnibus-Aktien-Gesellschaft 
-169 891 X (1889: 119541.#). — Breslauer 704)5 X. total seit 
-Januar 195 379 X (+ 11 828 .A!). — Stettiner Strassen-Eisen- 
-hahn-Gesellschaft. Die Betriebs-Einnahme betrug im März 1S90 
-30 942 X (1890 + 2590 .#), bis ult. Februar 1890 + 8354 X, mithin 
-bis ult März 1890 + 5914 X. — Magdeburger Strasseneisen- 
-bahn. Die Betriebseinnahrue im März er. stellt sieh auf 63 335.#. — 
-Grosse Berliner Pferde-Kisenbahn. Einnahme vom 26. März 
-bis 1. April 292 292.40 X (Mehr-Eiunahme 2774736 X), Einnahme 
-vom 1. Januar bis I April 3280 147.78 .As (Mehr-Einnahme 333 030.21 
-Mark). (Durchschnittliche Einnahme auf den Tag 36 043.58 X). 
-SpandnucrbcrS'Bi'aucrei vorin. C. Beehmnnn. In den 
-ersten 6 Monaten des laufenden Geschäftsjahres wurden 43 317% To. 
-gegen 39 084*5, To. im vorigen Jahre verkauft, demnach ein Mehr- 
-absatz. von 4232"/, To. oder 5291 Hektoliter erzielt 
-Deutsche Bniigeaellschnst. Wie verlautet hat Herr Direktor 
-Schipmann (Deutsche Transport-Versicherungs-Gesellschaft in Berlin) 
-die in der letzten General-Versammlung auf ihn gefallene Wahl zum 
-Aufsichtsratsmitgliede abgelehnt. 
-BniiMgescllschnft Moabit. Nach dem Geschäftsbericht pro 
-1889 wird der nach Dotining des Reservefonds verbleibende Gewinn 
-saldo von 485 443./# wie folgt zur Verteilung vorgeschlagen : als 7 pCt 
-Dividende von 2600000 X Aktienkapital 182000 X. als Tantiemen 
-31380 X. als Vortrag auf neue Rechnung 272 063 X. 
-Dortmunder DerRbau-Gowellücbnst bei Weitinnr. Der 
-Anfsichtsrat hat beschlossen, das Grundkapital der Gesellschaft durch 
-Ausgabe von 666 000 X Vorzugsaktien zu erhöhe» und wird dieser 
-Betrag den Aktionären zum Kurse von 106 pCt. derart zum Bezüge 
-angeboten, dass je fünf alte Vorzugsaktien ä 1200./# zum Bezüge einer 
-neuen Vorzugsaktie 5 1200 berechtigen. Die Ausübung des Bezugs- 
-rechts bat in der Zeit vom 5. bis einschliesslich 15. April er: zu er 
-folgen. 
-Bielefelder Mnsclilnon-Fnbrik vorm. Diirkopp & Co. 
-In der gestrigen General-Versammlung wurde dem Vorstaude und 
-Anfsichtsrat Entlastung erteilt, die Bilanz genehmigt und die Mit 
-glieder des Aufsichtsrats sämmtlich wiedergewählt. Die «if 10 pCt. 
-festgesetzte Dividende ist sofort zahlbar. 
-EiüoiigicMgerci AktiongenellHebnrt, vormals Kryling 
-dt Thomas. Dem Bericht über das Geschäftsjahr 1889 entnehmen 
-wir: Die Verteilung des Reingewinnes inclusive Vortrag pro 1889 
-CriiMaiicr Kupfer- und Messing-Fabrik A.-G. In der 
-heutigen Aufsichtsrats-Sitzung ist beschlossen worden, nach reichlich 
-bemessenen Abschreibungen der Generalversammlung die Verteilung 
-einer Dividende von 9 pCt. vorzuschlagen. 
-Abänderung den Zurkerwteiier-Gesotzps, Di« .Magd. 
-Zeitung“ schreibt: „Verhandlungen über eine Abänderung des Ge 
-setzes vom 9. Juli 1887, betreffend die Besteuerung des Zuckers, 
-finden, wie wir aus guter Quelle erfahren, statt in der Richtung der 
-völligen Aufhebung der Materialsicuer. Diese Verhandlungen lehnen 
-sich an und haben zur Voraussetzung eine etwa hervortretende Not 
-wendigkeit, die Einnahmen des Reiches wesentlich zu vermehren. 
-Darüber zu bcschliessen, w ird der demnächst zusammentretende Reichs 
-tag Gelegenheit erhalten. Dass es bei Aufhebung der Rübensleuer 
-vor allen Dingen auf eine Beseitigung der Ausfuhrprämien und der 
-damit zusammenhängenden Verkürzung der Steuer - Einnahme des 
-Reiches abgesehen ist. vesteht sich von selbst. Voraussichtlich wird 
-eine solche Massregel aber jedenfalls nicht vor Beginn der Campagne 
-1891—92, also nicht vor dem 1. August 1891, in Kraft treten.“ 
+fcli 
+Sämmtliche 
+Bureaus 
+und 
+Kassen 
+der 
+städtischen 
+tverwaltuua 
+werde» 
+om 
+Sonnabeiid
+. 
+des 
+Osterfestes 
+wegen
+, 
+bereits 
+um 
+I 
+Uhr 
+Mittags 
+geschlossen
+, 
+mit 
+Ausnahme 
+des 
+Zentral-BüreanS
+, 
+welches 
+bis 
+4 
+Uhr 
+Nachmittags 
+zur 
+Entgegennahme 
+von 
+wichtigen 
+Sachen 
+geöffnet 
+bleibt. 
++ 
+Für 
+das 
+BundeSschiesten 
+1» 
+Berlin B-LOC 
+hat 
+der 
+Kaiser 
+airf 
+die 
+Bitte 
+deS 
+Vorstandes 
+einen 
+Ehrenpreis
+, 
+bestehend 
+in 
+einer 
+nach 
+dem 
+Entwürfe 
+des 
+Professors 
+Doepler 
+jun
+. 
+angefertigten 
+silbernen 
+Kanne 
+mit 
+Hirschgeweih 
+und 
+der 
+Diana
+, 
+verliehen
+. 
+— 
+Der 
+große 
+gestzug 
+ans 
+Anlass 
+des 
+lv
+. 
+dentschen 
+Bnndesschießens 
+wird 
+sich 
+zu 
+einer 
+der 
+großartigste» 
+Kundgebungen 
+gestalten
+, 
+die 
+Berlin B-LOC 
+je 
+gesehen
+. 
+50 000 
+Mark 
+sind 
+für 
+Veranstaltung 
+des 
+Zuges 
+bewilligt
+, 
+und 
+mit 
+dem 
+Festausschuss 
+wird 
+die 
+Berlin B-LOCer 
+Künstlerschaft 
+zusammen 
+das 
+ganze 
+Arrangement 
+leiten
+. 
+sät 
+A«S 
+Neiuertrag 
+der 
+am 
+Dienstag 
+Abend 
+von 
+Ernst 
+v
+. 
+Wildenbruch 
+veranstalteten 
+zweiten 
+Vorlesung 
+seines 
+vaterländrscheu 
+Schauspiels 
+.
+Der 
+Generalfeldoberft' 
+ist 
+der 
+Unter,tützmigska)
+,« 
+des 
+Vereins 
+„
+Berliner Presse
+' 
+di« 
+Summe 
+von 
+250 
+M
+. 
+zugeflossen
+; 
+eine 
+gleiche 
+Summe 
+hat 
+der 
+„
+Verein 
+zur 
+Begründung 
+deutscher 
+Volksbühnen
+" 
+erhalten
+. 
+Der 
+große 
+Saal 
+d«S 
+ArchstcktenhauseS 
+war 
+auch 
+bei 
+dieser 
+zweiten 
+Vorlesung 
+ausverkauft
+. 
+— 
+Die 
+Herren 
+der 
+chinesischen 
+Gesandtschaft
+, 
+welche 
+dem 
+letzte» 
+großen 
+Balljest 
+des 
+Vereins 
+Berliner 
+Presse
+" 
+beigewohnt
+, 
+haben 
+in 
+der 
+Rück
+. 
+«rinncrung 
+a» 
+den 
+gehabten 
+Genuss 
+dem 
+Verein 
+für 
+seine 
+Unterstütznngskasse 
+eine 
+namhafte 
+Summe 
+überwiesen
+. 
+-s-db 
+Die 
+Vorstände 
+der 
+deutschen 
+Junungs 
+- 
+Ansschüsse 
+«nd 
+Jiuluugs- 
+Verbände 
+treten 
+vom 
+26. 
+bis 
+28. 
+April 
+in 
+Berlin B-LOC 
+zusammen
+, 
+um 
+in 
+Bezug 
+ans 
+Arbeiter
+. 
+Streiks 
+Beschlüge 
+zu 
+fassen
+. 
+Bei 
+dem 
+ersten 
+Versuche 
+eines 
+Streiks 
+soll 
+das 
+ganze 
+Gewerk 
+die 
+Arbeit 
+einstellen
+. 
+(?) 
+fdb 
+Die 
+Gastwirts 
+-Innung 
+geht 
+jetzt 
+auch 
+gegen 
+ihre 
+bereits 
+ausgeschiedenen 
+Mitglieder 
+mit 
+der 
+Einziehung 
+von Beiträgen 
+exekutorisch 
+vor
+. 
+Der 
+deutsche 
+Gaflivirts-Verdand 
+bereitet 
+«ine 
+Petition 
+an 
+den 
+Reichstag 
+vor
+, 
+das
+; 
+das 
+Recht 
+des 
+h 
+l00k 
+nur 
+dann 
+Innungen 
+verliehe» 
+werde
+, 
+wenn 
+tatsächlich 
+der 
+größere 
+Teil 
+der 
+betreffende» 
+Gewerbetreibenden 
+ihnen 
+angehört
+. 
+fbb 
+Ein 
+Lehrer 
+in 
+Rixdorf 
+war 
+wegen 
+Ueberschreitung 
+deS 
+Züchtigungsrechtes 
+gegen 
+einen 
+Knaben 
+vom 
+Schöffengericht 
+zu 
+30 
+2t. 
+verurteilt 
+worden
+. 
+Er 
+beruhigte 
+sich 
+bei 
+den
+, 
+Erkenntniss 
+nicht
+, 
+sondern 
+ging 
+bis 
+an 
+das 
+Reichsgericht
+, 
+welches 
+eine 
+neue 
+Beweisaufnahme 
+anordnete
+. 
+Durch 
+diesettie 
+stellte 
+sich 
+heraus
+, 
+daß 
+der 
+Junge 
+«in 
+verzogener 
+Bengel 
+sei
+, 
+der 
+schon 
+Nichtsnutzigkeiten 
+in 
+Menge 
+ausgeübt
+, 
+Katzen 
+gequält 
+und 
+sogar 
+Steine 
+auf 
+die 
+Schienen 
+der 
+Ringbahn 
+gelegt 
+hatte
+. 
+Zn 
+der 
+erneuten 
+Verhandlung 
+wurde 
+der 
+Lehrer 
+freigesprochen
+. 
+fv 
+Ein 
+Verein 
+festangestellter 
+Inserate» 
+Acquisiteure 
+soll
+, 
+wie 
+der 
+„
+Kons.
+" 
+erfährt
+, 
+in 
+nächster 
+Zeit 
+hierseldst 
+begründet 
+werden
+. 
+Die 
+Mitglieder 
+dieses 
+Vereins 
+wollen 
+ihre 
+Erfahrungen 
+über 
+diejenigen 
+Inserenten
+, 
+welche 
+grundsätzlich 
+nie 
+bezahlen 
+und 
+hie 
+Zeitiingsexpeditionen 
+brandschatzen
+, 
+gegenseitig 
+austausche»
+. 
+Anogeichlossen 
+von 
+der 
+Aufnahme 
+in 
+de» 
+zu 
+gründenden 
+Verein 
+sollen 
+die 
+jenigen 
+Standesgenvsscn 
+sein
+, 
+welche 
+durch 
+unlautere 
+Konkurrenzmanipulationen 
+das 
+Annonceiiwese» 
+schädige»
+. 
++l>j 
+Durch 
+die 
+kürzlich 
+erfolgte 
+Verhaftung 
+des 
+Geflügeldiebes 
+Konrad 
+in 
+Friedrichodcrg 
+ist 
+es 
+gelungen
+, 
+eine 
+ganze 
+Diebesbande
+, 
+die 
+überaus 
+fleißig 
+gewesen 
+zu 
+sein 
+scheint
+, 
+dingfest 
+zu 
+machen
+. 
++ 
+I« 
+Tteastburg 
+(
+Elsass
+) 
+baden 
+dieser 
+Tage 
+Besprcchuugcn 
+stattgefunden
+, 
+welche 
+sich 
+auf 
+die 
+Freilegung 
+des 
+Münsters 
+beziehen
+. 
+Selbstverständlich 
+ist 
+hierzu 
+eine 
+Lotterie 
+in 
+Aussicht 
+genommen
+. 
+»
+Nie 
+ohne 
+dieses
+!
+" 
+f 
+Die 
+in 
+London 
+erscheinende 
+„
+Icwish 
+Standard
+" 
+schreibt
+: 
+„
+Kürzlich 
+sprachen 
+zwei 
+Griechen 
+beim 
+Rabbiner 
+in 
+Smyrna 
+vor 
+und 
+boten 
+ein 
+kleines 
+Kind 
+z»m 
+Kaufe 
+an
+. 
+Das 
+Kind
+, 
+sagten 
+sie
+, 
+möchte 
+für 
+das 
+bevorstehende 
+Paflahfest 
+sich 
+zum 
+Schlachten 
+nützlich 
+erweisen
+. 
+Der 
+Sohn 
+des 
+Oberrabbinero 
+Palacci 
+ließ 
+die 
+beiden 
+Griechen 
+sofort 
+verhaften 
+und 
+es 
+wird 
+ihnen 
+jetzt 
+der 
+Prozess 
+gemacht
+.
+" 
+f 
+Aus 
+Dresden 
+berichtet 
+die 
+„
+Doss
+. 
+Ztg
+.
+"
+, 
+daß 
+die 
+Tiedge-Stiftung 
+dem 
+Dichter 
+Hermann 
+Lingg 
+eine 
+namhafte 
+Summe 
+als 
+Ehrenpreis 
+zuerkannt 
+hat
+, 
+eine 
+seltene 
+Auszeichnung
+, 
+die 
+zuletzt 
+Fritz 
+Reuter 
+zu 
+Teil 
+geworden 
+war
+. 
+-f 
+Das 
+Spielen 
+mit 
+den» 
+Revolver 
+hat 
+in 
+Köln 
+am 
+l
+. 
+d
+. 
+Dt
+. 
+wiederum 
+ei» 
+Menschenleben 
+gefordert
+. 
+Zwei 
+Freunde
+, 
+von 
+denen 
+der 
+eine 
+verheiratet 
+ist
+, 
+suchten
+, 
+nachdem 
+sie 
+den 
+Abend 
+vergnügt 
+verbracht 
+hatten
+, 
+di« 
+Wohnung 
+deS 
+Unverheirateten 
+aus
+, 
+um 
+sich 
+dort 
+noch 
+zu 
+unterhalte»
+. 
+Auf 
+einem 
+Tische 
+lag 
+ein 
+geladener 
+Revolver
+, 
+mit 
+den
+; 
+der 
+Verheiratete 
+im 
+Scherze 
+nach 
+seinem 
+Kopfe 
+zielte
+. 
+Roch 
+ehe 
+sein 
+Freund 
+ihn 
+aus 
+die 
+Gefährlichkeit 
+der 
+Waffe 
+aufmerksam 
+machen 
+konnte
+, 
+krachte 
+ei» 
+Schuss
+, 
+und 
+der 
+Unvorsichtige 
+bezahlte 
+den 
+Scherz 
+mit 
+dem 
+Lebe»
+. 
+Tüdtlich 
+getroffen 
+verschied 
+er
+, 
+noch 
+ehe 
+der 
+schnell 
+herbeigeholte 
+Arzt 
+eingetroffen 
+war
+. 
+-fi 
+Ueber 
+das 
+Unglück 
+ans 
+dem 
+Rhein 
+bei 
+Lanfenburg 
+werden 
+jetzt 
+nähere 
+Einzelheiten 
+berichtet
+. 
+Vier 
+Fabrikarbeiterinnen 
+hatten 
+sich
+, 
+um 
+einen 
+Ausflug 
+zu 
+machen
+, 
+nach 
+Haucnstein 
+begeben 
+(
+ein« 
+Stunde 
+oberhalb 
+Lanftiibnrg
+) 
+»nd 
+wurden 
+von 
+drei 
+Burschen 
+mit 
+einen» 
+sogenannten 
+„
+Waidling
+" 
+rheinabwärts 
+geführt
+. 
+Oberhalb 
+Lanfenburg 
+(
+beim 
+sogenannten 
+Katzengraben
+) 
+muss 
+das 
+Fahrzeug 
+in 
+folge 
+hervortretender 
+Felsen 
+umgekippt 
+sein
+; 
+zwei 
+der 
+Bursche» 
+loniiten 
+anS 
+Land 
+schwimmen
+, 
+während 
+eines 
+der 
+Mädchen 
+sofort 
+ertrank
+. 
+Zwei 
+Mädchen 
+und 
+ei» 
+Bursche 
+hielten 
+sich 
+am 
+umgestürzten 
+Schiffchen 
+n»d 
+trieben
+, 
+um 
+Hilfe 
+rufend
+, 
+abwärts 
+dem 
+furchtbaren 
+Rheinsttudel 
+Laufen 
+zul 
+Man 
+musste 
+den 
+Armen 
+zusehen
+, 
+ohn« 
+daß 
+es 
+möglich 
+gewesen 
+wäre
+, 
+ihnen 
+zu 
+helfe»
+, 
+da 
+der 
+Rhein 
+hier 
+zu 
+reißend 
+ist 
+und 
+immer 
+schueller 
+fließt
+. 
+Die 
+letzten 
+Rufe 
+ertönten 
+noch 
+schauerlich 
+unter 
+der 
+Rbeinbrücke 
+— 
+das 
+schäumende 
+und 
+tosende 
+Element 
+des 
+Rheinfalles 
+kennt 
+kern 
+Erbarmen
+: 
+schonungslos 
+wurden 
+die 
+armen 
+Opfer 
+in 
+die 
+Tiefe 
+gerissen
+. 
+f 
+AnS 
+London 
+wird 
+telegraphirt
+: 
+Bei 
+dem 
+Eornwalis-Wettrennen 
+brach 
+eine 
+Haupttribnne 
+zusammen
+. 
+2000 
+Personen 
+stürzten 
+30 
+Fuß 
+lies 
+herab
+; 
+viele 
+wurden 
+schwer 
+verwundet
+. 
+fR 
+„
+Dreimal 
+umziehen 
+— 
+einmal 
+abbrennen
+;
+" 
+Dies 
+alte 
+berliner 
+Sprichwort 
+bewährt 
+seine 
+Richtigkeit 
+noch 
+inimer
+, 
+trotz 
+aller 
+im 
+Lauft 
+der 
+Jahre 
+vorgenommenen 
+Verkehrtverbesferungen
+, 
+und 
+der 
+letzte 
+Ninzugsterinin 
+lieferte 
+zahllose 
+Bilder 
+für 
+die 
+alte 
+berliner 
+Redensart
+. 
+Ein 
+sehr 
+„
+schwerer
+" 
+Unfall 
+ereignete 
+sich 
+am 
+Mittwoch 
+in 
+der 
+Prinzenstraße
+. 
+Beim 
+Transport 
+eines 
+eisernen 
+Geldschranks 
+brach 
+ein 
+Rad 
+des 
+Wagens
+, 
+der 
+überhaupt 
+für 
+die 
+schwere 
+Last 
+zu 
+schwach 
+erschien
+, 
+»nd 
+der 
+Geldschrank 
+rutschte 
+von 
+den 
+dicken 
+untergelegten 
+Brettern 
+ans 
+die 
+dünne 
+Verschalung 
+deS 
+WagenS
+, 
+diese 
+durchdrückend
+. 
+Erst 
+nach 
+langer 
+mühevoller 
+Arbeit 
+konnte 
+daS 
+schwere 
+Eisenmöbel 
+ans 
+einem 
+anderen 
+Wagen 
+weiter 
+geschasst 
+werden
+. 
+Sehr 
+glücklich 
+verlief 
+ein 
+anderer 
+„
+Mööelfall
+" 
+auf 
+dem 
+Morihplah
+. 
+Hier 
+glitt 
+von 
+einer 
+Möbelsuhre 
+eine 
+Trnmeaux 
+- 
+Spiegel 
+herab 
+auf 
+das 
+Straßenpflaster
+. 
+Es 
+geschah 
+dies 
+aber 
+so
+, 
+daß 
+der 
+Spiegel 
+niit 
+dem 
+Scitenrahmen 
+zuerst 
+den 
+Boden 
+berührte 
+und 
+dann 
+ans 
+die 
+hölzerne 
+Rückwand 
+fiel
+, 
+so 
+daß 
+er 
+völlig 
+unversehrt 
+blieb
+. 
+Als 
+die 
+darüber 
+erfreuten 
+Fuhrleute 
+ihn 
+aber 
+wieder 
+an 
+seinen 
+alten 
+Platz 
+aus 
+den 
+Wagen 
+bringen 
+wallten
+, 
+fiel 
+ihnen 
+von 
+dort 
+die 
+Marmorplatte 
+des 
+Spiegels 
+entgegen 
+und 
+zerbarst 
+ans 
+dein 
+Pflaster 
+in 
+kleine 
+Stücke
+. 
+Einen 
+kläglichen 
+Anblick 
+hatten 
+die 
+Vorübergehenden 
+ans 
+dem 
+Oranienplatz 
+an» 
+Mittwoch 
+Morgen
+. 
+Unter 
+einem 
+Scherbenhaufen
+, 
+der 
+von 
+irdenem 
+Kochgeschirr 
+und 
+Blunicntöpftn 
+herrührte
+, 
+befand 
+sich 
+ein 
+zerdrückter 
+Vogelbauer 
+und 
+darin 
+ein 
+todter 
+Kanarienvogel
+. 
+Der 
+Unfall 
+ist 
+wahrscheinlich 
+spät 
+Abends 
+oder 
+in 
+der 
+Nacht 
+pässirt 
+und 
+die 
+Fuhrleute 
+haben 
+daS 
+zeitraubende 
+Anfräummigsgeschäft 
+den 
+Straßenkehrern 
+überlassen
+. 
+f 
+Die 
+kaufmännischen 
+Fortbildungsschulen 
+(
+Kölnisches 
+Gymnasium 
+und 
+Friedrich 
+- 
+WerdcrschrS 
+Gymnasium
+) 
+eröffnete» 
+am 
+Dienstag 
+ihr 
+Sommerhalbjahr 
+mit 
+einen
+, 
+feierliche» 
+Schulakte
+, 
+zu 
+welchem 
+sich 
+außer 
+dem 
+vollzählig 
+erschienene» 
+Kuratorium 
+eine 
+nberauS 
+große 
+Anzahl 
+von 
+Kaufleuten 
+und 
+sonstigen 
+Gönnern 
+deS 
+Unternehmens 
+in 
+der 
+großen 
+Aula 
+deS 
+Köllnischc» 
+Gymnasiums 
+eingefunden 
+hatte
+. 
+Der 
+Leiter 
+der 
+Anstalt
+, 
+Herr 
+Rektor 
+Schmitt
+, 
+hob 
+zunächst 
+daS 
+für 
+dft 
+Schüler 
+Wissenswerteste 
+hervor
+, 
+worauf 
+ein 
+Schüler
+, 
+Herr 
+Pehold
+, 
+Namens 
+des 
+Stammes 
+der 
+alte» 
+Schüler 
+dem 
+Kuratorium 
+für 
+di« 
+uneigennützige» 
+Bemühungen 
+und 
+oft 
+niühevollni 
+Arbeiten 
+dankte 
+und 
+die- 
+durch 
+regen 
+Eifer 
+und 
+Fleiß 
+zu 
+belohnen 
+versprach
+. 
+Hierauf 
+verbreitete 
+sich 
+der 
+Vorsitzende 
+des 
+Kuratoriums
+, 
+Herr 
+Rechtsanwalt 
+Dr
+. 
+Haaft
+, 
+in 
+längerer 
+Rede 
+über 
+Zweck 
+und 
+Ziel« 
+de» 
+gemeinnützigen 
+Unternehmens
+, 
+besten 
+Erhaltung 
+ln 
+erster 
+Reise 
+beni 
+fSrdeMen 
+und 
+wohlwollenden 
+Entgegen
+, 
+kommen 
+der 
+hohen 
+Behörden 
+zu 
+verdanke»
+, 
+dann 
+aber 
+vor 
+allen 
+Dingen 
+durch 
+die 
+freigebige 
+Unterstützung 
+aller 
+kaufmännischen 
+Kreis« 
+Berlins 
+ermöglicht 
+werde
+. 
+t 
+Die 
+Sicherheit 
+deö 
+Straßenverkehrs 
+ist 
+— 
+berichtet 
+die 
+Fachzeitschrift 
+„
+Der 
+Fuhrhalter
+' 
+zutreffend 
+— 
+für 
+Großstädte 
+eine 
+so 
+viierlässtiche 
+Vorbedingung
+, 
+um 
+das 
+Pnlfiren 
+des 
+allgemeinen 
+Verkehrs 
+zu 
+ermöglichen
+, 
+daß 
+gerade 
+hierüber 
+nicht 
+oft 
+genug 
+berichtet 
+werden 
+kann
+. 
+Will 
+man 
+auch 
+zngeben
+, 
+daß 
+durch 
+den 
+geradezu 
+enormen 
+Betrieb 
+der 
+Pferdebahnen 
+— 
+insonderheit 
+in 
+Berlin B-LOC 
+— 
+sich 
+das 
+liebe 
+Publikimr 
+nicht 
+mehr 
+als 
+einziger 
+Inhaber 
+der 
+Straßen 
+bewachtet
+, 
+sondern 
+vorsichtig 
+sich 
+in 
+Acht 
+nimmt
+, 
+daß 
+di« 
+eigenen 
+Knochen 
+nicht 
+zermalmt 
+werden
+, 
+und 
+kann 
+auch 
+angeiionimen 
+werden
+, 
+daß 
+di« 
+Mehrheit 
+des 
+Fahrpersonal»
+— 
+gerade 
+in 
+Rücksicht 
+des 
+gesteigerten 
+Verkehrs 
+— 
+umsichtiger 
+»nd 
+gewissenhafter 
+tut 
+Dienst 
+sich 
+bewegt
+, 
+so 
+bleiben 
+doch 
+noch 
+manche 
+Wünsche 
+erfüllbar
+, 
+die 
+aber 
+erst 
+abgestellt 
+werden 
+können
+, 
+tvcnu 
+die 
+Ausbreitung 
+des 
+Fahrunterrichts 
+eine 
+allgemeine 
+geworden
+, 
+hierzu 
+Anstalten 
+vorhanden 
+sind
+, 
+in 
+denen 
+„
+Fahren
+" 
+nicht 
+gelernt
+, 
+aber 
+grundlegend 
+gelehrt 
+wttd
+. 
+Was 
+wird 
+nicht 
+Alles 
+unter 
+„
+Fahren
+" 
+verstanden
+? 
+Jeder 
+glaubt 
+„
+fahren
+" 
+zu 
+können 
+und 
+doch
+: 
+in 
+der 
+einen 
+Hand 
+die 
+Leine
+, 
+in 
+der 
+anderen 
+eine 
+Peitsche
+, 
+bedeutet 
+durchaus 
+noch 
+nicht
+, 
+ans 
+das 
+Prädikat 
+„
+Fahren
+" 
+Anspruch 
+zu 
+haben
+. 
+Freilich 
+muss 
+dies 
+auch 
+geübt
+, 
+mehr 
+noch 
+aber 
+gelehrt 
+werde» 
+und 
+ehe 
+die 
+mit 
+so 
+»»geheurem 
+Kapital 
+arbeitenden 
+Unternehmer 
+nicht 
+selbst 
+die 
+Hand 
+in 
+die 
+Wunde 
+legen
+, 
+wird 
+es 
+besser
+, 
+vollendeter 
+kaum 
+werden
+. 
+Fast 
+täglich 
+passiren 
+Zusammenstöße
+, 
+an 
+deren 
+Entstehung 
+aber 
+— 
+in 
+de» 
+weitaus 
+meisten 
+Fällen 
+— 
+in 
+der 
+Regel 
+beide 
+Teile 
+Schuld
+, 
+niindestens 
+eine 
+„
+Ursache
+" 
+tragen
+. 
+Viel 
+drückender 
+sind 
+aber 
+Ueberfahrungen
+, 
+weil 
+solche 
+bedauerlicher 
+Weift 
+sehr 
+oft 
+zmu 
+Nachteile 
+der 
+Wagenführer 
+Auslegung 
+finden 
+und 
+leider 
+auch 
+zu 
+strafrechtlichem 
+Einschreiten 
+Anlass 
+geben
+. 
+Gerade 
+aber 
+weil 
+der 
+Verkehr 
+in 
+seiner 
+eilfertigen 
+Abfertigung 
+freie 
+Passage 
+erfordert
+, 
+sollte 
+das 
+zu 
+Fuß 
+gehende 
+Publikum 
+vor 
+Allem 
+beachten
+, 
+baß 
+tunlichst 
+der 
+Straßeiidamm 
+frei 
+und 
+dadurch 
+die 
+Kommunikation 
+nach 
+Möglichkeit 
+eine 
+«»gehinderte 
+tmhe
+. 
+Beachte 
+man 
+doch 
+den 
+Riesenverkehr 
+in 
+London
+, 
+dessen 
+Eity-lEaßen 
+nicht 
+breiter 
+und 
+wegsamer 
+als 
+unserer 
+ReichS-Hauptstadt-Straßen
+, 
+aber 
+als 
+das 
+Herz 
+der 
+großen 
+Weltstadt 
+angesehen 
+werden 
+können
+, 
+Straßen 
+wie 
+Lombard 
+- 
+Street
+, 
+Mark 
+Lane
+, 
+Mincing 
+Lane
+, 
+Paternoster 
+Kow
+, 
+Fleet 
+Street 
+in 
+denen 
+die 
+Welt
+-
+Kaiifhäuftr 
+ihre 
+Lager 
+rc. 
+besitzen
+, 
+so 
+»inss 
+doch 
+zugegeben 
+werden
+, 
+daß 
+Passanten 
+und 
+Wagenführer 
+in 
+peinlichster 
+Obacht 
+sich 
+gegenseitig 
+unterstützen
+, 
+gegenseitig 
+ihre 
+Rechte 
+wahren
+. 
+Gerade 
+hierin 
+liegt 
+eben 
+die 
+Gewähr 
+der 
+Sicherheit 
+des 
+Straßenverkehrs 
+»nd 
+wenn 
+der 
+Deutsche 
+dies 
+erst 
+recht 
+beachtet
+, 
+aber 
+auch 
+im 
+Fahrwescn 
+die 
+Errungenschaften 
+der 
+Neuzeit 
+ans 
+das 
+Personal 
+verniehrt 
+einwirken
+, 
+daun 
+werden 
+Klagen 
+gemindert
+, 
+unter 
+deren 
+Folgen 
+oft 
+geling 
+beide 
+Teile 
+leiden 
+und 
+Schmerzen 
+ertragen 
+müffen
+. 
+f 
+bli 
+Ein 
+MöbclFuhrmann 
+sucht 
+mittelst 
+Annonce 
+ein 
+paar 
+Herren
+, 
+welche 
+ihm 
+in 
+der 
+Lindenstraße 
+Möbel 
+znm 
+Fahren 
+übergeben 
+haben
+. 
+An 
+Vergefflichkeit 
+ist 
+doch 
+bei 
+solchein 
+Objekt 
+kaum 
+zu 
+glauben
+. 
+— 
+Sollte 
+e» 
+sich 
+mit 
+gestohlene 
+Sachen 
+handeln
+? 
+Nach 
+Schluss 
+der 
+Redattio« 
+eingetroffene 
+Depeschen
+. 
+(
+Helfen 
+kt 
+rchen» 
+3
+. April
+. 
+Die 
+BergmerkSverwaltiingen 
+der 
+ausständigen 
+Zechen 
+fordern 
+die 
+Belegschaften 
+durch 
+Anschlag 
+auf
+, 
+ungesäumt 
+zur 
+Arbeit 
+zurückzukehren
+. 
+Wer 
+bis 
+zuni 
+9
+. 
+d
+. 
+Mts
+. 
+einschließlich 
+nicht 
+die 
+Arbeit 
+wieder 
+aufgenommen 
+hat
+, 
+soll 
+als 
+abgekehrt 
+und 
+nicht 
+mehr 
+zur 
+Belegschaft 
+gehörig 
+angesehen 
+werden
+. 
+Dortmund
+, 
+3
+. 
+April
+. 
+Ter 
+„
+Rhcin
+.
+-
+Wcstf
+. 
+Ztg
+.
+" 
+zufolge 
+macht 
+die 
+Besserung 
+in 
+der 
+Ausstandobcwegnng 
+weitere 
+Fortschritte
+. 
+Heute 
+Nachmittag 
+sind 
+die 
+Belegschaften 
+der 
+Gruben 
+„
+Bruchstraße
+"
+, 
+„
+(
+frone
+" 
+und 
+„
+Borussia
+" 
+vollzählig 
+angefahren
+. 
+Ans 
+der 
+Grube 
+„
+Neu
+-
+Jserlohn
+" 
+arbeiteten 
+heute 
+Neichinittag 
+von 
+590 
+Mann 
+227
+, 
+ans 
+Gnibe 
+„
+Hannover
+" 
+fuhren 
+heute 
+Nachmittag 
+von 
+190 
+Mann 
+96 
+an
+. 
+Karlsruhe» 
+3
+. 
+April
+. 
+Die 
+„
+Daily 
+NcwS
+" 
+haben 
+Mitteilungen 
+von 
+ihrem 
+wiener 
+Korrespondenten 
+in 
+Bezug 
+auf 
+die 
+Abreise 
+deS 
+GroßherzoaS 
+von 
+Baden 
+von 
+Berlin B-LOC 
+gebracht
+, 
+die 
+sich 
+nur 
+als 
+dreiste 
+Erfindungen 
+charaktcrisiren 
+lasse»
+. 
+I» 
+herzlichster 
+Uebereinstimmung 
+mit 
+dem 
+Kaiser 
+verließ 
+der 
+Großherzog 
+von 
+Baden 
+Berlin B-LOC
+, 
+und 
+gerne 
+gab 
+er 
+den 
+kaiserlichen 
+Majestäten 
+die 
+gewünschte 
+Zusage
+, 
+so 
+oft 
+zu 
+ihnen 
+zu 
+kommen 
+als 
+möglich
+. 
+Paris
+, 
+3
+. 
+April
+. 
+Frollea»
+, 
+Bischof 
+von 
+Evreux
+, 
+ist 
+heule 
+gestorben
+. 
+Nom» 
+3
+. 
+April
+. 
+Die 
+„
+Riforina
+" 
+meldet
+, 
+daß 
+der 
+König 
+dem 
+bisherigen 
+französischen 
+Minister 
+des 
+Aenßeren
+, 
+Spuller
+, 
+in 
+Anerkennung 
+der 
+erfolgreichen 
+Bemühungen 
+desselben
+, 
+die 
+Beziehungen 
+zwischen 
+Frankreich 
+und 
+Italien' 
+herzlich 
+zu 
+gestalten
+, 
+das 
+Großkrcnz 
+de>5 
+Mauritills- 
+und 
+Lazarus 
+- 
+Ordcnö 
+verliehen 
+habe
+. 
+Petersburg» 
+3
+. 
+April
+. 
+Die 
+heute 
+in 
+Warschau 
+abgehaltene 
+Generalversanimlnng 
+der 
+Warschau-Wiener 
+und 
+Warschau-Bromberger 
+Eisenbahn 
+beschloss 
+mit 
+350 
+gegen 
+17 
+Stimmen
+, 
+der 
+Regierung 
+einen 
+Teil 
+der 
+Einnahmen 
+zu 
+überlassen 
+und 
+einen 
+finanziellen 
+Vergleich 
+auf 
+der 
+von 
+dem 
+BerwaltnngSrat 
+vorgeschlagenen 
+Basis 
+einzugehen
+, 
+wenn 
+die 
+Regiernng 
+die 
+Nmivandluiig 
+der 
+5prozentigcn 
+Obligationen 
+in 
+»
+prozentige 
+steuerfreie 
+Obligationen 
+billigt
+. 
+Die 
+ausländischen 
+Aktionäre 
+enthielten 
+sich 
+der 
+Abstimmung
+. 
+Sofia
+, 
+3
+. 
+April
+. 
+(
+Nieldung 
+der 
+Agence 
+Balcaniqne
+.
+) 
+Die 
+Nachricht 
+von 
+der 
+Abreise 
+des 
+hiesigen 
+Vertreters 
+Serbiens 
+aus 
+Sofia 
+ist 
+erfunden
+; 
+unrichtig 
+ist 
+'auch 
+die 
+Meldung 
+von 
+dem 
+Abbruch 
+der 
+serbisch-bulgarischen 
+Beziehungen
+. 
+Die 
+Angelegenheit 
+des 
+Konsuls 
+Mintfchowitsch 
+ist 
+aus 
+dein 
+beste» 
+Wege
+, 
+geregelt 
+zu 
+werden
+. 
+' 
+Kairo
+, 
+3
+. 
+April
+. 
+(
+Telegramm 
+des 
+Rentcrschen 
+BnrrauS
+.
+) 
+Da 
+die 
+Antwort 
+der 
+französischen 
+Regierung 
+in 
+Betreff 
+der 
+Konversion 
+der 
+ägyptischen 
+Schuld 
+günstig 
+lautete
+, 
+so 
+werden 
+Palmer
+, 
+finanzieller 
+Beirat 
+der 
+ägyptischen 
+Regierung
+, 
+unb 
+Tigrane 
+Pascha
+, 
+NntcrstaatSsekretär 
+des 
+Aenßeren
+, 
+mit 
+dem 
+nächsten 
+Postdampfer 
+nach 
+Paris 
+abreisen
+, 
+um 
+über 
+die 
+Einzelheiten 
+der 
+Konversion 
+Besprechungen 
+zu 
+pflegen
+. 
+Börne 
+tmei 
+Handel
+. 
+b 
+Bon 
+der 
+berliner 
+Börse
+, 
+S
+. 
+April
+. 
+Die 
+Kurse 
+im 
+SpckulationSmarkt 
+lunchte» 
+heute 
+im 
+Allgemeinen 
+ziemlich 
+starke 
+Schwankungen 
+durch
+, 
+unb 
+die 
+Fixer 
+rüsteten 
+sich 
+zu 
+einem 
+neuen 
+Feldzuge
+. 
+Aber 
+a»ch 
+den 
+Gelüsten 
+dieser 
+bösen 
+Menschen
+, 
+deren 
+Freude 
+um 
+so 
+größer 
+ist
+, 
+je 
+inehr 
+die 
+Kurse 
+sinken
+, 
+ist 
+ein 
+Ziel 
+gesteckt
+. 
+Da 
+ist 
+zun; 
+Beispiel 
+die Schwänze
+, 
+eine 
+Gefahr
+, 
+weiche 
+nur 
+den 
+Fixern 
+droht
+. 
+Die 
+Schwänze 
+»st 
+ein 
+Konsortium 
+vou 
+möglichst 
+wenigen 
+Finanzkrüfteii 
+ersten 
+Ranges
+, 
+und 
+sie 
+bildet 
+sich 
+in 
+dem 
+Augenblicke
+, 
+da 
+es 
+offenbar 
+wird
+, 
+daß 
+die 
+Fixer 
+sich 
+über 
+Gebühr
+, 
+das 
+heißt 
+in 
+größeren 
+Posten
+, 
+als 
+überhaupt 
+von 
+der 
+Waare 
+existirt
+, 
+durch 
+"
+staiiko-Abgabeii 
+per 
+Ultmo 
+engagirt 
+haben
+. 
+Die 
+Schwänze 
+kaust 
+Alles
+, 
+was 
+von 
+dem 
+versixtcn 
+Papier 
+zu 
+bekommen 
+ist
+, 
+effektiv 
+an
+, 
+legt 
+es 
+inö 
+Depot 
+und 
+fordert 
+am 
+Ultimo 
+von 
+den 
+arglosen 
+Fixern
+, 
+welche 
+ja 
+gar 
+nicht 
+wirtlich 
+liefern
+, 
+soiKrern 
+nur 
+die 
+'Differenz 
+zu 
+ihren 
+Gunsten 
+verrechnen 
+wollten
+, 
+die 
+effektive 
+Lieferung 
+der 
+Effekten
+. 
+Da 
+ist 
+guter 
+Rat 
+teuer
+. 
+Die 
+Schwänze 
+giebt 
+kein 
+Stück 
+heraus
+, 
+es 
+sei 
+denn
+, 
+daß 
+ein 
+Preis 
+gezahlt 
+wird
+, 
+der 
+alle 
+Unkosten 
+und 
+ausgestandene» 
+Schmerzen 
+reichlich 
+paralysirt
+: 
+mit 
+anderen 
+Worten
+, 
+sie 
+diktirt 
+den 
+Kurs
+, 
+und 
+der 
+geträumte 
+Gewinn 
+verwandelt 
+sich 
+unter 
+de» 
+Singen 
+der 
+Fixer 
+in 
+einen 
+herben 
+Verlust
+. 
+Die 
+Schwänze 
+muss 
+natürlich 
+in 
+sich 
+selbst 
+kugelfest 
+sein
+, 
+denn 
+wenn 
+ein 
+Angstmeier 
+darunter 
+ist
+, 
+geht 
+der 
+künstliche 
+Bau 
+in 
+die 
+Brüche
+. 
+Die 
+Kurse 
+konnte» 
+bei 
+dieser 
+Sadilage 
+heute 
+keinen 
+rechten 
+Aufschwung 
+gewinnen
+, 
+und 
+überall
+, 
+abgesehen 
+vom 
+Mcmtanmarkt
+, 
+ging 
+eö 
+still 
+her
+. 
+Bochnmer 
+notirten 
+171
+, 
+168,50
+, 
+171
+, 
+168,50
+, 
+167
+, 
+Dortmunder 
+91
+, 
+89*/
+„ 
+89
+, 
+Harpener 
+fielen 
+ihrer 
+alten 
+Gewohnheit 
+gemäß 
+gleich 
+ordentlich 
+von 
+212 
+auf 
+205
+. 
+Banken 
+zeigten 
+ebenfalls 
+weniger 
+Lebe» 
+als 
+gestern 
+und 
+aus 
+dem 
+Bahnenmarkt 
+schienen 
+die 
+Ostpreußen 
+erschüttert
+. 
+Der 
+Verkehr 
+auf 
+dieser 
+Bahn 
+ist 
+gegenwärtig 
+so 
+ungewöhnlich 
+schwach
+, 
+daß 
+man 
+einem 
+Gerüchte 
+vom 
+Getreidemarkt
+, 
+von 
+den 
+Vorräten 
+der 
+alten 
+russischen 
+Ernte 
+sei 
+nichts 
+mehr 
+vorhanden
+, 
+gern 
+Glauben 
+scheuste
+. 
+Der 
+Kassainarkt 
+zeigte 
+Festigkeit
+; 
+wahrscheinlich 
+eine 
+Folge 
+der 
+gestrigen 
+Hcmffe 
+im 
+SpekulationSinarst
+. 
+Ostpreusslsclie 
+SOdl.nlin
+. 
+Die 
+Genera 
+I*ers*nwu!ung 
+findet 
+am 
+24
+. 
+April 
+er
+. 
+iu 
+Königsberg 
+i
+. 
+Pr
+, 
+statt 
+Auf 
+der 
+Tagesordnung 
+steht 
+ausser 
+den 
+gewöhnlichen 
+Gegenständen 
+der 
+Antrag 
+eines 
+Aktionärs 
+betreffs 
+Konverliruug 
+der 
+4%procentigen 
+Prioritäts-Obligationen 
+in 
+3%procentige
+. 
+Figcnbnlin 
+- 
+Einnahmen
+. 
+Oestreiehisehe 
+Nordwestbahn
+. 
+Einnahme 
+vom 
+1
+. 
+Januar 
+bis 
+31
+. 
+März
+: 
+Garantirte 
+Linie 
+2 
+035150 
+sl
+. 
+(
++ 
+147 665 
+ff
+.
+) 
+nngarant
+. 
+Linie 
+1322 781 
+fl
+. 
+(
+-*- 
+53 626 
+fl
+.
+) 
+— 
+Anatolische 
+Eisenbahnen 
+(
+llaydar-Pascha-lsmid
+)
+. 
+Einnahme 
+pro 
+Februar 
+42373 
+Frei
+. 
+Ausgabe 
+pro 
+Februar 
+32 056 Frcs
+; 
+Einnahmen 
+Tom 
+)
+. 
+Januar 
+bis 
+28 
+Februar 
+93 130 
+Frcs
+.
+, 
+Ausgaben 
+füi 
+die 
+gleiche 
+Zeit 
+69 216 
+Frcs
+. 
+— 
+Crefeld-Uerdingcr 
+Localbahn
+. 
+Betriebs-Einnahmen 
+pro 
+März 
+20 238 
+X 
+(
++ 
+1258 
+X
+\ 
+Vereinigte 
+DnnipIVieliifr—(le.sellHchan 
+in 
+Kopenhagen
+, 
+Die 
+(iesellschaft
+. 
+welche 
+die 
+stattliche 
+Zahl 
+von 
+100 
+Dampfern 
+besitzt
+, 
+hat 
+in 
+1889 
+einen 
+Frachtengewinn 
+von 
+14217 000 
+Kr
+. 
+erzielt 
+und 
+verbleibt 
+nach 
+Abzug 
+der 
+Betriebskosten 
+von 
+10 499 000 
+Kr
+. 
+ein 
+Itoti 
+gewinn 
+von 
+3 768 000 
+Kr
+. 
+Nach 
+Kürzung 
+von 
+Abschreibungen
+. 
+Tantiemen
+. 
+stellt 
+sich 
+der 
+Reingewinn 
+auf 
+I 170 000 
+Kr
+.
+, 
+aus 
+dem 
+10 
+pOL 
+Dividende 
+mit 
+800 000 
+Kr
+. 
+verteilt
+, 
+200000 
+Kr
+. 
+dem 
+Pcnsipns- 
+und 
+Unterstützungsfonds 
+überwiesen 
+und 
+170 000 
+Kr
+. 
+auf 
+neue 
+Rechnung 
+vorgetragen 
+werden 
+. 
+Hn«lischt
+: 
+Rank
+. 
+In 
+der 
+General-Versammlung 
+wurde 
+die 
+vorgeschlagene 
+Dividende 
+pro 
+1889 
+von 
+14 
+X 
+25 
+«X 
+pro 
+Aktie 
+genehmigt 
+Dresdner 
+Bankverein
+. 
+Die 
+Generalversammlung 
+genehmigte 
+die 
+Bilanz 
+pro 
+1889
+. 
+erteilte 
+die 
+Decliarge 
+und 
+wählte 
+das 
+ausscheidende 
+Mitglied 
+des 
+Aufsichlsrates
+, 
+Herrn 
+Fabrikbesitzer 
+Oscar 
+Bierling 
+(
+Dresden
+) 
+wieder
+. 
+Die 
+Dividende 
+von 
+8 
+pCt 
+gleich 
+80 
+Mark 
+pro 
+alte 
+Aktie 
+und 
+40 
+Mark 
+pro 
+junge 
+Aktie 
+wird 
+sofort 
+ausgezahlt
+. 
+Stru£Scnbnhii>
+Einii.ihnieii. 
+Per 
+März
+: 
+Potsdamer 
+10 953 
+Mark
+.
+— 
+Allgemeine 
+Berliner 
+Omnibus-Aktien-Gesellschaft 
+169 891 
+X 
+(
+1889
+: 
+119541.
+#
+)
+. 
+— 
+Breslauer 
+704)5 
+X
+. 
+total 
+seit 
+Januar 
+195 379 
+X 
+(
++ 
+11 828 
+.A!
+)
+. 
+— 
+Stettiner 
+Strassen-Eisenhahn-Gesellschaft
+. 
+Die 
+Betriebs-Einnahme 
+betrug 
+im 
+März 
+1S90 
+30 942 
+X 
+(
+1890 
++ 
+2590 
+.#
+)
+, 
+bis 
+ult
+. 
+Februar 
+1890 
++ 
+8354 
+X
+, 
+mithin 
+bis 
+ult 
+März 
+1890 
++ 
+5914 
+X. 
+— 
+Magdeburger 
+Strasseneisenbahn
+. 
+Die 
+Betriebseinnahrue 
+im 
+März 
+er
+. 
+stellt 
+sieh 
+auf 
+63 335
+.
+#
+. 
+— 
+Grosse 
+Berliner 
+Pferde-Kisenbahn
+. 
+Einnahme 
+vom 
+26
+. 
+März 
+bis 
+1
+. 
+April 
+292 
+292.40 
+X 
+(
+Mehr-Eiunahme 
+2774736 
+X
+)
+, 
+Einnahme 
+vom 
+1. 
+Januar 
+bis 
+I 
+April 
+3280 
+147.78 
+.
+As 
+(
+Mehr-Einnahme 
+333 030.21 
+Mark
+)
+. 
+(
+Durchschnittliche 
+Einnahme 
+auf 
+den 
+Tag 
+36 043.58 
+X
+)
+. 
+SpandnucrbcrS'Bi'aucrei 
+vorin
+. 
+C
+. 
+Beehmnnn
+. 
+In 
+den 
+ersten 
+6 
+Monaten 
+des 
+laufenden 
+Geschäftsjahres 
+wurden 
+43 317% 
+To
+. 
+gegen 
+39 084*5, 
+To
+. 
+im 
+vorigen 
+Jahre verkauft
+, 
+demnach 
+ein 
+Mehrabsatz
+. 
+von 
+4232"/, 
+To
+. 
+oder 
+5291 
+Hektoliter 
+erzielt 
+Deutsche 
+Bniigeaellschnst
+. 
+Wie 
+verlautet 
+hat 
+Herr 
+Direktor 
+Schipmann 
+(
+Deutsche 
+Transport-Versicherungs-Gesellschaft 
+in 
+Berlin B-LOC
+) 
+die 
+in 
+der 
+letzten 
+General-Versammlung 
+auf 
+ihn 
+gefallene 
+Wahl 
+zum 
+Aufsichtsratsmitgliede 
+abgelehnt
+. 
+BniiMgescllschnft 
+Moabit
+. 
+Nach 
+dem 
+Geschäftsbericht 
+pro 
+1889 
+wird 
+der 
+nach 
+Dotining 
+des 
+Reservefonds 
+verbleibende 
+Gewinnsaldo 
+von 
+485 443
+.
+/# 
+wie 
+folgt 
+zur 
+Verteilung 
+vorgeschlagen 
+: 
+als 
+7 
+pCt 
+Dividende 
+von 
+2600000 
+X 
+Aktienkapital 
+182000 
+X
+. 
+als 
+Tantiemen 
+31380 
+X
+. 
+als 
+Vortrag 
+auf 
+neue 
+Rechnung 
+272 063 X
+. 
+Dortmunder 
+DerRbau-Gowellücbnst 
+bei 
+Weitinnr
+. 
+Der 
+Anfsichtsrat 
+hat 
+beschlossen
+, 
+das 
+Grundkapital 
+der 
+Gesellschaft 
+durch 
+Ausgabe 
+von 
+666 000 
+X 
+Vorzugsaktien 
+zu 
+erhöhe» 
+und 
+wird 
+dieser 
+Betrag 
+den 
+Aktionären 
+zum 
+Kurse 
+von 
+106 
+pCt
+. 
+derart 
+zum 
+Bezüge 
+angeboten
+, 
+dass 
+je 
+fünf 
+alte 
+Vorzugsaktien 
+ä 
+1200.
+/
+# 
+zum 
+Bezüge 
+einer 
+neuen 
+Vorzugsaktie 
+5 1200 
+berechtigen
+. 
+Die 
+Ausübung 
+des 
+Bezugsrechts 
+bat 
+in 
+der 
+Zeit 
+vom 
+5
+. 
+bis 
+einschliesslich 
+15
+. 
+April 
+er
+: 
+zu 
+erfolgen
+. 
+Bielefelder 
+Mnsclilnon-Fnbrik 
+vorm
+. 
+Diirkopp 
+& 
+Co
+. 
+In 
+der 
+gestrigen 
+General-Versammlung 
+wurde 
+dem 
+Vorstande 
+und 
+Aufsichtsrat 
+Entlastung 
+erteilt
+, 
+die 
+Bilanz 
+genehmigt 
+und 
+die 
+Mitglieder 
+des 
+Aufsichtsrats 
+sämmtlich 
+wiedergewählt
+. 
+Die 
+«if 
+10 
+pCt
+. 
+festgesetzte 
+Dividende 
+ist 
+sofort 
+zahlbar
+. 
+EiüoiigicMgerci 
+AktiongenellHebnrt
+, 
+vormals 
+Kryling 
+dt 
+Thomas
+. 
+Dem 
+Bericht 
+über 
+das 
+Geschäftsjahr 
+1889 
+entnehmen 
+wir
+: 
+Die 
+Verteilung 
+des 
+Reingewinnes 
+inclusive 
+Vortrag 
+pro 
+1889 
+CriiMaiicr 
+Kupfer- 
+und 
+Messing-Fabrik 
+A
+.
+-
+G
+. 
+In 
+der 
+heutigen 
+Aufsichtsrats-Sitzung 
+ist 
+beschlossen 
+worden
+, 
+nach 
+reichlich 
+bemessenen 
+Abschreibungen 
+der 
+Generalversammlung 
+die 
+Verteilung 
+einer 
+Dividende
+von 
+9 pCt
+. 
+vorzuschlagen
+. 
+Abänderung 
+den 
+Zurkerwteiier-Gesotzps
+, 
+Di« 
+.Magd
+. 
+Zeitung
+“ 
+schreibt
+: 
+„
+Verhandlungen 
+über 
+eine 
+Abänderung 
+des 
+Gesetzes 
+vom 
+9
+. 
+Juli 
+1887
+, 
+betreffend 
+die 
+Besteuerung 
+des 
+Zuckers
+, 
+finden
+, 
+wie 
+wir 
+aus 
+guter 
+Quelle 
+erfahren
+, 
+statt 
+in 
+der 
+Richtung 
+der 
+völligen 
+Aufhebung 
+der 
+Materialsicuer
+. 
+Diese 
+Verhandlungen 
+lehnen 
+sich 
+an 
+und 
+haben 
+zur 
+Voraussetzung 
+eine 
+etwa 
+hervortretende 
+Notwendigkeit
+, 
+die 
+Einnahmen 
+des 
+Reiches 
+wesentlich 
+zu 
+vermehren
+. 
+Darüber 
+zu 
+beschliessen
+, 
+wird 
+der 
+demnächst 
+zusammentretende 
+Reichstag 
+Gelegenheit 
+erhalten
+. 
+Dass 
+es 
+bei 
+Aufhebung 
+der 
+Rübensleuer 
+vor 
+allen 
+Dingen 
+auf 
+eine 
+Beseitigung 
+der 
+Ausfuhrprämien 
+und 
+der 
+damit 
+zusammenhängenden 
+Verkürzung 
+der 
+Steuer-Einnahme 
+des 
+Reiches 
+abgesehen 
+ist
+. 
+vesteht 
+sich 
+von 
+selbst
+. 
+Voraussichtlich 
+wird 
+eine 
+solche 
+Massregel 
+aber 
+jedenfalls 
+nicht 
+vor 
+Beginn 
+der 
+Campagne 
+1891—92
+, 
+also 
+nicht 
+vor 
+dem 
+1
+. 
+August 
+1891
+, 
+in 
+Kraft 
+treten
+.
+“ 
 Frankfurt a. M.. 3. April. Abends. Effecten-Smretäi. Kredit- 
 aktien 255 1 /?, Franzosen 184V«, Lombarden 102 7 /s- Galizier lsiä'A, Egypter 
 95.10 4proc. linear. Goldrente —. Gotthardbahn 162.20, Diskonto- 
@@ -13992,22 +17250,145 @@ Wintcrweizen toco 89. — Kaffee (Fair Rio) 20%, Rio Nr. 7, low
 ord. pr. Mai 17 37, pr. Juli 16.97. — Mehl 2 D. 55 C. — Getreide- 
 fracht 3. — Kupfer per Mai 14,35 nom. — Weizen per April 87, pr, 
 Mai 87%, pr. Dezember 87%. 
-KnlTcc, 
-linninnre, 3. April, 3 Uhr 30 Min. (Nachmittagsbeiiclit.) Kaffee. 
-g ood average Santo» per April 8650, per Mai 86,75, per September 
-3,7a, per Dezember 78,7a. 
-Petroleum. 
-. 3 - A P riL Petroleum (Schlussbericht). Standard whiU 
-loco 6o5 Br. 
-. Metnlle. 
-London, 3 April. Chili-Kupfer 48%, pr. 3 Monat 48V«. 
-Amsterdam« 3. Anril. Nachm. Bancnxinn MV* 
-C*JaHprow, 3. April. Nachm. (Roheisen, Schluss.) Mixed numbrot 
-Warrants 48 sh. 9 d. 
-c» Vorrath© von Roheisen in den 
-Storos belaufen sich auf 819 951 Tons gegen 1031822 Tons im vorigen 
-Jahre. Die Zahl der im Betrieb© benndhehen Hochofen beträgt 89 
-gegen 82 im vorigen Jahre. 
+KnlTcc
+, 
+linninnre
+, 
+3
+. 
+April
+, 
+3 
+Uhr 
+30 
+Min
+. 
+(
+Nachmittagsbeiiclit
+.
+) 
+Kaffee
+. 
+good 
+average 
+Santo» 
+per 
+April 
+8650
+, 
+per 
+Mai 
+86,75
+, 
+per 
+September 
+3,7a
+, 
+per 
+Dezember 
+78,7a
+. 
+Petroleum
+. 
+. 
+3 
+- 
+APriL 
+Petroleum 
+(
+Schlussbericht
+)
+. 
+Standard 
+whiU 
+loco 
+6o5 
+Br
+. 
+. 
+Metnlle
+. 
+London
+, 
+3 
+April
+. 
+Chili-Kupfer 
+48%
+, 
+pr
+. 
+3 
+Monat 
+48V«
+. 
+Amsterdam« 
+3
+. 
+Anril
+. 
+Nachm
+. 
+Bancnxinn 
+MV* 
+C*JaHprow
+, 
+3
+. 
+April
+. 
+Nachm
+. 
+(
+Roheisen
+, 
+Schluss
+.
+) 
+Mixed 
+numbrot 
+Warrants 
+48 
+sh
+. 
+9 
+d
+. 
+c» 
+Vorrath© 
+von 
+Roheisen 
+in 
+den 
+Storos 
+belaufen 
+sich 
+auf 
+819 
+951 
+Tons 
+gegen 
+1031822 
+Tons 
+im 
+vorigen 
+Jahre
+. 
+Die 
+Zahl 
+der 
+im 
+Betrieb© 
+benndhehen 
+Hochofen 
+beträgt 
+89 
+gegen 
+82 
+im 
+vorigen 
+Jahre
+. 
 <-- A_SBB_00007_18900512_000_218_0_020 -->
 12 
 Berliner 
@@ -16129,7 +19510,7 @@ La
 Plata-Liuien
 ; 
 „
-Berlin
+Berlin B-LOC
 “ 
 am 
 10
@@ -16196,7 +19577,7 @@ am
 Mai 
 1890 
 nach 
-Berlin 
+Berlin B-LOC 
 12956 
 Ctr
 . 
@@ -16229,7 +19610,7 @@ Fass
 Spiritus
 ; 
 nach 
-Potsdam 
+Potsdam B-LOC
 2200 
 Ctr
 . 
@@ -16244,7 +19625,7 @@ Dr
 . 
 Konewka
 , 
-Berlin
+Berlin B-LOC
 . 
 — 
 Rotationsdruck 
@@ -16278,7 +19659,7 @@ Metzoldt
 )
 “
 , 
-Berlin 
+Berlin B-LOC 
 W
 .
 , 
@@ -16300,12 +19681,27 @@ Donnerstag
 MLrz
 . 
 3 
-Aufhebung des Stahlhelmverbots 
-für Rheinland-Westfalen abgelehnt. 
-bin Beschluß der Regierungs 
-parteien im Preußischen Landtag. 
-Wiederholte Abstimmungen über die Wiuzer- 
-kredite. 
+Aufhebung 
+des 
+Stahlhelmverbots 
+für 
+Rheinland-Westfalen 
+abgelehnt
+. 
+bin 
+Beschluß 
+der 
+Regierungsparteien 
+im 
+Preußischen 
+Landtag
+. 
+Wiederholte 
+Abstimmungen 
+über 
+die 
+Wiuzerkredite
+. 
 In Fortsetzung sanier Rede zum Etat der 
 Handels, und Ge werbe Verwaltung führt« in 
 der gestrigen Sitzung des Landtages (f. Abendblatt) Abg. 
@@ -17008,14 +20404,23 @@ Rr. 405.
 Berti», Dienstag bei» 31. August 1990« 
 19. Jahrgang. 
 Montag! 
-Die .Norddeutsch« Allgemeine Zeitung' erscheint täglich Morgen» und Tdend», mit Auinahm« von Sonnt», Abend und 
-IO Pf« für Berlin nehmen sämmtliche «peditenre, Pofi-Extzedittoue», somit die «xgeditio» dieser Zeitung, 
-w Pf. Inserate nimmt dir thprdttion an. Prei» pro fünfspaltige Petitzetl, 40 Pf. «eitrige für dir Rrdavlo» der .Nord 
-erdete». Nachträgliche vouorara«sprüche si»tze» Kirn verii«fichti,»»^ nnbeuützte Einsendungen »anen nicht 
-Der AionnemenUprei» beträgt für da» Deutsch« «eich und di» österreichisch-ungarische Monarchie «iertelsäbeltch 7 «art 
-99, Abonnement» «irrtelsihrlich ,um Preis» von 7 Kni SO ff. inel. «ringerloh» entgegen. Prei» der ein,eine» Nummer 
-Allgemeinen Zeit»«,' sind an diese, «erli» 9». «UHUmstrast» 99, »« richte», mft Mir» gleichzeitige vouornraugad, 
-! werde». Die Redaktion und die Expedition frmeklrr» alle chm Sendungen, nehm» daher auch nur sraukirt« Brief« an. 
+Die .Norddeutsch« Allgemeine Zeitung' erscheint 
+täglich Morgen» und Tdend», mit Auinahm« von Sonnt», Abend und 
+IO Pf« für Berlin nehmen sämmtliche «peditenre, Pofi-Extzedittoue», 
+somit die «xgeditio» dieser Zeitung, 
+w Pf. Inserate nimmt dir thprdttion an. 
+Prei» pro fünfspaltige Petitzetl, 40 Pf. 
+«eitrige für dir Rrdavlo» der .Nord 
+erdete». Nachträgliche vouorara«sprüche si»tze» 
+Kirn verii«fichti,»»^ nnbeuützte Einsendungen »anen nicht 
+Der AionnemenUprei» beträgt für da» Deutsch« «eich 
+und di» österreichisch-ungarische Monarchie «iertelsäbeltch 7 «art 
+99, Abonnement» «irrtelsihrlich ,um Preis» von 7 Kni SO ff. inel. 
+«ringerloh» entgegen. Prei» der ein,eine» Nummer 
+Allgemeinen Zeit»«,' sind an diese, «erli» 9». 
+«UHUmstrast» 99, »« richte», mft Mir» gleichzeitige vouornraugad, 
+! werde». Die Redaktion und die Expedition frmeklrr» 
+alle chm Sendungen, nehm» daher auch nur sraukirt« Brief« an. 
 Für dm Monat September er 
 öffnen wir ein besondere» Abonnement zum 
 Preise von luk 8.50. Bestellungen wer 
@@ -17652,7 +21057,9 @@ ie 33 mm breite mn«-Zeile mal Schlüsselzabl. BedarfS-
 anzcigen werden nach besonderem Tarif berechnet 
 13 10 8 gjj 476 ^0 Mill. 
 62. gadrqang. 
-AbonnemcntS werben nur annenommc». wen» der Besteller sich verpflichte», cnoaiqc wüsireud der BczugSzeit notwendig werdende PrclScrhSl,u»ncn zu bezahle«. 
+AbonnemcntS werben nur annenommc». wen» der Besteller 
+sich verpflichte», cnoaiqc wüsireud der BczugSzeit notwendig 
+werdende PrclScrhSl,u»ncn zu bezahle«. 
 ?lnzeiq,.n.Cch>üsieI,l,>,> ln‘ute 000000. 
 Das Ermächtigungsgesetz angenommen. 
 316:24. ! Die Notregelung der Wirtschaft. 
