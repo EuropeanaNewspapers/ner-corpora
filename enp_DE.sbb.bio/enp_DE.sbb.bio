@@ -2783,102 +2783,103 @@ Montevideo B-LOC
 eingetroffen O
 . O
 — O
-Die 
-Glattdecks-Korvette 
-„
-Medusa
-"
-, 
-9 
-Geschütze
-, 
-Kommandant 
-Korvetten-Kapitän 
-Matthesen
-, 
-traf 
-am 
-27
-. 
-November 
-c
-. 
-in 
-Port 
-of 
-Spain 
-ein' 
-ging 
-am 
-6
-. 
-Dezember 
-in 
-See 
-und 
-ankerte 
-am 
-11
-. 
-desselben 
-Monats 
-in 
-Barbadoes
-. 
-Letzte 
-Nachrichten. 
-Oesterreich-Ungarn
-.
-, 
-I
-. 
-Wien
-, 
-31
-. 
-Dezember
-. 
-(
-Privat-Telegr
-. 
-des 
-Berliner 
-Tageblatts
-.
-) 
-Aus 
-Prag 
-wird 
-gemeldet
-: 
-Im 
-Czechenklub 
-hielt 
-Nieger 
-eine 
-Rede 
-über 
-die 
-Universitätsfrage
-, 
-der 
-zufolge 
-die 
-Czechen 
-von 
-der 
-Regierung 
-die 
-Einbringung 
-einer 
-Kreditvorlage 
-zur 
-Durchführung 
-der 
-Gleichberechtigung 
-verlangen 
-werden
-. 
+Die O
+Glattdecks-Korvette O 
+„ O
+Medusa O
+" O
+, O
+9 O
+Geschütze O
+, O
+Kommandant O 
+Korvetten-Kapitän O 
+Matthesen B-PER
+, O
+traf O 
+am O
+27 O
+. O
+November O 
+c O
+. O
+in O
+Port B-LOC 
+of I-LOC
+Spain I-LOC
+ein' O
+ging O
+am O
+6 O
+. O
+Dezember O 
+in O
+See O
+und O
+ankerte O
+am O
+11 O
+. O
+desselben O 
+Monats O
+in O
+Barbadoes B-LOC
+. O
+Letzte O
+Nachrichten O
+. O
+Oesterreich-Ungarn B-LOC
+. O
+, O
+I O
+. O
+Wien B-LOC
+, O
+31 O
+. O
+Dezember O
+. O
+( O
+Privat-Telegr O
+. O
+des O 
+Berliner B-ORG 
+Tageblatts I-ORG
+. O
+) O
+Aus O 
+Prag B-LOC
+wird O
+gemeldet O
+: O
+Im O
+Czechenklub O
+hielt O
+Nieger B-PER
+eine O
+Rede O
+über O
+die O
+Universitätsfrage O
+, O
+der O 
+zufolge O 
+die O
+Czechen O 
+von O
+der O
+Regierung O 
+die O
+Einbringung O 
+einer O
+Kreditvorlage O 
+zur O
+Durchführung O
+der O
+Gleichberechtigung O
+verlangen O
+werden O
+. O
 „
 Wir 
 werden 
