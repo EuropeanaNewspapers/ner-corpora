@@ -3624,165 +3624,166 @@ Freycinet B-PER
 ein O
 . O
 — O 
-Waddington 
-soll 
-heute 
-dem 
-früheren 
-Botschafter 
-in 
-der 
-Schweiz 
-Bernard 
-d'Harconrt 
-seine 
-Sekundanten 
-geschickt 
-haben 
-wegen 
-des 
-von 
-letzterem 
-mit 
-vollem 
-Namen 
-und 
-Titel 
-unterzeichneten 
-Artikels 
-an 
-der 
-Spitze 
-des 
-gestrigen 
-Figaro
-. 
-Derselbe 
-bitte 
-.
-,
-ne 
-unbarmherzige 
-Kritik 
-Waddingtöns 
-und 
-schloß 
-mit 
-geraden 
-beschimpfenden 
-Vorwürfen
-. 
-— 
-Heute 
-Vormittag 
-fand 
-ein 
-zweites 
-Duell 
-zwischen 
-Mayer
-, 
-dem 
-Direktor 
-der 
-„
-Lauterue
-" 
-und 
-Alphons 
-Humbert 
-vom 
-„
-Mot 
-d'
-Ordre
-" 
-statt
-; 
-Ersterer 
-wurde 
-an 
-der 
-Hüfte 
-leicht
-, 
-dieser 
-an 
-der 
-Schulter 
-schwer 
-verwundet
-. 
-Paris
-, 
-31
-. 
-Dezember
-. 
-(
-Wolffs 
-Bür
-.
-) 
-Wie 
-der 
-„
-Temps
-" 
-meldet
-, 
-hat 
-der 
-Ministerpräsident 
-Freycinet 
-an 
-die 
-Vertreter 
-Frankreichs 
-im 
-Auslande 
-eine 
-Depesche 
-gerichtet
-, 
-in 
-welcher 
-er 
-dieselben 
-davon 
-in 
-Kenntniß 
-setzt
-, 
-daß 
-er 
-das 
-Portefeuille 
-des 
-Auswärtigen 
-übernommen 
-habe
-, 
-und 
-sie 
-seines 
-Wunsches
-, 
-die 
-guten 
-Beziehungen 
-zu 
-den 
-Mächten 
-zu 
-erhalten
-, 
-versichert
-. 
-England. 
-2
-. 
-London» 
+Waddington B-PER
+soll O
+heute O
+dem O
+früheren O
+Botschafter O
+in O
+der O
+Schweiz B-LOC
+Bernard B-PER
+d'Harconrt I-PER
+seine O
+Sekundanten O
+geschickt O
+haben O
+wegen O
+des O
+von O
+letzterem O
+mit O
+vollem O
+Namen O
+und O
+Titel O
+unterzeichneten O
+Artikels O
+an O
+der O
+Spitze O
+des O
+gestrigen O
+Figaro B-ORG
+. O
+Derselbe O
+bitte O
+. O
+, O
+ne O
+unbarmherzige O
+Kritik O
+Waddingtons B-PER 
+und O
+schloß O
+mit O
+geraden O
+beschimpfenden O
+Vorwürfen O
+. O
+— O
+Heute O
+Vormittag O
+fand O
+ein O
+zweites O
+Duell O
+zwischen O
+Mayer B-PER
+, O
+dem O
+Direktor O
+der O
+„ O
+Lauterue B-ORG
+" O
+und O
+Alphons B-PER
+Humbert I-PER
+vom O
+„ O
+Mot B-ORG
+d' I-ORG
+Ordre I-ORG
+" O
+statt O
+; O
+Ersterer O
+wurde O
+an O
+der O
+Hüfte O
+leicht O
+, O
+dieser O
+an O
+der O
+Schulter O
+schwer O
+verwundet O
+. O
+Paris B-LOC
+, O
+31 O
+. O
+Dezember O
+. O
+( O
+Wolffs O
+Bür O
+. O
+) O
+Wie O
+der O
+„ O
+Temps B-ORG
+" O
+meldet O
+, O
+hat O
+der O
+Ministerpräsident O
+Freycinet B-PER
+an O
+die O
+Vertreter O
+Frankreichs B-LOC 
+im O
+Auslande O
+eine O
+Depesche O
+gerichtet O
+, O
+in O
+welcher O
+er O
+dieselben O
+davon O
+in O
+Kenntniß O
+setzt O
+, O
+daß O
+er O
+das O
+Portefeuille O
+des O
+Auswärtigen O
+übernommen O
+habe O
+, O
+und O
+sie O
+seines O
+Wunsches O
+, O
+die O
+guten O
+Beziehungen O
+zu O
+den O
+Mächten O
+zu O
+erhalten O
+, O
+versichert O
+. O
+England. B-LOC
+2 O
+. O
+London B-LOC
+, O
 31
 . 
 Dezember
