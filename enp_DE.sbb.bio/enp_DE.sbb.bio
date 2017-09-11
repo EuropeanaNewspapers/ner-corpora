@@ -5629,119 +5629,119 @@ Wedel I-PER
 . O
 — O
 Die O
-Kronprinzessin
-empfing
-gestern
-abend
-die
-Gemahlin
-des
-türkischen
-Botschafters
-Mahmud
-Mukhtar
-Pascha
-.
-Darauf
-empfingen
-der
-Kronprinz
-und
-die
-Kronprinzessin
-den
-amerikanischen
-Botschafter
-mit
-Gemahlin
-,
-den
-chinesischen
-Gesandten
-mit
-Gemahlin
-und
-den
-siamesischen
-Gesandten
-.
-Herzog
-Ernst
-Angust
-von
-Braunschweig
-ist
-gestern
-abend
-10
-Uhr
-13
-Minuten
-vom
-Potsdamer
-Bahnhof
-nach
-Braunschweig
-zurückgereist
-.
-Prinz
-Eitel
-Friedrich
-gab
-seinem
-Schwager
-das
-Geleit
-zum
-Bahnhof
-,
-wo
-sich
-zur
-Verabschiedung
-auch
-General
-v
-.
-Chelius
-eingefunden
-hatte
-.
-London
-,
-17
-.
-Januar
-.
-(
-W
-.
-T
-.
-B
-.
-)
-Die
-Admiralität
-hat
-aus
-Anlaß
-des
-Untergangs
-des
-Unterseebootes
-„
-A
-1
-“
-zahlreiche
-Beileidskundgebungen
-erhalten
-,
-unter
-anderen
-von
-dem
+Kronprinzessin O
+empfing O
+gestern O
+abend O
+die O
+Gemahlin O
+des O
+türkischen O
+Botschafters O
+Mahmud B-PER
+Mukhtar I-PER
+Pascha I-PER
+. O
+Darauf O
+empfingen O
+der O
+Kronprinz O
+und O
+die O
+Kronprinzessin O
+den O
+amerikanischen O
+Botschafter O
+mit O
+Gemahlin O
+, O
+den O
+chinesischen O
+Gesandten O
+mit O
+Gemahlin O
+und O
+den O
+siamesischen O
+Gesandten O
+. O
+Herzog B-PER
+Ernst I-PER
+Angust I-PER
+von O
+Braunschweig B-LOC
+ist O
+gestern O
+abend O
+10 O
+Uhr O
+13 O
+Minuten O
+vom O
+Potsdamer B-LOC
+Bahnhof I-LOC
+nach O
+Braunschweig B-LOC
+zurückgereist O
+. O
+Prinz B-PER
+Eitel I-PER
+Friedrich I-PER
+gab O
+seinem O
+Schwager O
+das O
+Geleit O
+zum O
+Bahnhof O
+, O
+wo O
+sich O
+zur O
+Verabschiedung O
+auch O
+General O
+v B-PER
+. I-PER
+Chelius I-PER
+eingefunden O
+hatte O
+. O
+London B-LOC
+, O
+17 O
+. O
+Januar O
+. O
+( O
+W O
+. O
+T O
+. O
+B O
+. O
+) O
+Die O
+Admiralität O
+hat O
+aus O
+Anlaß O
+des O
+Untergangs O
+des O
+Unterseebootes O
+„ O
+A O
+1 O
+“ O
+zahlreiche O
+Beileidskundgebungen O
+erhalten O
+, O
+unter O
+anderen O
+von O
+dem O
 deutschen
 ,
 dem
