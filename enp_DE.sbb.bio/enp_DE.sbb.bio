@@ -7613,219 +7613,220 @@ Beiblätter O
 <-- file:		F_SBB_00001_19330409_033_015_5_006 -->
 <-- sbb url:	http://zefys.staatsbibliothek-berlin.de/kalender/auswahl/date/1933-04-09/27646518/ -->
 <-- tel url:	??? -->
-6
-V 0
-I
-lf
-CM
-C
-IVCITAD
-Aus
-dem
-Norwegischen
-übersetzt
-von
-Julia
-Koppel
-Kapitel
-I
-.
-Villa
-„
-Bellavista
-“
-.
-Aus
-dem
-polizeilichen
-Verhör
-ging
-später
-hervor
-,
-wie
-die
-Lage
-am
-Sonnabend
-,
-dem
-10
-.
-,
-nachmittags
-um
-14
-Uhr
-,
-gewesen
-war
-.
-Die
-einzigen
-,
-die
-sich
-in
-Villa
-„
-Bellavista
-“
-und
-deren
-unmittelbarer
-Nähe
-aufgehalten
-hatten
-,
-waren
-Frau
-Halvorsen
-und
-der
-Mechaniker
-Axel
-Axelson
-.
-Zuerst
-ein
-paar
-Worte
-über
-die
-Villa
-:
-Sie
-lag
-in
-dem
-Villenviertel
-Bygdö
-ausserhalb
-Oslo
-,
-war
-ein
-Holzbau
-aus
-den
-neunziger
-Jahren
-,
-sehr
-einfach
-,
-aber
-behaglich
-:
-vier
-Zimmer
-,
-Küche
-und
-Mädchenzimmer
-im
-Erdgeschoss
-.
-Veranda
-.
-Im
-ersten
-Stock
-zwei
-Giebelzimmer
-unter
-dem
-schrägen
-Strohdach
-.
-Gleich
-neben
-dem
-Haus
-eine
-kleine
-Garage
-,
-auch
-aus
-Holz
-mit
-einem
-Dach
-aus
-Wellblech
-.
-Ein
-Garten
-gehörte
-dazu
-,
-der
-aber
-ein
-wenig
-verwahrlost
-war
-.
-Die
-Hauptlandstrasse
-lief
-etwa
-fünfhundert
-Meter
-davon
-entfernt
-vorbei
-,
-und
-ein
-schmaler
-Seitenweg
-führte
-von
-ihr
-zur
-Villa
-;
-er
-wurde
-so
-wenig
-benutzt
-,
-dass
-in
-den
-Wagenspuren
-Gras
-wuchs
-.
-Man
-sah
-,
-dort
-wohnten
-einsame
-Menschen
-.
-Der
-Besitzer
-der
-Villa
-war
-Rentier
-Hammel
-,
-und
-die
-Witwe
-Frau
-Halvorsen
-war
-seine
-Haushälterin
-.
+6 O
+V O
+0 O
+I O
+lf O
+CM O
+C O
+IVCITAD O
+Aus O
+dem O
+Norwegischen O
+übersetzt O
+von O
+Julia B-PER
+Koppel I-PER
+Kapitel O
+I O
+. O
+Villa O
+„ O
+Bellavista O
+“ O
+. O
+Aus O
+dem O
+polizeilichen O
+Verhör O
+ging O
+später O
+hervor O
+, O
+wie O
+die O
+Lage O
+am O
+Sonnabend O
+, O
+dem O
+10 O
+. O
+, O
+nachmittags O
+um O
+14 O
+Uhr O
+, O
+gewesen O
+war O
+. O
+Die O
+einzigen O
+, O
+die O
+sich O
+in O
+Villa O
+„ O
+Bellavista O
+“ O
+und O
+deren O
+unmittelbarer O
+Nähe O
+aufgehalten O
+hatten O
+, O
+waren O
+Frau O
+Halvorsen B-PER
+und O
+der O
+Mechaniker O
+Axel B-PER
+Axelson I-PER
+. O
+Zuerst O
+ein O
+paar O
+Worte O
+über O
+die O
+Villa O
+: O
+Sie O
+lag O
+in O
+dem O
+Villenviertel O
+Bygdö B-LOC
+ausserhalb O
+Oslo B-LOC
+, O
+war O
+ein O
+Holzbau O
+aus O
+den O
+neunziger O
+Jahren O
+, O
+sehr O
+einfach O
+, O
+aber O
+behaglich O
+: O
+vier O
+Zimmer O
+, O
+Küche O
+und O
+Mädchenzimmer O
+im O
+Erdgeschoss O
+. O
+Veranda O
+. O
+Im O
+ersten O
+Stock O
+zwei O
+Giebelzimmer O
+unter O
+dem O
+schrägen O
+Strohdach O
+. O
+Gleich O
+neben O
+dem O
+Haus O
+eine O
+kleine O
+Garage O
+, O
+auch O
+aus O
+Holz O
+mit O
+einem O
+Dach O
+aus O
+Wellblech O
+. O
+Ein O
+Garten O
+gehörte O
+dazu O
+, O
+der O
+aber O
+ein O
+wenig O
+verwahrlost O
+war O
+. O
+Die O
+Hauptlandstrasse O
+lief O
+etwa O
+fünfhundert O
+Meter O
+davon O
+entfernt O
+vorbei O
+, O
+und O
+ein O
+schmaler O
+Seitenweg O
+führte O
+von O
+ihr O
+zur O
+Villa O
+; O
+er O
+wurde O
+so O
+wenig O
+benutzt O
+, O
+dass O
+in O
+den O
+Wagenspuren O
+Gras O
+wuchs O
+. O
+Man O
+sah O
+, O
+dort O
+wohnten O
+einsame O
+Menschen O
+. O
+Der O
+Besitzer O
+der O
+Villa O
+war O
+Rentier O
+Hammel B-PER
+, O
+und O
+die O
+Witwe O
+Frau O
+Halvorsen B-PER
+war O
+seine O
+Haushälterin O
+. O
 Hammel
 befand
 sich
