@@ -8135,290 +8135,290 @@ Hammel B-PER
 verreist O
 sei O
 . O
-„
-Ach
-nein
-“
-,
-antwortete
-sie
-,
-„
-daran
-bin
-ich
-gewöhnt
-,
-er
-ist
-viel
-unterwegs
-.
-“
-Darauf
-erzählte
-sie
-ihm
-,
-sie
-wäre
-über
-Sonntag
-bei
-ihrer
-Schwester
-eingeladen
-,
-die
-ein
-Blumengeschäft
-in
-dem
-Villenviertel
-Seter
-betriebe
-.
-„
-Das
-trifft
-sich
-gut
-“
-,
-sagte
-Axelson
-,
-„
-ich
-habe
-dort
-in
-der
-Gegend
-zu
-tun
-und
-kann
-sie
-mitnehmen
-.
-“
-Bald
-darauf
-verliessen
-sie
-das
-Haus
-.
-Als
-Frau
-Halvorsen
-die
-Haustür
-abschliessen
-wollte
-,
-versagte
-das
-Schloss
-.
-Axelson
-bot
-ihr
-seine
-Hilfe
-an
-,
-schliesslich
-aber
-gelang
-es
-ihr
-mit
-einer
-Kraftanstrengung
-,
-den
-Schlüssel
-umzudrehen
-.
-Sie
-rüttelte
-noch
-einmal
-am
-Schloss
-,
-um
-sich
-zu
-überzeugen
-,
-ob
-es
-auch
-richtig
-geschlossen
-hätte
-.
-Dies
-alles
-haben
-die
-beiden
-später
-vor
-Gericht
-zu
-Protokoll
-gegeben
-.
-Axelson
-half
-ihr
-beim
-Einsteigen
-und
-deckte
-sie
-fürsorglich
-mit
-einer
-Decke
-zu
-.
-Es
-war
-ein
-kalter
-,
-grauer
-Tag
-.
-Als
-Axelson
-den
-Motor
-anliess
-,
-blickte
-er
-zum
-Himmel
-hinauf
-und
-murmelte
-:
-„
-Ich
-glaube
-,
-wir
-bekommen
-Schnee
-.
-“
-„
-Kann
-schon
-sein
-“
-,
-meinte
-die
-Alte
-,
-„
-ich
-spüre
-es
-in
-meinen
-Knochen
-.
-“
-Dann
-fuhren
-sie
-los
-.
-Axelson
-machte
-nirgends
-unterwegs
-halt
-,
-und
-in
-einer
-halben
-Stunde
-konnte
-er
-sie
-vor
-dem
-Hause
-ihrer
-Schwester
-absetzen
-.
-Die
-Schwester
-hiess
-Fräulein
-Isidora
-Peters
-.
-Die
-Geschwister
-waren
-aus
-guter
-Familie
-,
-und
-wenn
-sie
-beisammensassen
-und
-ihren
-Kaffee
-schlürften
-,
-sagten
-sie
-immer
-voller
-Stolz
-„
-wir
-Peters
-“
-.
-Aus
-den
-Polizeiakten
-geht
-hervor
-,
-dass
-alles
-,
-was
-Frau
-Halvorsen
-und
-Axelson
-über
-jenen
-Sonnabendnachmittag
-ausgesagt
-haben
-,
-richtig
-war
-.
+„ O
+Ach O
+nein O
+“ O
+, O
+antwortete O
+sie O
+, O
+„ O
+daran O
+bin O
+ich O
+gewöhnt O
+, O
+er O
+ist O
+viel O
+unterwegs O
+. O
+“ O
+Darauf O
+erzählte O
+sie O
+ihm O
+, O
+sie O
+wäre O
+über O
+Sonntag O
+bei O
+ihrer O
+Schwester O
+eingeladen O
+, O
+die O
+ein O
+Blumengeschäft O
+in O
+dem O
+Villenviertel O
+Seter B-LOC
+betriebe O
+. O
+„ O
+Das O
+trifft O
+sich O
+gut O
+“ O
+, O
+sagte O
+Axelson B-PER
+, O
+„ O
+ich O
+habe O
+dort O
+in O
+der O
+Gegend O
+zu O
+tun O
+und O
+kann O
+sie O
+mitnehmen O
+. O
+“ O
+Bald O
+darauf O
+verliessen O
+sie O
+das O
+Haus O
+. O
+Als O
+Frau O
+Halvorsen B-PER
+die O
+Haustür O
+abschliessen O
+wollte O
+, O
+versagte O
+das O
+Schloss O
+. O
+Axelson B-PER
+bot O
+ihr O
+seine O
+Hilfe O
+an O
+, O
+schliesslich O
+aber O
+gelang O
+es O
+ihr O
+mit O
+einer O
+Kraftanstrengung O
+, O
+den O
+Schlüssel O
+umzudrehen O
+. O
+Sie O
+rüttelte O
+noch O
+einmal O
+am O
+Schloss O
+, O
+um O
+sich O
+zu O
+überzeugen O
+, O
+ob O
+es O
+auch O
+richtig O
+geschlossen O
+hätte O
+. O
+Dies O
+alles O
+haben O
+die O
+beiden O
+später O
+vor O
+Gericht O
+zu O
+Protokoll O
+gegeben O
+. O
+Axelson B-PER
+half O
+ihr O
+beim O
+Einsteigen O
+und O
+deckte O
+sie O
+fürsorglich O
+mit O
+einer O
+Decke O
+zu O
+. O
+Es O
+war O
+ein O
+kalter O
+, O
+grauer O
+Tag O
+. O
+Als O
+Axelson B-PER
+den O
+Motor O
+anliess O
+, O
+blickte O
+er O
+zum O
+Himmel O
+hinauf O
+und O
+murmelte O
+: O
+„ O
+Ich O
+glaube O
+, O
+wir O
+bekommen O
+Schnee O
+. O
+“ O
+„ O
+Kann O
+schon O
+sein O
+“ O
+, O
+meinte O
+die O
+Alte O
+, O
+„ O
+ich O
+spüre O
+es O
+in O
+meinen O
+Knochen O
+. O
+“ O
+Dann O
+fuhren O
+sie O
+los O
+. O
+Axelson B-PER
+machte O
+nirgends O
+unterwegs O
+halt O
+, O
+und O
+in O
+einer O
+halben O
+Stunde O
+konnte O
+er O
+sie O
+vor O
+dem O
+Hause O
+ihrer O
+Schwester O
+absetzen O
+. O
+Die O
+Schwester O
+hiess O
+Fräulein O
+Isidora B-PER
+Peters I-PER
+. O
+Die O
+Geschwister O
+waren O
+aus O
+guter O
+Familie O
+, O
+und O
+wenn O
+sie O
+beisammensassen O
+und O
+ihren O
+Kaffee O
+schlürften O
+, O
+sagten O
+sie O
+immer O
+voller O
+Stolz O
+„ O
+wir O
+Peters B-PER
+“ O
+. O
+Aus O
+den O
+Polizeiakten O
+geht O
+hervor O
+, O
+dass O
+alles O
+, O
+was O
+Frau O
+Halvorsen B-PER
+und O
+Axelson B-PER
+über O
+jenen O
+Sonnabendnachmittag O
+ausgesagt O
+haben O
+, O
+richtig O
+war O
+. O
 Es
 stimmte
 ,
