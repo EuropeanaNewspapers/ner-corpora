@@ -8419,421 +8419,421 @@ haben O
 richtig O
 war O
 . O
-Es
-stimmte
-,
-dass
-Axelson
-in
-Seter
-zu
-tun
-hatte
-,
-unter
-anderem
-hatte
-er
-eine
-kleine
-Autoreparatur
-für
-den
-Gerichtsarzt
-Dr
-.
-Ebner
-auszuführen
-.
-Dr
-.
-Ebner
-erinnerte
-sich
-noch
-genau
-,
-dass
-er
-ihn
-am
-Sonnabend
-ungefähr
-um
-15
-Uhr
-30
-Minuten
-in
-der
-Garage
-gesehen
-und
-ein
-paar
-gleichgültige
-Worte
-mit
-ihm
-gewechselt
-hatte
-.
-Frau
-Halvorsen
-blieb
-,
-wie
-beabsichtigt
-,
-bis
-Montag
-vormittag
-bei
-ihrer
-Schwester
-.
-Sie
-waren
-die
-ganze
-Zeit
-allein
-und
-es
-war
-sehr
-gemütlich
-.
-So
-ein
-paar
-alte
-Schwestern
-haben
-sich
-immer
-viel
-aus
-alten
-Zeiten
-zu
-erzählen
-.
-Auch
-berichtete
-Isidora
-von
-ihrem
-Blumengeschäft
-,
-das
-recht
-gut
-ging
-.
-Das
-Villenviertel
-war
-im
-Aufblühen
-begriffen
-,
-viele
-neue
-Villen
-wurden
-gebaut
-.
-Gestern
-hatte
-eine
-grosse
-Hochzeit
-stattgefunden
-,
-wobei
-ihr
-Laden
-fast
-geleert
-worden
-war
-,
-und
-Fräulein
-Isidora
-zählte
-voller
-Stolz
-die
-vornehmen
-Familien
-auf
-,
-denen
-sie
-Blumen
-verkauft
-hatte
-.
-Sonntag
-abend
-war
-Fräulein
-Isidora
-noch
-zum
-Bahnhof
-gegangen
-,
-um
-in
-ihrem
-Postfach
-nach
-Briefen
-zu
-sehen
-.
-Als
-sie
-zurückkam
-,
-war
-sie
-auf
-den
-Schultern
-ganz
-weiss
-.
-„
-Es
-schneit
-tüchtig
-“
-,
-sagte
-sie
-und
-schüttelte
-ihren
-Mantel
-.
-„
-Das
-habe
-ich
-schon
-in
-meinen
-Knochen
-gespürt
-“
-,
-sagte
-Frau
-Halvorsen
-triumphierend
-,
-weil
-sie
-recht
-behalten
-hatte
-.
-„
-Und
-Axelson
-meinte
-es
-auch
-.
-“
-Bevor
-sie
-zu
-Bett
-gingen
-,
-guckten
-sie
-noch
-einmal
-aus
-dem
-Fenster
-.
-Es
-schneite
-noch
-immer
-stark
-.
-Die
-Felder
-waren
-ganz
-weiss
-und
-die
-Luft
-war
-winterstill
-.
-Montag
-vormittag
-fuhr
-Frau
-Halvorsen
-mit
-dem
-Autobus
-zur
-Stadt
-.
-Die
-Landstrasse
-war
-schon
-viel
-befahren
-worden
-,
-so
-dass
-der
-Autobus
-gut
-vorwärtskam
-;
-ausserdem
-hatte
-er
-Schneeschaufeln
-an
-den
-Rädern
-.
-Frau
-Halvorsen
-hielt
-sieh
-ungefähr
-eine
-Stunde
-in
-der
-Stadt
-auf
-,
-um
-mit
-Rücksicht
-auf
-Hammels
-bevorstehende
-Ankunft
-Einkäufe
-zu
-machen
-.
-Um
-13
-Uhr
-war
-sie
-zu
-Hause
-.
-Indem
-sie
-von
-der
-Hauptlandstrasse
-in
-den
-Seitenweg
-einbog
-,
-konnte
-sie
-des
-Schnees
-wegen
-kaum
-vorwärtskommen
-.
-Der
-Garten
-und
-alles
-war
-mit
-einer
-dicken
-,
-ganz
-unberührten
-Schneeschicht
-bedeckt
-.
-Während
-sie
-sich
-zum
-Haus
-durcharbeitete
-,
-überlegte
-sie
-,
-ob
-sie
-sich
-jemand
-zum
-Schneeschaufeln
-kommen
-lassen
-sollte
-;
-die
-Arbeit
-würde
-ihre
-Kräfte
-wohl
-übersteigen
-.
-Als
-sie
-endlich
-vor
-der
-Haustür
-stand
-und
-aufschliessen
-wollte
-,
-wurde
-sie
-so
-überrascht
-,
-dass
-sie
-sich
-ans
-Herz
-greifen
-musste
-,
-so
-klopfte
-es
-.
+Es O
+stimmte O
+, O
+dass O
+Axelson B-PER
+in O
+Seter B-LOC
+zu O
+tun O
+hatte O
+, O
+unter O
+anderem O
+hatte O
+er O
+eine O
+kleine O
+Autoreparatur O
+für O
+den O
+Gerichtsarzt O
+Dr O
+. O
+Ebner B-PER
+auszuführen O
+. O
+Dr O
+. O
+Ebner B-PER
+erinnerte O
+sich O
+noch O
+genau O
+, O
+dass O
+er O
+ihn O
+am O
+Sonnabend O
+ungefähr O
+um O
+15 O
+Uhr O
+30 O
+Minuten O
+in O
+der O
+Garage O
+gesehen O
+und O
+ein O
+paar O
+gleichgültige O
+Worte O
+mit O
+ihm O
+gewechselt O
+hatte O
+. O
+Frau O
+Halvorsen B-PER
+blieb O
+, O
+wie O
+beabsichtigt O
+, O
+bis O
+Montag O
+vormittag O
+bei O
+ihrer O
+Schwester O
+. O
+Sie O
+waren O
+die O
+ganze O
+Zeit O
+allein O
+und O
+es O
+war O
+sehr O
+gemütlich O
+. O
+So O
+ein O
+paar O
+alte O
+Schwestern O
+haben O
+sich O
+immer O
+viel O
+aus O
+alten O
+Zeiten O
+zu O
+erzählen O
+. O
+Auch O
+berichtete O
+Isidora B-PER
+von O
+ihrem O
+Blumengeschäft O
+, O
+das O
+recht O
+gut O
+ging O
+. O
+Das O
+Villenviertel O
+war O
+im O
+Aufblühen O
+begriffen O
+, O
+viele O
+neue O
+Villen O
+wurden O
+gebaut O
+. O
+Gestern O
+hatte O
+eine O
+grosse O
+Hochzeit O
+stattgefunden O
+, O
+wobei O
+ihr O
+Laden O
+fast O
+geleert O
+worden O
+war O
+, O
+und O
+Fräulein O
+Isidora B-PER
+zählte O
+voller O
+Stolz O
+die O
+vornehmen O
+Familien O
+auf O
+, O
+denen O
+sie O
+Blumen O
+verkauft O
+hatte O
+. O
+Sonntag O
+abend O
+war O
+Fräulein O
+Isidora B-PER
+noch O
+zum O
+Bahnhof O
+gegangen O
+, O
+um O
+in O
+ihrem O
+Postfach O
+nach O
+Briefen O
+zu O
+sehen O
+. O
+Als O
+sie O
+zurückkam O
+, O
+war O
+sie O
+auf O
+den O
+Schultern O
+ganz O
+weiss O
+. O
+„ O
+Es O
+schneit O
+tüchtig O
+“ O
+, O
+sagte O
+sie O
+und O
+schüttelte O
+ihren O
+Mantel O
+. O
+„ O
+Das O
+habe O
+ich O
+schon O
+in O
+meinen O
+Knochen O
+gespürt O
+“ O
+, O
+sagte O
+Frau O
+Halvorsen B-PER
+triumphierend O
+, O
+weil O
+sie O
+recht O
+behalten O
+hatte O
+. O
+„ O
+Und O
+Axelson B-PER
+meinte O
+es O
+auch O
+. O
+“ O
+Bevor O
+sie O
+zu O
+Bett O
+gingen O
+, O
+guckten O
+sie O
+noch O
+einmal O
+aus O
+dem O
+Fenster O
+. O
+Es O
+schneite O
+noch O
+immer O
+stark O
+. O
+Die O
+Felder O
+waren O
+ganz O
+weiss O
+und O
+die O
+Luft O
+war O
+winterstill O
+. O
+Montag O
+vormittag O
+fuhr O
+Frau O
+Halvorsen B-PER
+mit O
+dem O
+Autobus O
+zur O
+Stadt O
+. O
+Die O
+Landstrasse O
+war O
+schon O
+viel O
+befahren O
+worden O
+, O
+so O
+dass O
+der O
+Autobus O
+gut O
+vorwärtskam O
+; O
+ausserdem O
+hatte O
+er O
+Schneeschaufeln O
+an O
+den O
+Rädern O
+. O
+Frau O
+Halvorsen B-PER
+hielt O
+sich O
+ungefähr O
+eine O
+Stunde O
+in O
+der O
+Stadt O
+auf O
+, O
+um O
+mit O
+Rücksicht O
+auf O
+Hammels B-PER
+bevorstehende O
+Ankunft O
+Einkäufe O
+zu O
+machen O
+. O
+Um O
+13 O
+Uhr O
+war O
+sie O
+zu O
+Hause O
+. O
+Indem O
+sie O
+von O
+der O
+Hauptlandstrasse O
+in O
+den O
+Seitenweg O
+einbog O
+, O
+konnte O
+sie O
+des O
+Schnees O
+wegen O
+kaum O
+vorwärtskommen O
+. O
+Der O
+Garten O
+und O
+alles O
+war O
+mit O
+einer O
+dicken O
+, O
+ganz O
+unberührten O
+Schneeschicht O
+bedeckt O
+. O
+Während O
+sie O
+sich O
+zum O
+Haus O
+durcharbeitete O
+, O
+überlegte O
+sie O
+, O
+ob O
+sie O
+sich O
+jemand O
+zum O
+Schneeschaufeln O
+kommen O
+lassen O
+sollte O
+; O
+die O
+Arbeit O
+würde O
+ihre O
+Kräfte O
+wohl O
+übersteigen O
+. O
+Als O
+sie O
+endlich O
+vor O
+der O
+Haustür O
+stand O
+und O
+aufschliessen O
+wollte O
+, O
+wurde O
+sie O
+so O
+überrascht O
+, O
+dass O
+sie O
+sich O
+ans O
+Herz O
+greifen O
+musste O
+, O
+so O
+klopfte O
+es O
+. O
 Die
 Tür
 war
