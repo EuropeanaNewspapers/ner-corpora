@@ -17336,7 +17336,7 @@ Dresdner B-ORG
 Bank I-ORG
 147.20 O
 , O
-Laurahüttc O
+Laurahütte O
 138,10 O
 , O
 Lübeck- O
@@ -17348,136 +17348,136 @@ Marienburg-Mlawka O
 , O
 3proz O
 . O
-Portugiesische
-Anleihe
-—,—
-,
-Dux-Bodenbach
-—
-,
-1880er
-Russen
-—,—
-,
-Hessische
-Ludwigshahn
-—,—
-,
-Gelsenkirchen
-166.90
-,
-Türkische
-Loose
-—,—
-,
-Berliner
-Handelsgesellschaft
-—,—
-,
-La
-Veloce
-—,—
-.
-Lustlos
-.
-Wien
-,
-3
-.
-April
-,
-Nachm
-.
-5
-Chr
-50
-Min
-.
-Abendbörse
-.
-Ungar
-.
-Kreditaktien
-33000
-.
-österr
-.
-Kreditaktien
-299.75
-Franzosen
-217,00
-,
-Lombarden
-122 00
-.
-Galizier
-194.00
-,
-Nordwestbahn
-201.00
-,
-Elhetalbahn
-215 75
-.
-österr
-.
-Papicrrente
-88,00
-,
-do
-.
-Goldrente
-11020
-,
-5proc
-.
-ungar
-.
-Papierrente
-98.85
-,
-4
-proc
-.
-do
-Goldrente
-101.90
-,
-Mai
-knoten
-58,57
-,
-Napoleons
-9.46
-.
-Bankverein
-116,80
-,
-Tabakaktien
-109,00
-,
-Unionbank
-24050
-.
-Länderbank
-216 50
-,
-Alpine
-Montan
-—
-.
-London
-,
-3
-.
-April
-,
-Abends
-6
-Uhr
-15
-Minuten
-.
+Portugiesische O
+Anleihe O
+—,— O
+, O
+Dux-Bodenbach O
+— O
+, O
+1880er O
+Russen O
+—,— O
+, O
+Hessische O
+Ludwigshahn O
+—,— O
+, O
+Gelsenkirchen B-LOC
+166.90 O
+, O
+Türkische O
+Loose O
+—,— O
+, O
+Berliner B-ORG
+Handelsgesellschaft I-ORG
+—,— O
+, O
+La O
+Veloce O
+—,— O
+. O
+Lustlos O
+. O
+Wien B-LOC
+, O
+3 O
+. O
+April O
+, O
+Nachm O
+. O
+5 O
+Chr O
+50 O
+Min O
+. O
+Abendbörse O
+. O
+Ungar O
+. O
+Kreditaktien O
+33000 O
+. O
+österr O
+. O
+Kreditaktien O
+299.75 O
+Franzosen O
+217,00 O
+, O
+Lombarden O
+122 00 O
+. O
+Galizier O
+194.00 O
+, O
+Nordwestbahn O
+201.00 O
+, O
+Elhetalbahn O
+215 75 O
+. O
+österr O
+. O
+Papierrente O
+88,00 O
+, O
+do O
+. O
+Goldrente O
+11020 O
+, O
+5proc O
+. O
+ungar O
+. O
+Papierrente O
+98.85 O
+, O
+4 O
+proc O
+. O
+do O
+Goldrente O
+101.90 O
+, O
+Mai O
+knoten O
+58,57 O
+, O
+Napoleons O
+9.46 O
+. O
+Bankverein O
+116,80 O
+, O
+Tabakaktien O
+109,00 O
+, O
+Unionbank O
+24050 O
+. O
+Länderbank O
+216 50 O
+, O
+Alpine O
+Montan O
+— O
+. O
+London B-LOC
+, O
+3 O
+. O
+April O
+, O
+Abends O
+6 O
+Uhr O
+15 O
+Minuten O
+. O
 Preussische
 Consols
 105
