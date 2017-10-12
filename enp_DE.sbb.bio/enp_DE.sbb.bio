@@ -20225,229 +20225,229 @@ Nrn O
 in O
 Bremerhaven B-LOC
 . O
-„
-Saale
-“
-am
-10
-.
-Mai
-7
-Uhr
-Vorm
-.
-von
-Soutbampton
-nach
-New-York
-.
-„
-Eins
-“
-am
-10
-.
-Mai
-von
-Bremerhaven
-nach
-New-York
-.
-„
-Hermann
-“
-am
-9
-.
-Mai
-von
-New-York
-nach
-Bremen
-.
-„
-Rhein
-“
-am
-8
-.
-Mai
-in
-Baltimore
-.
-„
-München
-“
-am
-9
-.
-Mai
-Dover
-passirt
-.
-der
-Brasil-
-und
-La
-Plata-Linien
-;
-„
+„ O
+Saale O
+“ O
+am O
+10 O
+. O
+Mai O
+7 O
+Uhr O
+Vorm O
+. O
+von O
+Southampton B-LOC
+nach O
+New-York B-LOC
+. O
+„ O
+Eins O
+“ O
+am O
+10 O
+. O
+Mai O
+von O
+Bremerhaven B-LOC
+nach O
+New-York B-LOC
+. O
+„ O
+Hermann O
+“ O
+am O
+9 O
+. O
+Mai O
+von O
+New-York B-LOC
+nach O
+Bremen B-LOC
+. O
+„ O
+Rhein O
+“ O
+am O
+8 O
+. O
+Mai O
+in O
+Baltimore B-LOC
+. O
+„ O
+München O
+“ O
+am O
+9 O
+. O
+Mai O
+Dover B-LOC
+passirt O
+. O
+der O
+Brasil- O
+und O
+La O
+Plata-Linien O
+; O
+„ O
+Berlin O
+“ O
+am O
+10 O
+. O
+Mai O
+in O
+Antwerpen B-LOC
+. O
+„ O
+Leipzig O
+* O
+am O
+10 O
+. O
+Mai O
+von O
+Bremerhaven B-LOC
+nach O
+Antwerpen B-LOC
+, O
+Coruna B-LOC
+, O
+Vigo B-LOC
+, O
+La B-OLOC
+Plata I-LOC
+. O
+der O
+Linien O
+nach O
+Ost-Asien B-LOC
+und O
+Australien B-LOC
+: O
+„ O
+Preussen O
+“ O
+am O
+10 O
+. O
+Mai O
+in O
+Genua B-LOC
+. O
+„ O
+Neckar O
+“ O
+am O
+10 O
+. O
+Mai O
+in O
+Singapore B-LOC
+. O
+Canal O
+- O
+Liste O
+. O
+Khcrswahle O
+passirten O
+am O
+9 O
+. O
+Mai O
+1890 O
+nach O
 Berlin B-LOC
-“
-am
-10
-.
-Mai
-in
-Antwerpen
-.
-„
-Leipzig
-*
-am
-10
-.
-Mai
-von
-Bremerhaven
-nach
-Antwerpen
-,
-Coruua
-,
-Vigo
-,
-La
-Plata
-.
-der
-Linien
-nach
-Ost-Asien
-und
-Australien
-:
-„
-Preussen
-“
-am
-10
-.
-Mai
-in
-Genua
-.
-„
-Neckar
-“
-am
-10
-.
-Mai
-in
-Singapore
-.
-Canal
--
-Liste
-.
-Khcrswahle
-passirten
-am
-9
-.
-Mai
-1890
-nach
-Berlin B-LOC
-12956
-Ctr
-.
-Hafer
-,
-7100
-Ctr
-.
-Meld
-,
-2280
-Centuer
-Roggen
-,
-1400
-Ctr
-.
-Gerste
-;
-ijacli
-ßreriau
-1930
-Fass
-Petroleum
-;
-nach
-Ilamburg
-225
-Fass
-Spiritus
-;
-nach
+12956 O
+Ctr O
+. O
+Hafer O
+, O
+7100 O
+Ctr O
+. O
+Meld O
+, O
+2280 O
+Centuer O
+Roggen O
+, O
+1400 O
+Ctr O
+. O
+Gerste O
+; O
+ijacli O
+ßreriau O
+1930 O
+Fass O
+Petroleum O
+; O
+nach O
+Hamburg B-LOC
+225 O
+Fass O
+Spiritus O
+; O
+nach O
 Potsdam B-LOC
-2200
-Ctr
-.
-Mehl
-.
-Für
-<lj*
-Redaction
-verantwortlich
-:
-Dr
-.
-Konewka
-,
+2200 O
+Ctr O
+. O
+Mehl O
+. O
+Für O
+<lj* O
+Redaction O
+verantwortlich O
+: O
+Dr O
+. O
+Konewka B-PER
+, O
 Berlin B-LOC
-.
-—
-Rotationsdruck
-der
-„
-Druckerei
-der
-Berliner
-Börsen
-Zeitung
-(
-L
-Motzoldt
-)
-“
-,
-Berlin
-.
-Verlag
-der
-„
-Expedition
-der
-Berliner
-Börsen
-Zeitung
-(
-L
-.
-Metzoldt
-)
-“
-,
+. O
+— O
+Rotationsdruck O
+der O
+„ O
+Druckerei O
+der O
+Berliner B-ORG
+Börsen I-ORG
+Zeitung I-ORG
+( O
+L O
+Motzoldt O
+) O
+“ O
+, O
 Berlin B-LOC
-W
-.
-,
-Kronenstraase
-37
-.
+. O
+Verlag O
+der O
+„ O
+Expedition O
+der O
+Berliner B-ORG
+Börsen I-ORG
+Zeitung I-ORG
+( O
+L O
+. O
+Metzoldt O
+) O
+“ O
+, O
+Berlin B-LOC
+W O
+. O
+, O
+Kronenstraase B-LOC
+37 I-LOC
+. O
 <-- file:		F_SBB_00007_19300313_075_121_0_003 -->
 <-- sbb url:	http://zefys.staatsbibliothek-berlin.de/kalender/auswahl/date/1930-03-13/2436020X/ -->
 <-- tel url:	http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000119065244?page=3 -->
