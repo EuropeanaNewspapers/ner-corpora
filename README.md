@@ -34,7 +34,7 @@ The BIO files in this repository are based on OCRed and manually annotated texts
 * [enp_FR.bnf.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_FR.bnf.bio) - newspapers from the [National Library of France](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01190)
 * [enp_NL.kb.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_NL.kb.bio) - newspapers from the [National Library of the Netherlands](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01350)
 
-For the full data set including the [ALTO](http://www.loc.gov/standards/alto/) OCR files and the binary classifiers derived, please go [here](http://lab.kbresearch.nl/static/html/eunews.html).
+For the full data set including the [ALTO](http://www.loc.gov/standards/alto/) OCR files and the binary classifiers derived, please go [here](http://lab.kb.nl/dataset/europeana-newspapers-ner#access).
 
 ### License 
 
