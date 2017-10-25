@@ -5,7 +5,7 @@ Named Entity Recognition corpora for Dutch, French, German from [Europeana Newsp
 
 ### Introduction
 
-The corpora comprise files divided by language, encoded in the BIO format ([Ramshaw & Marcus, 1995](http://www.aclweb.org/anthology/W/W95/W95-0107.pdf)). The BIO format is a simple, text-based chunking format that divides texts into single tokens per line, and, separated by a whitespace, tags to mark named entities. The most commonly used categories are ```PER``` (person), ```LOC``` (location) and ```ORG``` (organization). To mark named entities that span multiple tokens, the tags have a prefix of either ```B-``` (beginning of named entity) or ```I-``` (continuation of named entity). ```O``` tags are used to mark tokens that are not a named entity.
+The corpora comprise files divided by language, encoded in the BIO format ([Ramshaw & Marcus, 1995](http://www.aclweb.org/anthology/W/W95/W95-0107.pdf)). The BIO format is a simple, text chunking format that divides texts into single tokens per line, and, separated by a whitespace, tags to mark named entities. The most commonly used categories are ```PER``` (person), ```LOC``` (location) and ```ORG``` (organization). To mark named entities that span multiple tokens, the tags have a prefix of either ```B-``` (beginning of named entity) or ```I-``` (continuation of named entity). ```O``` tags are used to mark tokens that are not a named entity.
 
 Example:
 ```
