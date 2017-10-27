@@ -5,7 +5,7 @@ Named Entity Recognition corpora for Dutch, French, German from [Europeana Newsp
 
 ### Introduction
 
-The corpora comprise files divided by language, encoded in the BIO format ([Ramshaw & Marcus, 1995](http://www.aclweb.org/anthology/W/W95/W95-0107.pdf)). The BIO format is a simple, text-based chunking format that divides texts into single tokens per line, and, separated by a whitespace, tags to mark named entities. The most commonly used categories are ```PER``` (person), ```LOC``` (location) and ```ORG``` (organization). To mark named entities that span multiple tokens, the tags have a prefix of either ```B-``` (beginning of named entity) or ```I-``` (continuation of named entity). ```O``` tags are used to mark tokens that are not a named entity.
+The corpora comprise of files per by language that are encoded in the IOB format ([Ramshaw & Marcus, 1995](http://www.aclweb.org/anthology/W/W95/W95-0107.pdf)). The IOB format is a simple text chunking format that divides texts into single tokens per line, and, separated by a whitespace, tags to mark named entities. The most commonly used categories for tags are ```PER``` (person), ```LOC``` (location) and ```ORG``` (organization). To mark named entities that span multiple tokens, the tags have a prefix of either ```B-``` (beginning of named entity) or ```I-``` (inside of named entity). ```O``` (outside of named entity) tags are used to mark tokens that are not a named entity.
 
 Example:
 ```
@@ -26,7 +26,7 @@ America I-LOC
 
 ### Background
 
-The BIO files in this repository are based on OCRed and manually annotated historical newspapers from the following libraries:
+The IOB files in this repository are based on OCRed and manually annotated historical newspapers from these libraries:
 
 * [enp_DE.onb.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_DE.onb.bio) - newspapers from the [Austrian National Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01252)
 * [enp_DE.lft.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_DE.lft.bio) - newspapers from the [Dr Friedrich Teßmann Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P02013)
@@ -34,7 +34,7 @@ The BIO files in this repository are based on OCRed and manually annotated histo
 * [enp_FR.bnf.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_FR.bnf.bio) - newspapers from the [National Library of France](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01190)
 * [enp_NL.kb.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_NL.kb.bio) - newspapers from the [National Library of the Netherlands](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01350)
 
-To download the the source [ALTO](http://www.loc.gov/standards/alto/) OCR files or the trained binary CRF classifiers, please go [here](http://lab.kb.nl/dataset/europeana-newspapers-ner#access).
+To download the the source [ALTO](http://www.loc.gov/standards/alto/) OCR files or the trained CRF classifier binaries, please go [here](http://lab.kb.nl/dataset/europeana-newspapers-ner#access).
 
 ### License 
 
