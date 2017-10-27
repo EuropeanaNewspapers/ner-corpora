@@ -26,7 +26,7 @@ America I-LOC
 
 ### Background
 
-The BIO files in this repository are based on OCRed and manually annotated historical newspapers from the following libraries:
+The IOB files in this repository are based on OCRed and manually annotated historical newspapers from these libraries:
 
 * [enp_DE.onb.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_DE.onb.bio) - newspapers from the [Austrian National Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01252)
 * [enp_DE.lft.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_DE.lft.bio) - newspapers from the [Dr Friedrich Teßmann Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P02013)
@@ -34,7 +34,7 @@ The BIO files in this repository are based on OCRed and manually annotated histo
 * [enp_FR.bnf.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_FR.bnf.bio) - newspapers from the [National Library of France](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01190)
 * [enp_NL.kb.bio](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_NL.kb.bio) - newspapers from the [National Library of the Netherlands](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01350)
 
-To download the the source [ALTO](http://www.loc.gov/standards/alto/) OCR files or the trained binary CRF classifiers, please go [here](http://lab.kb.nl/dataset/europeana-newspapers-ner#access).
+To download the the source [ALTO](http://www.loc.gov/standards/alto/) OCR files or the trained CRF classifier binaries, please go [here](http://lab.kb.nl/dataset/europeana-newspapers-ner#access).
 
 ### License 
 
