@@ -56,4 +56,4 @@ Proceedings of the 10th edition of the Language Resources and Evaluation Confere
 
 The way the above corpora were produced, additional work is required to leverage the data for tasks such as evaluation, where gold standard quality is required as the data still contains many OCR errors. Also, due to post-processing, parts of sentences containing a high degree of noise were cut, which makes it difficult to map the annotated texts to the original newspaper articles and may entail unintended effects on classification.
 
-Further information on data quality issues and instructions to clean up the data can be found [here](https://github.com/EuropeanaNewspapers/ner-corpora/wiki/Corpus-cleanup).
+Further information on data quality issues and instructions to clean up the data can be found in the [wiki](https://github.com/EuropeanaNewspapers/ner-corpora/wiki).
