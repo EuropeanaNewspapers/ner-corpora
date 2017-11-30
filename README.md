@@ -5,7 +5,7 @@ Named Entity Recognition corpora for Dutch, French, German from [Europeana Newsp
 
 ### Introduction
 
-The corpora comprise of files per by language that are encoded in the IOB format ([Ramshaw & Marcus, 1995](http://www.aclweb.org/anthology/W/W95/W95-0107.pdf)). The IOB format is a simple text chunking format that divides texts into single tokens per line, and, separated by a whitespace, tags to mark named entities. The most commonly used categories for tags are ```PER``` (person), ```LOC``` (location) and ```ORG``` (organization). To mark named entities that span multiple tokens, the tags have a prefix of either ```B-``` (beginning of named entity) or ```I-``` (inside of named entity). ```O``` (outside of named entity) tags are used to mark tokens that are not a named entity.
+The corpora comprise of files per data provider that are encoded in the IOB format ([Ramshaw & Marcus, 1995](http://www.aclweb.org/anthology/W/W95/W95-0107.pdf)). The IOB format is a simple text chunking format that divides texts into single tokens per line, and, separated by a whitespace, tags to mark named entities. The most commonly used categories for tags are ```PER``` (person), ```LOC``` (location) and ```ORG``` (organization). To mark named entities that span multiple tokens, the tags have a prefix of either ```B-``` (beginning of named entity) or ```I-``` (inside of named entity). ```O``` (outside of named entity) tags are used to mark tokens that are not a named entity.
 
 Example:
 ```
