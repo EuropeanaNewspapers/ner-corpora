@@ -45302,31 +45302,31 @@ nicht O
 gewährleistet O
 Filialen O
 ; O
-Badstr
-.
-61
-,
-Bliicherstr
-.
-80
-.
-mnstr
-.
-1
-,
-Fldlclnstr-9
-,
-Frankfurter
-Allee
-286
-u
-.
-346
-,
-Greifawalder
-Strasse
-107
-,
+Badstr B-LOC
+. I-LOC
+61 I-LOC
+, O
+Blücherstr B-LOC
+. I-LOC
+80 I-LOC
+. O
+mnstr O
+. O
+1 O
+, O
+Fldlclnstr-9 B-LOC
+, O
+Frankfurter B-LOC
+Allee I-LOC
+286 I-LOC
+u O
+. O
+346 O
+, O
+Greifswalder B-LOC
+Strasse I-LOC
+107 I-LOC
+, O
 •osse
 Frankfurter
 Strasse
