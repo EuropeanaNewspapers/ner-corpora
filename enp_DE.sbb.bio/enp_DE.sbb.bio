@@ -45504,35 +45504,35 @@ Str I-LOC
 ; O
 Tempelhof B-LOC
 : O
-Berliner
-Str
-.
-147
-:
-Treptow
-:
-E
-ruUssU-.
-7
-:
-Welssensee
-:
-Berliner
-Allee
-247
-(
-Antonpletz
-)
-;
-WHmorsdorf
-:
-^»iserplatz
-ir.Vhlandrtr
-.
-SS
-;
-Brandenburg
-:
+Berliner B-LOC
+Str I-LOC
+. I-LOC
+147 I-LOC
+: O
+Treptow B-LOC
+: O
+E O
+ruUssU-. O
+7 O
+: O
+Weissensee B-LOC
+: O
+Berliner B-LOC
+Allee I-LOC
+247 I-LOC
+( O
+Antonplatz B-LOC
+) O
+; O
+Wilmersdorf B-LOC
+: O
+^»iserplatz B-LOC
+ir.Vhlandrtr B-LOC
+. O
+SS O
+; O
+Brandenburg B-LOC
+: O
 Bauptatr
 .
 4
