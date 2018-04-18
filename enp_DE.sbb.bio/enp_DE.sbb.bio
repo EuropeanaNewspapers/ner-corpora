@@ -45399,54 +45399,55 @@ Str I-LOC
 - I-LOC
 38 I-LOC
 . O
-8charr«Betrasse
-30
-,
-Tauentzlenstrasse
-2:
-Cöpenick
-:
-Schlossstr
-.
-i
-;
-Friedenau
-:
-Rheinstrasse
-19
-;
-Halensee-Grunewald
-:
-Henriettenpl
-;
-Lichtenberg
-:
-Frankf
-.
-Allee
-241
-;
-Llchtertelde-West
-:
-Carlstr
-.
-l
--
-2
-;
-Neukölln
-:
-Berliner
-Sir
-.
-41
-,
-Hermannst/
-.
-05
--
-94
-.
+8charr«Betrasse B-LOC
+30 I-LOC
+, O
+Tauentzienstrasse B-LOC
+2 I-LOC
+: O
+Cöpenick B-LOC
+: O
+Schlossstr O
+. O
+i O
+; O
+Friedenau B-LOC
+: O
+Rheinstrasse B-LOC
+19 I-LOC
+; O
+Halensee-Grunewald B-LOC
+: O
+Henriettenpl B-LOC
+; O
+Lichtenberg B-LOC
+: O
+Frankf B-LOC
+. I-LOC
+Allee I-LOC
+241 I-LOC
+; O
+Lichtertelde-West B-LOC
+: O
+Carlstr B-LOC
+. I-LOC
+l I-LOC
+- I-LOC
+2 I-LOC
+; O
+Neukölln B-LOC
+: O
+Berliner B-LOC
+Str I-LOC 
+. I-LOC
+41 I-LOC
+, O
+Hermannstr B-LOC
+. I-LOC
+05 I-LOC
+- I-LOC
+94 I-LOC
+. O
 Kaiser-Friedrieh-Str
 .
 348
