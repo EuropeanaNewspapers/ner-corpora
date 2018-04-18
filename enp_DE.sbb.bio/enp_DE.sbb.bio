@@ -45448,59 +45448,62 @@ Hermannstr B-LOC
 - I-LOC
 94 I-LOC
 . O
-Kaiser-Friedrieh-Str
-.
-348
-;
-Niederschöneweide
-s
-BrUckenstrasse
-#
-Panko*
-;
-Bornbolmer
-Str.l
-;
-Schmargendori
-:
-Breite
-Str
-.
-3
-:
-Schoneberg
-:
-Uauptstr
-.
-28
--
-24
-,
-Martin»Luther-Str
-.
-0
-;
-6pandau
-:
-Breite
-Str
-.
-47
-;
-Steglitz
-:
-Schlo*s-Str
-.
-33
-;
-Tegol
-;
-BerlinerStr
-.
-12
-;
-Tempelhof
-:
+Kaiser-Friedrich-Str B-LOC
+. I-LOC
+348 I-LOC
+; O
+Niederschöneweide B-LOC
+s O
+Brückenstrasse B-LOC
+# O
+Pankow B-LOC
+; O
+Bornbolmer B-LOC
+Str I-LOC
+. I-LOC
+l I-LOC
+; O
+Schmargendorf B-LOC
+: O
+Breite B-LOC
+Str I-LOC
+. I-LOC
+3 I-LOC
+: O
+Schöneberg B-LOC
+: O
+Hauptstr B-LOC
+. I-LOC
+28 I-LOC
+- I-LOC
+24 I-LOC
+, O
+Martin-Luther-Str B-LOC
+. I-LOC
+0 I-LOC
+; O
+Spandau B-LOC
+: O
+Breite B-LOC
+Str I-LOC
+. I-LOC
+47 I-LOC
+; O
+Steglitz B-LOC
+: O
+Schloss-Str B-LOC
+. I-LOC
+33 I-LOC
+; O
+Tegel B-LOC
+; O
+Berliner B-LOC
+Str I-LOC
+. I-LOC
+12 I-LOC
+; O
+Tempelhof B-LOC
+: O
 Berliner
 Str
 .
