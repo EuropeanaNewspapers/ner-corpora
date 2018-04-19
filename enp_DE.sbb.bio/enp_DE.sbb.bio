@@ -45533,36 +45533,36 @@ SS O
 ; O
 Brandenburg B-LOC
 : O
-Bauptatr
-.
-4
-;
-Brealau
-:
-SchweideItzer
-Str
-.
-2122
-;
-Frankfurt
-a
-.
-O
-.
-;
-Reglerungsstr
-.
-4a
-;
-Potsdam
-:
-Brandenburger
-Str
-.
-23
-;
-Stettin
-:
+Hauptstr B-LOC
+. I-LOC
+4 I-LOC
+; O
+Breslau B-LOC
+: O
+SchweideItzer B-LOC
+Str I-LOC
+. I-LOC
+2122 I-LOC
+; O
+Frankfurt B-LOC
+a I-LOC
+. I-LOC
+O I-LOC
+. I-LOC
+; O
+Regierungsstr B-LOC
+. I-LOC
+4a I-LOC
+; O
+Potsdam B-LOC
+: O
+Brandenburger B-LOC
+Str I-LOC
+. I-LOC
+23 I-LOC
+; O
+Stettin B-LOC
+: O
 Monchenstr
 .
 31
