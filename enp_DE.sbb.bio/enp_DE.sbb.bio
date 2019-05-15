@@ -1,48 +1,49 @@
 # file:		F_SBB_00001_18800101_009_001_0_003
 # sbb url:	http://zefys.staatsbibliothek-berlin.de/kalender/auswahl/date/1880-01-01/27646518/
 # tel url:	http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000097231562?page=3
-Donnerstag	O	O
-,	O	O
-1	O	O
-.	O	O
-Januar	O	O
-.	O	O
-Kam/?	O	O
-,	O	O
-dessen	O	O
-Ende	O	O
-vielleicht	O	O
-noch	O	O
-heute	O	O
-nicht	O	O
-abzusehen	O	O
-wäre	O	O
-,	O	O
-wenn	O	O
-nicht	O	O
-Herr	O	O
-Ganibetta	B-PER	O
-als	O	O
-<ts»8	O	O
-er	O	O
-w»cdm»	O	O
-erschienen	O	O
-wäre	O	O
-,	O	O
-resp	O	O
-,	O	O
-durch	O	O
-persönliche	O	O
-Intervention	O	O
-bei	O	O
-dem	O	O
-Präsidenten	O	O
-Grevy	B-PER	O
-einen	O	O
-Ausgleich	O	O
-herbeigeführt	O	O
-hätte	O	O
-.	O	O
+1	Donnerstag	O	O
+2	,	O	O
+3	1	O	O
+4	.	O	O
+5	Januar	O	O
+6	.	O	O
+
+1	Kam/?	O	O
+2	,	O	O
+3	dessen	O	O
+4	Ende	O	O
+5	vielleicht	O	O
+6	noch	O	O
+7	heute	O	O
+8	nicht	O	O
+9	abzusehen	O	O
+10	wäre	O	O
+11	,	O	O
+12	wenn	O	O
+13	nicht	O	O
+14	Herr	O	O
+15	Ganibetta	B-PER	O
+16	als	O	O
+17	<ts»8	O	O
+18	er	O	O
+19	w»cdm»	O	O
+20	erschienen	O	O
+21	wäre	O	O
+22	,	O	O
+23	resp	O	O
+24	,	O	O
+25	durch	O	O
+26	persönliche	O	O
+27	Intervention	O	O
+28	bei	O	O
+29	dem	O	O
+30	Präsidenten	O	O
+31	Grevy	B-PER	O
+32	einen	O	O
+33	Ausgleich	O	O
+34	herbeigeführt	O	O
+35	hätte	O	O
+36	.	O	O
 
 Es	O	O
 scheint	O	O
