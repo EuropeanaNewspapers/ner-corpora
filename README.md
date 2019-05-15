@@ -11,6 +11,7 @@ The most commonly used categories for tags are ```PER``` (person), ```LOC``` (lo
 
 Example:
 ```
+# This is an example
 1 The O O
 2 NBA B-ORG O
 3 player  O O
@@ -22,6 +23,7 @@ Example:
 9 President B-PER O
 10  of  I-PER O
 11  the I-PER O
+# now we see the embedding structure
 12  United  I-PER B-LOC
 13  States  I-PER I-LOC
 14  of  I-PER I-LOC
