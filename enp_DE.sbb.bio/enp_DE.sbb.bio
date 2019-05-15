@@ -43,6 +43,7 @@ Ausgleich	O	O
 herbeigeführt	O	O
 hätte	O	O
 .	O	O
+
 Es	O	O
 scheint	O	O
 dem	O	O
@@ -94,6 +95,7 @@ frei	O	O
 zu	O	O
 machen	O	O
 .	O	O
+
 Sein	O	O
 Besuch	O	O
 bei	O	O
@@ -120,6 +122,7 @@ unerwartet	O	O
 erfolgt	O	O
 sein	O	O
 .	O	O
+
 Was	O	O
 zwischen	O	O
 den	O	O
@@ -158,6 +161,7 @@ francaise	O	O
 anvertraut	O	O
 hat	O	O
 .	O	O
+
 Abends	O	O
 im	O	O
 Theater	O	O
@@ -208,6 +212,7 @@ stationiren	O	O
 gesehen	O	O
 hatten	O	O
 .	O	O
+
 Der	O	O
 Erfolg	O	O
 dieser	O	O
@@ -233,6 +238,7 @@ sie	O	O
 ableugnen	O	O
 wollte	O	O
 .	O	O
+
 Herr	O	O
 Lepere	B-PER	O
 ,	O	O
@@ -276,6 +282,7 @@ er	O	O
 bleiben	O	O
 dürfe	O	O
 .	O	O
+
 Gleichzeitig	O	O
 wurde	O	O
 Herrn	O	O
@@ -300,6 +307,7 @@ schlug	O	O
 er	O	O
 aus	O	O
 .	O	O
+
 Von	O	O
 allen	O	O
 diesen	O	O
@@ -313,12 +321,14 @@ später	O	O
 Nachmittagsstunde	O	O
 Kenntniß	O	O
 .	O	O
+
 Sein	O	O
 Entschluß	O	O
 war	O	O
 sofort	O	O
 gefaßt	O	O
 .	O	O
+
 Gegen	O	O
 0	O	O
 Uhr	O	O
@@ -336,6 +346,7 @@ Grevys	B-PER	O
 Hände	O	O
 zurück	O	O
 .	O	O
+
 Da	O	O
 zwei	O	O
 Stunden	O	O
