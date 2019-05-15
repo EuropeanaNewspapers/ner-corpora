@@ -1203,6 +1203,7 @@ Basis	O	O
 zu	O	O
 stellen	O	O
 .	O	O
+
 Der	O	O
 ehemalige	O	O
 Gommeux	O	O
@@ -1248,6 +1249,7 @@ Lucifer	O	O
 "	O	O
 führt	O	O
 .	O	O
+
 Jedenfalls	O	O
 eine	O	O
 interessante	O	O
@@ -1260,6 +1262,7 @@ eingehend	O	O
 zurückkommen	O	O
 werden	O	O
 .	O	O
+
 Aus	O	O
 Paris	B-LOC	O
 wird	O	O
@@ -1353,6 +1356,7 @@ Szene	O	O
 gehen	O	O
 lassen	O	O
 .	O	O
+
 Der	O	O
 Titel	O	O
 des	O	O
@@ -1423,6 +1427,7 @@ aller	O	O
 Sterblichen	O	O
 sei	O	O
 .	O	O
+
 Er	O	O
 ärgert	O	O
 ,	O	O
@@ -1489,6 +1494,7 @@ heilen	O	O
 noch	O	O
 bestärkt	O	O
 .	O	O
+
 Wie	O	O
 nun	O	O
 in	O	O
@@ -1555,6 +1561,7 @@ von	I-ORG	O
 Hallberger	I-ORG	O
 erscheinen	O	O
 .	O	O
+
 Das	O	O
 Manuskript	O	O
 ist	O	O
@@ -1568,6 +1575,7 @@ Verlagshandlung	O	O
 eingeschickt	O	O
 worden	O	O
 .	O	O
+
 —	O	O
 .	O	O
 Sacher	B-PER	O
@@ -1595,6 +1603,7 @@ zur	O	O
 Aufführung	O	O
 kommen	O	O
 .	O	O
+
 Direktor	O	O
 Robert	B-PER	O
 Muller	I-PER	O
@@ -1603,6 +1612,7 @@ dieselbe	O	O
 glänzend	O	O
 ausgestattet	O	O
 .	O	O
+
 Die	O	O
 durch	O	O
 ihre	O	O
@@ -1655,6 +1665,7 @@ sobald	O	O
 nicht	O	O
 verschwinden	O	O
 .	O	O
+
 Berliner	B-ORG	O
 Tageblatt	I-ORG	O
 .	O	O
