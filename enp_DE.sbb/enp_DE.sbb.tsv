@@ -1676,6 +1676,7 @@ der	O	O
 verständigste	O	O
 Budget-Kritiker	O	O
 .	O	O
+
 Ob	O	O
 er	O	O
 freilich	O	O
@@ -1724,6 +1725,7 @@ Finanzministerium	O	O
 zu	O	O
 vertauschen	O	O
 .	O	O
+
 Von	O	O
 den	O	O
 andern	O	O
@@ -1735,6 +1737,7 @@ viel	O	O
 zu	O	O
 sagen	O	O
 .	O	O
+
 Cazoi	B-PER	O
 ,	O	O
 der	O	O
@@ -1754,6 +1757,7 @@ fast	O	O
 garnicht	O	O
 bekannt	O	O
 .	O	O
+
 Varroy	B-PER	O
 ,	O	O
 der	O	O
@@ -1783,6 +1787,7 @@ Beamtenkreisen	O	O
 ziemlich	O	O
 geläufig	O	O
 .	O	O
+
 General	O	O
 Farre	B-PER	O
 ,	O	O
@@ -1809,6 +1814,7 @@ der	O	O
 Protektion	O	O
 Gambetta's	B-PER	O
 .	O	O
+
 Er	O	O
 war	O	O
 es	O	O
@@ -1836,6 +1842,7 @@ unter	O	O
 Faidherbe	B-PER	O
 fochten	O	O
 .	O	O
+
 Charakteristisch	O	O
 ist	O	O
 ,	O	O
@@ -1851,6 +1858,7 @@ der	O	O
 Lcol«kolvteetmiono	O	O
 entstammen	O	O
 .	O	O
+
 Unter	O	O
 den	O	O
 früheren	O	O
@@ -1914,12 +1922,14 @@ Bert	I-PER	O
 vergeben	O	O
 werden	O	O
 .	O	O
+
 <Z	O	O
 .	O	O
 L	O	O
 .	O	O
 ?	O	O
 .	O	O
+
 Der	O	O
 „	O	O
 Bibel-Konflikt	O	O
@@ -1955,6 +1965,7 @@ erkannt	O	O
 worden	O	O
 ist	O	O
 .	O	O
+
 Die	O	O
 Angelegenheit	O	O
 hat	O	O
