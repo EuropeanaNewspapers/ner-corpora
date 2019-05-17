@@ -1986,6 +1986,7 @@ mit	O	O
 verwickelt	O	O
 ist	O	O
 .	O	O
+
 Der	O	O
 Thatbestand	O	O
 ist	O	O
@@ -2033,6 +2034,7 @@ vertheilt	O	O
 zu	O	O
 haben	O	O
 .	O	O
+
 Drei	O	O
 Stunden	O	O
 nach	O	O
@@ -2077,6 +2079,7 @@ Manuskripte	O	O
 Inhalts	O	O
 zurückhielt	O	O
 .	O	O
+
 Am	O	O
 folgenden	O	O
 Tage	O	O
@@ -2106,6 +2109,7 @@ desselben	O	O
 wurde	O	O
 verschoben	O	O
 .	O	O
+
 Der	O	O
 englische	O	O
 Botschafter	O	O
@@ -2130,6 +2134,7 @@ der	O	O
 Pforte	O	O
 verlangt	O	O
 .	O	O
+
 Nachdem	O	O
 zwei	O	O
 auf	O	O
@@ -2251,6 +2256,7 @@ Konsularagenten	O	O
 geführt	O	O
 hatten	O	O
 .	O	O
+
 Layard	B-PER	O
 erklärte	O	O
 ,	O	O
@@ -2285,6 +2291,7 @@ Pforte	O	O
 aufheben	O	O
 würde	O	O
 .	O	O
+
 In	O	O
 Antwort	O	O
 auf	O	O
@@ -2352,6 +2359,7 @@ soeben	O	O
 beendigt	O	O
 worden	O	O
 .	O	O
+
 Ueberdies	O	O
 hat	O	O
 die	O	O
@@ -2376,6 +2384,7 @@ behandelt	O	O
 werden	O	O
 wird	O	O
 .	O	O
+
 Man	O	O
 glaubt	O	O
 ,	O	O
@@ -2401,6 +2410,7 @@ Folgen	O	O
 haben	O	O
 werde	O	O
 .	O	O
+
 Dies	O	O
 die	O	O
 Erklärung	O	O
@@ -2439,6 +2449,7 @@ britischen	O	O
 Botschafter	O	O
 zeigte	O	O
 .	O	O
+
 Gegen	O	O
 diesen	O	O
 Vorwurf	O	O
@@ -2475,6 +2486,7 @@ erst	O	O
 beendet	O	O
 worden	O	O
 .	O	O
+
 "	O	O
 Ferner	O	O
 sei	O	O
@@ -2504,6 +2516,7 @@ denselben	O	O
 erkannt	O	O
 worden	O	O
 .	O	O
+
 Er	O	O
 wurde	O	O
 verhaftet	O	O
@@ -2531,6 +2544,7 @@ des	O	O
 Islam	O	O
 enthielten	O	O
 .	O	O
+
 Im	O	O
 Uebrigen	O	O
 soll	O	O
@@ -2556,6 +2570,7 @@ Bibel-Affaire	O	O
 zu	O	O
 erfahren	O	O
 .	O	O
+
 Man	O	O
 glaubt	O	O
 um	O	O
@@ -2607,6 +2622,7 @@ Pforte	O	O
 zu	O	O
 unterstützen	O	O
 .	O	O
+
 Deutschland	B-LOC	O
 .	O	O
 Berlin	B-LOC	O
@@ -2621,6 +2637,7 @@ Bür v
 .	O	O
 )	O	O
 .	O	O
+
 Zufolge	O	O
 heute	O	O
 hier	O	O
@@ -2685,6 +2702,7 @@ autonom	O	O
 geregelt	O	O
 wird	O	O
 .	O	O
+
 Das	O	O
 Zollkartell	O	O
 wird	O	O
