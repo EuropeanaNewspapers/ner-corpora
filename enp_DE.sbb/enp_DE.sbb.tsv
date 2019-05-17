@@ -2723,6 +2723,7 @@ Gesetze	O	O
 nicht	O	O
 entgegenstehen	O	O
 .	O	O
+
 —	O	O
 Sicherem	O	O
 Vernehmen	O	O
@@ -2745,6 +2746,7 @@ Wiedereinfuhr	O	O
 belassen	O	O
 werden	O	O
 .	O	O
+
 *	O	O
 Nach	O	O
 einer	O	O
@@ -2792,6 +2794,7 @@ die	O	O
 volle	O	O
 Tageskost	O	O
 .	O	O
+
 .	O	O
 85	O	O
 Pf	O	O
@@ -2832,6 +2835,7 @@ Morgenkost	O	O
 *	O	O
 Schiffsnachrichten	O	O
 .	O	O
+
 Die	O	O
 Glattdecks	O	O
 -	O	O
@@ -2861,6 +2865,7 @@ in	O	O
 Montevideo	B-LOC	O
 eingetroffen	O	O
 .	O	O
+
 —	O	O
 Die	O	O
 Glattdecks-Korvette	O	O
@@ -2904,9 +2909,11 @@ Monats	O	O
 in	O	O
 Barbadoes	B-LOC	O
 .	O	O
+
 Letzte	O	O
 Nachrichten	O	O
 .	O	O
+
 Oesterreich-Ungarn	B-LOC	O
 .	O	O
 ,	O	O
@@ -2926,6 +2933,7 @@ Berliner	B-ORG	O
 Tageblatts	I-ORG	O
 .	O	O
 )	O	O
+
 Aus	O	O
 Prag	B-LOC	O
 wird	O	O
@@ -2959,6 +2967,7 @@ Gleichberechtigung	O	O
 verlangen	O	O
 werden	O	O
 .	O	O
+
 „	O	O
 Wir	O	O
 werden	O	O
@@ -3001,6 +3010,7 @@ seine	O	O
 drohende	O	O
 Rede	O	O
 .	O	O
+
 s-lt«	O	O
 5	O	O
 in	O	O
@@ -3019,6 +3029,7 @@ Berliner	B-ORG	O
 Tageblatts I_ORG
 .	O	O
 )	O	O
+
 Das	O	O
 Attentat	O	O
 gegen	O	O
@@ -3031,6 +3042,7 @@ besondere	O	O
 Theilnahme	O	O
 erweckt	O	O
 .	O	O
+
 Die	O	O
 Verdammung	O	O
 des	O	O
@@ -3045,6 +3057,7 @@ Vereitelung	O	O
 ist	O	O
 allgemein	O	O
 .	O	O
+
 Der	O	O
 Kaiser	O	O
 und	O	O
@@ -3062,6 +3075,7 @@ dem	O	O
 erretteten	O	O
 Königspaar	O	O
 .	O	O
+
 vier	O	O
 empfängt	O	O
 die	O	O
@@ -3069,6 +3083,7 @@ Hofburg	O	O
 zahlreiche	O	O
 Gratulationen	O	O
 .	O	O
+
 Der	O	O
 deutsche	O	O
 Kaiser	O	O
@@ -3087,6 +3102,7 @@ telegraphisch	O	O
 herzlich	O	O
 gratulirt	O	O
 .	O	O
+
 —	O	O
 Der	O	O
 austro-deutsche	O	O
@@ -3097,6 +3113,7 @@ heute	O	O
 unterzeichnet	O	O
 worden	O	O
 .	O	O
+
 —	O	O
 Zufolge	O	O
 Andringens	O	O
@@ -3124,6 +3141,7 @@ Lösung	O	O
 der	O	O
 Gusinjcfrage	O	O
 .	O	O
+
 Fürst	B-PER	O
 Nikolaus	I-PER	O
 hat	O	O
@@ -3133,6 +3151,7 @@ weiteres	O	O
 Abwarten	O	O
 zugesagt	O	O
 .	O	O
+
 Es	O	O
 wird	O	O
 eine	O	O
@@ -3140,6 +3159,7 @@ friedliche	O	O
 Regelung	O	O
 erhofft	O	O
 .	O	O
+
 Wien	B-LOC	O
 ,	O	O
 31	O	O
@@ -3151,6 +3171,7 @@ Wolffs	O	O
 Bür	O	O
 .	O	O
 )	O	O
+
 Meldung	O	O
 der	O	O
 .	O	O
@@ -3181,6 +3202,7 @@ heute	O	O
 verschoben	O	O
 worden	O	O
 .	O	O
+
 Gestern	O	O
 Abend	O	O
 hatte	O	O
@@ -3204,6 +3226,7 @@ zu	O	O
 bezweifeln	O	O
 ist	O	O
 .	O	O
+
 Sobald	O	O
 die	O	O
 Beilegung	O	O
