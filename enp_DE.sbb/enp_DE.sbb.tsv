@@ -1,5 +1,5 @@
-# file:		F_SBB_00001_18800101_009_001_0_003
-# sbb url:	http://zefys.staatsbibliothek-berlin.de/kalender/auswahl/date/1880-01-01/27646518/
+# file:		F_SBB_00001_18800101_009_001_0_003 | SNP27646518-18800101-0-3-0-0.jpg
+# sbb url:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18800101-0-3-0-0/full/full/0/default.jpg
 # tel url:	http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000097231562?page=3
 1	Donnerstag	O	O
 2	,	O	O
@@ -379,78 +379,77 @@
 28	sein	O	O
 29	.	O	O
 
-Aber	O	O
-,	O	O
-so	O	O
-werden	O	O
-Sie	O	O
-fragen	O	O
-,	O	O
-weshalb	O	O
-hatte	O	O
-denn	O	O
-Herr	O	O
-Lepöre	B-PER	O
-durch	O	O
-aus	O	O
-gehen	O	O
-sollen	O	O
-?	O	O
+1	Aber	O	O
+2	,	O	O
+3	so	O	O
+4	werden	O	O
+5	Sie	O	O
+6	fragen	O	O
+7	,	O	O
+8	weshalb	O	O
+9	hatte	O	O
+10	denn	O	O
+11	Herr	O	O
+12	Lepère	B-PER	O
+13	durchaus	O	O
+14	gehen	O	O
+15	sollen	O	O
+16	?	O	O
 
-Lachen	O	O
-Sie	O	O
-nicht	O	O
-,	O	O
-wenn	O	O
-ich	O	O
-Ihnen	O	O
-die	O	O
-Wahrheit	O	O
-sage	O	O
-:	O	O
-Freycinet	B-PER	O
-mag	O	O
-ihn	O	O
-nicht	O	O
-—	O	O
-riechen	O	O
-.	O	O
+1	Lachen	O	O
+2	Sie	O	O
+3	nicht	O	O
+4	,	O	O
+5	wenn	O	O
+6	ich	O	O
+7	Ihnen	O	O
+8	die	O	O
+9	Wahrheit	O	O
+10	sage	O	O
+11	:	O	O
+12	Freycinet	B-PER	O
+13	mag	O	O
+14	ihn	O	O
+15	nicht	O	O
+16	—	O	O
+17	riechen	O	O
+18	.	O	O
 
-Der	O	O
-jetzige	O	O
-Minister	B-PER	O
-des	I-PER	O
-Innern	I-PER	O
-hat	O	O
-nämlich	O	O
-allerlei	O	O
-Gewohnheiten	O	O
-aus	O	O
-seiner	O	O
-fidelen	O	O
-Studentenzeit	O	O
-beibehalten	O	O
-,	O	O
-unter	O	O
-Anderen	O	O
-die	O	O
-des	O	O
-Rauchens	O	O
-.	O	O
+1	Der	O	O
+2	jetzige	O	O
+3	Minister	B-PER	O
+4	des	I-PER	O
+5	Innern	I-PER	O
+6	hat	O	O
+7	nämlich	O	O
+8	allerlei	O	O
+9	Gewohnheiten	O	O
+10	aus	O	O
+11	seiner	O	O
+12	fidelen	O	O
+13	Studentenzeit	O	O
+14	beibehalten	O	O
+15	,	O	O
+16	unter	O	O
+17	Anderen	O	O
+18	die	O	O
+19	des	O	O
+20	Rauchens	O	O
+21	.	O	O
 
-Und	O	O
-wenn	O	O
-er	O	O
-wenigstens	O	O
-noch	O	O
-gute	O	O
-Cigarren	O	O
-,	O	O
-echtes	O	O
-Havaunahkraut	O	O
-rauchen	O	O
-wollte	O	O
-!	O	O
+1	Und	O	O
+2	wenn	O	O
+3	er	O	O
+4	wenigstens	O	O
+5	noch	O	O
+6	gute	O	O
+7	Cigarren	O	O
+8	,	O	O
+9	echtes	O	O
+10	Havaunahkraut	O	O
+11	rauchen	O	O
+12	wollte	O	O
+13	!	O	O
 
 Allein	O	O
 die	O	O
@@ -478,7 +477,7 @@ ist	O	O
 .	O	O
 
 Herr	O	O
-Lepöre	B-PER	O
+Lepère	B-PER	O
 ist	O	O
 ein	O	O
 unvermögender	O	O
@@ -494,11 +493,11 @@ der	O	O
 Ansicht	O	O
 huldigt	O	O
 :	O	O
-.	O	O
+"	O	O
 Rauch	O	O
 ist	O	O
 alles	O	O
-irdische	O	O
+ird'sche	O	O
 Leben	O	O
 ,	O	O
 "	O	O
@@ -538,7 +537,7 @@ zu	O	O
 verbrennen	O	O
 liebt	O	O
 ,	O	O
-„	O	O
+"	O	O
 brûle-gueule	O	O
 "	O	O
 getauft	O	O
@@ -566,7 +565,7 @@ größere	O	O
 Staatsmänner	O	O
 als	O	O
 Herr	O	O
-Lipere	B-PER	O
+Lepère	B-PER	O
 ,	O	O
 welche	O	O
 beinahe	O	O
@@ -589,7 +588,7 @@ schämen	O	O
 
 Allein	O	O
 Herr	O	O
-Lepüre	B-PER	O
+Lepère	B-PER	O
 übertreibt	O	O
 es	O	O
 in	O	O
@@ -609,7 +608,7 @@ den	O	O
 Ministerrath	O	O
 ,	O	O
 und	O	O
-Freyeinct	B-PER	O
+Freycinet	B-PER	O
 ,	O	O
 der	O	O
 ein	O	O
@@ -643,7 +642,7 @@ Kollegen	O	O
 schier	O	O
 aus	O	O
 dem	O	O
-Ministersrock	O	O
+Ministerfrack	O	O
 fahren	O	O
 .	O	O
 
@@ -670,13 +669,13 @@ vor	O	O
 der	O	O
 Hand	O	O
 Herr	O	O
-Lepere	B-PER	O
+Lepère	B-PER	O
 fortfahren	O	O
 ,	O	O
 im	O	O
 Konseil	O	O
 seinen	O	O
-„	O	O
+"	O	O
 Caporal	O	O
 "	O	O
 zu	O	O
