@@ -698,118 +698,118 @@
 50	gehen	O	O
 51	.	O	O
 
-Da	O	O
-ich	O	O
-so	O	O
-viel	O	O
-von	O	O
-den	O	O
-alten	O	O
-Ministern	O	O
-gesprochen	O	O
-,	O	O
-lassen	O	O
-Sie	O	O
-mich	O	O
-rasch	O	O
-noch	O	O
-etwas	O	O
-von	O	O
-den	O	O
-neuen	O	O
-sagen	O	O
-,	O	O
-ehe	O	O
-der	O	O
-Metteur	O	O
-mir	O	O
-die	O	O
-Spalte	O	O
-vor	O	O
-der	O	O
-Nase	O	O
-zuschließt	O	O
-.	O	O
+1	Da	O	O
+2	ich	O	O
+3	so	O	O
+4	viel	O	O
+5	von	O	O
+6	den	O	O
+7	alten	O	O
+8	Ministern	O	O
+9	gesprochen	O	O
+10	,	O	O
+11	lassen	O	O
+12	Sie	O	O
+13	mich	O	O
+14	rasch	O	O
+15	noch	O	O
+16	etwas	O	O
+17	von	O	O
+18	den	O	O
+19	neuen	O	O
+20	sagen	O	O
+21	,	O	O
+22	ehe	O	O
+23	der	O	O
+24	Metteur	O	O
+25	mir	O	O
+26	die	O	O
+27	Spalte	O	O
+28	vor	O	O
+29	der	O	O
+30	Nase	O	O
+31	zuschließt	O	O
+32	.	O	O
 
-Da	O	O
-ist	O	O
-zuerst	O	O
-der	O	O
-mehrerwähnte	O	O
-Herr	O	O
-Magnin	B-PER	O
-,	O	O
-der	O	O
-Finanzminister	B-PER	O
-.	O	O
+1	Da	O	O
+2	ist	O	O
+3	zuerst	O	O
+4	der	O	O
+5	mehrerwähnte	O	O
+6	Herr	O	O
+7	Magnin	B-PER	O
+8	,	O	O
+9	der	O	O
+10	Finanzminister	B-PER	O
+11	.	O	O
 
-In	O	O
-der	O	O
-politischen	O	O
-Welt	O	O
-ist	O	O
-dieser	O	O
-Mann	O	O
-mir	O	O
-wenig	O	O
-bekannt	O	O
-,	O	O
-weil	O	O
-er	O	O
-Senator	O	O
-ist	O	O
-und	O	O
-obwohl	O	O
-er	O	O
-schon	O	O
-einmal	O	O
-Minister	O	O
-war	O	O
-.	O	O
+1	In	O	O
+2	der	O	O
+3	politischen	O	O
+4	Welt	O	O
+5	ist	O	O
+6	dieser	O	O
+7	Mann	O	O
+8	nur	O	O
+9	wenig	O	O
+10	bekannt	O	O
+11	,	O	O
+12	weil	O	O
+13	er	O	O
+14	Senator	O	O
+15	ist	O	O
+16	und	O	O
+17	obwohl	O	O
+18	er	O	O
+19	schon	O	O
+20	einmal	O	O
+21	Minister	O	O
+22	war	O	O
+23	.	O	O
 
-Er	O	O
-gehörte	O	O
-nämlich	O	O
-der	O	O
-Regierung	O	O
-vom	O	O
-4	O	O
-.	O	O
-September	O	O
-an	O	O
-und	O	O
-scheint	O	O
-sehr	O	O
-segensreich	O	O
-gewirkt	O	O
-zu	O	O
-haben	O	O
-,	O	O
-da	O	O
-sich	O	O
-das	O	O
-Publikum	O	O
-gar	O	O
-nicht	O	O
-mehr	O	O
-daran	O	O
-erinnert	O	O
-.	O	O
+1	Er	O	O
+2	gehörte	O	O
+3	nämlich	O	O
+4	der	O	O
+5	Regierung	O	O
+6	vom	O	O
+7	4	O	O
+8	.	O	O
+9	September	O	O
+10	an	O	O
+11	und	O	O
+12	scheint	O	O
+13	sehr	O	O
+14	segensreich	O	O
+15	gewirkt	O	O
+16	zu	O	O
+17	haben	O	O
+18	,	O	O
+19	da	O	O
+20	sich	O	O
+21	das	O	O
+22	Publikum	O	O
+23	gar	O	O
+24	nicht	O	O
+25	mehr	O	O
+26	daran	O	O
+27	erinnert	O	O
+28	.	O	O
 
-Er	O	O
-ist	O	O
-,	O	O
-um	O	O
-es	O	O
-kurz	O	O
-zu	O	O
-sagen	O	O
-,	O	O
-der	O	O
-Sohn	O	O
-seines	O	O
-Vaters	O	O
-.	O	O
+1	Er	O	O
+2	ist	O	O
+3	,	O	O
+4	um	O	O
+5	es	O	O
+6	kurz	O	O
+7	zu	O	O
+8	sagen	O	O
+9	,	O	O
+10	der	O	O
+11	Sohn	O	O
+12	seines	O	O
+13	Vaters	O	O
+14	.	O	O
 
 Da	O	O
 dieser	O	O
