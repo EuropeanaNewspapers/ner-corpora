@@ -45,339 +45,339 @@
 35	hätte	O	O
 36	.	O	O
 
-Es	O	O
-scheint	O	O
-dem	O	O
-Kammerpräsidenten	O	O
-plötzlich	O	O
-ein	O	O
-Argwohn	O	O
-oder	O	O
-eine	O	O
-Befürchtung	O	O
-gekommen	O	O
-zu	O	O
-sein	O	O
-,	O	O
-als	O	O
-ob	O	O
-hinter	O	O
-dem	O	O
-Bemühen	O	O
-,	O	O
-Waddington	O	O
-und	O	O
-Léon	O	O
-Say	O	O
-zu	O	O
-halten	O	O
-,	O	O
-dagegen	O	O
-Lepère	O	O
-zu	O	O
-entfernen	O	O
-,	O	O
-die	O	O
-Absicht	O	O
-stecke	O	O
-,	O	O
-das	O	O
-neue	O	O
-Ministerium	O	O
-von	O	O
-dem	O	O
-bisher	O	O
-dominirenden	O	O
-Einfluß	O	O
-des	O	O
-Palais	B-LOC	O
-Bourbon	I-LOC	O
-frei	O	O
-zu	O	O
-machen	O	O
-.	O	O
+1	Es	O	O
+2	scheint	O	O
+3	dem	O	O
+4	Kammerpräsidenten	O	O
+5	plötzlich	O	O
+6	ein	O	O
+7	Argwohn	O	O
+8	oder	O	O
+9	eine	O	O
+10	Befürchtung	O	O
+11	gekommen	O	O
+12	zu	O	O
+13	sein	O	O
+14	,	O	O
+15	als	O	O
+16	ob	O	O
+17	hinter	O	O
+18	dem	O	O
+19	Bemühen	O	O
+20	,	O	O
+21	Waddington	B-PER	O
+22	und	O	O
+23	Léon	B-PER	O
+24	Say	I-PER	O
+25	zu	O	O
+26	halten	O	O
+27	,	O	O
+28	dagegen	O	O
+29	Lepère	B-PER	O
+30	zu	O	O
+31	entfernen	O	O
+32	,	O	O
+33	die	O	O
+34	Absicht	O	O
+35	stecke	O	O
+36	,	O	O
+37	das	O	O
+38	neue	O	O
+39	Ministerium	O	O
+40	von	O	O
+41	dem	O	O
+42	bisher	O	O
+43	dominirenden	O	O
+44	Einfluß	O	O
+45	des	O	O
+46	Palais	B-LOC	O
+47	Bourbon	I-LOC	O
+48	frei	O	O
+49	zu	O	O
+50	machen	O	O
+51	.	O	O
 
-Sein	O	O
-Besuch	O	O
-bei	O	O
-Grévy	B-PER	O
-am	O	O
-Sonntag	O	O
-Morgen	O	O
-um	O	O
-10	O	O
-Uhr	O	O
-soll	O	O
-keineswegs	O	O
-erbeten	O	O
-sondern	O	O
-—	O	O
-zum	O	O
-ersten	O	O
-Mal	O	O
-!	O	O
-—	O	O
-freiwillig	O	O
-und	O	O
-ziemlich	O	O
-unerwartet	O	O
-erfolgt	O	O
-sein	O	O
-.	O	O
+1	Sein	O	O
+2	Besuch	O	O
+3	bei	O	O
+4	Grévy	B-PER	O
+5	am	O	O
+6	Sonntag	O	O
+7	Morgen	O	O
+8	um	O	O
+9	10	O	O
+10	Uhr	O	O
+11	soll	O	O
+12	keineswegs	O	O
+13	erbeten	O	O
+14	sondern	O	O
+15	—	O	O
+16	zum	O	O
+17	ersten	O	O
+18	Mal	O	O
+19	!	O	O
+20	—	O	O
+21	freiwillig	O	O
+22	und	O	O
+23	ziemlich	O	O
+24	unerwartet	O	O
+25	erfolgt	O	O
+26	sein	O	O
+27	.	O	O
 
-Was	O	O
-zwischen	O	O
-den	O	O
-beiden	O	O
-Präsidenten	O	O
-verhandelt	O	O
-worden
-,	O	O
-weiß	O	O
-natürlich	O	O
-niemand	O	O
-,	O	O
-wenn	O	O
-nicht	O	O
-Herr	O	O
-Gambetta	B-PER	O
-selbst	O	O
-es	O	O
-hinterher	O	O
-beim	O	O
-Frühstück	O	O
-seinem	O	O
-Intimus	O	O
-,	O	O
-dem	O	O
-Schauspieler	O	O
-Coquelin	B-PER	O
-dem	O	O
-"	O	O
-Jüngeren	O	O
-"	O	O
-von	O	O
-der	O	O
-Comédie	O	O
-française	O	O
-anvertraut	O	O
-hat	O	O
-.	O	O
+1	Was	O	O
+2	zwischen	O	O
+3	den	O	O
+4	beiden	O	O
+5	Präsidenten	O	O
+6	verhandelt	O	O
+7	worden
+8	,	O	O
+9	weiß	O	O
+10	natürlich	O	O
+11	niemand	O	O
+12	,	O	O
+13	wenn	O	O
+14	nicht	O	O
+15	Herr	O	O
+16	Gambetta	B-PER	O
+17	selbst	O	O
+18	es	O	O
+19	hinterher	O	O
+20	beim	O	O
+21	Frühstück	O	O
+22	seinem	O	O
+23	Intimus	O	O
+24	,	O	O
+25	dem	O	O
+26	Schauspieler	O	O
+27	Coquelin	B-PER	O
+28	dem	O	O
+29	"	O	O
+30	Jüngeren	O	O
+31	"	O	O
+32	von	O	O
+33	der	O	O
+34	Comédie	B-ORG	O
+35	française	I-ORG	O
+36	anvertraut	O	O
+37	hat	O	O
+38	.	O	O
 
-Abends	O	O
-im	O	O
-Theater	O	O
-spielte	O	O
-der	O	O
-Allgewaltige	O	O
-freilich	O	O
-wieder	O	O
-den	O	O
-Unbefangenen	O	O
-und	O	O
-Ununterrichteten	O	O
-,	O	O
-denn	O	O
-er	O	O
-leugnete	O	O
-sogar	O	O
-seinen	O	O
-Besuch	O	O
-vom	O	O
-Vormittag	O	O
-,	O	O
-obwohl	O	O
-Hunderte	O	O
-das	O	O
-wohlbekannte	O	O
-kleine	O	O
-Coupé	O	O
-Gambettas	B-PER	O
-eine	O	O
-ganze	O	O
-Stunde	O	O
-lang	O	O
-von	O	O
-der	O	O
-Rue	O	O
-du	O	O
-Faubourg	O	O
-St	O	O
-.	O	O
-Honoré	O	O
-aus	O	O
-im	O	O
-Vorhof	O	O
-des	O	O
-Elysée	B-LOC	O
-stationiren	O	O
-gesehen	O	O
-hatten	O	O
-.	O	O
+1	Abends	O	O
+2	im	O	O
+3	Theater	O	O
+4	spielte	O	O
+5	der	O	O
+6	Allgewaltige	O	O
+7	freilich	O	O
+8	wieder	O	O
+9	den	O	O
+10	Unbefangenen	O	O
+11	und	O	O
+12	Ununterrichteten	O	O
+13	,	O	O
+14	denn	O	O
+15	er	O	O
+16	leugnete	O	O
+17	sogar	O	O
+18	seinen	O	O
+19	Besuch	O	O
+20	vom	O	O
+21	Vormittag	O	O
+22	,	O	O
+23	obwohl	O	O
+24	Hunderte	O	O
+25	das	O	O
+26	wohlbekannte	O	O
+27	kleine	O	O
+28	Coupé	O	O
+29	Gambettas	B-PER	O
+30	eine	O	O
+31	ganze	O	O
+32	Stunde	O	O
+33	lang	O	O
+34	von	O	O
+35	der	O	O
+36	Rue	B-LOC	O
+37	du	I-LOC	O
+38	Faubourg	I-LOC	O
+39	St	O	I-LOC
+40	.	O	I-LOC
+41	Honoré	I-LOC	O
+42	aus	O	O
+43	im	O	O
+44	Vorhof	O	O
+45	des	O	O
+46	Elysée	B-LOC	O
+47	stationiren	O	O
+48	gesehen	O	O
+49	hatten	O	O
+50	.	O	O
 
-Der	O	O
-Erfolg	O	O
-dieser	O	O
-Visite	O	O
-war	O	O
-denn	O	O
-auch	O	O
-schon	O	O
-in	O	O
-derselben	O	O
-Zeit	O	O
-zu	O	O
-spüren	O	O
-,	O	O
-da	O	O
-derjenige	O	O
-,	O	O
-der	O	O
-sie	O	O
-gemacht	O	O
-,	O	O
-sie	O	O
-ableugnen	O	O
-wollte	O	O
-.	O	O
+1	Der	O	O
+2	Erfolg	O	O
+3	dieser	O	O
+4	Visite	O	O
+5	war	O	O
+6	denn	O	O
+7	auch	O	O
+8	schon	O	O
+9	in	O	O
+10	derselben	O	O
+11	Zeit	O	O
+12	zu	O	O
+13	spüren	O	O
+14	,	O	O
+15	da	O	O
+16	derjenige	O	O
+17	,	O	O
+18	der	O	O
+19	sie	O	O
+20	gemacht	O	O
+21	,	O	O
+22	sie	O	O
+23	ableugnen	O	O
+24	wollte	O	O
+25	.	O	O
 
-Herr	O	O
-Lepère	B-PER	O
-,	O	O
-der	O	O
-bereits	O	O
-seine	O	O
-Siebensachen	O	O
-zusammengepackt	O	O
-hatte	O	O
-,	O	O
-weil	O	O
-er	O	O
-glaubte	O	O
-ausziehen	O	O
-zu	O	O
-müssen	O	O
-—	O	O
-Freycinet	B-PER	O
-selbst	O	O
-hatte	O	O
-ihm	O	O
-das	O	O
-zu	O	O
-wiederholten	O	O
-Malen	O	O
-in	O	O
-dürren	O	O
-Worten	O	O
-gesagt	O	O
-—	O	O
-Herr	O	O
-Lepère	B-PER	O
-erhielt	O	O
-von	O	O
-Gambetta	B-PER	O
-die	O	O
-Nachricht	O	O
-,	O	O
-daß	O	O
-er	O	O
-bleiben	O	O
-dürfe	O	O
-.	O	O
+1	Herr	O	O
+2	Lepère	B-PER	O
+3	,	O	O
+4	der	O	O
+5	bereits	O	O
+6	seine	O	O
+7	Siebensachen	O	O
+8	zusammengepackt	O	O
+9	hatte	O	O
+10	,	O	O
+11	weil	O	O
+12	er	O	O
+13	glaubte	O	O
+14	ausziehen	O	O
+15	zu	O	O
+16	müssen	O	O
+17	—	O	O
+18	Freycinet	B-PER	O
+19	selbst	O	O
+20	hatte	O	O
+21	ihm	O	O
+22	das	O	O
+23	zu	O	O
+24	wiederholten	O	O
+25	Malen	O	O
+26	in	O	O
+27	dürren	O	O
+28	Worten	O	O
+29	gesagt	O	O
+30	—	O	O
+31	Herr	O	O
+32	Lepère	B-PER	O
+33	erhielt	O	O
+34	von	O	O
+35	Gambetta	B-PER	O
+36	die	O	O
+37	Nachricht	O	O
+38	,	O	O
+39	daß	O	O
+40	er	O	O
+41	bleiben	O	O
+42	dürfe	O	O
+43	.	O	O
 
-Gleichzeitig	O	O
-wurde	O	O
-Herrn	O	O
-Waddington	B-PER	O
-das	O	O
-Gegentheil	O	O
-bedeutet	O	O
-;	O	O
-den	O	O
-Botschafterposten	O	O
-in	O	O
-London	B-LOC	O
-,	O	O
-der	O	O
-ihm	O	O
-als	O	O
-Entschädigung	O	O
-angeboten	O	O
-wurde	O	O
-,	O	O
-schlug	O	O
-er	O	O
-aus	O	O
-.	O	O
+1	Gleichzeitig	O	O
+2	wurde	O	O
+3	Herrn	O	O
+4	Waddington	B-PER	O
+5	das	O	O
+6	Gegentheil	O	O
+7	bedeutet	O	O
+8	;	O	O
+9	den	O	O
+10	Botschafterposten	O	O
+11	in	O	O
+12	London	B-LOC	O
+13	,	O	O
+14	der	O	O
+15	ihm	O	O
+16	als	O	O
+17	Entschädigung	O	O
+18	angeboten	O	O
+19	wurde	O	O
+20	,	O	O
+21	schlug	O	O
+22	er	O	O
+23	aus	O	O
+24	.	O	O
 
-Von	O	O
-allen	O	O
-diesen	O	O
-Vorgängen	O	O
-erhielt	O	O
-Léon	B-PER	O
-Say	O	O
-erst	O	O
-in	O	O
-später	O	O
-Nachmittagsstunde	O	O
-Kenntniß	O	O
-.	O	O
+1	Von	O	O
+2	allen	O	O
+3	diesen	O	O
+4	Vorgängen	O	O
+5	erhielt	O	O
+6	Léon	B-PER	O
+7	Say	I-PER	O
+8	erst	O	O
+9	in	O	O
+10	später	O	O
+11	Nachmittagsstunde	O	O
+12	Kenntniß	O	O
+13	.	O	O
 
-Sein	O	O
-Entschluß	O	O
-war	O	O
-sofort	O	O
-gefaßt	O	O
-.	O	O
+1	Sein	O	O
+2	Entschluß	O	O
+3	war	O	O
+4	sofort	O	O
+5	gefaßt	O	O
+6	.	O	O
 
-Gegen	O	O
-6	O	O
-Uhr	O	O
-Abends	O	O
-fuhr	O	O
-er	O	O
-ins	O	O
-Elysée	O	O
-und	O	O
-legte	O	O
-sein	O	O
-Portefeuille	O	O
-in	O	O
-Grevys	B-PER	O
-Hände	O	O
-zurück	O	O
-.	O	O
+1	Gegen	O	O
+2	6	O	O
+3	Uhr	O	O
+4	Abends	O	O
+5	fuhr	O	O
+6	er	O	O
+7	ins	O	O
+8	Elysée	O	O
+9	und	O	O
+10	legte	O	O
+11	sein	O	O
+12	Portefeuille	O	O
+13	in	O	O
+14	Grevys	B-PER	O
+15	Hände	O	O
+16	zurück	O	O
+17	.	O	O
 
-Da	O	O
-zwei	O	O
-Stunden	O	O
-später	O	O
-die	O	O
-Ernennungsdekrete	O	O
-für	O	O
-das	O	O
-neue	O	O
-Ministerium	O	O
-ausgefertigt	O	O
-wurden	O	O
-,	O	O
-so	O	O
-kann	O	O
-die	O	O
-Wahl	O	O
-Magnin's	B-PER	O
-erst	O	O
-im	O	O
-letzten	O	O
-Augenblick	O	O
-getroffen	O	O
-,	O	O
-angeboten	O	O
-und	O	O
-angenommen	O	O
-sein	O	O
-.	O	O
+1	Da	O	O
+2	zwei	O	O
+3	Stunden	O	O
+4	später	O	O
+5	die	O	O
+6	Ernennungsdekrete	O	O
+7	für	O	O
+8	das	O	O
+9	neue	O	O
+10	Ministerium	O	O
+11	ausgefertigt	O	O
+12	wurden	O	O
+13	,	O	O
+14	so	O	O
+15	kann	O	O
+16	die	O	O
+17	Wahl	O	O
+18	Magnin's	B-PER	O
+19	erst	O	O
+20	im	O	O
+21	letzten	O	O
+22	Augenblick	O	O
+23	getroffen	O	O
+24	,	O	O
+25	angeboten	O	O
+26	und	O	O
+27	angenommen	O	O
+28	sein	O	O
+29	.	O	O
 
 Aber	O	O
 ,	O	O
