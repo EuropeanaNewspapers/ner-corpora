@@ -8,7 +8,7 @@
 5	Januar	O	O
 6	.	O	O
 
-1	Kam/?	O	O
+1	Kampf	O	O
 2	,	O	O
 3	dessen	O	O
 4	Ende	O	O
@@ -22,23 +22,23 @@
 12	wenn	O	O
 13	nicht	O	O
 14	Herr	O	O
-15	Ganibetta	B-PER	O
+15	Gambetta	B-PER	O
 16	als	O	O
-17	<ts»8	O	O
-18	er	O	O
-19	w»cdm»	O	O
+17	deus	O	O
+18	ex	O	O
+19	machina	O	O
 20	erschienen	O	O
 21	wäre	O	O
 22	,	O	O
 23	resp	O	O
-24	,	O	O
+24	.	O	O
 25	durch	O	O
 26	persönliche	O	O
 27	Intervention	O	O
 28	bei	O	O
 29	dem	O	O
 30	Präsidenten	O	O
-31	Grevy	B-PER	O
+31	Grévy	B-PER	O
 32	einen	O	O
 33	Ausgleich	O	O
 34	herbeigeführt	O	O
@@ -4338,6 +4338,7 @@ bi?/»	O	O
 Recht	O	O
 fest	O	O
 .	O	O
+
 # file:		F_SBB_00001_19140118_043_031_0_003
 # sbb url:	http://zefys.staatsbibliothek-berlin.de/kalender/auswahl/date/1914-01-18/27646518/
 # tel url:	http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000096342595?page=3
@@ -4395,6 +4396,7 @@ nachdem	O	O
 alle	O	O
 not	O	O
 .	O	O
+
 Men	O	O
 Garantien	O	O
 gegeben	O	O
@@ -4436,6 +4438,7 @@ für	O	O
 ein	O	O
 Sportfest	O	O
 .	O	O
+
 Lrblandmarschall	O	O
 v	O	O
 .	O	O
@@ -4467,6 +4470,7 @@ Schloß	O	O
 rli»	O	O
 gestorben	O	O
 .	O	O
+
 Er	O	O
 war	O	O
 der	O	O
@@ -4479,8 +4483,9 @@ des	O	O
 Widerstandes	O	O
 gegen	O	O
 die	O	O
-Versassungsreform	O	O
+Verfassungsreform	O	O
 .	O	O
+
 Nach	O	O
 Hj„jä)eiden	O	O
 ist	O	O
@@ -4495,6 +4500,7 @@ Oberhand	O	O
 gewinnen	O	O
 wird	O	O
 .	O	O
+
 >	O	O
 xer	O	O
 Reichstagsabgeordnete	O	O
