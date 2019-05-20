@@ -3266,6 +3266,7 @@ genehmigt	O	O
 worden	O	O
 ist	O	O
 .	O	O
+
 Wien	B-LOC	O
 ,	O	O
 31	O	O
@@ -3277,6 +3278,7 @@ Wolffs	O	O
 Bür	O	O
 .	O	O
 )	O	O
+
 Die	O	O
 „	O	O
 Politische	B-ORG	O
@@ -3353,6 +3355,7 @@ Juni	O	O
 verlängert	O	O
 wird	O	O
 .	O	O
+
 —	O	O
 Das	O	O
 morgen	O	O
@@ -3368,6 +3371,7 @@ den	O	O
 Veredelungsverkehr	O	O
 publiziren	O	O
 .	O	O
+
 Für	O	O
 die	O	O
 Veredlung	O	O
@@ -3380,6 +3384,7 @@ autonomen	O	O
 Bestimmungen	O	O
 bestehen	O	O
 .	O	O
+
 Für	O	O
 Gewebe	O	O
 ,	O	O
@@ -3430,6 +3435,7 @@ Veredelungsverkehrs	O	O
 aufrecht	O	O
 erhalten	O	O
 .	O	O
+
 Nach	O	O
 den	O	O
 detaillirten	O	O
@@ -3480,6 +3486,7 @@ Monate	O	O
 ertheilt	O	O
 werden	O	O
 .	O	O
+
 Die	O	O
 Kontrolmaßregeln	O	O
 sind	O	O
@@ -3487,6 +3494,7 @@ mehrfach	O	O
 geändert	O	O
 worden	O	O
 .	O	O
+
 Durch	O	O
 eine	O	O
 weitere	O	O
@@ -3531,6 +3539,7 @@ Veröffentlichung	O	O
 zu	O	O
 gestatten	O	O
 .	O	O
+
 Frankreich	B-LOC	O
 .	O	O
 O	O	O
@@ -3549,6 +3558,7 @@ Berl	O	O
 Tagebl	O	O
 .	O	O
 )	O	O
+
 Der	O	O
 „	O	O
 Temps	B-ORG	O
@@ -3611,6 +3621,7 @@ Entlassung	O	O
 erbeten	O	O
 hätten	O	O
 .	O	O
+
 Bezüglich 	O	O
 Saiut	B-PER	O
 Valliers	I-PER	O
@@ -3637,6 +3648,7 @@ veranlaßt 	O	O
 werden 	O	O
 dürfte	O	O
 . 	O	O
+
 Saiut	B-PER	O
 Ballier	I-PER	O
 hatte 	O	O
@@ -3658,6 +3670,7 @@ fallen 	O	O
 zu 	O	O
 wollen 	O	O
 . 	O	O
+
 Der 	O	O
 abgegangene 	O	O
 Minister 	O	O
@@ -3670,6 +3683,7 @@ seines 	O	O
 Wortes 	O	O
 entbunden 	O	O
 . 	O	O
+
 Der 	O	O
 diplomatische 	O	O
 Eisgang 	O	O
@@ -3697,6 +3711,7 @@ Amtes	I-ORG	O
 ist	O	O
 ausgeschieden	O	O
 .	O	O
+
 —	O	O
 Der	O	O
 deutsche	O	O
@@ -3725,6 +3740,7 @@ bei	O	O
 Freycinet	B-PER	O
 ein	O	O
 .	O	O
+
 —	O	O
 Waddington	B-PER	O
 soll	O	O
@@ -3759,6 +3775,7 @@ des	O	O
 gestrigen	O	O
 Figaro	B-ORG	O
 .	O	O
+
 Derselbe	O	O
 bitte	O	O
 .	O	O
@@ -3774,6 +3791,7 @@ geraden	O	O
 beschimpfenden	O	O
 Vorwürfen	O	O
 .	O	O
+
 —	O	O
 Heute	O	O
 Vormittag	O	O
@@ -3815,6 +3833,7 @@ Schulter	O	O
 schwer	O	O
 verwundet	O	O
 .	O	O
+
 Paris	B-LOC	O
 ,	O	O
 31	O	O
@@ -3826,6 +3845,7 @@ Wolffs	O	O
 Bür	O	O
 .	O	O
 )	O	O
+
 Wie	O	O
 der	O	O
 „	O	O
@@ -3881,6 +3901,7 @@ erhalten	O	O
 ,	O	O
 versichert	O	O
 .	O	O
+
 England.	B-LOC	O
 2	O	O
 .	O	O
@@ -3897,6 +3918,7 @@ Berliner	B-ORG	O
 Tageblatts	I-ORG	O
 .	O	O
 )	O	O
+
 Zufolge	O	O
 eines	O	O
 Vortrages	O	O
@@ -3922,6 +3944,7 @@ Person	O	O
 der	O	O
 Königin	O	O
 .	O	O
+
 Bisher	O	O
 brauchte	O	O
 man	O	O
@@ -3931,6 +3954,7 @@ Leibgarde	O	O
 als	O	O
 Dekoration	O	O
 .	O	O
+
 Minister	O	O
 Croß	B-PER	O
 soll	O	O
@@ -3952,6 +3976,7 @@ bewogen	O	O
 worden	O	O
 sein	O	O
 .	O	O
+
 Serbien	B-LOC	O
 .	O	O
 Nisch»	O	O
@@ -3964,6 +3989,7 @@ Wolffs	O	O
 Bür	O	O
 .	O	O
 )	O	O
+
 Die	O	O
 Skupfchina	O	O
 hat	O	O
@@ -3973,6 +3999,7 @@ mit	O	O
 Italien	B-LOC	O
 angenommen	O	O
 .	O	O
+
 Von	O	O
 der	O	O
 Regierung	O	O
@@ -3985,6 +4012,7 @@ in	O	O
 Serbien	B-LOC	O
 vorgelegt	O	O
 .	O	O
+
 Türkei	B-LOC	O
 .	O	O
 Konstantinopel	B-LOC	O
@@ -3998,6 +4026,7 @@ Wolffs	O	O
 Bür	O	O
 .	O	O
 )	O	O
+
 Von	O	O
 der	O	O
 angeblich	O	O
@@ -4019,6 +4048,7 @@ Kreisen	O	O
 nichts	O	O
 bekannt	O	O
 .	O	O
+
 Amsterdam	B-LOC	O
 ,	O	O
 31	O	O
@@ -4028,6 +4058,7 @@ Dezember	O	O
 Schlußbericht	O	O
 .	O	O
 )	O	O
+
 Weizen	O	O
 aus	O	O
 Termine	O	O
@@ -4054,6 +4085,7 @@ per	O	O
 Mai	O	O
 210	O	O
 .	O	O
+
 Raps	O	O
 ver	O	O
 Frühjahr	O	O
@@ -4074,6 +4106,7 @@ Herbst	O	O
 35'/	O	O
 ,	O	O
 .	O	O
+
 Amsterdam	B-LOC	O
 ,	O	O
 31	O	O
