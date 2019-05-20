@@ -451,252 +451,252 @@
 12	wollte	O	O
 13	!	O	O
 
-Allein	O	O
-die	O	O
-kann	O	O
-hier	O	O
-in	O	O
-Folge	O	O
-des	O	O
-Monopols	O	O
-nicht	O	O
-einmal	O	O
-ein	O	O
-Minister	O	O
-sich	O	O
-leisten	O	O
-,	O	O
-wenn	O	O
-er	O	O
-nicht	O	O
-nebenbei	O	O
-Millionär	O	O
-von	O	O
-Fach	O	O
-ist	O	O
-.	O	O
+1	Allein	O	O
+2	die	O	O
+3	kann	O	O
+4	hier	O	O
+5	in	O	O
+6	Folge	O	O
+7	des	O	O
+8	Monopols	O	O
+9	nicht	O	O
+10	einmal	O	O
+11	ein	O	O
+12	Minister	O	O
+13	sich	O	O
+14	leisten	O	O
+15	,	O	O
+16	wenn	O	O
+17	er	O	O
+18	nicht	O	O
+19	nebenbei	O	O
+20	Millionär	O	O
+21	von	O	O
+22	Fach	O	O
+23	ist	O	O
+24	.	O	O
 
-Herr	O	O
-Lepère	B-PER	O
-ist	O	O
-ein	O	O
-unvermögender	O	O
-Jurist	O	O
-,	O	O
-und	O	O
-da	O	O
-er	O	O
-mit	O	O
-dem	O	O
-Dichter	O	O
-der	O	O
-Ansicht	O	O
-huldigt	O	O
-:	O	O
-"	O	O
-Rauch	O	O
-ist	O	O
-alles	O	O
-ird'sche	O	O
-Leben	O	O
-,	O	O
-"	O	O
-so	O	O
-ist	O	O
-er	O	O
-auf	O	O
-seine	O	O
-Tabakspfeife	O	O
-angewiesen	O	O
-.	O	O
+1	Herr	O	O
+2	Lepère	B-PER	O
+3	ist	O	O
+4	ein	O	O
+5	unvermögender	O	O
+6	Jurist	O	O
+7	,	O	O
+8	und	O	O
+9	da	O	O
+10	er	O	O
+11	mit	O	O
+12	dem	O	O
+13	Dichter	O	O
+14	der	O	O
+15	Ansicht	O	O
+16	huldigt	O	O
+17	:	O	O
+18	"	O	O
+19	Rauch	O	O
+20	ist	O	O
+21	alles	O	O
+22	ird'sche	O	O
+23	Leben	O	O
+24	,	O	O
+25	"	O	O
+26	so	O	O
+27	ist	O	O
+28	er	O	O
+29	auf	O	O
+30	seine	O	O
+31	Tabakspfeife	O	O
+32	angewiesen	O	O
+33	.	O	O
 
-Es	O	O
-ist	O	O
-wahr	O	O
-,	O	O
-daß	O	O
-diese	O	O
-Pfeife	O	O
-nicht	O	O
-zu	O	O
-den	O	O
-großen	O	O
-Stummeln	O	O
-gehört	O	O
-,	O	O
-welche	O	O
-der	O	O
-französische	O	O
-Volksmund	O	O
-,	O	O
-weil	O	O
-er	O	O
-sich	O	O
-daran	O	O
-zu	O	O
-verbrennen	O	O
-liebt	O	O
-,	O	O
-"	O	O
-brûle-gueule	O	O
-"	O	O
-getauft	O	O
-hat	O	O
-.	O	O
+1	Es	O	O
+2	ist	O	O
+3	wahr	O	O
+4	,	O	O
+5	daß	O	O
+6	diese	O	O
+7	Pfeife	O	O
+8	nicht	O	O
+9	zu	O	O
+10	den	O	O
+11	großen	O	O
+12	Stummeln	O	O
+13	gehört	O	O
+14	,	O	O
+15	welche	O	O
+16	der	O	O
+17	französische	O	O
+18	Volksmund	O	O
+19	,	O	O
+20	weil	O	O
+21	er	O	O
+22	sich	O	O
+23	daran	O	O
+24	zu	O	O
+25	verbrennen	O	O
+26	liebt	O	O
+27	,	O	O
+28	"	O	O
+29	brûle-gueule	O	O
+30	"	O	O
+31	getauft	O	O
+32	hat	O	O
+33	.	O	O
 
-Im	O	O
-Gegentheil	O	O
-,	O	O
-es	O	O
-ist	O	O
-ein	O	O
-ganz	O	O
-ministerielles	O	O
-Prachtstück	O	O
-,	O	O
-aus	O	O
-Meerschaum	O	O
-und	O	O
-Bernstein	O	O
-zusammengesetzt	O	O
-und	O	O
-selbst	O	O
-größere	O	O
-Staatsmänner	O	O
-als	O	O
-Herr	O	O
-Lepère	B-PER	O
-,	O	O
-welche	O	O
-beinahe	O	O
-eben	O	O
-so	O	O
-große	O	O
-Raucher	O	O
-sein	O	O
-sollen	O	O
-,	O	O
-dürften	O	O
-sich	O	O
-beim	O	O
-Parlamentsbier	O	O
-solcher	O	O
-Pfeife	O	O
-nicht	O	O
-schämen	O	O
-.	O	O
+1	Im	O	O
+2	Gegentheil	O	O
+3	,	O	O
+4	es	O	O
+5	ist	O	O
+6	ein	O	O
+7	ganz	O	O
+8	ministerielles	O	O
+9	Prachtstück	O	O
+10	,	O	O
+11	aus	O	O
+12	Meerschaum	O	O
+13	und	O	O
+14	Bernstein	O	O
+15	zusammengesetzt	O	O
+16	und	O	O
+17	selbst	O	O
+18	größere	O	O
+19	Staatsmänner	O	O
+20	als	O	O
+21	Herr	O	O
+22	Lepère	B-PER	O
+23	,	O	O
+24	welche	O	O
+25	beinahe	O	O
+26	eben	O	O
+27	so	O	O
+28	große	O	O
+29	Raucher	O	O
+30	sein	O	O
+31	sollen	O	O
+32	,	O	O
+33	dürften	O	O
+34	sich	O	O
+35	beim	O	O
+36	Parlamentsbier	O	O
+37	solcher	O	O
+38	Pfeife	O	O
+39	nicht	O	O
+40	schämen	O	O
+41	.	O	O
 
-Allein	O	O
-Herr	O	O
-Lepère	B-PER	O
-übertreibt	O	O
-es	O	O
-in	O	O
-seiner	O	O
-Leidenschaft	O	O
-;	O	O
-er	O	O
-bringt	O	O
-die	O	O
-Pfeife	O	O
-und	O	O
-den	O	O
-Tabaksbeutel	O	O
-mit	O	O
-in	O	O
-den	O	O
-Ministerrath	O	O
-,	O	O
-und	O	O
-Freycinet	B-PER	O
-,	O	O
-der	O	O
-ein	O	O
-pedantisch	O	O
-strenger	O	O
-Gentleman	O	O
-,	O	O
-ein	O	O
-Muster	O	O
-aristokratischer	O	O
-Eleganz	O	O
-und	O	O
-ein	O	O
-Todfeind	O	O
-der	O	O
-plebejischen	O	O
-Unsitte	O	O
-des	O	O
-Rauchens	O	O
-ist	O	O
-,	O	O
-will	O	O
-über	O	O
-das	O	O
-saloppe	O	O
-und	O	O
-burschikose	O	O
-Wesen	O	O
-seines	O	O
-Kollegen	O	O
-schier	O	O
-aus	O	O
-dem	O	O
-Ministerfrack	O	O
-fahren	O	O
-.	O	O
+1	Allein	O	O
+2	Herr	O	O
+3	Lepère	B-PER	O
+4	übertreibt	O	O
+5	es	O	O
+6	in	O	O
+7	seiner	O	O
+8	Leidenschaft	O	O
+9	;	O	O
+10	er	O	O
+11	bringt	O	O
+12	die	O	O
+13	Pfeife	O	O
+14	und	O	O
+15	den	O	O
+16	Tabaksbeutel	O	O
+17	mit	O	O
+18	in	O	O
+19	den	O	O
+20	Ministerrath	O	O
+21	,	O	O
+22	und	O	O
+23	Freycinet	B-PER	O
+24	,	O	O
+25	der	O	O
+26	ein	O	O
+27	pedantisch	O	O
+28	strenger	O	O
+29	Gentleman	O	O
+30	,	O	O
+31	ein	O	O
+32	Muster	O	O
+33	aristokratischer	O	O
+34	Eleganz	O	O
+35	und	O	O
+36	ein	O	O
+37	Todfeind	O	O
+38	der	O	O
+39	plebejischen	O	O
+40	Unsitte	O	O
+41	des	O	O
+42	Rauchens	O	O
+43	ist	O	O
+44	,	O	O
+45	will	O	O
+46	über	O	O
+47	das	O	O
+48	saloppe	O	O
+49	und	O	O
+50	burschikose	O	O
+51	Wesen	O	O
+52	seines	O	O
+53	Kollegen	O	O
+54	schier	O	O
+55	aus	O	O
+56	dem	O	O
+57	Ministerfrack	O	O
+58	fahren	O	O
+59	.	O	O
 
-Indeß	O	O
-des	O	O
-Kammerpräsidenten	O	O
-Wille	O	O
-ist	O	O
-zur	O	O
-Zeit	O	O
-noch	O	O
-stärker	O	O
-,	O	O
-als	O	O
-des	O	O
-Kabinetspräsidenten	O	O
-Widerwille	O	O
-,	O	O
-und	O	O
-so	O	O
-wird	O	O
-denn	O	O
-vor	O	O
-der	O	O
-Hand	O	O
-Herr	O	O
-Lepère	B-PER	O
-fortfahren	O	O
-,	O	O
-im	O	O
-Konseil	O	O
-seinen	O	O
-"	O	O
-Caporal	O	O
-"	O	O
-zu	O	O
-qualmen	O	O
-und	O	O
-mit	O	O
-dem	O	O
-Duft	O	O
-dieses	O	O
-Teufelskrautes	O	O
-alle	O	O
-Akten	O	O
-zu	O	O
-schwängern	O	O
-,	O	O
-die	O	O
-durch	O	O
-seine	O	O
-Hände	O	O
-gehen	O	O
-.	O	O
+1	Indeß	O	O
+2	des	O	O
+3	Kammerpräsidenten	O	O
+4	Wille	O	O
+5	ist	O	O
+6	zur	O	O
+7	Zeit	O	O
+8	noch	O	O
+9	stärker	O	O
+10	,	O	O
+11	als	O	O
+12	des	O	O
+13	Kabinetspräsidenten	O	O
+14	Widerwille	O	O
+15	,	O	O
+16	und	O	O
+17	so	O	O
+18	wird	O	O
+19	denn	O	O
+20	vor	O	O
+21	der	O	O
+22	Hand	O	O
+23	Herr	O	O
+24	Lepère	B-PER	O
+25	fortfahren	O	O
+26	,	O	O
+27	im	O	O
+28	Konseil	O	O
+29	seinen	O	O
+30	"	O	O
+31	Caporal	O	O
+32	"	O	O
+33	zu	O	O
+34	qualmen	O	O
+35	und	O	O
+36	mit	O	O
+37	dem	O	O
+38	Duft	O	O
+39	dieses	O	O
+40	Teufelskrautes	O	O
+41	alle	O	O
+42	Akten	O	O
+43	zu	O	O
+44	schwängern	O	O
+45	,	O	O
+46	die	O	O
+47	durch	O	O
+48	seine	O	O
+49	Hände	O	O
+50	gehen	O	O
+51	.	O	O
 
 Da	O	O
 ich	O	O
