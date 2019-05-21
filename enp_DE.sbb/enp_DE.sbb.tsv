@@ -1,6 +1,4 @@
-# file:		F_SBB_00001_18800101_009_001_0_003 | SNP27646518-18800101-0-3-0-0.jpg
-# sbb url:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18800101-0-3-0-0/full/full/0/default.jpg
-# tel url:	http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000097231562?page=3
+# file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18800101-0-3-0-0/full/full/0/default.jpg
 1	Donnerstag	O	O
 2	,	O	O
 3	1	O	O
@@ -969,377 +967,377 @@
 49	sei	O	O
 50	.	O	O
 
-Den	O	O
-Beinamen	O	O
-des	O	O
-"	O	O
-Kleinen	O	O
-"	O	O
-hat	O	O
-er	O	O
-vor	O	O
-neun	O	O
-Jahren	O	O
-erhalten	O	O
-,	O	O
-da	O	O
-er	O	O
-als	O	O
-junger	O	O
-Lebemann	O	O
-sich	O	O
-unter	O	O
-die	O	O
-Parlamentarier	O	O
-mischte	O	O
-.	O	O
+1	Den	O	O
+2	Beinamen	O	O
+3	des	O	O
+4	"	O	O
+5	Kleinen	O	O
+6	"	O	O
+7	hat	O	O
+8	er	O	O
+9	vor	O	O
+10	neun	O	O
+11	Jahren	O	O
+12	erhalten	O	O
+13	,	O	O
+14	da	O	O
+15	er	O	O
+16	als	O	O
+17	junger	O	O
+18	Lebemann	O	O
+19	sich	O	O
+20	unter	O	O
+21	die	O	O
+22	Parlamentarier	O	O
+23	mischte	O	O
+24	.	O	O
 
-Er	O	O
-war	O	O
-bis	O	O
-dahin	O	O
-ein	O	O
-Dandy	O	O
-von	O	O
-der	O	O
-wildesten	O	O
-Sorte	O	O
-gewesen	O	O
-,	O	O
-einer	O	O
-jener	O	O
-vornehmen	O	O
-jungen	O	O
-Wüstlinge	O	O
-,	O	O
-deren	O	O
-Haupt	O	O
-und	O	O
-Vorbild	O	O
-neben	O	O
-dem	O	O
-Herzog	B-PER	O
-von	I-PER	O
-Grammont-Caderousse	I-PER	O
-Prinz	B-PER	O
-von	I-PER	O
-Oranien	I-PER	O
-war	O	O
-und	O	O
-zu	O	O
-deren	O	O
-überlebenden	O	O
-traurigen	O	O
-Berühmtheiten	O	O
-der	O	O
-Marquis	B-PER	O
-de	I-PER	O
-Caux	I-PER	O
-,	O	O
-der	O	O
-Gatte	O	O
-in	O	O
-partibus	O	O
-von	O	O
-Adelina	B-PER	O
-Patti	I-PER	O
-,	O	O
-gehört	O	O
-.	O	O
+1	Er	O	O
+2	war	O	O
+3	bis	O	O
+4	dahin	O	O
+5	ein	O	O
+6	Dandy	O	O
+7	von	O	O
+8	der	O	O
+9	wildesten	O	O
+10	Sorte	O	O
+11	gewesen	O	O
+12	,	O	O
+13	einer	O	O
+14	jener	O	O
+15	vornehmen	O	O
+16	jungen	O	O
+17	Wüstlinge	O	O
+18	,	O	O
+19	deren	O	O
+20	Haupt	O	O
+21	und	O	O
+22	Vorbild	O	O
+23	neben	O	O
+24	dem	O	O
+25	Herzog	B-PER	O
+26	von	I-PER	O
+27	Grammont-Caderousse	I-PER	O
+28	Prinz	B-PER	O
+29	von	I-PER	O
+30	Oranien	I-PER	O
+31	war	O	O
+32	und	O	O
+33	zu	O	O
+34	deren	O	O
+35	überlebenden	O	O
+36	traurigen	O	O
+37	Berühmtheiten	O	O
+38	der	O	O
+39	Marquis	B-PER	O
+40	de	I-PER	O
+41	Caux	I-PER	O
+42	,	O	O
+43	der	O	O
+44	Gatte	O	O
+45	in	O	O
+46	partibus	O	O
+47	von	O	O
+48	Adelina	B-PER	O
+49	Patti	I-PER	O
+50	,	O	O
+51	gehört	O	O
+52	.	O	O
 
-Aus	O	O
-diesem	O	O
-Strudel	O	O
-riß	O	O
-den	O	O
-jungen	O	O
-Wilson	B-PER	O
-der	O	O
-Krieg	O	O
-,	O	O
-worauf	O	O
-seine	O	O
-Schwester	O	O
-,	O	O
-die	O	O
-durch	O	O
-Reichthum	O	O
-wie	O	O
-durch	O	O
-Schönheit	O	O
-gleich	O	O
-ausgezeichnete	O	O
-Madame	O	O
-Pelouze	B-PER	O
-,	O	O
-ihn	O	O
-durch	O	O
-ihre	O	O
-Bauern	O	O
-und	O	O
-Deputirten	O	O
-wählen	O	O
-ließ	O	O
-und	O	O
-,	O	O
-gleichsam	O	O
-wie	O	O
-in	O	O
-eine	O	O
-Besserungsanstalt	O	O
-,	O	O
-ins	O	O
-Parlament	O	O
-schickte	O	O
-.	O	O
+1	Aus	O	O
+2	diesem	O	O
+3	Strudel	O	O
+4	riß	O	O
+5	den	O	O
+6	jungen	O	O
+7	Wilson	B-PER	O
+8	der	O	O
+9	Krieg	O	O
+10	,	O	O
+11	worauf	O	O
+12	seine	O	O
+13	Schwester	O	O
+14	,	O	O
+15	die	O	O
+16	durch	O	O
+17	Reichthum	O	O
+18	wie	O	O
+19	durch	O	O
+20	Schönheit	O	O
+21	gleich	O	O
+22	ausgezeichnete	O	O
+23	Madame	O	O
+24	Pelouze	B-PER	O
+25	,	O	O
+26	ihn	O	O
+27	durch	O	O
+28	ihre	O	O
+29	Bauern	O	O
+30	und	O	O
+31	Deputirten	O	O
+32	wählen	O	O
+33	ließ	O	O
+34	und	O	O
+35	,	O	O
+36	gleichsam	O	O
+37	wie	O	O
+38	in	O	O
+39	eine	O	O
+40	Besserungsanstalt	O	O
+41	,	O	O
+42	ins	O	O
+43	Parlament	O	O
+44	schickte	O	O
+45	.	O	O
 
-Ein	O	O
-mehr	O	O
-pikantes	O	O
-als	O	O
-wahrscheinliches	O	O
-Gerücht	O	O
-will	O	O
-wissen	O	O
-,	O	O
-daß	O	O
-Madame	O	O
-Pelouze	B-PER	O
-,	O	O
-die	O	O
-reizende	O	O
-und	O	O
-begüterte	O	O
-junge	O	O
-Wittwe	O	O
-,	O	O
-zu	O	O
-dem	O	O
-Präsidenten	O	O
-Grévy	B-PER	O
-in	O	O
-intimsten	O	O
-Beziehungen	O	O
-stehe	O	O
-,	O	O
-und	O	O
-daß	O	O
-die	O	O
-rasche	O	O
-Karriere	O	O
-,	O	O
-die	O	O
-der	O	O
-"	O	O
-kleine	O	O
-"	O	O
-Wilson	B-PER	O
-seit	O	O
-1871	O	O
-gemacht	O	O
-,	O	O
-wesentlich	O	O
-der	O	O
-Protektion	O	O
-des	O	O
-Herrn	O	O
-Grévy	B-PER	O
-zu	O	O
-verdanken	O	O
-sei	O	O
-.	O	O
+1	Ein	O	O
+2	mehr	O	O
+3	pikantes	O	O
+4	als	O	O
+5	wahrscheinliches	O	O
+6	Gerücht	O	O
+7	will	O	O
+8	wissen	O	O
+9	,	O	O
+10	daß	O	O
+11	Madame	O	O
+12	Pelouze	B-PER	O
+13	,	O	O
+14	die	O	O
+15	reizende	O	O
+16	und	O	O
+17	begüterte	O	O
+18	junge	O	O
+19	Wittwe	O	O
+20	,	O	O
+21	zu	O	O
+22	dem	O	O
+23	Präsidenten	O	O
+24	Grévy	B-PER	O
+25	in	O	O
+26	intimsten	O	O
+27	Beziehungen	O	O
+28	stehe	O	O
+29	,	O	O
+30	und	O	O
+31	daß	O	O
+32	die	O	O
+33	rasche	O	O
+34	Karriere	O	O
+35	,	O	O
+36	die	O	O
+37	der	O	O
+38	"	O	O
+39	kleine	O	O
+40	"	O	O
+41	Wilson	B-PER	O
+42	seit	O	O
+43	1871	O	O
+44	gemacht	O	O
+45	,	O	O
+46	wesentlich	O	O
+47	der	O	O
+48	Protektion	O	O
+49	des	O	O
+50	Herrn	O	O
+51	Grévy	B-PER	O
+52	zu	O	O
+53	verdanken	O	O
+54	sei	O	O
+55	.	O	O
 
-An	O	O
-sich	O	O
-ist	O	O
-letztere	O	O
-Thatsache	O	O
-gewiß	O	O
-richtig	O	O
-,	O	O
-aber	O	O
-es	O	O
-wäre	O	O
-ungerecht	O	O
-,	O	O
-das	O	O
-eigene	O	O
-Verdienst	O	O
-Wilsons	B-PER	O
-zu	O	O
-unterschätzen	O	O
-,	O	O
-der	O	O
-es	O	O
-verstanden	O	O
-,	O	O
-sich	O	O
-in	O	O
-der	O	O
-Kammer	O	O
-eine	O	O
-Spezialität	O	O
-zu	O	O
-schaffen	O	O
-,	O	O
-und	O	O
-der	O	O
-mit	O	O
-eisernem	O	O
-Fleiß	O	O
-daran	O	O
-gearbeitet	O	O
-hat	O	O
-,	O	O
-den	O	O
-Ruf	O	O
-dieser	O	O
-Spezialität	O	O
-auf	O	O
-eine	O	O
-solide	O	O
-Basis	O	O
-zu	O	O
-stellen	O	O
-.	O	O
+1	An	O	O
+2	sich	O	O
+3	ist	O	O
+4	letztere	O	O
+5	Thatsache	O	O
+6	gewiß	O	O
+7	richtig	O	O
+8	,	O	O
+9	aber	O	O
+10	es	O	O
+11	wäre	O	O
+12	ungerecht	O	O
+13	,	O	O
+14	das	O	O
+15	eigene	O	O
+16	Verdienst	O	O
+17	Wilsons	B-PER	O
+18	zu	O	O
+19	unterschätzen	O	O
+20	,	O	O
+21	der	O	O
+22	es	O	O
+23	verstanden	O	O
+24	,	O	O
+25	sich	O	O
+26	in	O	O
+27	der	O	O
+28	Kammer	O	O
+29	eine	O	O
+30	Spezialität	O	O
+31	zu	O	O
+32	schaffen	O	O
+33	,	O	O
+34	und	O	O
+35	der	O	O
+36	mit	O	O
+37	eisernem	O	O
+38	Fleiß	O	O
+39	daran	O	O
+40	gearbeitet	O	O
+41	hat	O	O
+42	,	O	O
+43	den	O	O
+44	Ruf	O	O
+45	dieser	O	O
+46	Spezialität	O	O
+47	auf	O	O
+48	eine	O	O
+49	solide	O	O
+50	Basis	O	O
+51	zu	O	O
+52	stellen	O	O
+53	.	O	O
 
-Der	O	O
-ehemalige	O	O
-Gommeux	O	O
-ist	O	O
-nämlich	O	O
-heute	O	O
-unter	O	O
-den	O	O
-französischen	O	O
-Deputirten	O	O
-eine	O	O
-Art	O	O
-von	O	O
-"	O	O
-Richter-Hagen	O	O
-"	O	O
-,	O	O
-er	O	O
-ist	O	O
-der	O	O
-ständige	O	O
-Budget-Berichterstatter	O	O
-und	O	O
-der	O	O
-verständigste	O	O
-Budget-Kritiker	O	O
-.	O	O
+1	Der	O	O
+2	ehemalige	O	O
+3	Gommeux	O	O
+4	ist	O	O
+5	nämlich	O	O
+6	heute	O	O
+7	unter	O	O
+8	den	O	O
+9	französischen	O	O
+10	Deputirten	O	O
+11	eine	O	O
+12	Art	O	O
+13	von	O	O
+14	"	O	O
+15	Richter-Hagen	O	O
+16	"	O	O
+17	,	O	O
+18	er	O	O
+19	ist	O	O
+20	der	O	O
+21	ständige	O	O
+22	Budget-Berichterstatter	O	O
+23	und	O	O
+24	der	O	O
+25	verständigste	O	O
+26	Budget-Kritiker	O	O
+27	.	O	O
 
-Ob	O	O
-er	O	O
-freilich	O	O
-im	O	O
-Stande	O	O
-sein	O	O
-wird	O	O
-,	O	O
-die	O	O
-Geschäftskenntnis	O	O
-und	O	O
-die	O	O
-Arbeitskraft	O	O
-Leon	B-PER	O
-Say's	I-PER	O
-zu	O	O
-ersetzen	O	O
-,	O	O
-das	O	O
-wird	O	O
-er	O	O
-erst	O	O
-beweisen	O	O
-müssen	O	O
-,	O	O
-falls	O	O
-er	O	O
-überhaupt	O	O
-einwilligt	O	O
-,	O	O
-den	O	O
-einflußreichen	O	O
-Posten	O	O
-an	O	O
-der	O	O
-Spitze	O	O
-der	O	O
-Budgetkommission	O	O
-mit	O	O
-der	O	O
-zweiten	O	O
-Stelle	O	O
-im	O	O
-Finanzministerium	O	O
-zu	O	O
-vertauschen	O	O
-.	O	O
+1	Ob	O	O
+2	er	O	O
+3	freilich	O	O
+4	im	O	O
+5	Stande	O	O
+6	sein	O	O
+7	wird	O	O
+8	,	O	O
+9	die	O	O
+10	Geschäftskenntnis	O	O
+11	und	O	O
+12	die	O	O
+13	Arbeitskraft	O	O
+14	Leon	B-PER	O
+15	Say's	I-PER	O
+16	zu	O	O
+17	ersetzen	O	O
+18	,	O	O
+19	das	O	O
+20	wird	O	O
+21	er	O	O
+22	erst	O	O
+23	beweisen	O	O
+24	müssen	O	O
+25	,	O	O
+26	falls	O	O
+27	er	O	O
+28	überhaupt	O	O
+29	einwilligt	O	O
+30	,	O	O
+31	den	O	O
+32	einflußreichen	O	O
+33	Posten	O	O
+34	an	O	O
+35	der	O	O
+36	Spitze	O	O
+37	der	O	O
+38	Budgetkommission	O	O
+39	mit	O	O
+40	der	O	O
+41	zweiten	O	O
+42	Stelle	O	O
+43	im	O	O
+44	Finanzministerium	O	O
+45	zu	O	O
+46	vertauschen	O	O
+47	.	O	O
 
-Von	O	O
-den	O	O
-andern	O	O
-neuen	O	O
-Ministern	O	O
-ist	O	O
-nicht	O	O
-viel	O	O
-zu	O	O
-sagen	O	O
-.	O	O
+1	Von	O	O
+2	den	O	O
+3	andern	O	O
+4	neuen	O	O
+5	Ministern	O	O
+6	ist	O	O
+7	nicht	O	O
+8	viel	O	O
+9	zu	O	O
+10	sagen	O	O
+11	.	O	O
 
-Cazol	B-PER	O
-,	O	O
-der	O	O
-Nachfolger	O	O
-Le	B-PER	O
-Royer's	I-PER	O
-im	O	O
-Justizfache	O	O
-,	O	O
-ist	O	O
-wie	O	O
-dieser	O	O
-Senator	O	O
-,	O	O
-aber	O	O
-fast	O	O
-garnicht	O	O
-bekannt	O	O
-.	O	O
+1	Cazol	B-PER	O
+2	,	O	O
+3	der	O	O
+4	Nachfolger	O	O
+5	Le	B-PER	O
+6	Royer's	I-PER	O
+7	im	O	O
+8	Justizfache	O	O
+9	,	O	O
+10	ist	O	O
+11	wie	O	O
+12	dieser	O	O
+13	Senator	O	O
+14	,	O	O
+15	aber	O	O
+16	fast	O	O
+17	garnicht	O	O
+18	bekannt	O	O
+19	.	O	O
 
-Varroy	B-PER	O
-,	O	O
-der	O	O
-neue	O	O
-Bautenminister	O	O
-,	O	O
-gleichfalls	O	O
-Senator	O	O
-,	O	O
-war	O	O
-früher	O	O
-Betriebsdirektor	O	O
-der	O	O
-Paris-Straßburger	B-ORG	O
-Bahn	I-ORG	O
-,	O	O
-und	O	O
-sein	O	O
-Name	O	O
-ist	O	O
-daher	O	O
-in	O	O
-deutschen	O	O
-Ingenieur-	O	O
-und	O	O
-Beamtenkreisen	O	O
-ziemlich	O	O
-geläufig	O	O
-.	O	O
+1	Varroy	B-PER	O
+2	,	O	O
+3	der	O	O
+4	neue	O	O
+5	Bautenminister	O	O
+6	,	O	O
+7	gleichfalls	O	O
+8	Senator	O	O
+9	,	O	O
+10	war	O	O
+11	früher	O	O
+12	Betriebsdirektor	O	O
+13	der	O	O
+14	Paris-Straßburger	B-ORG	O
+15	Bahn	I-ORG	O
+16	,	O	O
+17	und	O	O
+18	sein	O	O
+19	Name	O	O
+20	ist	O	O
+21	daher	O	O
+22	in	O	O
+23	deutschen	O	O
+24	Ingenieur-	O	O
+25	und	O	O
+26	Beamtenkreisen	O	O
+27	ziemlich	O	O
+28	geläufig	O	O
+29	.	O	O
 
 General	O	O
 Farre	B-PER	O
