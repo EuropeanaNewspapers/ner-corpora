@@ -1339,141 +1339,140 @@
 28	geläufig	O	O
 29	.	O	O
 
-General	O	O
-Farre	B-PER	O
-,	O	O
-der	O	O
-neue	O	O
-Kriegsminister	O	O
-,	O	O
-hatte	O	O
-bisher	O	O
-ein	O	O
-Kommando	O	O
-in	O	O
-Lyon	B-LOC	O
-,	O	O
-gilt	O	O
-als	O	O
-eifriger	O	O
-Republikaner	O	O
-und	O	O
-verdankt	O	O
-seine	O	O
-Ernennung	O	O
-der	O	O
-Protektion	O	O
-Gambetta's	B-PER	O
-.	O	O
+1	General	O	O
+2	Farre	B-PER	O
+3	,	O	O
+4	der	O	O
+5	neue	O	O
+6	Kriegsminister	O	O
+7	,	O	O
+8	hatte	O	O
+9	bisher	O	O
+10	ein	O	O
+11	Kommando	O	O
+12	in	O	O
+13	Lyon	B-LOC	O
+14	,	O	O
+15	gilt	O	O
+16	als	O	O
+17	eifriger	O	O
+18	Republikaner	O	O
+19	und	O	O
+20	verdankt	O	O
+21	seine	O	O
+22	Ernennung	O	O
+23	der	O	O
+24	Protektion	O	O
+25	Gambetta's	B-PER	O
+26	.	O	O
 
-Er	O	O
-war	O	O
-es	O	O
-,	O	O
-der	O	O
-im	O	O
-Spätherbst	O	O
-1870	O	O
-die	O	O
-Regimenter	O	O
-im	O	O
-Norden	O	O
-organisirte	O	O
-,	O	O
-welche	O	O
-bei	O	O
-Bapaume	B-LOC	O
-,	O	O
-St	B-LOC	O
-.	I-LOC	O
-Quentin	I-LOC	O
-und	O	O
-Amiens	B-LOC	O
-unter	O	O
-Faidherbe	B-PER	O
-fochten	O	O
-.	O	O
+1	Er	O	O
+2	war	O	O
+3	es	O	O
+4	,	O	O
+5	der	O	O
+6	im	O	O
+7	Spätherbst	O	O
+8	1870	O	O
+9	die	O	O
+10	Regimenter	O	O
+11	im	O	O
+12	Norden	O	O
+13	organisirte	O	O
+14	,	O	O
+15	welche	O	O
+16	bei	O	O
+17	Bapaume	B-LOC	O
+18	,	O	O
+19	St	B-LOC	O
+20	.	I-LOC	O
+21	Quentin	I-LOC	O
+22	und	O	O
+23	Amiens	B-LOC	O
+24	unter	O	O
+25	Faidherbe	B-PER	O
+26	fochten	O	O
+27	.	O	O
 
-Charakteristisch	O	O
-ist	O	O
-,	O	O
-daß	O	O
-Farre	B-PER	O
-und	O	O
-Varroy	B-PER	O
-beide	O	O
-ebenso	O	O
-wie	O	O
-Freycinet	B-PER	O
-der	O	O
-Echanklokale	B-ORG	O
-Polytechnique	I-ORG	O
-entstammen	O	O
-.	O	O
+1	Charakteristisch	O	O
+2	ist	O	O
+3	,	O	O
+4	daß	O	O
+5	Farre	B-PER	O
+6	und	O	O
+7	Varroy	B-PER	O
+8	beide	O	O
+9	ebenso	O	O
+10	wie	O	O
+11	Freycinet	B-PER	O
+12	der	O	O
+13	Echanklokale	B-ORG	O
+14	Polytechnique	I-ORG	O
+15	entstammen	O	O
+16	.	O	O
 
-Unter	O	O
-den	O	O
-früheren	O	O
-Zöglingen	O	O
-dieser	O	O
-Anstalt	O	O
-herrscht	O	O
-eine	O	O
-förmlich	O	O
-freimaurerische	O	O
-Verbrüderung	O	O
-,	O	O
-und	O	O
-da	O	O
-Gambetta	B-PER	O
-,	O	O
-der	O	O
-persönlich	O	O
-ohne	O	O
-gründliches	O	O
-Wissen	O	O
-und	O	O
-ohne	O	O
-alle	O	O
-Spezialbildung	O	O
-ist	O	O
-,	O	O
-vor	O	O
-Leuten	O	O
-mit	O	O
-positiven	O	O
-Kenntnissen	O	O
-einen	O	O
-nahezu	O	O
-abergläubischen	O	O
-Respekt	O	O
-besitzt	O	O
-,	O	O
-so	O	O
-scheint	O	O
-die	O	O
-Zeit	O	O
-nicht	O	O
-mehr	O	O
-fern	O	O
-,	O	O
-wo	O	O
-alle	O	O
-hohen	O	O
-Aemter	O	O
-an	O	O
-Ingenieure	O	O
-wie	O	O
-Freycinet	B-PER	O
-oder	O	O
-an	O	O
-Chemiker	O	O
-wie	O	O
-Paul	B-PER	O
-Bert	I-PER	O
-vergeben	O	O
-werden	O	O
-.	O	O
+1	Unter	O	O
+2	den	O	O
+3	früheren	O	O
+4	Zöglingen	O	O
+5	dieser	O	O
+6	Anstalt	O	O
+7	herrscht	O	O
+8	eine	O	O
+9	förmlich	O	O
+10	freimaurerische	O	O
+11	Verbrüderung	O	O
+12	,	O	O
+13	und	O	O
+14	da	O	O
+15	Gambetta	B-PER	O
+16	,	O	O
+17	der	O	O
+18	persönlich	O	O
+19	ohne	O	O
+20	gründliches	O	O
+21	Wissen	O	O
+22	und	O	O
+23	ohne	O	O
+24	alle	O	O
+25	Spezialbildung	O	O
+26	ist	O	O
+27	,	O	O
+28	vor	O	O
+29	Leuten	O	O
+30	mit	O	O
+31	Kenntnissen	O	O
+32	einen	O	O
+33	nahezu	O	O
+34	abergläubischen	O	O
+35	Respekt	O	O
+36	besitzt	O	O
+37	,	O	O
+38	so	O	O
+39	scheint	O	O
+40	die	O	O
+41	Zeit	O	O
+42	nicht	O	O
+43	mehr	O	O
+44	fern	O	O
+45	,	O	O
+46	wo	O	O
+47	alle	O	O
+48	hohen	O	O
+49	Aemter	O	O
+50	an	O	O
+51	Ingenieure	O	O
+52	wie	O	O
+53	Freycinet	B-PER	O
+54	oder	O	O
+55	an	O	O
+56	Chemiker	O	O
+57	wie	O	O
+58	Paul	B-PER	O
+59	Bert	I-PER	O
+60	vergeben	O	O
+61	werden	O	O
+62	.	O	O
 
 —	O	O
 Von	O	O
