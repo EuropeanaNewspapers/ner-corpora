@@ -811,75 +811,75 @@
 13	Vaters	O	O
 14	.	O	O
 
-Da	O	O
-dieser	O	O
-Abgeordneter	O	O
-war	O	O
-,	O	O
-der	O	O
-Linken	B-ORG	O
-angehörte	O	O
-,	O	O
-die	O	O
-schönsten	O	O
-Weinberge	O	O
-und	O	O
-die	O	O
-bedeutendsten	O	O
-Eisenwerke	O	O
-in	O	O
-Burgund	B-LOC	O
-besaß	O	O
-,	O	O
-so	O	O
-ist	O	O
-es	O	O
-seinem	O	O
-Erben	O	O
-ein	O	O
-Leichtes	O	O
-,	O	O
-ihm	O	O
-in	O	O
-allen	O	O
-diesen	O	O
-Stücken	O	O
-nachzuahmen	O	O
-.	O	O
+1	Da	O	O
+2	dieser	O	O
+3	Abgeordneter	O	O
+4	war	O	O
+5	,	O	O
+6	der	O	O
+7	Linken	B-ORG	O
+8	angehörte	O	O
+9	,	O	O
+10	die	O	O
+11	schönsten	O	O
+12	Weinberge	O	O
+13	und	O	O
+14	die	O	O
+15	bedeutendsten	O	O
+16	Eisenwerke	O	O
+17	in	O	O
+18	Burgund	B-LOC	O
+19	besaß	O	O
+20	,	O	O
+21	so	O	O
+22	ist	O	O
+23	es	O	O
+24	seinem	O	O
+25	Erben	O	O
+26	ein	O	O
+27	Leichtes	O	O
+28	,	O	O
+29	ihm	O	O
+30	in	O	O
+31	allen	O	O
+32	diesen	O	O
+33	Stücken	O	O
+34	nachzuahmen	O	O
+35	.	O	O
 
-Als	O	O
-er	O	O
-jünger	O	O
-war	O	O
-,	O	O
-hieß	O	O
-er	O	O
-der	O	O
-„	O	O
-schöne	O	O
-"	O	O
-Magnin	O	O
-,	O	O
-seit	O	O
-ihn	O	O
-aber	O	O
-die	O	O
-Rebläuse	O	O
-plagen	O	O
-—	O	O
-worüber	O	O
-ihm	O	O
-graue	O	O
-Haare	O	O
-wachsen	O	O
-—	O	O
-ist	O	O
-es	O	O
-mit	O	O
-der	O	O
-Schönheit	O	O
-vorbei	O	O
-.	O	O
+1	Als	O	O
+2	er	O	O
+3	jünger	O	O
+4	war	O	O
+5	,	O	O
+6	hieß	O	O
+7	er	O	O
+8	der	O	O
+9	"	O	O
+10	schöne	O	O
+11	"	O	O
+12	Magnin	O	O
+13	,	O	O
+14	seit	O	O
+15	ihn	O	O
+16	aber	O	O
+17	die	O	O
+18	Rebläuse	O	O
+19	plagen	O	O
+20	—	O	O
+21	worüber	O	O
+22	ihm	O	O
+23	graue	O	O
+24	Haare	O	O
+25	wachsen	O	O
+26	—	O	O
+27	ist	O	O
+28	es	O	O
+29	mit	O	O
+30	der	O	O
+31	Schönheit	O	O
+32	vorbei	O	O
+33	.	O	O
 
 Seine	O	O
 Hauptverdienste	O	O
