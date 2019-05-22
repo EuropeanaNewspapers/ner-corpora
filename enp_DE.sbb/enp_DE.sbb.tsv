@@ -1474,41 +1474,42 @@
 61	werden	O	O
 62	.	O	O
 
-—	O	O
-Von	O	O
-Robert	B-PER	O
-Hamerling	I-PER	O
-erscheint	O	O
-demnächst	O	O
-ein	O	O
-neues	O	O
-fünfaktigeS	O	O
-Lustspiel	O	O
-im	O	O
-Druck	O	O
-,	O	O
-das	O	O
-den	O	O
-Titel	O	O
-„	O	O
-Lord	O	O
-Lucifer	O	O
-"	O	O
-führt	O	O
-.	O	O
+### Move the next two sentences to the correct reading order
+1	—	O	O
+2	Von	O	O
+3	Robert	B-PER	O
+4	Hamerling	I-PER	O
+5	erscheint	O	O
+6	demnächst	O	O
+7	ein	O	O
+8	neues	O	O
+9	fünfaktiges	O	O
+10	Lustspiel	O	O
+11	im	O	O
+12	Druck	O	O
+13	,	O	O
+14	das	O	O
+15	den	O	O
+16	Titel	O	O
+17	"	O	O
+18	Lord	O	O
+19	Lucifer	O	O
+20	"	O	O
+21	führt	O	O
+22	.	O	O
 
-Jedenfalls	O	O
-eine	O	O
-interessante	O	O
-Erscheinung	O	O
-,	O	O
-auf	O	O
-die	O	O
-wir	O	O
-eingehend	O	O
-zurückkommen	O	O
-werden	O	O
-.	O	O
+1	Jedenfalls	O	O
+2	eine	O	O
+3	interessante	O	O
+4	Erscheinung	O	O
+5	,	O	O
+6	auf	O	O
+7	die	O	O
+8	wir	O	O
+9	eingehend	O	O
+10	zurückkommen	O	O
+11	werden	O	O
+12	.	O	O
 
 Aus	O	O
 Paris	B-LOC	O
