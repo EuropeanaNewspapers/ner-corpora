@@ -1967,83 +1967,83 @@
 24	werde	O	O
 25	.	O	O
 
-Dies	O	O
-die	O	O
-Erklärung	O	O
-aus	O	O
-englischer	O	O
-Quelle	O	O
-;	O	O
-der	O	O
-Hauptvorwurf	O	O
-,	O	O
-welcher	O	O
-der	O	O
-Pforte	O	O
-gemacht	O	O
-wird	O	O
-,	O	O
-ist	O	O
-die	O	O
-Bummelei	O	O
-,	O	O
-mit	O	O
-welcher	O	O
-sie	O	O
-die	O	O
-Angelegenheit	O	O
-betrieb	O	O
-und	O	O
-die	O	O
-Rücksichtslosigkeit	O	O
-,	O	O
-welche	O	O
-sie	O	O
-gegen	O	O
-den	O	O
-britischen	O	O
-Botschafter	O	O
-zeigte	O	O
-.	O	O
+1	Dies	O	O
+2	die	O	O
+3	Erklärung	O	O
+4	aus	O	O
+5	englischer	O	O
+6	Quelle	O	O
+7	;	O	O
+8	der	O	O
+9	Hauptvorwurf	O	O
+10	,	O	O
+11	welcher	O	O
+12	der	O	O
+13	Pforte	O	O
+14	gemacht	O	O
+15	wird	O	O
+16	,	O	O
+17	ist	O	O
+18	die	O	O
+19	Bummelei	O	O
+20	,	O	O
+21	mit	O	O
+22	welcher	O	O
+23	sie	O	O
+24	die	O	O
+25	Angelegenheit	O	O
+26	betrieb	O	O
+27	und	O	O
+28	die	O	O
+29	Rücksichtslosigkeit	O	O
+30	,	O	O
+31	welche	O	O
+32	sie	O	O
+33	gegen	O	O
+34	den	O	O
+35	britischen	O	O
+36	Botschafter	O	O
+37	zeigte	O	O
+38	.	O	O
 
-Gegen	O	O
-diesen	O	O
-Vorwurf	O	O
-vertheidigt	O	O
-sich	O	O
-jetzt	O	O
-die	O	O
-Pforte	O	O
-in	O	O
-einer	O	O
-amtlichen	O	O
-Mittheilung	O	O
-an	O	O
-ihre	O	O
-Vertreter	O	O
-im	O	O
-Auslande	O	O
-,	O	O
-indem	O	O
-sie	O	O
-sagt	O	O
-,	O	O
-„	O	O
-die	O	O
-gegen	O	O
-Ahmed	B-PER	O
-Tewfik	I-PER	O
-eingeleitete	O	O
-gerichtliche	O	O
-Untersuchung	O	O
-sei	O	O
-soeben	O	O
-erst	O	O
-beendet	O	O
-worden	O	O
-.	O	O
+1	Gegen	O	O
+2	diesen	O	O
+3	Vorwurf	O	O
+4	vertheidigt	O	O
+5	sich	O	O
+6	jetzt	O	O
+7	die	O	O
+8	Pforte	O	O
+9	in	O	O
+10	einer	O	O
+11	amtlichen	O	O
+12	Mittheilung	O	O
+13	an	O	O
+14	ihre	O	O
+15	Vertreter	O	O
+16	im	O	O
+17	Auslande	O	O
+18	,	O	O
+19	indem	O	O
+20	sie	O	O
+21	sagt	O	O
+22	,	O	O
+23	"	O	O
+24	die	O	O
+25	gegen	O	O
+26	Ahmed	B-PER	O
+27	Tewfik	I-PER	O
+28	eingeleitete	O	O
+29	gerichtliche	O	O
+30	Untersuchung	O	O
+31	sei	O	O
+32	soeben	O	O
+33	erst	O	O
+34	beendet	O	O
+35	worden	O	O
+36	.	O	O
+37	"	O	O
 
-"	O	O
 Ferner	O	O
 sei	O	O
 es	O	O
@@ -2105,10 +2105,10 @@ Im	O	O
 Uebrigen	O	O
 soll	O	O
 der	O	O
-englische	O	O
-Botschafter	O	O
+englische	B-PER	O
+Botschafter	I-PER	O
 vom	O	O
-Sultan	O	O
+Sultan	B-PER	O
 empfangen	O	O
 werden	O	O
 ,	O	O
@@ -2156,7 +2156,7 @@ deutsche	O	O
 Geschäftsträger	O	O
 ,	O	O
 Graf	B-PER	O
-Nadolinski	I-PER	O
+Radolinski	I-PER	O
 ,	O	O
 die	O	O
 Weisung	O	O
@@ -2170,8 +2170,8 @@ soll	O	O
 die	O	O
 Reklamationen	O	O
 des	O	O
-englischen	O	O
-Botschafters	O	O
+englischen	B-PER	O
+Botschafters	I-PER	O
 bei	O	O
 der	O	O
 Pforte	O	O
@@ -2179,20 +2179,22 @@ zu	O	O
 unterstützen	O	O
 .	O	O
 
-Deutschland	B-LOC	O
-.	O	O
-Berlin	B-LOC	O
-,	O	O
-31	O	O
-.	O	O
-Dezember	O	O
-.	O	O
-(	O	O
-Wolffs	O	O
-Bür v
-.	O	O
-)	O	O
-.	O	O
+1	Deutschland	B-LOC	O
+2	.	O	O
+
+1	Berlin	B-LOC	O
+2	,	O	O
+3	31	O	O
+4	.	O	O
+5	Dezember	O	O
+6	.	O	O
+
+1	(	O	O
+2	Wolffs	O	O
+3	Bür O	O
+4	.	O	O
+5	)	O	O
+6	.	O	O
 
 Zufolge	O	O
 heute	O	O
