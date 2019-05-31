@@ -6,6 +6,17 @@
 5	Januar	O	O
 6	.	O	O
 
+1	Berliner	B-ORG	O
+2	Tageblatt	I-ORG	O
+3	.	O	O
+4	Nr	O	O
+5	.	O	O
+6	1	O	O
+
+1	Seite	O	O
+2	3	O	O
+3	.	O	O
+
 1	Kampf	O	O
 2	,	O	O
 3	dessen	O	O
@@ -1473,460 +1484,6 @@
 60	vergeben	O	O
 61	werden	O	O
 62	.	O	O
-
-### Move the next two sentences to the correct reading order
-1	—	O	O
-2	Von	O	O
-3	Robert	B-PER	O
-4	Hamerling	I-PER	O
-5	erscheint	O	O
-6	demnächst	O	O
-7	ein	O	O
-8	neues	O	O
-9	fünfaktiges	O	O
-10	Lustspiel	O	O
-11	im	O	O
-12	Druck	O	O
-13	,	O	O
-14	das	O	O
-15	den	O	O
-16	Titel	O	O
-17	"	O	O
-18	Lord	O	O
-19	Lucifer	O	O
-20	"	O	O
-21	führt	O	O
-22	.	O	O
-
-1	Jedenfalls	O	O
-2	eine	O	O
-3	interessante	O	O
-4	Erscheinung	O	O
-5	,	O	O
-6	auf	O	O
-7	die	O	O
-8	wir	O	O
-9	eingehend	O	O
-10	zurückkommen	O	O
-11	werden	O	O
-12	.	O	O
-
-Aus	O	O
-Paris	B-LOC	O
-wird	O	O
-gemeldet	O	O
-:	O	O
-„	O	O
-Jules	B-PER	O
-Barbier	I-PER	O
-,	O	O
-der	O	O
-unerschöpfliche	O	O
-Librettist	O	O
-,	O	O
-welchem	O	O
-Gounod	B-PER	O
-,	O	O
-Ambroise	B-PER	O
-Thomas	I-PER	O
-,	O	O
-Victor	B-PER	O
-Masse	I-PER	O
-n	O	O
-.	O	O
-A	O	O
-.	O	O
-ihre	O	O
-wirksamsten	O	O
-Operntexte	O	O
-zu	O	O
-danken	O	O
-haben	O	O
-,	O	O
-ist	O	O
-soeben	O	O
-als	O	O
-Kandidat	O	O
-für	O	O
-die	O	O
-Akademie	O	O
-aufgetreten	O	O
-und	O	O
-,	O	O
-um	O	O
-seine	O	O
-Bewerbung	O	O
-zu	O	O
-unterstützen	O	O
-,	O	O
-hat	O	O
-der	O	O
-ihm	O	O
-befreundete	O	O
-Direktor	O	O
-des	O	O
-Odeon	B-ORG	O
--	I-ORG	O
-Theaters	I-ORG	O
-auf	O	O
-dieser	O	O
-Bühne	O	O
-Sonnabend	O	O
-ein	O	O
-älteres	O	O
-und	O	O
-schon	O	O
-im	O	O
-Druck	O	O
-erschienenes	O	O
-dreiaktiges	O	O
-Lustspiel	O	O
-von	O	O
-Jules	B-PER	O
-Barbier	I-PER	O
-:	O	O
-„	O	O
-lin	O	O
-Ilomais	O	O
-s	O	O
-plsiväre	O	O
-!	O	O
-"	O	O
-(	O	O
-„	O	O
-O	O	O
-der	O	O
-Bejaniuiernswerlhcl	O	O
-"	O	O
-)	O	O
-in	O	O
-Szene	O	O
-gehen	O	O
-lassen	O	O
-.	O	O
-
-Der	O	O
-Titel	O	O
-des	O	O
-in	O	O
-Versen	O	O
-geschriebenen	O	O
-Stückes	O	O
-ist	O	O
-,	O	O
-wie	O	O
-man	O	O
-wohl	O	O
-schon	O	O
-errathen	O	O
-hat	O	O
-,	O	O
-ironisch	O	O
-gemeint	O	O
-:	O	O
-Fortunatus	O	O
-,	O	O
-der	O	O
-Held	O	O
-,	O	O
-der	O	O
-nicht	O	O
-umsonst	O	O
-diesen	O	O
-Namen	O	O
-führt	O	O
-,	O	O
-ist	O	O
-vielmehr	O	O
-ein	O	O
-Schooßkind	O	O
-des	O	O
-Glückes	O	O
-und	O	O
-gleichwohl	O	O
-mit	O	O
-einem	O	O
-galligen	O	O
-,	O	O
-pessimistischen	O	O
-Temperament	O	O
-ausgestattet	O	O
-,	O	O
-welches	O	O
-ihm	O	O
-sein	O	O
-so	O	O
-gesegnetes	O	O
-Dasein	O	O
-verleidet	O	O
-und	O	O
-ihn	O	O
-in	O	O
-der	O	O
-krankhaften	O	O
-Einbildung	O	O
-erhält	O	O
-,	O	O
-daß	O	O
-er	O	O
-der	O	O
-unglücklichste	O	O
-aller	O	O
-Sterblichen	O	O
-sei	O	O
-.	O	O
-
-Er	O	O
-ärgert	O	O
-,	O	O
-ereifert	O	O
-,	O	O
-entrüstet	O	O
-sich	O	O
-über	O	O
-Alles	O	O
-und	O	O
-läßt	O	O
-sich	O	O
-in	O	O
-seinem	O	O
-finsteren	O	O
-Mißtrauen	O	O
-von	O	O
-einem	O	O
-Bedienten	O	O
-sogar	O	O
-überreden	O	O
-,	O	O
-daß	O	O
-seine	O	O
-Frau	O	O
-,	O	O
-die	O	O
-er	O	O
-doch	O	O
-längst	O	O
-als	O	O
-ein	O	O
-Muster	O	O
-aller	O	O
-weiblichen	O	O
-Tugenden	O	O
-kennen	O	O
-sollte	O	O
-,	O	O
-ihn	O	O
-mit	O	O
-einem	O	O
-Freunde	O	O
-täusche	O	O
-,	O	O
-ein	O	O
-Verdacht	O	O
-,	O	O
-in	O	O
-welchem	O	O
-ihn	O	O
-ein	O	O
-wohlmeinender	O	O
-Oheim	O	O
-,	O	O
-um	O	O
-ihn	O	O
-von	O	O
-seiner	O	O
-Manie	O	O
-zu	O	O
-heilen	O	O
-,	O	O
-noch	O	O
-bestärkt	O	O
-.	O	O
-
-Wie	O	O
-nun	O	O
-in	O	O
-Fortunatus	O	O
-die	O	O
-bessere	O	O
-Natur	O	O
-mit	O	O
-seinem	O	O
-unseligen	O	O
-Menschenhasse	O	O
-kämpft	O	O
-und	O	O
-schließlich	O	O
-den	O	O
-Sieg	O	O
-gewinnt	O	O
-—	O	O
-diese	O	O
-psychologische	O	O
-Entwicklung	O	O
-bildet	O	O
-den	O	O
-Stoff	O	O
-des	O	O
-an	O	O
-Handlung	O	O
-armen	O	O
-,	O	O
-aber	O	O
-mit	O	O
-seinem	O	O
-moralischen	O	O
-Gefühl	O	O
-und	O	O
-in	O	O
-sauberer	O	O
-Poetik	O	O
-durchgeführten	O	O
-Stücks	O	O
-,	O	O
-welches	O	O
-einen	O	O
-ehrbaren	O	O
-Achtungserfolg	O	O
-errang	O	O
-.	O	O
-"	O	O
--^Laube	O	O
-'	O	O
-s	O	O
-neuer	O	O
-Roman	O	O
-„	O	O
-Die Böhminger	O	O
-'	O	O
-dürfte	O	O
-in	O	O
-einigen	O	O
-Monaten	O	O
-im	O	O
-Verlage	B-ORG	O
-von	I-ORG	O
-Hallberger	I-ORG	O
-erscheinen	O	O
-.	O	O
-
-Das	O	O
-Manuskript	O	O
-ist	O	O
-bereits	O	O
-vor	O	O
-einigen	O	O
-Tagen	O	O
-vollständig	O	O
-der	O	O
-Verlagshandlung	O	O
-eingeschickt	O	O
-worden	O	O
-.	O	O
-
-—	O	O
-.	O	O
-Sacher	B-PER	O
--	I-PER	O
-Masochs	I-PER	O
-Operette	O	O
-„	O	O
-Die	O	O
-Wächter	O	O
-der	O	O
-Moral	O	O
-"	O	O
-wird	O	O
-L"rst	O	O
-'n	O	O
-Pest	O	O
-,	O	O
-und	O	O
-zwar	O	O
-bereits	O	O
-im	O	O
-Januar	O	O
-,	O	O
-zur	O	O
-Aufführung	O	O
-kommen	O	O
-.	O	O
-
-Direktor	O	O
-Robert	B-PER	O
-Muller	I-PER	O
-hat	O	O
-dieselbe	O	O
-glänzend	O	O
-ausgestattet	O	O
-.	O	O
-
-Die	O	O
-durch	O	O
-ihre	O	O
-Schönheit	O	O
-und	O	O
-ihr	O	O
-Talent	O	O
-gleich	O	O
-vortheilhaft	O	O
-bekannte	O	O
-Olma	O	O
-singt	O	O
-die	O	O
-Fürstin	O	O
-.	O	O
--s-	O	O
-„	O	O
-Eine	O	O
-schwarze	O	O
-Venus	O	O
-"	O	O
-,	O	O
-die	O	O
-Novität	O	O
-des	O	O
-Louisenstädtischen	O	O
--'.licaterS	O	O
-,	O	O
-die	O	O
-dem	O	O
-Belot'schen	O	O
-Ausstattungsstück	O	O
-in	O	O
-etwas	O	O
-vorlauter	O	O
-Weise	O	O
-itcl	O	O
-entlehnt	O	O
-hat	O	O
-,	O	O
-macht	O	O
-gute	O	O
-Häuser	O	O
-und	O	O
-dürfte	O	O
-aus	O	O
-der	O	O
-Dresdener	B-LOC	O
-sobald	O	O
-nicht	O	O
-verschwinden	O	O
-.	O	O
-
-Berliner	B-ORG	O
-Tageblatt	I-ORG	O
-.	O	O
-?tr	O	O
-.	O	O
-1	O	O
-
-<Z	O	O
-.	O	O
-L	O	O
-.	O	O
-?	O	O
-.	O	O
 
 Der	O	O
 „	O	O
@@ -4335,6 +3892,445 @@ bi?/»	O	O
 —	O	O
 Recht	O	O
 fest	O	O
+.	O	O
+
+1	—	O	O
+2	Von	O	O
+3	Robert	B-PER	O
+4	Hamerling	I-PER	O
+5	erscheint	O	O
+6	demnächst	O	O
+7	ein	O	O
+8	neues	O	O
+9	fünfaktiges	O	O
+10	Lustspiel	O	O
+11	im	O	O
+12	Druck	O	O
+13	,	O	O
+14	das	O	O
+15	den	O	O
+16	Titel	O	O
+17	"	O	O
+18	Lord	O	O
+19	Lucifer	O	O
+20	"	O	O
+21	führt	O	O
+22	.	O	O
+
+1	Jedenfalls	O	O
+2	eine	O	O
+3	interessante	O	O
+4	Erscheinung	O	O
+5	,	O	O
+6	auf	O	O
+7	die	O	O
+8	wir	O	O
+9	eingehend	O	O
+10	zurückkommen	O	O
+11	werden	O	O
+12	.	O	O
+
+Aus	O	O
+Paris	B-LOC	O
+wird	O	O
+gemeldet	O	O
+:	O	O
+„	O	O
+Jules	B-PER	O
+Barbier	I-PER	O
+,	O	O
+der	O	O
+unerschöpfliche	O	O
+Librettist	O	O
+,	O	O
+welchem	O	O
+Gounod	B-PER	O
+,	O	O
+Ambroise	B-PER	O
+Thomas	I-PER	O
+,	O	O
+Victor	B-PER	O
+Masse	I-PER	O
+n	O	O
+.	O	O
+A	O	O
+.	O	O
+ihre	O	O
+wirksamsten	O	O
+Operntexte	O	O
+zu	O	O
+danken	O	O
+haben	O	O
+,	O	O
+ist	O	O
+soeben	O	O
+als	O	O
+Kandidat	O	O
+für	O	O
+die	O	O
+Akademie	O	O
+aufgetreten	O	O
+und	O	O
+,	O	O
+um	O	O
+seine	O	O
+Bewerbung	O	O
+zu	O	O
+unterstützen	O	O
+,	O	O
+hat	O	O
+der	O	O
+ihm	O	O
+befreundete	O	O
+Direktor	O	O
+des	O	O
+Odeon	B-ORG	O
+-	I-ORG	O
+Theaters	I-ORG	O
+auf	O	O
+dieser	O	O
+Bühne	O	O
+Sonnabend	O	O
+ein	O	O
+älteres	O	O
+und	O	O
+schon	O	O
+im	O	O
+Druck	O	O
+erschienenes	O	O
+dreiaktiges	O	O
+Lustspiel	O	O
+von	O	O
+Jules	B-PER	O
+Barbier	I-PER	O
+:	O	O
+„	O	O
+lin	O	O
+Ilomais	O	O
+s	O	O
+plsiväre	O	O
+!	O	O
+"	O	O
+(	O	O
+„	O	O
+O	O	O
+der	O	O
+Bejaniuiernswerlhcl	O	O
+"	O	O
+)	O	O
+in	O	O
+Szene	O	O
+gehen	O	O
+lassen	O	O
+.	O	O
+
+Der	O	O
+Titel	O	O
+des	O	O
+in	O	O
+Versen	O	O
+geschriebenen	O	O
+Stückes	O	O
+ist	O	O
+,	O	O
+wie	O	O
+man	O	O
+wohl	O	O
+schon	O	O
+errathen	O	O
+hat	O	O
+,	O	O
+ironisch	O	O
+gemeint	O	O
+:	O	O
+Fortunatus	O	O
+,	O	O
+der	O	O
+Held	O	O
+,	O	O
+der	O	O
+nicht	O	O
+umsonst	O	O
+diesen	O	O
+Namen	O	O
+führt	O	O
+,	O	O
+ist	O	O
+vielmehr	O	O
+ein	O	O
+Schooßkind	O	O
+des	O	O
+Glückes	O	O
+und	O	O
+gleichwohl	O	O
+mit	O	O
+einem	O	O
+galligen	O	O
+,	O	O
+pessimistischen	O	O
+Temperament	O	O
+ausgestattet	O	O
+,	O	O
+welches	O	O
+ihm	O	O
+sein	O	O
+so	O	O
+gesegnetes	O	O
+Dasein	O	O
+verleidet	O	O
+und	O	O
+ihn	O	O
+in	O	O
+der	O	O
+krankhaften	O	O
+Einbildung	O	O
+erhält	O	O
+,	O	O
+daß	O	O
+er	O	O
+der	O	O
+unglücklichste	O	O
+aller	O	O
+Sterblichen	O	O
+sei	O	O
+.	O	O
+
+Er	O	O
+ärgert	O	O
+,	O	O
+ereifert	O	O
+,	O	O
+entrüstet	O	O
+sich	O	O
+über	O	O
+Alles	O	O
+und	O	O
+läßt	O	O
+sich	O	O
+in	O	O
+seinem	O	O
+finsteren	O	O
+Mißtrauen	O	O
+von	O	O
+einem	O	O
+Bedienten	O	O
+sogar	O	O
+überreden	O	O
+,	O	O
+daß	O	O
+seine	O	O
+Frau	O	O
+,	O	O
+die	O	O
+er	O	O
+doch	O	O
+längst	O	O
+als	O	O
+ein	O	O
+Muster	O	O
+aller	O	O
+weiblichen	O	O
+Tugenden	O	O
+kennen	O	O
+sollte	O	O
+,	O	O
+ihn	O	O
+mit	O	O
+einem	O	O
+Freunde	O	O
+täusche	O	O
+,	O	O
+ein	O	O
+Verdacht	O	O
+,	O	O
+in	O	O
+welchem	O	O
+ihn	O	O
+ein	O	O
+wohlmeinender	O	O
+Oheim	O	O
+,	O	O
+um	O	O
+ihn	O	O
+von	O	O
+seiner	O	O
+Manie	O	O
+zu	O	O
+heilen	O	O
+,	O	O
+noch	O	O
+bestärkt	O	O
+.	O	O
+
+Wie	O	O
+nun	O	O
+in	O	O
+Fortunatus	O	O
+die	O	O
+bessere	O	O
+Natur	O	O
+mit	O	O
+seinem	O	O
+unseligen	O	O
+Menschenhasse	O	O
+kämpft	O	O
+und	O	O
+schließlich	O	O
+den	O	O
+Sieg	O	O
+gewinnt	O	O
+—	O	O
+diese	O	O
+psychologische	O	O
+Entwicklung	O	O
+bildet	O	O
+den	O	O
+Stoff	O	O
+des	O	O
+an	O	O
+Handlung	O	O
+armen	O	O
+,	O	O
+aber	O	O
+mit	O	O
+seinem	O	O
+moralischen	O	O
+Gefühl	O	O
+und	O	O
+in	O	O
+sauberer	O	O
+Poetik	O	O
+durchgeführten	O	O
+Stücks	O	O
+,	O	O
+welches	O	O
+einen	O	O
+ehrbaren	O	O
+Achtungserfolg	O	O
+errang	O	O
+.	O	O
+"	O	O
+-^Laube	O	O
+'	O	O
+s	O	O
+neuer	O	O
+Roman	O	O
+„	O	O
+Die Böhminger	O	O
+'	O	O
+dürfte	O	O
+in	O	O
+einigen	O	O
+Monaten	O	O
+im	O	O
+Verlage	B-ORG	O
+von	I-ORG	O
+Hallberger	I-ORG	O
+erscheinen	O	O
+.	O	O
+
+Das	O	O
+Manuskript	O	O
+ist	O	O
+bereits	O	O
+vor	O	O
+einigen	O	O
+Tagen	O	O
+vollständig	O	O
+der	O	O
+Verlagshandlung	O	O
+eingeschickt	O	O
+worden	O	O
+.	O	O
+
+—	O	O
+.	O	O
+Sacher	B-PER	O
+-	I-PER	O
+Masochs	I-PER	O
+Operette	O	O
+„	O	O
+Die	O	O
+Wächter	O	O
+der	O	O
+Moral	O	O
+"	O	O
+wird	O	O
+L"rst	O	O
+'n	O	O
+Pest	O	O
+,	O	O
+und	O	O
+zwar	O	O
+bereits	O	O
+im	O	O
+Januar	O	O
+,	O	O
+zur	O	O
+Aufführung	O	O
+kommen	O	O
+.	O	O
+
+Direktor	O	O
+Robert	B-PER	O
+Muller	I-PER	O
+hat	O	O
+dieselbe	O	O
+glänzend	O	O
+ausgestattet	O	O
+.	O	O
+
+Die	O	O
+durch	O	O
+ihre	O	O
+Schönheit	O	O
+und	O	O
+ihr	O	O
+Talent	O	O
+gleich	O	O
+vortheilhaft	O	O
+bekannte	O	O
+Olma	O	O
+singt	O	O
+die	O	O
+Fürstin	O	O
+.	O	O
+-s-	O	O
+„	O	O
+Eine	O	O
+schwarze	O	O
+Venus	O	O
+"	O	O
+,	O	O
+die	O	O
+Novität	O	O
+des	O	O
+Louisenstädtischen	O	O
+-'.licaterS	O	O
+,	O	O
+die	O	O
+dem	O	O
+Belot'schen	O	O
+Ausstattungsstück	O	O
+in	O	O
+etwas	O	O
+vorlauter	O	O
+Weise	O	O
+itcl	O	O
+entlehnt	O	O
+hat	O	O
+,	O	O
+macht	O	O
+gute	O	O
+Häuser	O	O
+und	O	O
+dürfte	O	O
+aus	O	O
+der	O	O
+Dresdener	B-LOC	O
+sobald	O	O
+nicht	O	O
+verschwinden	O	O
 .	O	O
 
 # file:		F_SBB_00001_19140118_043_031_0_003
