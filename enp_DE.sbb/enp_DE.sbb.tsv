@@ -1562,134 +1562,134 @@
 18	folgende	O	O
 19	:	O	O
 
-Im	O	O
-vergangenen	O	O
-September	O	O
-,	O	O
-vor	O	O
-der	O	O
-Bildung	O	O
-des	O	O
-jetzigen	O	O
-Kabinets	O	O
-,	O	O
-verhaftete	O	O
-die	O	O
-Polizei	O	O
-einen	O	O
-Missionar	O	O
-Namens	O	O
-Koller	B-PER	O
-unter	O	O
-der	O	O
-Anklage	O	O
-,	O	O
-religiöse	O	O
-Traktate	O	O
-vertheilt	O	O
-zu	O	O
-haben	O	O
-.	O	O
+1	Im	O	O
+2	vergangenen	O	O
+3	September	O	O
+4	,	O	O
+5	vor	O	O
+6	der	O	O
+7	Bildung	O	O
+8	des	O	O
+9	jetzigen	O	O
+10	Kabinets	O	O
+11	,	O	O
+12	verhaftete	O	O
+13	die	O	O
+14	Polizei	O	O
+15	einen	O	O
+16	Missionar	O	O
+17	Namens	O	O
+18	Köller	B-PER	O
+19	unter	O	O
+20	der	O	O
+21	Anklage	O	O
+22	,	O	O
+23	religiöse	O	O
+24	Traktate	O	O
+25	vertheilt	O	O
+26	zu	O	O
+27	haben	O	O
+28	.	O	O
 
-Drei	O	O
-Stunden	O	O
-nach	O	O
-seiner	O	O
-Verhaftung	O	O
-wurde	O	O
-er	O	O
-freigelassen	O	O
-,	O	O
-wobei	O	O
-jedoch	O	O
-die	O	O
-Polizei	O	O
-zur	O	O
-Rechtfertigung	O	O
-ihres	O	O
-Verfahrens	O	O
-ein	O	O
-in	O	O
-türkischer	O	O
-Sprache	O	O
-verfaßtes	O	O
-,	O	O
-in	O	O
-London	B-LOC	O
-gedrucktes	O	O
-Buch	O	O
-,	O	O
-in	O	O
-dem	O	O
-eine	O	O
-dem	O	O
-Islamismus	O	O
-zuwiderlaufende	O	O
-Stelle	O	O
-vorkam	O	O
-,	O	O
-sowie	O	O
-zwei	O	O
-Manuskripte	O	O
-ähnlichen	O	O
-Inhalts	O	O
-zurückhielt	O	O
-.	O	O
+1	Drei	O	O
+2	Stunden	O	O
+3	nach	O	O
+4	seiner	O	O
+5	Verhaftung	O	O
+6	wurde	O	O
+7	er	O	O
+8	freigelassen	O	O
+9	,	O	O
+10	wobei	O	O
+11	jedoch	O	O
+12	die	O	O
+13	Polizei	O	O
+14	zur	O	O
+15	Rechtfertigung	O	O
+16	ihres	O	O
+17	Verfahrens	O	O
+18	ein	O	O
+19	in	O	O
+20	türkischer	O	O
+21	Sprache	O	O
+22	verfaßtes	O	O
+23	,	O	O
+24	in	O	O
+25	London	B-LOC	O
+26	gedrucktes	O	O
+27	Buch	O	O
+28	,	O	O
+29	in	O	O
+30	dem	O	O
+31	eine	O	O
+32	dem	O	O
+33	Islamismus	O	O
+34	zuwiderlaufende	O	O
+35	Stelle	O	O
+36	vorkam	O	O
+37	,	O	O
+38	sowie	O	O
+39	zwei	O	O
+40	Manuskripte	O	O
+41	ähnlichen	O	O
+42	Inhalts	O	O
+43	zurückhielt	O	O
+44	.	O	O
 
-Am	O	O
-folgenden	O	O
-Tage	O	O
-wurde	O	O
-ein	O	O
-muselmännischer	O	O
-Priester	O	O
-Namens	O	O
-Ahmed	B-PER	O
-Tewfik	I-PER	O
-unter	O	O
-der	O	O
-Anklage	O	O
-verhaftet	O	O
-,	O	O
-der	O	O
-Verfasser	O	O
-jener	O	O
-Schriften	O	O
-zu	O	O
-sein	O	O
-;	O	O
-das	O	O
-gerichtliche	O	O
-Verhör	O	O
-desselben	O	O
-wurde	O	O
-verschoben	O	O
-.	O	O
+1	Am	O	O
+2	folgenden	O	O
+3	Tage	O	O
+4	wurde	O	O
+5	ein	O	O
+6	muselmännischer	O	O
+7	Priester	O	O
+8	Namens	O	O
+9	Ahmed	B-PER	O
+10	Tewfik	I-PER	O
+11	unter	O	O
+12	der	O	O
+13	Anklage	O	O
+14	verhaftet	O	O
+15	,	O	O
+16	der	O	O
+17	Verfasser	O	O
+18	jener	O	O
+19	Schriften	O	O
+20	zu	O	O
+21	sein	O	O
+22	;	O	O
+23	das	O	O
+24	gerichtliche	O	O
+25	Verhör	O	O
+26	desselben	O	O
+27	wurde	O	O
+28	verschoben	O	O
+29	.	O	O
 
-Der	O	O
-englische	O	O
-Botschafter	O	O
-Sir	B-PER	O
-Henry	I-PER	O
-Layard	I-PER	O
-hat	O	O
-während	O	O
-der	O	O
-letzten	O	O
-drei	O	O
-Monate	O	O
-die	O	O
-Zurückgabe	O	O
-der	O	O
-Herrn	O	O
-Köller	B-PER	O
-gehörigen	O	O
-Papiere	O	O
-von	O	O
-der	O	O
-Pforte	O	O
-verlangt	O	O
-.	O	O
+1	Der	O	O
+2	englische	O	O
+3	Botschafter	O	O
+4	Sir	B-PER	O
+5	Henry	I-PER	O
+6	Layard	I-PER	O
+7	hat	O	O
+8	während	O	O
+9	der	O	O
+10	letzten	O	O
+11	drei	O	O
+12	Monate	O	O
+13	die	O	O
+14	Zurückgabe	O	O
+15	der	O	O
+16	Herrn	O	O
+17	Köller	B-PER	O
+18	gehörigen	O	O
+19	Papiere	O	O
+20	von	O	O
+21	der	O	O
+22	Pforte	O	O
+23	verlangt	O	O
+24	.	O	O
 
 Nachdem	O	O
 zwei	O	O
