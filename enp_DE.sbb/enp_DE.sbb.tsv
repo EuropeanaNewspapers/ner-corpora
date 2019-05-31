@@ -1691,127 +1691,127 @@
 23	verlangt	O	O
 24	.	O	O
 
-Nachdem	O	O
-zwei	O	O
-auf	O	O
-den	O	O
-Gegenstand	O	O
-bezügliche	O	O
-Noten	O	O
-Sr	O	O
-.	O	O
-Excellenz	O	O
-unbeantwortet	O	O
-geblieben	O	O
-,	O	O
-hat	O	O
-er	O	O
-am	O	O
-letzten	O	O
-Montag	O	O
-sein	O	O
-Gesuch	O	O
-erneuert	O	O
-;	O	O
-da	O	O
-abermals	O	O
-keine	O	O
-Antwort	O	O
-erfolgte	O	O
-,	O	O
-ließ	O	O
-er	O	O
-der	O	O
-türkischen	B-ORG	O
-Regierung	I-ORG	O
-eine	O	O
-Mittheilung	O	O
-zugehen	O	O
-,	O	O
-indem	O	O
-er	O	O
-ihr	O	O
-drei	O	O
-Tage	O	O
-Zeit	O	O
-ließ	O	O
-,	O	O
-nachstehende	O	O
-Forderungen	O	O
-zu	O	O
-bewilligen	O	O
-,	O	O
-nämlich	O	O
-:	O	O
-die	O	O
-Zurückgabe	O	O
-der	O	O
-Papiere	O	O
-Koller?	O	O
-,	O	O
-die	O	O
-Freilassung	O	O
-Ahmed	B-PER	O
-Tewfiks	I-PER	O
-,	O	O
-des	O	O
-muselmännischen	O	O
-Priesters	O	O
-,	O	O
-welcher	O	O
-angeblich	O	O
-zum	O	O
-Tode	O	O
-verurtheilt	O	O
-worden	O	O
-war	O	O
-,	O	O
-weil	O	O
-er	O	O
-bei	O	O
-der	O	O
-Uebersetzung	O	O
-der	O	O
-Bibel	O	O
-ins	O	O
-Türkische	O	O
-betheiligt	O	O
-gewesen	O	O
-,	O	O
-und	O	O
-die	O	O
-Amts-Entlassung	O	O
-des	O	O
-Polizei-Direktors	O	O
-von	O	O
-Angora	B-LOC	O
-,	O	O
-der	O	O
-Ahmed	B-PER	O
-Tewfiks	I-PER	O
-Verhaftung	O	O
-befohlen	O	O
-,	O	O
-und	O	O
-des	O	O
-Militärkommandanten	O	O
-von	O	O
-Van	O	O
-,	O	O
-welche	O	O
-Beide	O	O
-eine	O	O
-beleidigende	O	O
-Sprache	O	O
-gegen	O	O
-England	B-LOC	O
-und	O	O
-die	O	O
-britischen	O	O
-Konsularagenten	O	O
-geführt	O	O
-hatten	O	O
-.	O	O
+1	Nachdem	O	O
+2	zwei	O	O
+3	auf	O	O
+4	den	O	O
+5	Gegenstand	O	O
+6	bezügliche	O	O
+7	Noten	O	O
+8	Sr	O	O
+9	.	O	O
+10	Excellenz	O	O
+11	unbeantwortet	O	O
+12	geblieben	O	O
+13	,	O	O
+14	hat	O	O
+15	er	O	O
+16	am	O	O
+17	letzten	O	O
+18	Montag	O	O
+19	sein	O	O
+20	Gesuch	O	O
+21	erneuert	O	O
+22	;	O	O
+23	da	O	O
+24	abermals	O	O
+25	keine	O	O
+26	Antwort	O	O
+27	erfolgte	O	O
+28	,	O	O
+29	ließ	O	O
+30	er	O	O
+31	der	O	O
+32	türkischen	B-ORG	O
+33	Regierung	I-ORG	O
+34	eine	O	O
+35	Mittheilung	O	O
+36	zugehen	O	O
+37	,	O	O
+38	indem	O	O
+39	er	O	O
+40	ihr	O	O
+41	drei	O	O
+42	Tage	O	O
+43	Zeit	O	O
+44	ließ	O	O
+45	,	O	O
+46	nachstehende	O	O
+47	Forderungen	O	O
+48	zu	O	O
+49	bewilligen	O	O
+50	,	O	O
+51	nämlich	O	O
+52	:	O	O
+53	die	O	O
+54	Zurückgabe	O	O
+55	der	O	O
+56	Papiere	O	O
+57	Köllers	O	O
+58	,	O	O
+59	die	O	O
+60	Freilassung	O	O
+61	Ahmed	B-PER	O
+62	Tewfiks	I-PER	O
+63	,	O	O
+64	des	O	O
+65	muselmännischen	O	O
+66	Priesters	O	O
+67	,	O	O
+68	welcher	O	O
+69	angeblich	O	O
+70	zum	O	O
+71	Tode	O	O
+72	verurtheilt	O	O
+73	worden	O	O
+74	war	O	O
+75	,	O	O
+76	weil	O	O
+77	er	O	O
+78	bei	O	O
+79	der	O	O
+80	Uebersetzung	O	O
+81	der	O	O
+82	Bibel	O	O
+83	ins	O	O
+84	Türkische	O	O
+85	betheiligt	O	O
+86	gewesen	O	O
+87	,	O	O
+88	und	O	O
+89	die	O	O
+90	Amts-Entlassung	O	O
+91	des	O	O
+92	Polizei-Direktors	O	O
+93	von	O	O
+94	Angora	B-LOC	O
+95	,	O	O
+96	der	O	O
+97	Ahmed	B-PER	O
+98	Tewfiks	I-PER	O
+99	Verhaftung	O	O
+100	befohlen	O	O
+101	,	O	O
+102	und	O	O
+103	des	O	O
+104	Militärkommandanten	O	O
+105	von	O	O
+106	Van	O	O
+107	,	O	O
+108	welche	O	O
+109	Beide	O	O
+110	eine	O	O
+111	beleidigende	O	O
+112	Sprache	O	O
+113	gegen	O	O
+114	England	B-LOC	O
+115	und	O	O
+116	die	O	O
+117	britischen	O	O
+118	Konsularagenten	O	O
+119	geführt	O	O
+120	hatten	O	O
+121	.	O	O
 
 Layard	B-PER	O
 erklärte	O	O
