@@ -2044,140 +2044,140 @@
 36	.	O	O
 37	"	O	O
 
-Ferner	O	O
-sei	O	O
-es	O	O
-durchaus	O	O
-unwahr	O	O
-,	O	O
-daß	O	O
-Ahmed	B-PER	O
-Tewfik	I-PER	O
-zur	O	O
-Todesstrafe	O	O
-verurtheilt	O	O
-worden	O	O
-ist	O	O
-;	O	O
-bis	O	O
-jetzt	O	O
-sei	O	O
-überhaupt	O	O
-noch	O	O
-auf	O	O
-keine	O	O
-Strafe	O	O
-gegen	O	O
-denselben	O	O
-erkannt	O	O
-worden	O	O
-.	O	O
+1	Ferner	O	O
+2	sei	O	O
+3	es	O	O
+4	durchaus	O	O
+5	unwahr	O	O
+6	,	O	O
+7	daß	O	O
+8	Ahmed	B-PER	O
+9	Tewfik	I-PER	O
+10	zur	O	O
+11	Todesstrafe	O	O
+12	verurtheilt	O	O
+13	worden	O	O
+14	ist	O	O
+15	;	O	O
+16	bis	O	O
+17	jetzt	O	O
+18	sei	O	O
+19	überhaupt	O	O
+20	noch	O	O
+21	auf	O	O
+22	keine	O	O
+23	Strafe	O	O
+24	gegen	O	O
+25	denselben	O	O
+26	erkannt	O	O
+27	worden	O	O
+28	.	O	O
 
-Er	O	O
-wurde	O	O
-verhaftet	O	O
-unter	O	O
-der	O	O
-Beschuldigung	O	O
-,	O	O
-Schriften	O	O
-verbreitet	O	O
-zu	O	O
-haben	O	O
-,	O	O
-welche	O	O
-zum	O	O
-Umsturz	O	O
-der	O	O
-religiösen	O	O
-Ordnung	O	O
-geeignet	O	O
-seien	O	O
-und	O	O
-eine	O	O
-Beleidigung	O	O
-des	O	O
-Islam	O	O
-enthielten	O	O
-.	O	O
+1	Er	O	O
+2	wurde	O	O
+3	verhaftet	O	O
+4	unter	O	O
+5	der	O	O
+6	Beschuldigung	O	O
+7	,	O	O
+8	Schriften	O	O
+9	verbreitet	O	O
+10	zu	O	O
+11	haben	O	O
+12	,	O	O
+13	welche	O	O
+14	zum	O	O
+15	Umsturz	O	O
+16	der	O	O
+17	religiösen	O	O
+18	Ordnung	O	O
+19	geeignet	O	O
+20	seien	O	O
+21	und	O	O
+22	eine	O	O
+23	Beleidigung	O	O
+24	des	O	O
+25	Islam	O	O
+26	enthielten	O	O
+27	.	O	O
 
-Im	O	O
-Uebrigen	O	O
-soll	O	O
-der	O	O
-englische	B-PER	O
-Botschafter	I-PER	O
-vom	O	O
-Sultan	B-PER	O
-empfangen	O	O
-werden	O	O
-,	O	O
-um	O	O
-aus	O	O
-dessen	O	O
-Munde	O	O
-die	O	O
-Erledigung	O	O
-seiner	O	O
-Reklamationen	O	O
-in	O	O
-der	O	O
-Bibel-Affaire	O	O
-zu	O	O
-erfahren	O	O
-.	O	O
+1	Im	O	O
+2	Uebrigen	O	O
+3	soll	O	O
+4	der	O	O
+5	englische	B-PER	O
+6	Botschafter	I-PER	O
+7	vom	O	O
+8	Sultan	B-PER	O
+9	empfangen	O	O
+10	werden	O	O
+11	,	O	O
+12	um	O	O
+13	aus	O	O
+14	dessen	O	O
+15	Munde	O	O
+16	die	O	O
+17	Erledigung	O	O
+18	seiner	O	O
+19	Reklamationen	O	O
+20	in	O	O
+21	der	O	O
+22	Bibel-Affaire	O	O
+23	zu	O	O
+24	erfahren	O	O
+25	.	O	O
 
-Man	O	O
-glaubt	O	O
-um	O	O
-so	O	O
-gewisser	O	O
-an	O	O
-eine	O	O
-rasche	O	O
-und	O	O
-befriedigende	O	O
-Beilegung	O	O
-des	O	O
-Zwischenfalles	O	O
-,	O	O
-als	O	O
-auch	O	O
-,	O	O
-wie	O	O
-uns	O	O
-schon	O	O
-ein	O	O
-Privattelegramm	O	O
-meldete	O	O
-,	O	O
-der	O	O
-deutsche	O	O
-Geschäftsträger	O	O
-,	O	O
-Graf	B-PER	O
-Radolinski	I-PER	O
-,	O	O
-die	O	O
-Weisung	O	O
-von	O	O
-seiner	O	O
-Regierung	O	O
-erhalten	O	O
-haben	O	O
-soll	O	O
-,	O	O
-die	O	O
-Reklamationen	O	O
-des	O	O
-englischen	B-PER	O
-Botschafters	I-PER	O
-bei	O	O
-der	O	O
-Pforte	O	O
-zu	O	O
-unterstützen	O	O
-.	O	O
+1	Man	O	O
+2	glaubt	O	O
+3	um	O	O
+4	so	O	O
+5	gewisser	O	O
+6	an	O	O
+7	eine	O	O
+8	rasche	O	O
+9	und	O	O
+10	befriedigende	O	O
+11	Beilegung	O	O
+12	des	O	O
+13	Zwischenfalles	O	O
+14	,	O	O
+15	als	O	O
+16	auch	O	O
+17	,	O	O
+18	wie	O	O
+19	uns	O	O
+20	schon	O	O
+21	ein	O	O
+22	Privattelegramm	O	O
+23	meldete	O	O
+24	,	O	O
+25	der	O	O
+26	deutsche	O	O
+27	Geschäftsträger	O	O
+28	,	O	O
+29	Graf	B-PER	O
+30	Radolinski	I-PER	O
+31	,	O	O
+32	die	O	O
+33	Weisung	O	O
+34	von	O	O
+35	seiner	O	O
+36	Regierung	O	O
+37	erhalten	O	O
+38	haben	O	O
+39	soll	O	O
+40	,	O	O
+41	die	O	O
+42	Reklamationen	O	O
+43	des	O	O
+44	englischen	B-PER	O
+45	Botschafters	I-PER	O
+46	bei	O	O
+47	der	O	O
+48	Pforte	O	O
+49	zu	O	O
+50	unterstützen	O	O
+51	.	O	O
 
 1	Deutschland	B-LOC	O
 2	.	O	O
