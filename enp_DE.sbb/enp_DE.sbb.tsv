@@ -1813,159 +1813,159 @@
 120	hatten	O	O
 121	.	O	O
 
-Layard	B-PER	O
-erklärte	O	O
-,	O	O
-daß	O	O
-,	O	O
-wenn	O	O
-die	O	O
-drei	O	O
-Punkte	O	O
-nicht	O	O
-bewilligt	O	O
-werden	O	O
-sollten	O	O
-,	O	O
-er	O	O
-Lord	B-PER	O
-Salisbury	I-PER	O
-um	O	O
-Weisungen	O	O
-über	O	O
-den	O	O
-Gegenstand	O	O
-ersuchen	O	O
-und	O	O
-unterdessen	O	O
-die	O	O
-diplomatischen	O	O
-Beziehungen	O	O
-zu	O	O
-der	O	O
-Pforte	O	O
-aufheben	O	O
-würde	O	O
-.	O	O
+1	Layard	B-PER	O
+2	erklärte	O	O
+3	,	O	O
+4	daß	O	O
+5	,	O	O
+6	wenn	O	O
+7	die	O	O
+8	drei	O	O
+9	Punkte	O	O
+10	nicht	O	O
+11	bewilligt	O	O
+12	werden	O	O
+13	sollten	O	O
+14	,	O	O
+15	er	O	O
+16	Lord	B-PER	O
+17	Salisbury	I-PER	O
+18	um	O	O
+19	Weisungen	O	O
+20	über	O	O
+21	den	O	O
+22	Gegenstand	O	O
+23	ersuchen	O	O
+24	und	O	O
+25	unterdessen	O	O
+26	die	O	O
+27	diplomatischen	O	O
+28	Beziehungen	O	O
+29	zu	O	O
+30	der	O	O
+31	Pforte	O	O
+32	aufheben	O	O
+33	würde	O	O
+34	.	O	O
 
-In	O	O
-Antwort	O	O
-auf	O	O
-die	O	O
-Vorstellung	O	O
-Sir	B-PER	O
-Henry	I-PER	O
-Layards	I-PER	O
-hat	O	O
-die	O	O
-Pforte	O	O
-denselben	O	O
-benachrichtigt	O	O
-,	O	O
-daß	O	O
-der	O	O
-Missionär	O	O
-Köller	B-PER	O
-kein	O	O
-britischer	O	O
-,	O	O
-sondern	O	O
-ein	O	O
-deutscher	O	O
-Unterthan	O	O
-sei	O	O
-und	O	O
-des	O	O
-Weitem	O	O
-Beweise	O	O
-beigebracht	O	O
-,	O	O
-daß	O	O
-das	O	O
-Gerücht	O	O
-von	O	O
-der	O	O
-Verurtheilung	O	O
-Ahmed	B-PER	O
-Tewfiks	I-PER	O
-zum	O	O
-Tode	O	O
-nicht	O	O
-wahr	O	O
-ist	O	O
-;	O	O
-derselbe	O	O
-soll	O	O
-den	O	O
-Erklärungen	O	O
-der	O	O
-Pforte	O	O
-gemäß	O	O
-im	O	O
-Gegentheil	O	O
-nur	O	O
-einer	O	O
-Voruntersuchung	O	O
-unterworfen	O	O
-gewesen	O	O
-sein	O	O
-,	O	O
-welche	O	O
-soeben	O	O
-beendigt	O	O
-worden	O	O
-.	O	O
+1	In	O	O
+2	Antwort	O	O
+3	auf	O	O
+4	die	O	O
+5	Vorstellung	O	O
+6	Sir	B-PER	O
+7	Henry	I-PER	O
+8	Layards	I-PER	O
+9	hat	O	O
+10	die	O	O
+11	Pforte	O	O
+12	denselben	O	O
+13	benachrichtigt	O	O
+14	,	O	O
+15	daß	O	O
+16	der	O	O
+17	Missionär	O	O
+18	Köller	B-PER	O
+19	kein	O	O
+20	britischer	O	O
+21	,	O	O
+22	sondern	O	O
+23	ein	O	O
+24	deutscher	O	O
+25	Unterthan	O	O
+26	sei	O	O
+27	und	O	O
+28	des	O	O
+29	Weiteren	O	O
+30	Beweise	O	O
+31	beigebracht	O	O
+32	,	O	O
+33	daß	O	O
+34	das	O	O
+35	Gerücht	O	O
+36	von	O	O
+37	der	O	O
+38	Verurtheilung	O	O
+39	Ahmed	B-PER	O
+40	Tewfiks	I-PER	O
+41	zum	O	O
+42	Tode	O	O
+43	nicht	O	O
+44	wahr	O	O
+45	ist	O	O
+46	;	O	O
+47	derselbe	O	O
+48	soll	O	O
+49	den	O	O
+50	Erklärungen	O	O
+51	der	O	O
+52	Pforte	O	O
+53	gemäß	O	O
+54	im	O	O
+55	Gegentheil	O	O
+56	nur	O	O
+57	einer	O	O
+58	Voruntersuchung	O	O
+59	unterworfen	O	O
+60	gewesen	O	O
+61	sein	O	O
+62	,	O	O
+63	welche	O	O
+64	soeben	O	O
+65	beendigt	O	O
+66	worden	O	O
+67	.	O	O
 
-Ueberdies	O	O
-hat	O	O
-die	O	O
-Pforte	O	O
-Sir	B-PER	O
-Henry	I-PER	O
-Layard	I-PER	O
-die	O	O
-Versicherung	O	O
-ertheilt	O	O
-,	O	O
-daß	O	O
-Ahmed	B-PER	O
-Tewfik	I-PER	O
-mit	O	O
-Nachsicht	O	O
-von	O	O
-den	O	O
-osmanischen	O	O
-Behörden	O	O
-behandelt	O	O
-werden	O	O
-wird	O	O
-.	O	O
+1	Ueberdies	O	O
+2	hat	O	O
+3	die	O	O
+4	Pforte	O	O
+5	Sir	B-PER	O
+6	Henry	I-PER	O
+7	Layard	I-PER	O
+8	die	O	O
+9	Versicherung	O	O
+10	ertheilt	O	O
+11	,	O	O
+12	daß	O	O
+13	Ahmed	B-PER	O
+14	Tewfik	I-PER	O
+15	mit	O	O
+16	Nachsicht	O	O
+17	von	O	O
+18	den	O	O
+19	osmanischen	O	O
+20	Behörden	O	O
+21	behandelt	O	O
+22	werden	O	O
+23	wird	O	O
+24	.	O	O
 
-Man	O	O
-glaubt	O	O
-,	O	O
-daß	O	O
-angesichts	O	O
-der	O	O
-sowohl	O	O
-von	O	O
-der	O	O
-Pforte	O	O
-als	O	O
-Sir	B-PER	O
-Henry	I-PER	O
-Layard	I-PER	O
-bewiesenen	O	O
-versöhnlichen	O	O
-Gesinnungen	O	O
-die	O	O
-Angelegenheit	O	O
-keine	O	O
-ernsten	O	O
-Folgen	O	O
-haben	O	O
-werde	O	O
-.	O	O
+1	Man	O	O
+2	glaubt	O	O
+3	,	O	O
+4	daß	O	O
+5	angesichts	O	O
+6	der	O	O
+7	sowohl	O	O
+8	von	O	O
+9	der	O	O
+10	Pforte	O	O
+11	als	O	O
+12	Sir	B-PER	O
+13	Henry	I-PER	O
+14	Layard	I-PER	O
+15	bewiesenen	O	O
+16	versöhnlichen	O	O
+17	Gesinnungen	O	O
+18	die	O	O
+19	Angelegenheit	O	O
+20	keine	O	O
+21	ernsten	O	O
+22	Folgen	O	O
+23	haben	O	O
+24	werde	O	O
+25	.	O	O
 
 Dies	O	O
 die	O	O
