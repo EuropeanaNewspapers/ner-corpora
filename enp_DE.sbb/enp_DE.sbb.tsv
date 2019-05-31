@@ -1485,82 +1485,83 @@
 61	werden	O	O
 62	.	O	O
 
-Der	O	O
-„	O	O
-Bibel-Konflikt	O	O
-"	O	O
-in	O	O
-Konstantinopel	B-LOC	O
-scheint	O	O
-nunmehr	O	O
-beigelegt	O	O
-zu	O	O
-sein	O	O
-,	O	O
-wenigstens	O	O
-hat	O	O
-die	O	O
-Pforte	O	O
-den	O	O
-Großmächten	O	O
-eine	O	O
-Erklärung	O	O
-zugehen	O	O
-lassen	O	O
-,	O	O
-wonach	O	O
-gegen	O	O
-Ahmed	B-PER	O
-Tewfik	I-PER	O
-überhaupt	O	O
-noch	O	O
-keine	O	O
-Strafe	O	O
-erkannt	O	O
-worden	O	O
-ist	O	O
-.	O	O
+1	Der	O	O
+2	"	O	O
+3	Bibel-Konflikt	O	O
+4	"	O	O
+5	in	O	O
+6	Konstantinopel	B-LOC	O
+7	scheint	O	O
+8	nunmehr	O	O
+9	beigelegt	O	O
+10	zu	O	O
+11	sein	O	O
+12	,	O	O
+13	wenigstens	O	O
+14	hat	O	O
+15	die	O	O
+16	Pforte	O	O
+17	den	O	O
+18	Großmächten	O	O
+19	eine	O	O
+20	Erklärung	O	O
+21	zugehen	O	O
+22	lassen	O	O
+23	,	O	O
+24	wonach	O	O
+25	gegen	O	O
+26	Ahmed	B-PER	O
+27	Tewfik	I-PER	O
+28	überhaupt	O	O
+29	noch	O	O
+30	keine	O	O
+31	Strafe	O	O
+32	erkannt	O	O
+33	worden	O	O
+34	ist	O	O
+35	.	O	O
 
-Die	O	O
-Angelegenheit	O	O
-hat	O	O
-auch	O	O
-für	O	O
-Deutschland	B-LOC	O
-ein	O	O
-besonderes	O	O
-Interesse	O	O
-,	O	O
-als	O	O
-ein	O	O
-deutscher	O	O
-Unterthan	O	O
-bei	O	O
-derselben	O	O
-mit	O	O
-verwickelt	O	O
-ist	O	O
-.	O	O
+1	Die	O	O
+2	Angelegenheit	O	O
+3	hat	O	O
+4	auch	O	O
+5	für	O	O
+6	Deutschland	B-LOC	O
+7	ein	O	O
+8	besonderes	O	O
+9	Interesse	O	O
+10	,	O	O
+11	als	O	O
+12	ein	O	O
+13	deutscher	O	O
+14	Unterthan	O	O
+15	bei	O	O
+16	derselben	O	O
+17	mit	O	O
+18	verwickelt	O	O
+19	ist	O	O
+20	.	O	O
 
-Der	O	O
-Thatbestand	O	O
-ist	O	O
-nach	O	O
-englischer	O	O
-Darstellung	O	O
-,	O	O
-welche	O	O
-in	O	O
-der	O	O
-türkischen	O	O
-Mittheilung	O	O
-ihre	O	O
-Bestätigung	O	O
-findet	O	O
-,	O	O
-der	O	O
-folgende	O	O
-:	O	O
+1	Der	O	O
+2	Thatbestand	O	O
+3	ist	O	O
+4	nach	O	O
+5	englischer	O	O
+6	Darstellung	O	O
+7	,	O	O
+8	welche	O	O
+9	in	O	O
+10	der	O	O
+11	türkischen	O	O
+12	Mittheilung	O	O
+13	ihre	O	O
+14	Bestätigung	O	O
+15	findet	O	O
+16	,	O	O
+17	der	O	O
+18	folgende	O	O
+19	:	O	O
+
 Im	O	O
 vergangenen	O	O
 September	O	O
