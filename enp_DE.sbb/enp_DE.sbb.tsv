@@ -2415,86 +2415,86 @@
 2	Schiffsnachrichten	O	O
 3	.	O	O
 
-Die	O	O
-Glattdecks	O	O
--	O	O
-Korvette	O	O
-„	O	O
-Freya	O	O
-"	O	O
-,	O	O
-8	O	O
-Geschütze	O	O
-,	O	O
-Kommandant	O	O
-Korvetten-Kapitän	O	O
-v	O	O
-.	O	O
-Hippcl	B-PER	O
-,	O	O
-ist	O	O
-am	O	O
-29	O	O
-.	O	O
-d	O	O
-.	O	O
-M	O	O
-.	O	O
-in	O	O
-Montevideo	B-LOC	O
-eingetroffen	O	O
-.	O	O
+1	Die	O	O
+2	Glattdecks-Korvette	O	O
+3	"	O	O
+4	Freya	O	O
+5	"	O	O
+6	,	O	O
+7	8	O	O
+8	Geschütze	O	O
+9	,	O	O
+10	Kommandant	O	O
+11	Korvetten-Kapitän	O	O
+12	v	B-PER	O
+13	.	I-PER	O
+14	Hippel	I-PER	O
+15	,	O	O
+16	ist	O	O
+17	am	O	O
+18	29	O	O
+19	.	O	O
+20	d	O	O
+21	.	O	O
+22	M	O	O
+23	.	O	O
+24	in	O	O
+25	Montevideo	B-LOC	O
+26	eingetroffen	O	O
+27	.	O	O
 
-—	O	O
-Die	O	O
-Glattdecks-Korvette	O	O
-„	O	O
-Medusa	O	O
-"	O	O
-,	O	O
-9	O	O
-Geschütze	O	O
-,	O	O
-Kommandant	O	O
-Korvetten-Kapitän	O	O
-Matthesen	B-PER	O
-,	O	O
-traf	O	O
-am	O	O
-27	O	O
-.	O	O
-November	O	O
-c	O	O
-.	O	O
-in	O	O
-Port	B-LOC	O
-of	I-LOC	O
-Spain	I-LOC	O
-ein'	O	O
-ging	O	O
-am	O	O
-6	O	O
-.	O	O
-Dezember	O	O
-in	O	O
-See	O	O
-und	O	O
-ankerte	O	O
-am	O	O
-11	O	O
-.	O	O
-desselben	O	O
-Monats	O	O
-in	O	O
-Barbadoes	B-LOC	O
-.	O	O
+1	—	O	O
+2	Die	O	O
+3	Glattdecks-Korvette	O	O
+4	"	O	O
+5	Medusa	O	O
+6	"	O	O
+7	,	O	O
+8	9	O	O
+9	Geschütze	O	O
+10	,	O	O
+11	Kommandant	O	O
+12	Korvetten-Kapitän	O	O
+13	Matthesen	B-PER	O
+14	,	O	O
+15	traf	O	O
+16	am	O	O
+17	27	O	O
+18	.	O	O
+19	November	O	O
+20	c	O	O
+21	.	O	O
+22	in	O	O
+23	Port	B-LOC	O
+24	of	I-LOC	O
+25	Spain	I-LOC	B-LOC
+26	ein	O	O
+27	,	O	O
+28	ging	O	O
+29	am	O	O
+30	6	O	O
+31	.	O	O
+32	Dezember	O	O
+33	in	O	O
+34	See	O	O
+35	und	O	O
+36	ankerte	O	O
+37	am	O	O
+38	11	O	O
+39	.	O	O
+40	desselben	O	O
+41	Monats	O	O
+42	in	O	O
+43	Barbadoes	B-LOC	O
+44	.	O	O
 
-Letzte	O	O
-Nachrichten	O	O
-.	O	O
+1	Letzte	O	O
+2	Nachrichten	O	O
+3	.	O	O
 
-Oesterreich-Ungarn	B-LOC	O
-.	O	O
+1	Oesterreich-Ungarn	B-LOC	O
+2	.	O	O
+
 ,	O	O
 I	O	O
 .	O	O
