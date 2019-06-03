@@ -2196,70 +2196,70 @@
 5	)	O	O
 6	.	O	O
 
-Zufolge	O	O
-heute	O	O
-hier	O	O
-getroffener	O	O
-Vereinbarung	O	O
-wird	O	O
-der	O	O
-Handelsvertrag	O	O
-zwischen	O	O
-Deutschland	B-LOC	O
-und	O	O
-Oesterreich-Ungarn	B-LOC	O
-vom	O	O
-16	O	O
-.	O	O
-Dezember	O	O
-1878	O	O
-nebst	O	O
-Schlußprotokoll	O	O
-bis	O	O
-3V	O	O
-.	O	O
-Juni	O	O
-1880	O	O
-in	O	O
-Kraft	O	O
-bleiben	O	O
-,	O	O
-jedoch	O	O
-mit	O	O
-Ausschluß	O	O
-der	O	O
-Bestimmungen	O	O
-über	O	O
-Zollfreiheit	O	O
-der	O	O
-Rohlcinen	O	O
-über	O	O
-Refaktien	O	O
-bei	O	O
-Eisenbahntarifen	O	O
-und	O	O
-über	O	O
-Beschlagnahme	O	O
-von	O	O
-Eisenbahn-Fahrbetriebsmitteln	O	O
-,	O	O
-sowie	O	O
-ferner	O	O
-mit	O	O
-Ausschluß	O	O
-der	O	O
-Bestimmungen	O	O
-über	O	O
-den	O	O
-Veredelungsverkehr	O	O
-,	O	O
-dessen	O	O
-Fortdauer	O	O
-beiderseits	O	O
-autonom	O	O
-geregelt	O	O
-wird	O	O
-.	O	O
+1	Zufolge	O	O
+2	heute	O	O
+3	hier	O	O
+4	getroffener	O	O
+5	Vereinbarung	O	O
+6	wird	O	O
+7	der	O	O
+8	Handelsvertrag	O	O
+9	zwischen	O	O
+10	Deutschland	B-LOC	O
+11	und	O	O
+12	Oesterreich-Ungarn	B-LOC	O
+13	vom	O	O
+14	16	O	O
+15	.	O	O
+16	Dezember	O	O
+17	1878	O	O
+18	nebst	O	O
+19	Schlußprotokoll	O	O
+20	bis	O	O
+21	30	O	O
+22	.	O	O
+23	Juni	O	O
+24	1880	O	O
+25	in	O	O
+26	Kraft	O	O
+27	bleiben	O	O
+28	,	O	O
+29	jedoch	O	O
+30	mit	O	O
+31	Ausschluß	O	O
+32	der	O	O
+33	Bestimmungen	O	O
+34	über	O	O
+35	Zollfreiheit	O	O
+36	der	O	O
+37	Rohleinen	O	O
+38	über	O	O
+39	Refaktien	O	O
+40	bei	O	O
+41	Eisenbahntarifen	O	O
+42	und	O	O
+43	über	O	O
+44	Beschlagnahme	O	O
+45	von	O	O
+46	Eisenbahn-Fahrbetriebsmitteln	O	O
+47	,	O	O
+48	sowie	O	O
+49	ferner	O	O
+50	mit	O	O
+51	Ausschluß	O	O
+52	der	O	O
+53	Bestimmungen	O	O
+54	über	O	O
+55	den	O	O
+56	Veredelungsverkehr	O	O
+57	,	O	O
+58	dessen	O	O
+59	Fortdauer	O	O
+60	beiderseits	O	O
+61	autonom	O	O
+62	geregelt	O	O
+63	wird	O	O
+64	.	O	O
 
 Das	O	O
 Zollkartell	O	O
