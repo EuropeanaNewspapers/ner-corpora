@@ -2305,94 +2305,115 @@
 21	werden	O	O
 22	.	O	O
 
-*	O	O
-Nach	O	O
-einer	O	O
-Bekanntmachung	O	O
-des	O	O
-Reichskanzlers	O	O
-ist	O	O
-der	O	O
-Betrag	O	O
-der	O	O
-für	O	O
-die	O	O
-Naturalverpflegung	O	O
-der	O	O
-Truppen	O	O
-zu	O	O
-gewährenden	O	O
-Vergütung	O	O
-für	O	O
-das	O	O
-Jahr	O	O
-1880	O	O
-dahin	O	O
-festgestellt	O	O
-worden	O	O
-,	O	O
-daß	O	O
-an	O	O
-Vergütung	O	O
-für	O	O
-Mann	O	O
-und	O	O
-Tag	O	O
-zu	O	O
-gewähren	O	O
-ist	O	O
-:	O	O
-mit	O	O
-Brot	O	O
-ohne	O	O
-Brot	O	O
-».	O	O
-für	O	O
-die	O	O
-volle	O	O
-Tageskost	O	O
-.	O	O
+1	*	O	O
+2	Nach	O	O
+3	einer	O	O
+4	Bekanntmachung	O	O
+5	des	O	O
+6	Reichskanzlers	O	O
+7	ist	O	O
+8	der	O	O
+9	Betrag	O	O
+10	der	O	O
+11	für	O	O
+12	die	O	O
+13	Naturalverpflegung	O	O
+14	der	O	O
+15	Truppen	O	O
+16	zu	O	O
+17	gewährenden	O	O
+18	Vergütung	O	O
+19	für	O	O
+20	das	O	O
+21	Jahr	O	O
+22	1880	O	O
+23	dahin	O	O
+24	festgestellt	O	O
+25	worden	O	O
+26	,	O	O
+27	daß	O	O
+28	an	O	O
+29	Vergütung	O	O
+30	für	O	O
+31	Mann	O	O
+32	und	O	O
+33	Tag	O	O
+34	zu	O	O
+35	gewähren	O	O
+36	ist	O	O
+37	:	O	O
 
-.	O	O
-85	O	O
-Pf	O	O
-.	O	O
-.	O	O
-.	O	O
-70	O	O
-Pf	O	O
-.	O	O
-b	O	O
-.	O	O
-„	O	O
-„	O	O
-Mittagskost	O	O
-...	O	O
-43	O	O
-„ . .	O	O
-38	O	O
-c.	O	O
-„	O	O
-„	O	O
-Abendkost	O	O
-....	O	O
-26	O	O
-„	O	O
-.	O	O
-.	O	O
-21	O	O
-„	O	O
-„	O	O
-Morgenkost	O	O
-. . .	O	O
-16	O	O
-„	O	O
-. .	O	O
-11	O	O
-„	O	O
-*	O	O
-Schiffsnachrichten	O	O
-.	O	O
+1	mit	O	O
+2	Brot	O	O
+3	ohne	O	O
+4	Brot	O	O
+
+1	a	O	O
+2	.	O	O
+3	für	O	O
+4	die	O	O
+5	volle	O	O
+6	Tageskost	O	O
+7	.	O	O
+8	.	O	O
+9	85	O	O
+10	Pf	O	O
+11	.	O	O
+12	.	O	O
+13	.	O	O
+14	70	O	O
+15	Pf	O	O
+16	.	O	O
+
+1	b	O	O
+2	.	O	O
+3	„	O	O
+4	„	O	O
+5	Mittagskost	O	O
+6	.	O	O
+7	.	O	O
+8	.	O	O
+9	43	O	O
+10	„	O	O
+11	.	O	O
+12	.	O	O
+13	38	O	O
+14	„	O	O
+
+1	c	O	O
+2	.	O	O
+3	„	O	O
+4	„	O	O
+5	Abendkost	O	O
+6	.	O	O
+7	.	O	O
+8	.	O	O
+9	.	O	O
+10	26	O	O
+11	„	O	O
+12	.	O	O
+13	.	O	O
+14	21	O	O
+15	„	O	O
+
+1	d	O	O
+2	.	O	O
+3	„	O	O
+4	„	O	O
+5	Morgenkost	O	O
+6	.	O	O
+7	.	O	O
+8	.	O	O
+9	16	O	O
+10	„	O	O
+11	.	O	O
+12	.	O	O
+13	11	O	O
+14	„	O	O
+
+1	*	O	O
+2	Schiffsnachrichten	O	O
+3	.	O	O
 
 Die	O	O
 Glattdecks	O	O
