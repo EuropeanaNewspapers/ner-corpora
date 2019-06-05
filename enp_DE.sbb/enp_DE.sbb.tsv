@@ -2495,100 +2495,100 @@
 1	Oesterreich-Ungarn	B-LOC	O
 2	.	O	O
 
-,	O	O
-I	O	O
-.	O	O
-Wien	B-LOC	O
-,	O	O
-31	O	O
-.	O	O
-Dezember	O	O
-.	O	O
-(	O	O
-Privat-Telegr	O	O
-.	O	O
-des	O	O
-Berliner	B-ORG	O
-Tageblatts	I-ORG	O
-.	O	O
-)	O	O
+1	T	O	O
+2	.	O	O
+3	Wien	B-LOC	O
+4	,	O	O
+5	31	O	O
+6	.	O	O
+7	Dezember	O	O
+8	.	O	O
 
-Aus	O	O
-Prag	B-LOC	O
-wird	O	O
-gemeldet	O	O
-:	O	O
-Im	O	O
-Czechenklub	O	O
-hielt	O	O
-Nieger	B-PER	O
-eine	O	O
-Rede	O	O
-über	O	O
-die	O	O
-Universitätsfrage	O	O
-,	O	O
-der	O	O
-zufolge	O	O
-die	O	O
-Czechen	O	O
-von	O	O
-der	O	O
-Regierung	O	O
-die	O	O
-Einbringung	O	O
-einer	O	O
-Kreditvorlage	O	O
-zur	O	O
-Durchführung	O	O
-der	O	O
-Gleichberechtigung	O	O
-verlangen	O	O
-werden	O	O
-.	O	O
+1	(	O	O
+2	Privat-Telegr	O	O
+3	.	O	O
+4	des	O	O
+5	Berliner	B-ORG	O
+6	Tageblatts	I-ORG	O
+7	.	O	O
+8	)	O	O
 
-„	O	O
-Wir	O	O
-werden	O	O
-laut	O	O
-und	O	O
-verständlich	O	O
-im	O	O
-Parlament	O	O
-reden	O	O
-,	O	O
-und	O	O
-wird	O	O
-es	O	O
-nicht	O	O
-möglich	O	O
-sein	O	O
-,	O	O
-im	O	O
-Guten	O	O
-die	O	O
-Erfüllung	O	O
-unserer	O	O
-Wünsche	O	O
-zu	O	O
-erlangen	O	O
-,	O	O
-so	O	O
-werden	O	O
-wir	O	O
-auch	O	O
-anders	O	O
-aufzutreten	O	O
-wissen	O	O
-,	O	O
-"	O	O
-so	O	O
-schloß	O	O
-Rieger	B-PER	O
-seine	O	O
-drohende	O	O
-Rede	O	O
-.	O	O
+1	Aus	O	O
+2	Prag	B-LOC	O
+3	wird	O	O
+4	gemeldet	O	O
+5	:	O	O
+6	Im	O	O
+7	Czechenklub	O	O
+8	hielt	O	O
+9	Rieger	B-PER	O
+10	eine	O	O
+11	Rede	O	O
+12	über	O	O
+13	die	O	O
+14	Universitätsfrage	O	O
+15	,	O	O
+16	der	O	O
+17	zufolge	O	O
+18	die	O	O
+19	Czechen	O	O
+20	von	O	O
+21	der	O	O
+22	Regierung	O	O
+23	die	O	O
+24	Einbringung	O	O
+25	einer	O	O
+26	Kreditvorlage	O	O
+27	zur	O	O
+28	Durchführung	O	O
+29	der	O	O
+30	Gleichberechtigung	O	O
+31	verlangen	O	O
+32	werden	O	O
+33	.	O	O
+
+1	"	O	O
+2	Wir	O	O
+3	werden	O	O
+4	laut	O	O
+5	und	O	O
+6	verständlich	O	O
+7	im	O	O
+8	Parlament	O	O
+9	reden	O	O
+10	,	O	O
+11	und	O	O
+12	wird	O	O
+13	es	O	O
+14	nicht	O	O
+15	möglich	O	O
+16	sein	O	O
+17	,	O	O
+18	im	O	O
+19	Guten	O	O
+20	die	O	O
+21	Erfüllung	O	O
+22	unserer	O	O
+23	Wünsche	O	O
+24	zu	O	O
+25	erlangen	O	O
+26	,	O	O
+27	so	O	O
+28	werden	O	O
+29	wir	O	O
+30	auch	O	O
+31	anders	O	O
+32	aufzutreten	O	O
+33	wissen	O	O
+34	,	O	O
+35	"	O	O
+36	so	O	O
+37	schloß	O	O
+38	Rieger	B-PER	O
+39	seine	O	O
+40	drohende	O	O
+41	Rede	O	O
+42	.	O	O
 
 s-lt«	O	O
 5	O	O
