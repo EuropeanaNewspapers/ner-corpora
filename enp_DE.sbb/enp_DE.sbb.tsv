@@ -4560,7 +4560,8 @@
 	Etatsforderungen	O	O	
 	zu	O	O	
 	besichtigen	O	O	
-	.	O	O	
+	.	O	O
+
 	.	O	O	
 	xcr	O	O	
 	Kausmann	B-PER	O	
@@ -4592,7 +4593,8 @@
 	Preußen	B-LOC	O	
 	ausgewiesen	O	O	
 	worden	O	O	
-	.	O	O	
+	.	O	O
+
 	r>or	O	O	
 	dem	O	O	
 	Kaiserlichen	O	O	
@@ -4622,6 +4624,7 @@
 	Vereins	O	O	
 	verhandelt	O	O	
 	.	O	O	
+
 	Wolffs	O	O	
 	.»au	O	O	
 	meldet	O	O	
@@ -4643,7 +4646,8 @@
 	Helmer-	B-PER	O	
 	Kolmar	I-PER	O	
 	aus	O	O	
-	.	O	O	
+	.	O	O
+
 	In	O	O	
 	nnnlialbstündiger	O	O	
 	Verhandlung	O	O	
@@ -4680,7 +4684,8 @@
 	zahlreiche	O	O	
 	Beweismittel	O	O	
 	aufgeführt	O	O	
-	.	O	O	
+	.	O	O
+
 	Die	O	O	
 	toitruna	O	O	
 	hat	O	O	
@@ -4735,6 +4740,7 @@
 	rdiillihrcn	O	O	
 	sollte	O	O	
 	.	O	O	
+
 	Auf	O	O	
 	Grund	O	O	
 	dessen	O	O	
@@ -4758,7 +4764,8 @@
 	"	O	O"	O	O	
 	verfügt	O	O	
 	worden	O	O	
-	.	O	O	
+	.	O	O
+
 	Rechtsanwalt	O	O	
 	Hel-	O	O	
 	(i	O	O	
@@ -4802,7 +4809,8 @@
 	Nark	O	O	
 	Geldstrafe	O	O	
 	verurteilte	O	O	
-	.	O	O	
+	.	O	O
+
 	Der	O	O	
 	Verteidiger	O	O	
 	erklärte	O	O	
@@ -4839,7 +4847,8 @@
 	«siMgsbeweise	O	O	
 	totgeschwiegen	O	O	
 	worden	O	O	
-	.	O	O	
+	.	O	O
+
 	Der	O	O	
 	Anklagevertreter	O	O	
 	hielt	O	O	
@@ -4899,6 +4908,7 @@
 	zu	O	O	
 	werden	O	O	
 	.	O	O	
+
 	In	O	O	
 	diesem	O	O	
 	Brief	O	O	
@@ -4939,7 +4949,8 @@
 	„itftn	O	O	
 	worden	O	O	
 	seien	O	O	
-	.	O	O	
+	.	O	O
+
 	Die	O	O	
 	Urteilsverkündung	O	O	
 	wurde	O	O	
@@ -4949,6 +4960,7 @@
 	Januar	O	O	
 	scstgesrht	O	O	
 	.	O	O	
+
 	*	O	O	
 	)	O	O	
 	ic	O	O	
