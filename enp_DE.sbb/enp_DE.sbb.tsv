@@ -7765,6 +7765,7 @@ Hier	O	O
 14	O	O
 Beiblätter	O	O
 .	O	O
+
 # 	3	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19330409-0-6-0-0/full/full/0/default.jpg
 6	O	O
 V	O	O
@@ -9726,6 +9727,7 @@ fertiggestellt	O	O
 wird	O	O
 Aufnahme	O	O
 Paramount-Studio	B-ORG	O
+
 #	4	file:		http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19100104-2-3-0-0/full/full/0/default.jpg
 schule	O	O
 des	O	O
@@ -13815,6 +13817,7 @@ Mali«	O	O
 Berlin	B-LOC	O
 SW	O	O
 .	O	O
+
 # 	5	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27974534-18900404-1-3-0-0/full/full/0/default.jpg
 fcli	O	O
 Sämmtliche	O	O
@@ -18318,6 +18321,7 @@ im	O	O
 vorigen	O	O
 Jahre	O	O
 .	O	O
+
 # 	6	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18900512-0-20-0-0/full/full/0/default.jpg
 12	O	O
 Berliner	B-ORG	O
@@ -20595,6 +20599,7 @@ W	O	O
 Kronenstraase	B-LOC	O
 37	I-LOC	O
 .	O	O
+
 # 	7	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19300313-0-3-0-0/full/full/0/default.jpg
 1*80	O	O
 Berliner	B-ORG	O
@@ -23149,6 +23154,7 @@ M	O	O
 ,	O	O
 i	O	O
 t	O	O
+
 # 	8	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19400514-6-1-0-0/full/full/0/default.jpg
 Zweite	O	O
 Mittags-Ausgabe	O	O
@@ -25796,6 +25802,7 @@ GmbH	I-ORG	O
 .	O	O
 ,	O	O
 Berlin	B-LOC	O
+
 # 	9	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18800831-0-1-0-0/full/full/0/default.jpg
 a..^'	O	O
 '	O	O
@@ -30334,6 +30341,7 @@ Fortsetzung	O	O
 folgt	O	O
 .	O	O
 )	O	O
+
 # 	10	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2807323X-19231013-1-1-0-0/full/full/0/default.jpg
 Ausgabe	O	O
 für	O	O
@@ -35739,6 +35747,7 @@ sondern	O	O
 ein	O	O
 Segen	O	O
 sei	O	O
+
 # 	11	file:	F_SBB_00006_19070103_055_003_0_001.xml
 # sbb url:	http://zefys.staatsbibliothek-berlin.de/kalender/auswahl/date/1907-01-03/27971740/
 # tel url:	http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000119057959?page=1
@@ -38539,6 +38548,7 @@ Zahl	O	O
 der	O	O
 Betriebe	O	O
 «jtiUl.'	O	O
+
 # 	12	file:	F_SBB_00006_19170105_065_007_0_002.xml
 # sbb url:	http://zefys.staatsbibliothek-berlin.de/kalender/auswahl/date/1907-01-05/27971740/
 # tel url:	http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000119033243?page=2
@@ -42078,6 +42088,7 @@ Hierzu	O	O
 1	O	O
 Beiblatt	O	O
 .	O	O
+
 # 	13	file:	F_SBB_00006_19170112_065_020_0_002.xml
 # sbb url:	http://zefys.staatsbibliothek-berlin.de/kalender/auswahl/date/1917-01-12/27971740/
 # tel url:	http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000119033143?page=2
@@ -45281,6 +45292,7 @@ Easinnflusses	B-LOC	O
 Alle	O	O
 Angriffe	O	O
 wurden	O	O
+
 # 	14	file:	F_SBB_00006_19271016_075_490_0_001.xml
 # sbb url:	http://zefys.staatsbibliothek-berlin.de/kalender/auswahl/date/1927-10-16/27971740/
 # tel url:	http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000119023182?page=1
@@ -47418,6 +47430,7 @@ mit	O	O
 der	O	O
 Benennung	O	O
 dieser	O	O
+
 # 	15	file:	F_SBB_00001_18770625_000_002_6_001
 # sbb url:	???
 # tel url:	???
@@ -50522,6 +50535,7 @@ nur
 Probenummer
 .
 Hebd«mas»
+
 # 	16	file:	F_SBB_00001_18920101_021_001_0_001
 # sbb url:	???
 # tel url:	???
@@ -53538,6 +53552,7 @@ Nr
 .
 1
 .
+
 # 	17	file:	F_SBB_00001_19140101_000_001_5_003
 # sbb url:	???
 # tel url:	???
@@ -54396,6 +54411,7 @@ gehender
 Sorgfalt
 befleißigt
 .
+
 # 	18	file:	F_SBB_00001_18800101_009_001_0_002
 # sbb url:	???
 # tel url:	???
@@ -58090,6 +58106,7 @@ deu
 11«
 Jauuar
 angesetzt.
+
 # 	19	file:	F_SBB_00009_18940403_042_125_0_001
 # sbb url:	???
 # tel url:	???
@@ -60745,6 +60762,7 @@ in
 sein
 neu
 einge-
+
 # 	20	file:	F_SBB_00009_18940403_042_125_0_001
 # sbb url:	???
 # tel url:	???
@@ -63400,6 +63418,7 @@ in
 sein
 neu
 einge-
+
 # 	21	file:	F_SBB_00009_18950101_043_001_0_003
 # sbb url:	???
 # tel url:	???
@@ -66849,6 +66868,7 @@ wurde
 kein
 Schaden
 angeiichtet.
+
 # 	22	file:	F_SBB_00009_18991023_047_498_0_003
 # sbb url:	???
 # tel url:	???
@@ -71853,6 +71873,7 @@ Holdheim,
 sämmllich
 in
 Berlin.
+
 # 	23	file:	F_SBB_00009_19101120_058_543_3_001
 # sbb url:	???
 # tel url:	???
@@ -75395,6 +75416,7 @@ elektrischen
 Ylühbirnen
 sccnhast
 beleuchtet.
+
 # 	24	file:	F_SBB_00009_19170904_065_450_0_001
 # sbb url:	???
 # tel url:	???
@@ -78937,6 +78959,7 @@ elektrischen
 Ylühbirnen
 sccnhast
 beleuchtet.
+
 # 	25	file:	F_SBB_00009_19230929_071_457_0_003
 # sbb url:	???
 # tel url:	???
@@ -81621,6 +81644,7 @@ entgegengenocnmez,.
 I
 I
 1
+
 # 	26	file:	F_SBB_00009_19300101_078_001_4_001
 # sbb url:	???
 # tel url:	???
@@ -83627,6 +83651,7 @@ letzte
 Woche
 des
 Jahres
+
 #	27	file:	A_SBB_00007_18720405_000_159_0_005
 # sbb url:	???
 # tel url:	???
@@ -85409,6 +85434,7 @@ vermerkt
 steht,
 ist
 eingetragen;
+
 # 	28	file:	A_SBB_00007_18780420_000_186_0_024
 # sbb url:	???
 # tel url:	???
@@ -86719,6 +86745,7 @@ Berik
 W.,
 Kroueüaksuw«
 37.
+
 # 	29	file:	A_SBB_00007_18850518_000_226_0_003
 # sbb url:	???
 # tel url:	???
@@ -88868,6 +88895,7 @@ Jt
 auf
 No,
 45479.
+
 # 	30	file:	F_SBB_00007_18990402_000_155_0_002
 # sbb url:	???
 # tel url:	???
@@ -91097,6 +91125,7 @@ besondere
 Vorbereitung,
 ein
 L
+
 # 	31	file:	F_SBB_00007_19070428_000_197_0_014
 # sbb url:	???
 # tel url:	???
@@ -93316,6 +93345,7 @@ der
 Erde
 übergebene
 Frühjahrssaat-
+
 # 	32	file:	F_SBB_00007_19140621_059_285_0_005
 # sbb url:	???
 # tel url:	???
@@ -95382,6 +95412,7 @@ Sandschak
 Adrianopel
 vollständig
 ausgehört.
+
 # 	33	file:	F_SBB_00007_19210712_067_319_0_005
 # sbb url:	???
 # tel url:	???
@@ -99994,6 +100025,7 @@ veran-
 vor
 I
 A
+
 # 	34	file:	F_SBB_00007_19270227_072_097_0_002
 # sbb url:	???
 # tel url:	???
@@ -103512,6 +103544,7 @@ Hierzu
 drei
 Beilage
 I
+
 # 	35	file:	F_SBB_00007_19310103_070_003_0_006
 # sbb url:	???
 # tel url:	???
@@ -109276,6 +109309,7 @@ ZInkwelss
 57%—64%.
 Marktverlauf:
 ruhig»
+
 # 	36	file:	ISSUE_19360605_00725_1-0001
 # sbb url:	???
 # tel url:	???
@@ -111798,6 +111832,7 @@ Deutsches
 Nachrichtenbüro
 G.m.b.H.,
 Berlin.
+
 # 	37	file:	ISSUE_19370710_00933_1-0001
 # sbb url:	???
 # tel url:	???
@@ -114158,6 +114193,7 @@ Deutsches
 Nachrichtenbüro
 G.m.b.H.,
 Berlin.
+
 # 	38	file:	ISSUE_19381012_01663_1-0001
 # sbb url:	???
 # tel url:	???
@@ -116563,6 +116599,7 @@ b.
 H.,
 Be
 rlin
+
 # 	39	file:	ISSUE_19391031_01549_1-0001
 # sbb url:	???
 # tel url:	???
@@ -118884,6 +118921,7 @@ m.
 b.
 H..
 Berlin,
+
 # 	40	file:	ISSUE_19400222_00180_1-0001
 # sbb url:	???
 # tel url:	???
@@ -121210,6 +121248,7 @@ m.
 b.
 H.,
 Berlin..
+
 # 	41	file:	F_SBB_00007_18790720_018_294_0_005
 # sbb url:	???
 # tel url:	???
@@ -126669,6 +126708,7 @@ dazu.'
 (Fortsetzung
 folgt.)
 T?
+
 # 	42	file:	F_SBB_00007_18861105_026_518_0_002
 # sbb url:	???
 # tel url:	???
@@ -131774,6 +131814,7 @@ Publikum
 zugänglich
 gemacht
 wird.
+
 # 	43	file:	F_SBB_00007_18930820_032_389_0_001
 # sbb url:	???
 # tel url:	???
@@ -135605,6 +135646,7 @@ ihren
 Armen.
 (Fortsetzung
 folgt.)
+
 # 	44	file:	F_SBB_00007_19010830_040_203_0_002
 # sbb url:	???
 # tel url:	???
@@ -141435,6 +141477,7 @@ obdachlose
 Männer
 aufgegttffen
 wurden.
+
 # 	45	file:	F_SBB_00007_19080724_047_172_0_005
 # sbb url:	???
 # tel url:	???
@@ -146823,6 +146866,7 @@ für
 Fr.
 erhältlich.
 \.
+
 # 	46	file:	F_SBB_00007_19150813_054_223_0_002
 # sbb url:	???
 # tel url:	???
@@ -151288,6 +151332,7 @@ und
 Reich."
 Ottovon
 Gottberg.
+
 # 	47	file:	F_SBB_00007_19221015_061_445_0_013
 # sbb url:	???
 # tel url:	???
@@ -156061,6 +156106,7 @@ Wilhelmstr.
 Tel.
 Zentrum
 ,1Z49
+
 # 	48	file:	F_SBB_00007_19280828_067_402_0_002
 # sbb url:	???
 # tel url:	???
@@ -161860,6 +161906,7 @@ statisinden,
 wieder
 mti-
 I
+
 # 	49	file:	F_SBB_00007_19301023_069_495_0_002
 # sbb url:	???
 # tel url:	???
@@ -165126,6 +165173,7 @@ Flotte
 der
 Erde
 stützt.
+
 # 	50	file:	F_SBB_00001_19340722_000_029_5_004
 # sbb url:	???
 # tel url:	???
@@ -165798,6 +165846,7 @@ t
 W61^
 Fechtwei*
 -Nil
+
 # 	51	file:	F_SBB_00001_19260506_055_212_0_002
 # sbb url:	???
 # tel url:	???
@@ -168902,6 +168951,7 @@ Erde
 inkarnirren
 sich
 ar
+
 # 	52	file:	F_SBB_00001_19180625_047_319_0_009
 # sbb url:	???
 # tel url:	???
@@ -172036,6 +172086,7 @@ spähen.
 halb
 nach
 den
+
 # 	53	file:	F_SBB_00001_19081114_037_582_0_032
 # sbb url:	???
 # tel url:	???
@@ -173478,6 +173529,7 @@ HI.
 und
 ft«n»
 rt«n-
+
 # 	54	file:	F_SBB_00001_18960612_025_295_0_003
 # sbb url:	???
 # tel url:	???
@@ -176992,6 +177044,7 @@ Gruppeiiarchitekt-u.
 welch«
 di,
 Schuld
+
 # 	55	file:	F_SBB_00001_18841016_013_486_0_002
 # sbb url:	???
 # tel url:	???
@@ -180568,6 +180621,7 @@ si«
 ösi
 lich
 rügen."
+
 # 	56	file:	A_SBB_00007_18730517_000_228_0_001
 # sbb url:	???
 # tel url:	???
@@ -182411,6 +182465,7 @@ EmWonsgeschäftes
 die
 Auflösung
 de«
+
 # 	57	file:	F_SBB_00007_18920803_000_357_0_012
 # sbb url:	???
 # tel url:	???
@@ -184433,6 +184488,7 @@ Berlin
 W„
 Kronenstraßc
 37.
+
 # 	58	file:	F_SBB_00007_19000218_000_082_0_009
 # sbb url:	???
 # tel url:	???
@@ -186310,6 +186366,7 @@ das
 Geschäftsjahr
 1899
 ins
+
 # 	59	file:	F_SBB_00007_19091113_000_534_0_001
 # sbb url:	???
 # tel url:	???
@@ -187716,6 +187773,7 @@ auf.
 Haler
 in
 guter
+
 # 	60	file:	F_SBB_00007_19150710_061_318_0_013
 # sbb url:	???
 # tel url:	???
@@ -189613,6 +189671,7 @@ Haftung:
 Durch
 Gesellschafferbeschiuss
 vom
+
 # 	61	file:	F_SBB_00007_19201216_066_549_0_006
 # sbb url:	???
 # tel url:	???
@@ -193475,6 +193534,7 @@ UlMner
 Baak
 Filiale
 fioslir.
+
 # 	62	file:	F_SBB_00007_19271126_073_553_0_008
 # sbb url:	???
 # tel url:	???
@@ -198330,6 +198390,7 @@ sehen
 sehr
 schön
 aati."
+
 # 	63	file:	F_SBB_00009_19201015_068_471_0_003
 # sbb url:	???
 # tel url:	???
@@ -200562,6 +200623,7 @@ s«-Berlin.
 Hierzu
 1
 Beiblatt.
+
 # 	64	file:	F_SBB_00009_19041122_052_547_0_002
 # sbb url:	???
 # tel url:	???
@@ -203939,6 +204001,7 @@ besaßen;
 sie
 folgte
 ihnen
+
 # 	65	file:	F_SBB_00009_19221201_070_546_0_002
 # sbb url:	???
 # tel url:	???
