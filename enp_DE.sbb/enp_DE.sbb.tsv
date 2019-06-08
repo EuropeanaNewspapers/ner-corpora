@@ -2605,7 +2605,7 @@
 	Telegramm	O	O	
 	des	O	O	
 	Berliner	B-ORG	O	
-	Tageblatts I_ORG	O	O	
+	Tageblatts I-ORG	O	O	
 	.	O	O	
 	)	O	O	
 
