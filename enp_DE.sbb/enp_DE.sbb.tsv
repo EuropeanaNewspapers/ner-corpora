@@ -1,4 +1,5 @@
-#	1	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18800101-0-3-0-0/full/full/0/default.jpg	
+#	1	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18800101-0-3-0-0/full/full/0/default.jpg
+#	1880-01-01	Berliner Tageblatt	
 1	Donnerstag	O	O	
 2	,	O	O	
 3	1	O	O	
@@ -4358,6 +4359,7 @@
 	.	O	O	
 
 #	2	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19140118-1-3-0-0/full/full/0/default.jpg	
+#	1914-01-18	Berliner Tageblatt
 	dürfen	O	O	
 	,	O	O	
 	daß	O	O	
@@ -7779,6 +7781,7 @@
 	.	O	O	
 
 #	3	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19330409-0-6-0-0/full/full/0/default.jpg	
+#	1933-04-09	Der Welt-Spiegel
 	6	O	O	
 	V	O	O	
 	0	O	O	
@@ -9741,6 +9744,7 @@
 	Paramount-Studio	B-ORG	O	
 
 #	4	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19100104-2-3-0-0/full/full/0/default.jpg	
+#	1910-01-04	Berliner Volks-Zeitng
 	schule	O	O	
 	des	O	O	
 	Lettevereins	B-ORG	O	
@@ -13831,6 +13835,7 @@
 	.	O	O	
 
 #	5	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27974534-18900404-1-3-0-0/full/full/0/default.jpg	
+#	1890-04-04	Berliner Volks-Zeitung
 	fcli	O	O	
 	Sämmtliche	O	O	
 	Bureaus	O	O	
