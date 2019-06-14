@@ -1,5 +1,5 @@
-#	1	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18800101-0-3-0-0/full/full/0/default.jpg
-#	1880-01-01	Berliner Tageblatt	
+#	001	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18800101-0-3-0-0/full/full/0/default.jpg
+#	1880-01-01	Berliner Tageblatt	27646518	
 1	Donnerstag	O	O	
 2	,	O	O	
 3	1	O	O	
@@ -163,9 +163,9 @@
 26	Schauspieler	O	O	
 27	Coquelin	B-PER	O	
 28	dem	O	O	
-29	"	O	O"	O	O	
+29	"	O	O	
 30	Jüngeren	O	O	
-31	"	O	O"	O	O	
+31	"	O	O	
 32	von	O	O	
 33	der	O	O	
 34	Comédie	B-ORG	O	
@@ -503,14 +503,14 @@
 15	Ansicht	O	O	
 16	huldigt	O	O	
 17	:	O	O	
-18	"	O	O"	O	O	
+18	"	O	O	
 19	Rauch	O	O	
 20	ist	O	O	
 21	alles	O	O	
 22	ird'sche	O	O	
 23	Leben	O	O	
 24	,	O	O	
-25	"	O	O"	O	O	
+25	"	O	O	
 26	so	O	O	
 27	ist	O	O	
 28	er	O	O	
@@ -547,9 +547,9 @@
 25	verbrennen	O	O	
 26	liebt	O	O	
 27	,	O	O	
-28	"	O	O"	O	O	
+28	"	O	O	
 29	brûle-gueule	O	O	
-30	"	O	O"	O	O	
+30	"	O	O	
 31	getauft	O	O	
 32	hat	O	O	
 33	.	O	O	
@@ -685,9 +685,9 @@
 27	im	O	O	
 28	Konseil	O	O	
 29	seinen	O	O	
-30	"	O	O"	O	O	
+30	"	O	O	
 31	Caporal	O	O	
-32	"	O	O"	O	O	
+32	"	O	O	
 33	zu	O	O	
 34	qualmen	O	O	
 35	und	O	O	
@@ -865,9 +865,9 @@
 6	hieß	O	O	
 7	er	O	O	
 8	der	O	O	
-9	"	O	O"	O	O	
+9	"	O	O	
 10	schöne	O	O	
-11	"	O	O"	O	O	
+11	"	O	O	
 12	Magnin	O	O	
 13	,	O	O	
 14	seit	O	O	
@@ -962,9 +962,9 @@
 32	Wilson	B-PER	O	
 33	,	O	O	
 34	des	O	O	
-35	"	O	O"	O	O	
+35	"	O	O	
 36	kleinen	O	O	
-37	"	O	O"	O	O	
+37	"	O	O	
 38	Wilson	B-PER	O	
 39	,	O	O	
 40	wie	O	O	
@@ -982,9 +982,9 @@
 1	Den	O	O	
 2	Beinamen	O	O	
 3	des	O	O	
-4	"	O	O"	O	O	
+4	"	O	O	
 5	Kleinen	O	O	
-6	"	O	O"	O	O	
+6	"	O	O	
 7	hat	O	O	
 8	er	O	O	
 9	vor	O	O	
@@ -1140,9 +1140,9 @@
 35	,	O	O	
 36	die	O	O	
 37	der	O	O	
-38	"	O	O"	O	O	
+38	"	O	O	
 39	kleine	O	O	
-40	"	O	O"	O	O	
+40	"	O	O	
 41	Wilson	B-PER	O	
 42	seit	O	O	
 43	1871	O	O	
@@ -1226,9 +1226,9 @@
 11	eine	O	O	
 12	Art	O	O	
 13	von	O	O	
-14	"	O	O"	O	O	
+14	"	O	O	
 15	Richter-Hagen	O	O	
-16	"	O	O"	O	O	
+16	"	O	O	
 17	,	O	O	
 18	er	O	O	
 19	ist	O	O	
@@ -1487,9 +1487,9 @@
 62	.	O	O	
 
 1	Der	O	O	
-2	"	O	O"	O	O	
+2	"	O	O	
 3	Bibel-Konflikt	O	O	
-4	"	O	O"	O	O	
+4	"	O	O	
 5	in	O	O	
 6	Konstantinopel	B-LOC	O	
 7	scheint	O	O	
@@ -2029,7 +2029,7 @@
 20	sie	O	O	
 21	sagt	O	O	
 22	,	O	O	
-23	"	O	O"	O	O	
+23	"	O	O	
 24	die	O	O	
 25	gegen	O	O	
 26	Ahmed	B-PER	O	
@@ -2043,7 +2043,7 @@
 34	beendet	O	O	
 35	worden	O	O	
 36	.	O	O	
-37	"	O	O"	O	O	
+37	"	O	O	
 
 1	Ferner	O	O	
 2	sei	O	O	
@@ -2418,9 +2418,9 @@
 
 1	Die	O	O	
 2	Glattdecks-Korvette	O	O	
-3	"	O	O"	O	O	
+3	"	O	O	
 4	Freya	O	O	
-5	"	O	O"	O	O	
+5	"	O	O	
 6	,	O	O	
 7	8	O	O	
 8	Geschütze	O	O	
@@ -2447,9 +2447,9 @@
 1	—	O	O	
 2	Die	O	O	
 3	Glattdecks-Korvette	O	O	
-4	"	O	O"	O	O	
+4	"	O	O	
 5	Medusa	O	O	
-6	"	O	O"	O	O	
+6	"	O	O	
 7	,	O	O	
 8	9	O	O	
 9	Geschütze	O	O	
@@ -2548,7 +2548,7 @@
 32	werden	O	O	
 33	.	O	O	
 
-1	"	O	O"	O	O	
+1	"	O	O	
 2	Wir	O	O	
 3	werden	O	O	
 4	laut	O	O	
@@ -2582,7 +2582,7 @@
 32	aufzutreten	O	O	
 33	wissen	O	O	
 34	,	O	O	
-35	"	O	O"	O	O	
+35	"	O	O	
 36	so	O	O	
 37	schloß	O	O	
 38	Rieger	B-PER	O	
@@ -2606,7 +2606,7 @@
 	Telegramm	O	O	
 	des	O	O	
 	Berliner	B-ORG	O	
-	Tageblatts I-ORG	O	O	
+	Tageblatts	I-ORG	O	
 	.	O	O	
 	)	O	O	
 
@@ -2759,7 +2759,7 @@
 	.	O	O	
 	Korresp	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	aus	O	O	
 	Konstantinopel	B-LOC	O	
 	:	O	O	
@@ -2863,7 +2863,7 @@
 	„	O	O	
 	Politische	B-ORG	O	
 	Korrespondenz	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	meldet	O	O	
 	:	O	O	
 	Zufolge	O	O	
@@ -3142,7 +3142,7 @@
 	Der	O	O	
 	„	O	O	
 	Temps	B-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	bestreitet	O	O	
 	,	O	O	
 	daß	O	O	
@@ -3171,11 +3171,11 @@
 	wie	O	O	
 	„	O	O	
 	Ordre	B-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	und	O	O	
 	„	O	O	
 	Estafette	B-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	aufs	O	O	
 	Bestimmteste	O	O	
 	,	O	O	
@@ -3387,7 +3387,7 @@
 	der	O	O	
 	„	O	O	
 	Lauterue	B-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	und	O	O	
 	Alphons	B-PER	O	
 	Humbert	I-PER	O	
@@ -3396,7 +3396,7 @@
 	Mot	B-ORG	O	
 	d'	I-ORG	O	
 	Ordre	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	statt	O	O	
 	";"	O	O	
 	Ersterer	O	O	
@@ -3430,7 +3430,7 @@
 	der	O	O	
 	„	O	O	
 	Temps	B-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	meldet	O	O	
 	,	O	O	
 	hat	O	O	
@@ -4035,13 +4035,13 @@
 	s	O	O	
 	plsiväre	O	O	
 	!	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	(	O	O	
 	„	O	O	
 	O	O	O	
 	der	O	O	
 	Bejaniuiernswerlhcl	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	)	O	O	
 	in	O	O	
 	Szene	O	O	
@@ -4234,7 +4234,7 @@
 	Achtungserfolg	O	O	
 	errang	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	-^Laube	O	O	
 	'	O	O	
 	s	O	O	
@@ -4279,7 +4279,7 @@
 	Wächter	O	O	
 	der	O	O	
 	Moral	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	wird	O	O	
 	"L""rst"	O	O	
 	'n	O	O	
@@ -4325,7 +4325,7 @@
 	Eine	O	O	
 	schwarze	O	O	
 	Venus	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	,	O	O	
 	die	O	O	
 	Novität	O	O	
@@ -4358,8 +4358,8 @@
 	verschwinden	O	O	
 	.	O	O	
 
-#	2	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19140118-1-3-0-0/full/full/0/default.jpg	
-#	1914-01-18	Berliner Tageblatt
+#	002	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19140118-1-3-0-0/full/full/0/default.jpg	
+#	1914-01-18	Berliner Tageblatt	27646518	
 	dürfen	O	O	
 	,	O	O	
 	daß	O	O	
@@ -4449,7 +4449,7 @@
 	Bewilligung	O	O	
 	oder	O	O	
 	Ablehnung	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	46OOO	O	O	
 	Mark	O	O	
 	für	O	O	
@@ -4616,9 +4616,9 @@
 	„	O	O	
 	Eouvenir	O	O	
 	Alsaeien-	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	trflft	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	gegen	O	O	
 	die	O	O	
 	Auflösung	O	O	
@@ -4663,7 +4663,7 @@
 	.	O	O	
 	Souvenir	O	O	
 	Francaise	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	und	O	O	
 	auch	O	O	
 	des	O	O	
@@ -4671,7 +4671,7 @@
 	.	O	O	
 	L	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	zur	O	O	
 	xx-ekhe	O	O	
 	gebracht	O	O	
@@ -4681,7 +4681,7 @@
 	Anklagevertreter	O	O	
 	Geheimen	O	O	
 	Regieeheir	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	Reinhard	B-PER	O	
 	zahlreiche	O	O	
 	Beweismittel	O	O	
@@ -4703,7 +4703,7 @@
 	.	O	O	
 	L	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	die	O	O	
 	F	O	O	
 	K>’	O	O	
@@ -4726,7 +4726,7 @@
 	ortsehung	O	O	
 	die	O	O	
 	Psll	O	O	
-	"z	O	O"	O	O	
+	"z	O	O	
 	ieimkultus	O	O	
 	bezweckte	O	O	
 	,	O	O	
@@ -4763,7 +4763,7 @@
 	.	O	O	
 	L	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	verfügt	O	O	
 	worden	O	O	
 	.	O	O
@@ -4891,7 +4891,7 @@
 	.	O	O	
 	F	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	in	O	O	
 	Elsaß-Lothringen	B-LOC	O	
 	nahegelegt	O	O	
@@ -4906,7 +4906,7 @@
 	.	O	O	
 	L	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	zu	O	O	
 	werden	O	O	
 	.	O	O	
@@ -4929,7 +4929,7 @@
 	.	O	O	
 	L	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	in	O	O	
 	Wirklichkeit	O	O	
 	die	O	O	
@@ -4940,7 +4940,7 @@
 	.	O	O	
 	F	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	sei	O	O	
 	.	O	O	
 	besten	O	O	
@@ -5030,7 +5030,7 @@
 	wurde	O	O	
 	auch	O	O	
 	das	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	shlabkon>nien	O	O	
 	zwischen	O	O	
 	Nationalliberalen	B-ORG	O	
@@ -5132,7 +5132,7 @@
 	gegenübersehen	O	O	
 	.	O	O	
 	Aber	O	O	
-	"lüilich	O	O"	O	O	
+	"lüilich	O	O	
 	kann	O	O	
 	das	O	O	
 	nur	O	O	
@@ -5283,7 +5283,7 @@
 	.	O	O	
 	Teniers	B-PER	O	
 	,	O	O	
-	"hö	O	O"	O	O	
+	"hö	O	O	
 	.	O	O	
 	Fn	O	O	
 	der	O	O	
@@ -5316,7 +5316,7 @@
 	schwarz	O	O	
 	«	O	O	
 	Hand	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	.	O	O	
 	Aus	O	O	
 	Newyork	B-LOC	O	
@@ -5334,7 +5334,7 @@
 	,	O	O	
 	schwär,ze	O	O	
 	Hand	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	bekannten	O	O	
 	"Er""Rrbande"	O	O	
 	hat	O	O	
@@ -5346,7 +5346,7 @@
 	gesehen	O	O	
 	,	O	O	
 	seine	O	O	
-	"pisch	O	O"	O	O	
+	"pisch	O	O	
 	:	O	O	
 	Tournee	O	O	
 	in	O	O	
@@ -5522,7 +5522,7 @@
 	den	O	O	
 	Presseball	O	O	
 	erworbenen	O	O	
-	"nwerkt	O	O"	O	O	
+	"nwerkt	O	O	
 	veranstaltet	O	O	
 	,	O	O	
 	die	O	O	
@@ -6019,7 +6019,7 @@
 	„	O	O	
 	Kölnische	B-ORG	O	
 	Zeitung	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	von	O	O	
 	zuständiger	O	O	
 	Stelle	O	O	
@@ -6104,7 +6104,7 @@
 	„	O	O	
 	Kölnische	B-ORG	O	
 	Zeitung	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	.	O	O	
 	Das	O	O	
 	Blatt	O	O	
@@ -6271,7 +6271,7 @@
 	übrigen	O	O	
 	Wegen	O	O	
 	Dichter	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	(	O	O	
 	Tolstoi	B-PER	O	
 	,	O	O	
@@ -6314,7 +6314,7 @@
 	von	O	O	
 	,,	O	O	
 	Tangofieber	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	erwähnten	O	O	
 	Mondliedes	O	O	
 	stammt	O	O	
@@ -6330,7 +6330,7 @@
 	„	O	O	
 	Die	O	O	
 	Klause	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	veranstaltet	O	O	
 	am	O	O	
 	nächsten	O	O	
@@ -6374,14 +6374,14 @@
 	das	O	O	
 	„	O	O	
 	schönste	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	(	O	O	
 	statt	O	O	
 	als	O	O	
 	das	O	O	
 	„	O	O	
 	schärfste	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	)	O	O	
 	Mittel	O	O	
 	stehen	O	O	
@@ -6405,7 +6405,7 @@
 	gewissenhaft	O	O	
 	erfüllen	O	O	
 	!	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	—	O	O	
 	Am	O	O	
 	29	O	O	
@@ -6422,7 +6422,7 @@
 	Wagners	B-PER	O	
 	„	O	O	
 	Parsifal	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	einen	O	O	
 	Vortrag	O	O	
 	halten	O	O	
@@ -6627,7 +6627,7 @@
 	»	O	O	
 	Der	B-ORG	O	
 	Zeitgeist	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	bringt	O	O	
 	in	O	O	
 	seiner	O	O	
@@ -6673,7 +6673,7 @@
 	Paul	O	O	
 	und	O	O	
 	Virginie	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	.	O	O	
 	Don	O	O	
 	Dr	O	O	
@@ -7552,7 +7552,7 @@
 	der	O	O	
 	„	O	O	
 	Temps	B-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	gehört	O	O	
 	haben	O	O	
 	will	O	O	
@@ -7780,8 +7780,8 @@
 	Beiblätter	O	O	
 	.	O	O	
 
-#	3	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19330409-0-6-0-0/full/full/0/default.jpg	
-#	1933-04-09	Der Welt-Spiegel
+#	003	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19330409-0-6-0-0/full/full/0/default.jpg	
+#	1933-04-09	Der Welt-Spiegel	27646518	
 	6	O	O	
 	V	O	O	
 	0	O	O	
@@ -9732,7 +9732,7 @@
 	Was	O	O	
 	Frauen	O	O	
 	träumen	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	von	O	O	
 	Sudermann	B-PER	O	
 	,	O	O	
@@ -9743,8 +9743,8 @@
 	Aufnahme	O	O	
 	Paramount-Studio	B-ORG	O	
 
-#	4	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19100104-2-3-0-0/full/full/0/default.jpg	
-#	1910-01-04	Berliner Volks-Zeitng
+#	004	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19100104-2-3-0-0/full/full/0/default.jpg	
+#	1910-01-04	Berliner Volks-Zeitung	27971740	
 	schule	O	O	
 	des	O	O	
 	Lettevereins	B-ORG	O	
@@ -10548,7 +10548,7 @@
 	tätig	O	O	
 	.	O	O	
 	Heute	O	O	
-	"Jlanc	O	O"	O	O	
+	"Jlanc	O	O	
 	/	O	O	
 	eteteii	O	O	
 	Von	O	O	
@@ -10954,7 +10954,7 @@
 	.	O	O	
 	Spanier	O	O	
 	3	O	O	
-	"/o	O	O"	O	O	
+	"/o	O	O	
 	Portugiesen	O	O	
 	.	O	O	
 	4	O	O	
@@ -13327,13 +13327,13 @@
 	.	O	O	
 	Taacsiinlicl	O	O	
 	0,7	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	C	O	O	
 	.	O	O	
 	Normales	O	O	
 	TaacSiinllel	O	O	
 	—0.9	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	C	O	O	
 	.	O	O	
 	Niederschläge	O	O	
@@ -13834,8 +13834,8 @@
 	SW	O	O	
 	.	O	O	
 
-#	5	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27974534-18900404-1-3-0-0/full/full/0/default.jpg	
-#	1890-04-04	Berliner Volks-Zeitung
+#	005	https://zdb-katalog.de/title.xhtml?idn=1060035537	http://content.staatsbibliothek-berlin.de/zefys/SNP27974534-18900404-1-3-0-0/full/full/0/default.jpg	
+#	1890-04-04	Berliner Volks-Zeitung	27974534	
 	fcli	O	O	
 	Sämmtliche	O	O	
 	Bureaus	O	O	
@@ -14014,7 +14014,7 @@
 	Begründung	I-ORG	O	
 	deutscher	I-ORG	O	
 	Volksbühnen	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	erhalten	O	O	
 	.	O	O	
 	Der	O	O	
@@ -14046,7 +14046,7 @@
 	Vereins	B-ORG	O	
 	Berliner	I-ORG	O	
 	Presse	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	beigewohnt	O	O	
 	,	O	O	
 	haben	O	O	
@@ -14267,7 +14267,7 @@
 	der	O	O	
 	„	O	O	
 	Kons.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	erfährt	O	O	
 	,	O	O	
 	in	O	O	
@@ -14388,7 +14388,7 @@
 	ohne	O	O	
 	dieses	O	O	
 	!	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	f	O	O	
 	Die	O	O	
 	in	O	O	
@@ -14397,7 +14397,7 @@
 	„	O	O	
 	Iewish	B-ORG	O	
 	Standard	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	schreibt	O	O	
 	:	O	O	
 	„	O	O	
@@ -14456,7 +14456,7 @@
 	Prozess	O	O	
 	gemacht	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	f	O	O	
 	Aus	O	O	
 	Dresden	B-LOC	O	
@@ -14467,7 +14467,7 @@
 	.	O	O	
 	Ztg	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	,	O	O	
 	daß	O	O	
 	die	O	O	
@@ -14812,7 +14812,7 @@
 	einmal	O	O	
 	abbrennen	O	O	
 	";"	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	Dies	O	O	
 	alte	O	O	
 	berliner	O	O	
@@ -14849,7 +14849,7 @@
 	sehr	O	O	
 	„	O	O	
 	schwerer	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	Unfall	O	O	
 	ereignete	O	O	
 	sich	O	O	
@@ -14923,7 +14923,7 @@
 	anderer	O	O	
 	„	O	O	
 	Möbelfall	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	auf	O	O	
 	dem	O	O	
 	Moritzplatz	B-LOC	O	
@@ -15380,7 +15380,7 @@
 	denen	O	O	
 	„	O	O	
 	Fahren	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	nicht	O	O	
 	gelernt	O	O	
 	,	O	O	
@@ -15396,14 +15396,14 @@
 	unter	O	O	
 	„	O	O	
 	Fahren	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	verstanden	O	O	
 	?	O	O	
 	Jeder	O	O	
 	glaubt	O	O	
 	„	O	O	
 	fahren	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	zu	O	O	
 	können	O	O	
 	und	O	O	
@@ -15432,7 +15432,7 @@
 	Prädikat	O	O	
 	„	O	O	
 	Fahren	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	Anspruch	O	O	
 	zu	O	O	
 	haben	O	O	
@@ -15501,7 +15501,7 @@
 	eine	O	O	
 	„	O	O	
 	Ursache	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	tragen	O	O	
 	.	O	O	
 	Viel	O	O	
@@ -15817,7 +15817,7 @@
 	.	O	O	
 	Ztg	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	zufolge	O	O	
 	macht	O	O	
 	die	O	O	
@@ -15837,16 +15837,16 @@
 	Gruben	O	O	
 	„	O	O	
 	Bruchstraße	B-LOC	O	
-	"	O	O"	O	O	
+	"	O	O	
 	,	O	O	
 	„	O	O	
 	(	O	O	
 	frone	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	und	O	O	
 	„	O	O	
 	Borussia	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	vollzählig	O	O	
 	angefahren	O	O	
 	.	O	O	
@@ -15857,7 +15857,7 @@
 	Neu	O	O	
 	-	O	O	
 	Jserlohn	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	arbeiteten	O	O	
 	heute	O	O	
 	Nachmittag	O	O	
@@ -15870,7 +15870,7 @@
 	Grube	O	O	
 	„	O	O	
 	Hannover	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	fuhren	O	O	
 	heute	O	O	
 	Nachmittag	O	O	
@@ -15889,7 +15889,7 @@
 	„	O	O	
 	Daily	B-ORG	O	
 	News	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O	
 	haben	O	O	
 	Mitteilungen	O	O	
 	von	O	O	
@@ -15975,7 +15975,7 @@
 	Die	O	O	
 	„	O	O	
 	Riforina	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	meldet	O	O	
 	,	O	O	
 	daß	O	O	
@@ -16330,7 +16330,7 @@
 	existirt	O	O	
 	,	O	O	
 	durch	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	staiiko-Abgaben	O	O	
 	per	O	O	
 	Ultimo	O	O	
@@ -18339,7 +18339,8 @@
 	Jahre	O	O	
 	.	O	O	
 
-#	6	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18900512-0-20-0-0/full/full/0/default.jpg	
+#	006	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18900512-0-20-0-0/full/full/0/default.jpg	
+#	1890-05-12	Berliner Börsen-Zeitung	2436020X	
 	12	O	O	
 	Berliner	B-ORG	O	
 	Börsen-Zeitung	I-ORG	O	
@@ -20617,7 +20618,8 @@
 	37	I-LOC	O	
 	.	O	O	
 
-#	7	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19300313-0-3-0-0/full/full/0/default.jpg	
+#	007	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19300313-0-3-0-0/full/full/0/default.jpg	
+#	1930-03-13	Berliner Börsen-Zeitung	2436020X	
 	1*80	O	O	
 	Berliner	B-ORG	O	
 	Börsen-Zeitung	I-ORG	O	
@@ -20932,7 +20934,7 @@
 	das	O	O	
 	„	O	O	
 	Achtung	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	-	O	O	
 	Rufen	O	O	
 	auf	O	O	
@@ -22580,7 +22582,7 @@
 	rechtlich	O	O	
 	nicht	O	O	
 	unbedenklich	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	ansieht	O	O	
 	.	O	O	
 	Der	O	O	
@@ -22953,7 +22955,7 @@
 	Pflanzstätte	O	O	
 	des	O	O	
 	Lebens	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	zu	O	O	
 	vorichten	O	O	
 	.	O	O	
@@ -23172,7 +23174,8 @@
 	i	O	O	
 	t	O	O	
 
-#	8	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19400514-6-1-0-0/full/full/0/default.jpg	
+#	008	https://zdb-katalog.de/title.xhtml?idn=1031781625	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19400514-6-1-0-0/full/full/0/default.jpg
+#	1940-05-14	Deutsches Nachrichtenbüro	27058621	
 	Zweite	O	O	
 	Mittags-Ausgabe	O	O	
 	.	O	O	
@@ -23251,7 +23254,7 @@
 	sogenannte	O	O	
 	„	O	O	
 	Informationsministerium	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	übernommen	O	O	
 	.	O	O	
 	Der	O	O	
@@ -23389,7 +23392,7 @@
 	Euch	O	O	
 	weg	O	O	
 	!	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	einen	O	O	
 	Artikel	O	O	
 	veröffentlicht	O	O	
@@ -23420,7 +23423,7 @@
 	,	O	O	
 	geistig	O	O	
 	ungeeignet	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	sei	O	O	
 	.	O	O	
 	Mit	O	O	
@@ -23428,7 +23431,7 @@
 	„	O	O	
 	geistig	O	O	
 	ungeeigneten	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Chamberlain	B-PER	O	
 	erscheint	O	O	
 	er	O	O	
@@ -23455,7 +23458,7 @@
 	Vertreter	O	O	
 	der	O	O	
 	Arbeiterschaft	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	nennen	O	O	
 	,	O	O	
 	hat	O	O	
@@ -23989,7 +23992,7 @@
 	Autobus	O	O	
 	verpaßt	O	O	
 	hat	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	.	O	O	
 	In	O	O	
 	großer	O	O	
@@ -24089,7 +24092,7 @@
 	ganzen	O	O	
 	Brutalität	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Rom	B-LOC	O	
 	,	O	O	
 	13	O	O	
@@ -24578,7 +24581,7 @@
 	aufzwingen	O	O	
 	möchten	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Popolo	B-ORG	O	
 	di	I-ORG	O	
 	Roma	I-ORG	O	
@@ -24744,12 +24747,12 @@
 	zu	O	O	
 	beantworten	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	„	O	O	
 	Infame	O	O	
 	moderne	O	O	
 	Karthager	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	nennt	O	O	
 	Tevere	B-PER	O	
 	die	O	O	
@@ -24875,7 +24878,7 @@
 	Karthagern	O	O	
 	geschah	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Auch	O	O	
 	das	O	O	
 	Mittagsblatt	O	O	
@@ -24992,7 +24995,7 @@
 	Seeräuberwesen	O	O	
 	der	O	O	
 	Auflösung	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	.	O	O	
 	.	O	O	
 	!	O	O	
@@ -25820,7 +25823,8 @@
 	,	O	O	
 	Berlin	B-LOC	O	
 
-#	9	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18800831-0-1-0-0/full/full/0/default.jpg	
+#	009	https://zdb-katalog.de/title.xhtml?idn=1063048109	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18800831-0-1-0-0/full/full/0/default.jpg	
+#	1880-08-31	Norddeutsche allgemeine Zeitung	28028685	
 	a..^'	O	O	
 	'	O	O	
 	<>	O	O	
@@ -26097,7 +26101,7 @@
 	»	O	O	
 	Ztg	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	,	O	O	
 	Wilhelmstraße	B-LOC	O	
 	Nr	O	O	
@@ -26237,7 +26241,7 @@
 	„	O	O	
 	Bairischen	O	O	
 	Hof	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	das	O	O	
 	Dejeuner	O	O	
 	ein	O	O	
@@ -27030,7 +27034,7 @@
 	„	O	O	
 	Weser-Ztg	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	um	O	O	
 	die	O	O	
 	Partei-Neubildung	O	O	
@@ -27087,7 +27091,7 @@
 	„	O	O	
 	Weser-Ztg	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	sagt	O	O	
 	:	O	O	
 	Die	O	O	
@@ -27754,7 +27758,7 @@
 	denn	O	O	
 	wir	O	O	
 	sprechen	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	aber	O	O	
 	in	O	O	
 	dem	O	O	
@@ -28723,7 +28727,7 @@
 	das	O	O	
 	Deutsche	O	O	
 	Reich	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	zum	O	O	
 	Abdruck	O	O	
 	,	O	O	
@@ -30359,7 +30363,8 @@
 	.	O	O	
 	)	O	O	
 
-#	10	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2807323X-19231013-1-1-0-0/full/full/0/default.jpg	
+#	010	https://zdb-katalog.de/title.xhtml?idn=1065342381	http://content.staatsbibliothek-berlin.de/zefys/SNP2807323X-19231013-1-1-0-0/full/full/0/default.jpg	
+#	1923-10-13	Deutsche allgemeine Zeitung	2807323X	
 	Ausgabe	O	O	
 	für	O	O	
 	Groß-Berlin	B-LOC	O	
@@ -30410,7 +30415,7 @@
 	Die	O	O	
 	„	O	O	
 	DAZ	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	ondjcinl	O	O	
 	Sonntag»	O	O	
 	und	O	O	
@@ -32493,7 +32498,7 @@
 	vorgeschlagenen	O	O	
 	„	O	O	
 	Neumark	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	ist	O	O	
 	.	O	O	
 	wie	O	O	
@@ -33072,7 +33077,7 @@
 	„	O	O	
 	Daily	B-ORG	O	
 	Telegraph	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O		
 	ist	O	O	
 	die	O	O	
 	belgische	O	O	
@@ -33336,7 +33341,7 @@
 	ist	O	O	
 	tot	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	S	O	O	
 	.	O	O	
 	Parts	O	O	
@@ -33391,7 +33396,7 @@
 	besonderer	O	O	
 	Führer	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Philipp	O	O	
 	Mi 11 c t	O	O	
 	z	O	O	
@@ -33403,7 +33408,7 @@
 	„	O	O	
 	Petit	B-ORG	O	
 	Parisien	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O		
 	:	O	O	
 	Deutschland	B-LOC	O	
 	mag	O	O	
@@ -33501,11 +33506,11 @@
 	von	O	O	
 	Dauer	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Der	O	O	
 	„	O	O	
 	GaiüäoS	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	wirft	O	O	
 	Stresemann	B-PER	O	
 	mangelnde	O	O	
@@ -33540,7 +33545,7 @@
 	Eclw	O	O	
 	de	O	O	
 	Paris	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	wirft	O	O	
 	dem	O	O	
 	Reichskanzler	O	O	
@@ -33572,7 +33577,7 @@
 	Der	O	O	
 	„	O	O	
 	Marin	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	berichtet	O	O	
 	.	O	O	
 	daß	O	O	
@@ -33592,7 +33597,7 @@
 	Grube	O	O	
 	„	O	O	
 	Kvni«g	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	bei	O	O	
 	Bochum	B-LOC	O	
 	hätten	O	O	
@@ -33628,7 +33633,7 @@
 	„	O	O	
 	Petit	B-ORG	O	
 	Parisien	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O		
 	aus	O	O	
 	Mainz	B-LOC	O	
 	zuverlässig	O	O	
@@ -34253,7 +34258,7 @@
 	die	O	O	
 	Verhältnisse	O	O	
 	überholt	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	seien	O	O	
 	und	O	O	
 	daß	O	O	
@@ -34279,7 +34284,7 @@
 	der	O	O	
 	Einigung	O	O	
 	untereinander	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	.	O	O	
 	Im	O	O	
 	Mai	O	O	
@@ -35099,7 +35104,7 @@
 	die	O	O	
 	„	O	O	
 	unsichtbare	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Besetzung	O	O	
 	herbeigeführt	O	O	
 	und	O	O	
@@ -35286,7 +35291,7 @@
 	Militärbehörden	O	O	
 	bei	O	O	
 	diesen	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Vorgängen	O	O	
 	mit	O	O	
 	den	O	O	
@@ -35376,13 +35381,13 @@
 	„	O	O	
 	Die	O	O	
 	Frage	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	,	O	O	
 	schreibt	O	O	
 	der	O	O	
 	„	O	O	
 	Observer	B-ORG	O	
-	"	O	O"	O	O	
+	"	O	O		
 	,	O	O	
 	„	O	O	
 	die	O	O	
@@ -35421,7 +35426,7 @@
 	verworfen	O	O	
 	hat	O	O	
 	?	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Diese	O	O	
 	Enttäuschung	O	O	
 	,	O	O	
@@ -35522,7 +35527,7 @@
 	zum	O	O	
 	Tanzen	O	O	
 	bringt	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	.	O	O	
 	Tatsächlich	O	O	
 	hat	O	O	
@@ -35680,14 +35685,14 @@
 	das	O	O	
 	„	O	O	
 	Weltgewissen	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	,	O	O	
 	der	O	O	
 	„	O	O	
 	moralisch	O	O	
 	«	O	O	
 	Eindruck	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	und	O	O	
 	all	O	O	
 	die	O	O	
@@ -35765,7 +35770,8 @@
 	Segen	O	O	
 	sei	O	O	
 
-#	11	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19070103-0-1-0-0/full/full/0/default.jpg		
+#	011	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19070103-0-1-0-0/full/full/0/default.jpg	
+#	1907-01-03	Berliner Volkszeitung	27971740	
 	No	O	O	
 	.	O	O	
 	3	O	O	
@@ -36025,7 +36031,7 @@
 	eine	O	O	
 	aufkläreube	O	O	
 	Kundgebung	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	zu	O	O	
 	erlassen	O	O	
 	.	O	O	
@@ -36079,7 +36085,7 @@
 	dieser	O	O	
 	„	O	O	
 	Unbclvnßten	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	erst	O	O	
 	den	O	O	
 	Reichskanzler	O	O	
@@ -36099,7 +36105,7 @@
 	der	O	O	
 	„	O	O	
 	großen	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Rede	O	O	
 	des	O	O	
 	Kanzlers	O	O	
@@ -36954,14 +36960,14 @@
 	nicht	O	O	
 	„	O	O	
 	national	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	genug	O	O	
 	ist	O	O	
 	.	O	O	
 	(	O	O	
 	„	O	O	
 	National	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	nennt	O	O	
 	man	O	O	
 	,	O	O	
@@ -37105,7 +37111,7 @@
 	„	O	O	
 	trennende	O	O	
 	Wasser	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	geschlagen	O	O	
 	hat	O	O	
 	—	O	O	
@@ -37128,12 +37134,12 @@
 	deutschen	O	O	
 	„	O	O	
 	Spießbürger	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	vor	O	O	
 	dem	O	O	
 	„	O	O	
 	Umsturz	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	graulich	O	O	
 	zu	O	O	
 	machcii	O	O	
@@ -38149,7 +38155,7 @@
 	der	O	O	
 	„	O	O	
 	Kreuzzeitung	B-ORG	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Notiz	O	O	
 	genommen	O	O	
 	,	O	O	
@@ -38322,7 +38328,7 @@
 	den	O	O	
 	„	O	O	
 	Faktoren	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	,	O	O	
 	wie	O	O	
 	darumal	O	O	
@@ -38532,13 +38538,13 @@
 	„	I-ORG	O	
 	Deutscher	I-ORG	O	
 	Kaiser	I-ORG	O	
-	"	I-ORG	O"	O	O	
+	"	I-ORG	O		
 	und	O	O	
 	die	O	O	
 	Kruppsche	B-ORG	O	
 	„	I-ORG	O	
 	Friedrich-Alfred-Hütte	I-ORG	O	
-	"	I-ORG	O"	O	O	
+	"	I-ORG	O		
 	.	O	O	
 	deren	O	O	
 	sechs	O	O	
@@ -38564,7 +38570,8 @@
 	Betriebe	O	O	
 	«jtiUl.'	O	O	
 
-#	12	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19170105-0-2-0-0/full/full/0/default.jpg		
+#	012	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19170105-0-2-0-0/full/full/0/default.jpg	
+#	1917-01-05	Berliner Volkszeitung	27971740	
 	9	O	O	
 	f	O	O	
 	fcit-	O	O	
@@ -40350,7 +40357,7 @@
 	Der	O	O	
 	(	O	O	
 	tefit	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	?	O	O	
 	von	O	O	
 	OrbenSmiitelkarten	O	O	
@@ -41749,11 +41756,11 @@
 	Wort	O	O	
 	„	O	O	
 	Firmen	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	durch	O	O	
 	„	O	O	
 	Kaufleute	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	zu	O	O	
 	ersetzen	O	O	
 	.	O	O	
@@ -42102,7 +42109,8 @@
 	Beiblatt	O	O	
 	.	O	O	
 
-#	13	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19170112-0-2-0-0/full/full/0/default.jpg		
+#	013	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19170112-0-2-0-0/full/full/0/default.jpg	
+#	1917-01-12	Berliner Volkszeitung	27971740	
 	Durch	O	O	
 	diese	O	O	
 	Ausdehnung	O	O	
@@ -42280,7 +42288,7 @@
 	,,	O	O	
 	Stockholms	B-ORG	O	
 	Tagblad	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O		
 	:	O	O	
 	Der	O	O	
 	Umstand	O	O	
@@ -42471,7 +42479,7 @@
 	.	O	O	
 	Lyoner	B-ORG	O	
 	Republicain	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O		
 	sagt	O	O	
 	der	O	O	
 	Bericht	O	O	
@@ -42638,7 +42646,7 @@
 	Blatt	O	O	
 	„	O	O	
 	Oeuvre	B-ORG	O	
-	"	O	O"	O	O	
+	"	O	O		
 	teilt	O	O	
 	mit	O	O	
 	,	O	O	
@@ -42655,7 +42663,7 @@
 	.	O	O	
 	„	O	O	
 	Temps	B-ORG	O	
-	"	O	O"	O	O	
+	"	O	O		
 	zufolge	O	O	
 	fanden	O	O	
 	Versammlungen	O	O	
@@ -42676,7 +42684,7 @@
 	.	O	O	
 	„	O	O	
 	Bataille	B-ORG	O	
-	"	O	O"	O	O	
+	"	O	O		
 	,	O	O	
 	das	O	O	
 	Organ	O	O	
@@ -44001,7 +44009,7 @@
 	Bürgers	B-PER	O	
 	..	O	O	
 	Lenore	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	.	O	O	
 	die	O	O	
 	nicht	O	O	
@@ -44265,7 +44273,7 @@
 	„	O	O	
 	Münchener	B-ORG	O	
 	Post	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O		
 	stellt	O	O	
 	an	O	O	
 	der	O	O	
@@ -44355,7 +44363,7 @@
 	Reichsschiedsgericht	B-ORG	O	
 	für	I-ORG	O	
 	Kriegswirtschaft	I-ORG	O	
-	"	O	O"	O	O	
+	"	O	O		
 	.	O	O	
 	Vorsitzender	O	O	
 	des	O	O	
@@ -44962,7 +44970,7 @@
 	in	O	O	
 	der	O	O	
 	Gegend	O	O	
-	"von	O	O"	O	O	
+	"von	O	O		
 	Bouchavcsncs	B-LOC	O	
 	.	O	O	
 	CIcry	O	O	
@@ -45304,7 +45312,8 @@
 	Angriffe	O	O	
 	wurden	O	O	
 
-#	14	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19271016-0-1-0-0/full/full/0/default.jpg	
+#	014	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19271016-0-1-0-0/full/full/0/default.jpg	
+#	1927-10-16	Berliner Volkszeitung	27971740	
 	«kg	O	O	
 	,	O	O	
 	16	O	O	
@@ -45511,7 +45520,7 @@
 	3ede	O	O	
 	Woche	O	O	
 	ttlu/ik	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Hlodenleltung	O	O	
 	Sport	O	O	
 	Zeitung	O	O	
@@ -46317,7 +46326,7 @@
 	Gesetzgebung	O	O	
 	mancher	O	O	
 	Staaten	O	O	
-	"	O	O"	O	O	
+	"	O	O	
 	,	O	O	
 	so	O	O	
 	meinte	O	O	
@@ -46424,7 +46433,7 @@
 	,	O	O	
 	werden	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	Mit	O	O	
 	anderen	O	O	
 	Worten	O	O	
@@ -46691,7 +46700,7 @@
 	abseits	O	O	
 	stehen	O	O	
 	!	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	die	O	O	
 	andere	O	O	
 	und	O	O	
@@ -46850,7 +46859,7 @@
 	sein	O	O	
 	wird	O	O	
 	.	O	O	
-	"	O	O"	O	O	
+	"	O	O		
 	In	O	O	
 	Der	O	O	
 	Ausruf	O	O	
@@ -47440,7 +47449,8 @@
 	Benennung	O	O	
 	dieser	O	O	
 
-#	15	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18770625-0-1-0-0/full/full/0/default.jpg	
+#	015	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18770625-0-1-0-0/full/full/0/default.jpg	
+#	1877-06-25	Berliner Tageblatt	27646518	
 	Wag	O	O	
 	von	O	O	
 	Mols	O	O	
@@ -50543,7 +50553,8 @@
 	.	O	O	
 	Hebd«mas»	O	O	
 
-#	16	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18920101-0-1-0-0/full/full/0/default.jpg
+#	016	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18920101-0-1-0-0/full/full/0/default.jpg	
+#	1892-01-01	Berliner Tageblatt	27646518	
 	4	O	O	
 	„	O	O	
 	Berliner	O	O	
@@ -53558,7 +53569,8 @@
 	1	O	O	
 	.	O	O	
 
-#	17	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19140101-0-3-0-0/full/full/0/default.jpg
+#	017	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19140101-0-3-0-0/full/full/0/default.jpg	
+#	1914-01-01	Berliner Tageblatt	27646518	
 	Der	O	O	
 	Welt-Spiegel	O	O	
 	Nr	O	O	
@@ -54415,7 +54427,7 @@
 	befleißigt	O	O	
 	.	O	O	
 
-#	18	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18800101-0-2-0-0/full/full/0/default.jpg
+#	018	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18800101-0-2-0-0/full/full/0/default.jpg
 	Set»»	O	O	
 	Berliner	O	O	
 	Tageblatt	O	O	
@@ -58108,7 +58120,7 @@
 	Jauuar	O	O	
 	angesetzt.	O	O	
 
-#	19	file:	F_SBB_00009_18940403_042_125_0_001
+#	019	file:	F_SBB_00009_18940403_042_125_0_001
 	M	O	O	
 	125.	O	O	
 	Morgenilatt.	O	O	
@@ -60762,7 +60774,7 @@
 	neu	O	O	
 	einge-	O	O	
 
-#	20	file:	F_SBB_00009_18950101_043_001_0_003
+#	020	file:	F_SBB_00009_18950101_043_001_0_003
 	Mt	O	O	
 	Angelegenheit	O	O	
 	ab«	O	O	
@@ -64210,7 +64222,7 @@
 	Schaden	O	O	
 	angeiichtet.	O	O	
 
-#	21	file:	F_SBB_00009_18991023_047_498_0_003
+#	021	file:	F_SBB_00009_18991023_047_498_0_003
 	f	O	O	
 	Set	O	O	
 	Ltadtd«rord»cte	O	O	
@@ -69213,7 +69225,7 @@
 	in	O	O	
 	Berlin.	O	O	
 
-#	22	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19101120-3-1-0-0/full/full/0/default.jpg
+#	022	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19101120-3-1-0-0/full/full/0/default.jpg
 	'orgert-Ausgabe	O	O	
 	.	O	O	
 	5^3	O	O	
@@ -72754,7 +72766,7 @@
 	sccnhast	O	O	
 	beleuchtet.	O	O	
 
-#	23	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19101120-3-1-0-0/full/full/0/default.jpg
+#	023	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19101120-3-1-0-0/full/full/0/default.jpg
 	'orgert-Ausgabe	O	O	
 	.	O	O	
 	5^3	O	O	
@@ -76295,7 +76307,7 @@
 	sccnhast	O	O	
 	beleuchtet.	O	O	
 
-#	24	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19230929-2-3-0-0/full/full/0/default.jpg
+#	024	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19230929-2-3-0-0/full/full/0/default.jpg
 	\	O	O	
 	Ifinbcrtr,	O	O	
 	müsien	O	O	
@@ -78978,7 +78990,7 @@
 	I	O	O	
 	1	O	O	
 
-#	25	file:	F_SBB_00009_19300101_078_001_4_001
+#	025	file:	F_SBB_00009_19300101_078_001_4_001
 	Auf	O	O	
 	den	O	O	
 	Hund	O	O	
@@ -80983,7 +80995,7 @@
 	des	O	O	
 	Jahres	O	O	
 
-#	26	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18720405-1-5-0-0/full/full/0/default.jpg
+#	026	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18720405-1-5-0-0/full/full/0/default.jpg
 	Beilage	O	O	
 	der	O	O	
 	„iferiüner	O	O	
@@ -82764,7 +82776,7 @@
 	ist	O	O	
 	"eingetragen;"	O	O	
 
-#	27	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18780420-0-24-0-0/full/full/0/default.jpg
+#	027	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18780420-0-24-0-0/full/full/0/default.jpg
 	N	O	O	
 	Concurs	O	O	
 	-	O	O	
@@ -84073,7 +84085,7 @@
 	Kroueüaksuw«	O	O	
 	37.	O	O	
 
-#	28	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18850518-0-3-0-0/full/full/0/default.jpg
+#	028	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18850518-0-3-0-0/full/full/0/default.jpg
 	3	O	O	
 	cartell	O	O	
 	beigetretest	O	O	
@@ -86221,7 +86233,7 @@
 	No,	O	O	
 	45479.	O	O	
 
-#	29	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18990402-0-2-0-0/full/full/0/default.jpg
+#	029	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18990402-0-2-0-0/full/full/0/default.jpg
 	Berliner	O	O	
 	Börsen-Zeitung	O	O	
 	Nr.	O	O	
@@ -88449,7 +88461,7 @@
 	ein	O	O	
 	L	O	O	
 
-#	30	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19070428-0-14-0-0/full/full/0/default.jpg
+#	030	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19070428-0-14-0-0/full/full/0/default.jpg
 	14	O	O	
 	Berliner	O	O	
 	Börseir-ZeltunA	O	O	
@@ -90667,7 +90679,7 @@
 	übergebene	O	O	
 	Frühjahrssaat-	O	O	
 
-#	31	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19140621-0-5-0-0/full/full/0/default.jpg
+#	031	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19140621-0-5-0-0/full/full/0/default.jpg
 	,	O	O	
 	Beilage	O	O	
 	der	O	O	
@@ -92732,7 +92744,7 @@
 	vollständig	O	O	
 	ausgehört.	O	O	
 
-#	32	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19210712-1-5-0-0/full/full/0/default.jpg
+#	032	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19210712-1-5-0-0/full/full/0/default.jpg
 	II.	O	O	
 	Beilage	O	O	
 	der	O	O	
@@ -97343,7 +97355,7 @@
 	I	O	O	
 	A	O	O	
 
-#	33	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19270227-0-2-0-0/full/full/0/default.jpg
+#	033	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19270227-0-2-0-0/full/full/0/default.jpg
 	Berliner	O	O	
 	BSrseii-Zeltung	O	O	
 	Nr.	O	O	
@@ -100860,7 +100872,7 @@
 	Beilage	O	O	
 	I	O	O	
 
-#	34	file:	F_SBB_00007_19310103_070_003_0_006
+#	034	file:	F_SBB_00007_19310103_070_003_0_006
 	a	O	O	
 	<	O	O	
 	—^	O	O	
@@ -106623,7 +106635,7 @@
 	Marktverlauf:	O	O	
 	ruhig»	O	O	
 
-#	35	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19360605-2-1-0-0/full/full/0/default.jpg
+#	035	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19360605-2-1-0-0/full/full/0/default.jpg
 	?>'X7'k	O	O	
 	Mls	O	O	
 	Manuskript	O	O	
@@ -109144,7 +109156,7 @@
 	G.m.b.H.,	O	O	
 	Berlin.	O	O	
 
-#	36	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19370710-3-1-0-0/full/full/0/default.jpg
+#	036	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19370710-3-1-0-0/full/full/0/default.jpg
 	Erste	O	O	
 	Mittags	O	O	
 	-Ausgabe.	O	O	
@@ -111503,7 +111515,7 @@
 	G.m.b.H.,	O	O	
 	Berlin.	O	O	
 
-#	37	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19381012-1-1-0-0/full/full/0/default.jpg
+#	037	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19381012-1-1-0-0/full/full/0/default.jpg
 	Zweite	O	O	
 	Morgen-Ausgabe.	O	O	
 	Deutsches	O	O	
@@ -113907,7 +113919,7 @@
 	Be	O	O	
 	rlin	O	O	
 
-#	38	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19391031-2-1-0-0/full/full/0/default.jpg
+#	038	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19391031-2-1-0-0/full/full/0/default.jpg
 	Vormittags-	O	O	
 	und	O	O	
 	Mittags-Ausgabe.	O	O	
@@ -116227,7 +116239,7 @@
 	H..	O	O	
 	Berlin,	O	O	
 
-#	39	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19400222-0-1-0-0/full/full/0/default.jpg
+#	039	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19400222-0-1-0-0/full/full/0/default.jpg
 	Morgen-Ausgabe.	O	O	
 	Deutsches	O	O	
 	Nachrichtenbüro	O	O	
@@ -118552,7 +118564,7 @@
 	H.,	O	O	
 	Berlin..	O	O	
 
-#	40	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18790720-0-5-0-0/full/full/0/default.jpg
+#	040	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18790720-0-5-0-0/full/full/0/default.jpg
 	Norddeutsche	O	O	
 	Allgemeine	O	O	
 	Zeitung	O	O	
@@ -124010,7 +124022,7 @@
 	folgt.)	O	O	
 	T?	O	O	
 
-#	41	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18861105-1-2-0-0/full/full/0/default.jpg
+#	041	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18861105-1-2-0-0/full/full/0/default.jpg
 	an	O	O	
 	deren	O	O	
 	Parteien	O	O	
@@ -129114,7 +129126,7 @@
 	gemacht	O	O	
 	wird.	O	O	
 
-#	42	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18930820-0-1-0-0/full/full/0/default.jpg
+#	042	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18930820-0-1-0-0/full/full/0/default.jpg
 	I	O	O	
 	Nor-dmtscheUllgmlMeIeilmg.	O	O	
 	'	O	O	
@@ -132944,7 +132956,7 @@
 	(Fortsetzung	O	O	
 	folgt.)	O	O	
 
-#	43	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-19010830-0-2-0-0/full/full/0/default.jpg
+#	043	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-19010830-0-2-0-0/full/full/0/default.jpg
 	»	O	O	
 	saufen	O	O	
 	auch	O	O	
@@ -138773,7 +138785,7 @@
 	aufgegttffen	O	O	
 	wurden.	O	O	
 
-#	44	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-19080724-0-5-0-0/full/full/0/default.jpg
+#	044	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-19080724-0-5-0-0/full/full/0/default.jpg
 	hat.	O	O	
 	Welche	O	O	
 	Fülle	O	O	
@@ -144160,7 +144172,7 @@
 	erhältlich.	O	O	
 	\.	O	O	
 
-#	45	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-19150813-0-2-0-0/full/full/0/default.jpg
+#	045	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-19150813-0-2-0-0/full/full/0/default.jpg
 	Die	O	O	
 	Behandlung	O	O	
 	der	O	O	
@@ -148624,7 +148636,7 @@
 	Ottovon	O	O	
 	Gottberg.	O	O	
 
-#	46	file:	F_SBB_00007_19221015_061_445_0_013
+#	046	file:	F_SBB_00007_19221015_061_445_0_013
 	-	O	O	
 	\y/	O	O	
 	iJ.	O	O	
@@ -153396,7 +153408,7 @@
 	Zentrum	O	O	
 	,1Z49	O	O	
 
-#	47	file:	F_SBB_00007_19280828_067_402_0_002
+#	047	file:	F_SBB_00007_19280828_067_402_0_002
 	f	O	O	
 	1	O	O	
 	i	O	O	
@@ -159194,7 +159206,7 @@
 	mti-	O	O	
 	I	O	O	
 
-#	48	file:	F_SBB_00007_19301023_069_495_0_002
+#	048	file:	F_SBB_00007_19301023_069_495_0_002
 	Deutsche	O	O	
 	«Allgemeine	O	O	
 	Aeilung	O	O	
@@ -162459,7 +162471,7 @@
 	Erde	O	O	
 	stützt.	O	O	
 
-#	49	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19340722-0-4-0-0/full/full/0/default.jpg
+#	049	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19340722-0-4-0-0/full/full/0/default.jpg
 	4	O	O	
 	Sclnverl,	O	O	
 	Spiegel	O	O	
@@ -163130,7 +163142,7 @@
 	Fechtwei*	O	O	
 	-Nil	O	O	
 
-#	50	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19260506-2-2-0-0/full/full/0/default.jpg
+#	050	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19260506-2-2-0-0/full/full/0/default.jpg
 	»bend	O	O	
 	In	O	O	
 	sämtlichen	O	O	
@@ -166233,7 +166245,7 @@
 	sich	O	O	
 	ar	O	O	
 
-#	51	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19180625-0-9-0-0/full/full/0/default.jpg
+#	051	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19180625-0-9-0-0/full/full/0/default.jpg
 	Jtr	O	O	
 	319	O	O	
 	jtN-taa,	O	O	
@@ -169366,7 +169378,7 @@
 	nach	O	O	
 	den	O	O	
 
-#	52	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19081114-0-32-0-0/full/full/0/default.jpg
+#	052	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19081114-0-32-0-0/full/full/0/default.jpg
 	410	O	O	
 	E.	O	O	
 	M.,	O	O	
@@ -170807,7 +170819,7 @@
 	ft«n»	O	O	
 	rt«n-	O	O	
 
-#	53	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18960612-1-3-0-0/full/full/0/default.jpg
+#	053	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18960612-1-3-0-0/full/full/0/default.jpg
 	Mehrere	O	O	
 	Athener	O	O	
 	Blätter	O	O	
@@ -174320,7 +174332,7 @@
 	di,	O	O	
 	Schuld	O	O	
 
-#	54	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18841016-1-2-0-0/full/full/0/default.jpg
+#	054	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18841016-1-2-0-0/full/full/0/default.jpg
 	Toite	O	O	
 	2	O	O	
 	Verliner	O	O	
@@ -177895,7 +177907,7 @@
 	lich	O	O	
 	"rügen."""	O	O	
 
-#	55	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18730517-1-1-0-0/full/full/0/default.jpg
+#	055	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18730517-1-1-0-0/full/full/0/default.jpg
 	Abend'	O	O	
 	lerllo,	O	O	
 	Sonnabend,	O	O	
@@ -179737,7 +179749,7 @@
 	Auflösung	O	O	
 	de«	O	O	
 
-#	56	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18920803-0-12-0-0/full/full/0/default.jpg
+#	056	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18920803-0-12-0-0/full/full/0/default.jpg
 	“P*“™	O	O	
 	-	O	O	
 	™	O	O	
@@ -181758,7 +181770,7 @@
 	Kronenstraßc	O	O	
 	37.	O	O	
 
-#	57	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19000218-0-9-0-0/full/full/0/default.jpg
+#	057	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19000218-0-9-0-0/full/full/0/default.jpg
 	II.	O	O	
 	Beilage	O	O	
 	der	O	O	
@@ -183634,7 +183646,7 @@
 	1899	O	O	
 	ins	O	O	
 
-#	58	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19091113-1-1-0-0/full/full/0/default.jpg
+#	058	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19091113-1-1-0-0/full/full/0/default.jpg
 	Berlin,	O	O	
 	Sonnabend,	O	O	
 	Die	O	O	
@@ -185039,7 +185051,7 @@
 	in	O	O	
 	guter	O	O	
 
-#	59	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19150710-1-13-0-0/full/full/0/default.jpg
+#	059	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19150710-1-13-0-0/full/full/0/default.jpg
 	,i	O	O	
 	m	O	O	
 	Bete	O	O	
@@ -186935,7 +186947,7 @@
 	Gesellschafferbeschiuss	O	O	
 	vom	O	O	
 
-#	60	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19201216-0-6-0-0/full/full/0/default.jpg
+#	060	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19201216-0-6-0-0/full/full/0/default.jpg
 	\	O	O	
 	.	O	O	
 	—	O	O	
@@ -190796,7 +190808,7 @@
 	Filiale	O	O	
 	fioslir.	O	O	
 
-#	61	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19271126-0-8-0-0/full/full/0/default.jpg
+#	061	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19271126-0-8-0-0/full/full/0/default.jpg
 	I	O	O	
 	/	O	O	
 	1	O	O	
@@ -195650,7 +195662,7 @@
 	schön	O	O	
 	"aati."""	O	O	
 
-#	62	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19201015-0-3-0-0/full/full/0/default.jpg
+#	062	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19201015-0-3-0-0/full/full/0/default.jpg
 	)	O	O	
 	»	O	O	
 	Kassel	O	O	
@@ -197881,7 +197893,7 @@
 	1	O	O	
 	Beiblatt.	O	O	
 
-#	63	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19041122-0-2-0-0/full/full/0/default.jpg
+#	063	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19041122-0-2-0-0/full/full/0/default.jpg
 	Darmssabt,	O	O	
 	21.	O	O	
 	November.	O	O	
@@ -201257,7 +201269,7 @@
 	folgte	O	O	
 	ihnen	O	O	
 
-#	64	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19221201-1-2-0-0/full/full/0/default.jpg
+#	064	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19221201-1-2-0-0/full/full/0/default.jpg
 	Die	O	O	
 	Auflösung	O	O	
 	der	O	O	
