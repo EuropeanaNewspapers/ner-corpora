@@ -23,7 +23,7 @@ Example:
 9 President B-PER O
 10  of  I-PER O
 11  the I-PER O
-# now we see the embedding structure
+# next we see the embedding structure
 12  United  I-PER B-LOC
 13  States  I-PER I-LOC
 14  of  I-PER I-LOC
