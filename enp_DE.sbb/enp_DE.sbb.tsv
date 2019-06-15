@@ -2591,37 +2591,36 @@
 41	Rede	O	O	
 42	.	O	O	
 
-	s-lt«	O	O	
-	5	O	O	
-	in	O	O	
-	Wien	B-LOC	O	
-	,	O	O	
-	31	O	O	
-	.	O	O	
-	Dezember	O	O	
-	.	O	O	
-	(	O	O	
-	Privat	O	O	
-	-	O	O	
-	Telegramm	O	O	
-	des	O	O	
-	Berliner	B-ORG	O	
-	Tageblatts	I-ORG	O	
-	.	O	O	
-	)	O	O	
+1	□	O	O	
+2	Wien	B-LOC	O	
+3	,	O	O	
+4	31	O	O	
+5	.	O	O	
+6	Dezember	O	O	
+7	.	O	O
 
-	Das	O	O	
-	Attentat	O	O	
-	gegen	O	O	
-	das	O	O	
-	spanische	O	O	
-	Königspaar	O	O	
-	hat	O	O	
-	hier	O	O	
-	besondere	O	O	
-	Theilnahme	O	O	
-	erweckt	O	O	
-	.	O	O	
+1	(	O	O	
+2	Privat	O	O	
+3	-	O	O	
+4	Telegramm	O	O	
+5	des	O	O	
+6	Berliner	B-ORG	O	
+7	Tageblatts	I-ORG	O	
+8	.	O	O	
+9	)	O	O	
+
+1	Das	O	O	
+2	Attentat	O	O	
+3	gegen	O	O	
+4	das	O	O	
+5	spanische	O	O	
+6	Königspaar	O	O	
+7	hat	O	O	
+8	hier	O	O	
+9	besondere	O	O	
+10	Theilnahme	O	O	
+11	erweckt	O	O	
+12	.	O	O	
 
 	Die	O	O	
 	Verdammung	O	O	
@@ -3203,7 +3202,7 @@
 	.	O	O	
 
 	Bezüglich	O	O	
-	Saiut	B-PER	O	
+	Saint	B-PER	O	
 	Valliers	I-PER	O	
 	höre	O	O	
 	ich	O	O	
@@ -3229,7 +3228,7 @@
 	dürfte	O	O	
 	.	O	O	
 
-	Saiut	B-PER	O	
+	Saint	B-PER	O	
 	Ballier	I-PER	O	
 	hatte	O	O	
 	wiederholt	O	O	
@@ -3307,7 +3306,7 @@
 	beglückwünschte	O	O	
 	:	O	O	
 	Fürst	B-PER	O	
-	Hoheulohe	I-PER	O	
+	Hohenlohe	I-PER	O	
 	nebst	O	O	
 	Gemahlin	O	O	
 	schrieben	O	O	
@@ -33457,7 +33456,7 @@
 	Die	O	O	
 	Führer	O	O	
 	der	O	O	
-	Sozialdemokraten	O	O	
+	Sozialdemokraten	B-ORG	O	
 	sind	O	O	
 	ohne	O	O	
 	Ausnahme	O	O	
@@ -52830,7 +52829,7 @@
 	";"	O	O	
 	für	O	O	
 	unser	O	O	
-	bildungsbedürftigeS	O	O	
+	bildungsbedürftiges	O	O	
 	preußisches	O	O	
 	Volk	O	O	
 	,	O	O	
@@ -81003,8 +81002,8 @@
 #	1872-04-05	Berliner Börsen-Zeitung	2436020X	
 	Beilage	O	O	
 	der	O	O	
-	„iferiüner	O	O	
-	liörsen-Zeitnng'	O	O	
+	„Berliner	O	O	
+	Börsen-Zeitung'	O	O	
 	M.	O	O	
 	159	O	O	
 	.	O	O	
@@ -199662,7 +199661,7 @@
 	und	O	O	
 	Staatsanwälte	O	O	
 	das	O	O	
-	Dienstaltersstufeusystein	O	O	
+	Dienstaltersstufensystem	O	O	
 	"einzuführen;"	O	O	
 	2.	O	O	
 	in	O	O	
@@ -199676,7 +199675,7 @@
 	1905	O	O	
 	eine	O	O	
 	der	O	O	
-	Bevölkerungsznnahme	O	O	
+	Bevölkerungszunahme	O	O	
 	und	O	O	
 	der	O	O	
 	Steigerung	O	O	
@@ -199688,7 +199687,7 @@
 	von	O	O	
 	Richter-	O	O	
 	und	O	O	
-	Staatsanwaltstelle»	O	O	
+	Staatsanwaltstellen	O	O	
 	und	O	O	
 	de»	O	O	
 	hierzu	O	O	
@@ -199823,7 +199822,7 @@
 	fest	O	O	
 	in	O	O	
 	den	O	O	
-	Kiffen.	O	O	
+	Kissen.	O	O	
 	Sie:	O	O	
 	Wirklich?	O	O	
 	Schon	O	O	
@@ -199834,7 +199833,7 @@
 	Ra,	O	O	
 	höchstens	O	O	
 	zehn	O	O	
-	Minute»	O	O	
+	Minuten	O	O	
 	darauf.	O	O	
 	Später	O	O	
 	als	O	O	
@@ -199842,7 +199841,7 @@
 	ist	O	O	
 	ei	O	O	
 	keinesfalls	O	O	
-	geivesen.	O	O	
+	gewesen.	O	O	
 	Ich	O	O	
 	sehe	O	O	
 	nicht	O	O	
@@ -199855,8 +199854,8 @@
 	sühl«	O	O	
 	ich	O	O	
 	mich	O	O	
-	vollkoimiie»	O	O	
-	ausgeschlasen.	O	O	
+	vollkommen	O	O	
+	ausgeschlafen.	O	O	
 	Hast	O	O	
 	Du	O	O	
 	mich	O	O	
@@ -200070,7 +200069,7 @@
 	Er:	O	O	
 	Nicht	O	O	
 	eigentlich	O	O	
-	Gencralversamnilung.	O	O	
+	Generalversammlung.	O	O	
 	nicht	O	O	
 	so	O	O	
 	wörtlich	O	O	
@@ -200446,7 +200445,7 @@
 	eS	O	O	
 	undelikat	O	O	
 	im	O	O	
-	höchste»	O	O	
+	höchsten	O	O	
 	Grade,	O	O	
 	eine	O	O	
 	solche	O	O	
@@ -200465,7 +200464,7 @@
 	Ende	O	O	
 	unser	O	O	
 	ganze«	O	O	
-	gesellschaslliches	O	O	
+	gesellschaftliches	O	O	
 	Leben.	O	O	
 	S	O	O	
 	i	O	O	
@@ -200564,13 +200563,13 @@
 	LieS.	O	O	
 	Elend-!	O	O	
 	Die	O	O	
-	Borstellung	O	O	
+	Vorstellung	O	O	
 	ist	O	O	
 	im	O	O	
 	letzten	O	O	
 	Moment	O	O	
 	abgesagt	O	O	
-	ivorden,	O	O	
+	worden,	O	O	
 	weil	O	O	
 	sich	O	O	
 	der	O	O	
@@ -200906,7 +200905,7 @@
 	des	O	O	
 	Vereins	O	O	
 	„Berliner	O	O	
-	"Preffe"""	O	O	
+	"Presse"""	O	O	
 	am	O	O	
 	Freitag.	O	O	
 	25.	O	O	
@@ -201316,7 +201315,7 @@
 	ein	O	O	
 	Vorstoß	O	O	
 	der	O	O	
-	Deiitschnationalen	O	O	
+	Deutschnationalen	O	O	
 	g	O	O	
 	c	O	O	
 	ge	O	O	
@@ -201344,13 +201343,13 @@
 	-Hilfs	O	O	
 	truppe	O	O	
 	der	O	O	
-	Deutschnatioualen	O	O	
+	Deutschnationalen	O	O	
 	im	O	O	
 	Kampf	O	O	
 	gegen	O	O	
 	die'	O	O	
 	preußische	O	O	
-	Negierung	O	O	
+	Regierung	O	O	
 	war	O	O	
 	eine	O	O	
 	Regierungspartei,	O	O	
@@ -201375,7 +201374,7 @@
 	der	O	O	
 	Beratung	O	O	
 	der	O	O	
-	deutschnatioualen	O	O	
+	deutschnationalen	O	O	
 	Anträge	O	O	
 	und	O	O	
 	Interpellationen.	O	O	
@@ -201383,7 +201382,7 @@
 	sich	O	O	
 	gegen	O	O	
 	die	O	O	
-	Auslösung	O	O	
+	Auflösung	O	O	
 	des	O	O	
 	Jnng-	O	O	
 	d	O	O	
@@ -201456,7 +201455,7 @@
 	machten.	O	O	
 	Der	O	O	
 	deutschnationale	O	O	
-	Berbindungsoffizier	O	O	
+	Verbindungsoffizier	O	O	
 	zu	O	O	
 	den	O	O	
 	jetzt	O	O	
@@ -201476,8 +201475,7 @@
 	begründete	O	O	
 	die	O	O	
 	deutschnationale	O	O	
-	An	O	O	
-	srage	O	O	
+	Anfrage	O	O	
 	und	O	O	
 	den	O	O	
 	Antrag	O	O	
@@ -201624,13 +201622,12 @@
 	Gras	O	O	
 	einen	O	O	
 	kleiiien	O	O	
-	Tob-	O	O	
-	suchtsanfall	O	O	
+	Tobsuchtsanfall	O	O	
 	hervor.	O	O	
-	Ter	O	O	
+	Der	O	O	
 	Sprecher	O	O	
 	der	O	O	
-	Deutsche»	O	O	
+	Deutschen	O	O	
 	Voltspartei.	O	O	
 	Tr.	O	O	
 	P	O	O	
@@ -201664,12 +201661,12 @@
 	Partei,	O	O	
 	für	O	O	
 	den	O	O	
-	deutschnatioualen	O	O	
+	deutschnationalen	O	O	
 	Aufhebungsantrag	O	O	
 	stimmen	O	O	
 	zu	O	O	
-	wolle».	O	O	
-	Tas	O	O	
+	wollen.	O	O	
+	Das	O	O	
 	gab	O	O	
 	dem	O	O	
 	demokratischen	O	O	
@@ -201682,18 +201679,16 @@
 	daß	O	O	
 	hier	O	O	
 	eine	O	O	
-	Regie	O	O	
-	rungspartei	O	O	
+	Regierungspartei	O	O	
 	in	O	O	
 	ein	O	O	
 	schwebendes	O	O	
 	Verfahren	O	O	
 	durch	O	O	
 	einen	O	O	
-	Parla	O	O	
-	mentsbeschluß	O	O	
+	Parlamentsbeschluß	O	O	
 	eingreift.	O	O	
-	Tie	O	O	
+	Die	O	O	
 	Beschwerde	O	O	
 	des	O	O	
 	Jungdeutschen	O	O	
@@ -201715,13 +201710,12 @@
 	mit-	O	O	
 	geschaffenen	O	O	
 	Rechtsweges	O	O	
-	ivill	O	O	
+	will	O	O	
 	man	O	O	
 	so	O	O	
 	eine	O	O	
 	Rechtsfrage	O	O	
-	par	O	O	
-	lamentarisch	O	O	
+	parlamentarisch	O	O	
 	entscheiden!	O	O	
 	Ein	O	O	
 	ungeheuerliches	O	O	
@@ -201789,7 +201783,7 @@
 	meisten	O	O	
 	der	O	O	
 	ain	O	O	
-	Rathenän-Mord	O	O	
+	Rathenau-Mord	O	O	
 	beteiligten	O	O	
 	Angeklagten	O	O	
 	waren	O	O	
@@ -201809,7 +201803,7 @@
 	Flugblättern	O	O	
 	und	O	O	
 	einer'	O	O	
-	Proskkriptioiisliste	O	O	
+	Proskkriptionsliste	O	O	
 	der	O	O	
 	jüdischen	O	O	
 	Bürger	O	O	
@@ -201853,7 +201847,7 @@
 	Pornographien	O	O	
 	auf	O	O	
 	den	O	O	
-	Tisth	O	O	
+	Tisch	O	O	
 	des	O	O	
 	Hauses	O	O	
 	legte,	O	O	
@@ -201944,7 +201938,7 @@
 	aber	O	O	
 	nicht	O	O	
 	die	O	O	
-	Tebatte.	O	O	
+	Debatte.	O	O	
 	Der	O	O	
 	Landtag	O	O	
 	verwendet	O	O	
@@ -202284,7 +202278,7 @@
 	Damals	O	O	
 	wurden	O	O	
 	die	O	O	
-	harmloscsten	O	O	
+	harmlosesten	O	O	
 	Vereine	O	O	
 	aufgelöst,	O	O	
 	wenn	O	O	
@@ -202530,7 +202524,7 @@
 	in	O	O	
 	Anspruch	O	O	
 	nehmen:	O	O	
-	Ko»troll-	O	O	
+	Kontroll-	O	O	
 	a	O	O	
 	n	O	O	
 	s	O	O	
@@ -202636,7 +202630,7 @@
 	den	O	O	
 	deutschnationale»	O	O	
 	Anträgen.	O	O	
-	Tie	O	O	
+	Die	O	O	
 	Gefährlichkeit	O	O	
 	der	O	O	
 	verbotenen	O	O	
@@ -202652,9 +202646,9 @@
 	eigentliche	O	O	
 	-Ziel	O	O	
 	der	O	O	
-	deiitschnationale»	O	O	
+	deutschnationalen	O	O	
 	Anträge	O	O	
-	fei	O	O	
+	sei	O	O	
 	die	O	O	
 	Aushebung	O	O	
 	der	O	O	
@@ -202730,7 +202724,7 @@
 	als	O	O	
 	Mörder-Partei.	O	O	
 	Ter	O	O	
-	Rathcnau-Mord	O	O	
+	Rathenau-Mord	O	O	
 	hat	O	O	
 	klar	O	O	
 	b	O	O	
@@ -202761,9 +202755,8 @@
 	und	O	O	
 	Triitzblind	O	O	
 	das	O	O	
-	organisatorifche	O	O	
-	Kern	O	O	
-	stück	O	O	
+	organisatorische	O	O	
+	Kernstück	O	O	
 	der	O	O	
 	d	O	O	
 	eu	O	O	
@@ -202866,7 +202859,7 @@
 	nötig,	O	O	
 	daß	O	O	
 	der	O	O	
-	Oberbeamtc	O	O	
+	Oberbeamte	O	O	
 	Polizei	O	O	
 	übt.	O	O	
 	die	O	O	
@@ -203148,9 +203141,10 @@
 	reinigen	O	O	
 	—	O	O	
 	durch	O	O	
-	eiscrneSelbst-	O	O	
+	eiserne	O	O	
+	Selbst-	O	O	
 	visziplin.	O	O	
-	Tie	O	O	
+	Die	O	O	
 	müssen	O	O	
 	sich	O	O	
 	gleichsam	O	O	
