@@ -5,7 +5,7 @@ Named Entity Recognition corpus for (historical) Dutch, French and German from [
 
 ### Introduction
 
-The corpus comprises of one tsv file per language following the [GermEval2014](https://sites.google.com/site/germeval2014ner/data) data format. The format is a simple tab-separated-values format that divides texts into single tokens per line with tab-separated annotations. The 1st column contains the token position in the sentence. The 2nd column contains  the token itself. The third column contains the named entity annotation. The fourth column can contain an embedded named entity annotation. Sentence boundaries are indicated with new lines, comments start with ```#```.
+The corpus comprises of one ``.tsv`` file per language following the [GermEval2014](https://sites.google.com/site/germeval2014ner/data) data format. The format is a simple tab-separated-values format that divides texts into single tokens per line with tab-separated annotations. The 1st column contains the token position in the sentence. The 2nd column contains  the token itself. The third column contains the named entity annotation. The fourth column can contain an embedded named entity annotation. Sentence boundaries are indicated with new lines, comments start with ```#```.
 
 The most commonly used categories for tags are ```PER``` (person), ```LOC``` (location) and ```ORG``` (organization) with a prefix of either ```B-``` (beginning of named entity) or ```I-``` (inside of named entity). ```O``` (outside of named entity) is used for tokens that are not a named entity.
 
@@ -33,7 +33,7 @@ Example:
 
 ### Background
 
-The tsv files in this repository are based on digitized and OCRed historical newspapers sourced from these libraries:
+The data in this repository are based on digitized and OCRed historical newspapers sourced from these libraries:
 
 * [enp_DE](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_DE.onb.tsv) - newspapers from the [Austrian National Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01252), [Berlin State Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01606) and [Dr Friedrich Teßmann Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P02013)
 * [enp_FR](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_FR.bnf.tsv) - newspapers from the [National Library of France](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01190)
@@ -57,4 +57,5 @@ Proceedings of the 10th edition of the Language Resources and Evaluation Confere
 
 ### Known issues
 
-The way the above corpora were produced, additional work is required to leverage the data for tasks such as evaluation, where gold standard quality is required as the data still contains many OCR errors. Further information on data quality issues and instructions to clean up the data can be found in the [wiki](https://github.com/EuropeanaNewspapers/ner-corpora/wiki).
+The way the data was produced, this corpus still contains many OCR errors, which is why further work is still needed to leverage it for demanding tasks like evaluation, 
+where gold standard quality is required. Further information on data quality issues and instructions for data cleaning can be found in the [wiki](https://github.com/EuropeanaNewspapers/ner-corpora/wiki).
