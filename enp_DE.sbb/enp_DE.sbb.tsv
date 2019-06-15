@@ -198208,7 +198208,7 @@
 	.	O	O	
 
 #	063	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19041122-0-2-0-0/full/full/0/default.jpg
-	Samstag	O	O	
+	Darmstadt	O	O	
 	,	O	O	
 	21	O	O	
 	.	O	O	
@@ -198217,20 +198217,22 @@
 	Ein	O	O	
 	Extrablatt	O	O	
 	der	O	O	
-	Darinstädter	O	O	
+	Darmstädter	O	O	
 	Zeitung	O	O	
 	veröffentlicht	O	O	
-	Slachstehendes:	O	O	
-	Darmstadt,	O	O	
-	de»	O	O	
-	21.	O	O	
+	Nachstehendes	O	O	
+	:	O	O	
+	Darmstadt	O	O	
+	,	O	O	
+	den	O	O	
+	21	O	O	
+	.	O	O	
 	November	O	O	
-	1904.	O	O	
-	Dos	O	O	
+	1904	O	O	
+	.	O	O	
+	Das	O	O	
 	nachstehende	O	O	
-	Tele.	O	O	
-	{	O	O	
-	ramm	O	O	
+	Telegramm	O	O	
 	Seiner	O	O	
 	königlichen	O	O	
 	Hoheit	O	O	
@@ -198238,24 +198240,30 @@
 	Großherzogs	O	O	
 	bringe	O	O	
 	ich	O	O	
-	ierutit	O	O	
+	hiermit	O	O	
 	freudigen	O	O	
 	Herzens	O	O	
 	zur	O	O	
-	KennlniS	O	O	
-	de»	O	O	
-	Hessenlandes.	O	O	
+	Kenntnis	O	O	
+	des	O	O	
+	Hessenlandes	O	O	
+	.	O	O	
 	Rothe,	O	O	
-	Staotsininister.	O	O	
-	Telegramm.	O	O	
+	Staatsminister	O	O	
+	.	O	O	
+	Telegramm	O	O	
+	.	O	O	
 	L	O	O	
 	i	O	O	
-	ch,	O	O	
+	ch	O	O	
+	,	O	O	
 	den	O	O	
-	21.	O	O	
-	Iivvember	O	O	
-	1904.	O	O	
-	Hobe	O	O	
+	21	O	O	
+	.	O	O	
+	November	O	O	
+	1904	O	O	
+	.	O	O	
+	Habe	O	O	
 	mich	O	O	
 	heute	O	O	
 	mit	O	O	
@@ -198276,34 +198284,37 @@
 	verlobt	O	O	
 	und	O	O	
 	bitte	O	O	
-	Lee,	O	O	
+	Lee	O	O	
+	,	O	O	
 	dies	O	O	
-	zurKeiniInis	O	O	
+	zur	O	O	
+	Kenntnis	O	O	
 	meines	O	O	
-	vielgeliebte»	O	O	
+	vielgeliebten	O	O	
 	Lande-	O	O	
 	zu	O	O	
-	bringen.	O	O	
-	E	O	O	
-	r	O	O	
-	n	O	O	
-	st	O	O	
-	Ludwig.	O	O	
+	bringen	O	O	
+	.	O	O	
+	Ernst	O	O	
+	Ludwig	O	O	
+	.	O	O	
 	An	O	O	
 	den	O	O	
-	Staalsminister	O	O	
-	Rothe.	O	O	
-	S	O	O	
-	aar»	O	O	
-	21.	O	O	
-	November.	O	O	
+	Staarsminister	O	O	
+	Rothe	O	O	
+	.	O	O	
+	Saar»	O	O	
+	21	O	O	
+	.	O	O	
+	November	O	O	
+	.	O	O	
 	In	O	O	
 	der	O	O	
 	heutigen	O	O	
 	ersten	O	O	
 	Sitzung	O	O	
 	der	O	O	
-	edsgerichtsyofts	O	O	
+	edsgerichtshofts	O	O	
 	für	O	O	
 	den	O	O	
 	Konflikt	O	O	
@@ -198311,16 +198322,17 @@
 	Japan	O	O	
 	einerseits	O	O	
 	und	O	O	
-	Frankreich.	O	O	
+	Frankreich	O	O	
+	,	O	O	
 	England	O	O	
 	und	O	O	
 	Deutschland	O	O	
-	andererseil-	O	O	
-	wegeir	O	O	
+	andererseits	O	O	
+	wegen	O	O	
 	der	O	O	
 	von	O	O	
 	Japan	O	O	
-	tu	O	O	
+	zu	O	O	
 	den	O	O	
 	ehemaligen	O	O	
 	F	O	O	
@@ -198339,67 +198351,74 @@
 	ss	O	O	
 	ung	O	O	
 	en	O	O	
-	erhobene»	O	O	
-	Gebüudefteuer»	O	O	
+	erhobenen	O	O	
+	Gebäudesteuern	O	O	
 	hielt	O	O	
 	der	O	O	
 	Vorsitzende	O	O	
 	Gram	O	O	
 	lRorwege»)	O	O	
 	eine	O	O	
-	Ansprache,	O	O	
+	Ansprache	O	O	
+	,	O	O	
 	worin	O	O	
 	er	O	O	
-	ausführte,	O	O	
+	ausführte	O	O	
+	,	O	O	
 	die	O	O	
 	zur	O	O	
 	Entscheidung	O	O	
 	stehende	O	O	
-	Streilsrage	O	O	
+	Streitfrage	O	O	
 	betreffe	O	O	
-	loichtige,	O	O	
+	wichtige	O	O	
+	,	O	O	
 	sich	O	O	
 	ans	O	O	
 	das	O	O	
-	Niederlassnngsrecht	O	O	
+	Niederlassungsrecht	O	O	
 	der	O	O	
 	Ausländer	O	O	
 	in	O	O	
 	Japan	O	O	
 	beziehende	O	O	
-	Fragen,	O	O	
+	Fragen	O	O	
+	,	O	O	
 	und	O	O	
 	die	O	O	
 	beteiligten	O	O	
-	Regierun	O	O	
-	gen.	O	O	
+	Regierungen	O	O	
+	,	O	O	
 	die	O	O	
 	ihre	O	O	
 	Zustimmung	O	O	
 	dazu	O	O	
-	gegeben,	O	O	
+	gegeben	O	O	
+	,	O	O	
 	daß	O	O	
 	die	O	O	
-	Streitsrage	O	O	
+	Streitfrage	O	O	
 	der	O	O	
-	inter.	O	O	
-	nationalen	O	O	
+	internationalen	O	O	
 	Rechtsprechung	O	O	
 	übergeben	O	O	
-	tverde.	O	O	
+	werde	O	O	
+	,	O	O	
 	hätten	O	O	
 	damit	O	O	
 	einen	O	O	
 	neuen	O	O	
-	Belveis	O	O	
+	Beweis	O	O	
 	ihrer	O	O	
 	Hingabe	O	O	
 	für	O	O	
 	eine	O	O	
-	grobe,	O	O	
+	große	O	O	
+	,	O	O	
 	edle	O	O	
 	Sache	O	O	
-	gegeben.	O	O	
+	gegeben	O	O	
+	.	O	O	
 	Wenn	O	O	
 	auch	O	O	
 	leider	O	O	
@@ -198409,8 +198428,8 @@
 	Humanität	O	O	
 	noch	O	O	
 	Hindernisse	O	O	
-	ent.	O	O	
-	gegenständen,	O	O	
+	entgegenständen	O	O	
+	,	O	O	
 	so	O	O	
 	vermehre	O	O	
 	sich	O	O	
@@ -198452,11 +198471,13 @@
 	zwischen	O	O	
 	den	O	O	
 	Völkern	O	O	
-	bildeten,	O	O	
+	bildeten	O	O	
+	,	O	O	
 	von	O	O	
 	Tag	O	O	
 	zu	O	O	
-	Tag.	O	O	
+	Tag	O	O	
+	.	O	O	
 	Die	O	O	
 	Sitzung	O	O	
 	wurde	O	O	
@@ -198472,25 +198493,31 @@
 	die	O	O	
 	Frist	O	O	
 	festgesetzt	O	O	
-	werden,	O	O	
+	werden	O	O	
+	,	O	O	
 	die	O	O	
 	Japan	O	O	
 	zur	O	O	
 	Formulierung	O	O	
 	seiner	O	O	
-	Einlvendunge»	O	O	
+	Einwendungen	O	O	
 	gegen	O	O	
 	die	O	O	
-	Denkschrist	O	O	
+	Denkschrift	O	O	
 	der	O	O	
 	europäischen	O	O	
 	Mächte	O	O	
 	zu	O	O	
 	gewähren	O	O	
-	ist.	O	O	
-	Newstork,	O	O	
-	20.	O	O	
-	November.	O	O	
+	ist	O	O	
+	.	O	O	
+	New	O	O	
+	York	O	O	
+	,	O	O	
+	20	O	O	
+	.	O	O	
+	November	O	O	
+	.	O	O	
 	Die	O	O	
 	Blätter	O	O	
 	lvidnien	O	O	
@@ -198500,46 +198527,51 @@
 	Enthüllung	O	O	
 	des	O	O	
 	Denkniat«	O	O	
-	Friedrich»	O	O	
-	de»	O	O	
-	Groben	O	O	
+	Friedrichs	O	O	
+	des	O	O	
+	Großen	O	O	
 	ausführliche	O	O	
-	Besprechungen.	O	O	
+	Besprechungen	O	O	
+	.	O	O	
 	„Evening	O	O	
 	"Post"""	O	O	
-	sagt:	O	O	
+	sagt	O	O	
+	:	O	O	
 	Die	O	O	
 	Feier	O	O	
 	war	O	O	
-	rin	O	O	
+	ein	O	O	
 	internationales	O	O	
 	Ereignis	O	O	
 	von	O	O	
 	wirklicher	O	O	
-	Bedeutung.	O	O	
-	TeS	O	O	
-	Kaiser»	O	O	
+	Bedeutung	O	O	
+	.	O	O	
+	Des	O	O	
+	Kaisers	O	O	
 	Gabe	O	O	
 	ist	O	O	
 	gleichwie	O	O	
 	seine	O	O	
 	grvbnrlige	O	O	
-	Stisiung	O	O	
+	Stiftung	O	O	
 	für	O	O	
 	das	O	O	
-	Eeriiianische	O	O	
-	Museuin	O	O	
+	Amerikanische	O	O	
+	Museum	O	O	
 	der	O	O	
 	Harvard	O	O	
 	-	O	O	
 	Universität	O	O	
 	ein	O	O	
-	Belveis	O	O	
-	sreiindschaltlicher	O	O	
-	Gesinnung.	O	O	
+	Beweis	O	O	
+	freundschaftlicher	O	O	
+	Gesinnung	O	O	
+	.	O	O	
 	Wir	O	O	
-	hoffen,	O	O	
-	dab	O	O	
+	hoffen	O	O	
+	,	O	O	
+	daß	O	O	
 	bei	O	O	
 	uns	O	O	
 	Presse	O	O	
@@ -198547,30 +198579,33 @@
 	Publikum	O	O	
 	alles	O	O	
 	tun	O	O	
-	werden,	O	O	
+	werden	O	O	
+	,	O	O	
 	um	O	O	
 	dem	O	O	
 	Kaiser	O	O	
 	und	O	O	
-	bein	O	O	
-	deutsch»ii	O	O	
+	dem	O	O	
+	deutschen	O	O	
 	Volke	O	O	
 	zu	O	O	
-	zeigen,	O	O	
-	dab	O	O	
+	zeigen	O	O	
+	,	O	O	
+	daß	O	O	
 	die	O	O	
 	der	O	O	
 	Feier	O	O	
 	zu	O	O	
 	Grunde	O	O	
 	liegende	O	O	
-	Aiircgimg	O	O	
+	Anregung	O	O	
 	allen	O	O	
 	guten	O	O	
 	Amerikanern	O	O	
 	höchst	O	O	
 	willkommen	O	O	
-	ist.	O	O	
+	ist	O	O	
+	.	O	O	
 	Die	O	O	
 	demokratische	O	O	
 	"„Times"""	O	O	
@@ -198582,8 +198617,9 @@
 	vom	O	O	
 	Präsidenten	O	O	
 	Roosevelt	O	O	
-	gehaiteiien	O	O	
-	Rede.	O	O	
+	gehaltenen	O	O	
+	Rede	O	O	
+	.	O	O	
 	Er	O	O	
 	habe	O	O	
 	mit	O	O	
@@ -198602,47 +198638,55 @@
 	der	O	O	
 	hier	O	O	
 	gestellten	O	O	
-	Ausgabe	O	O	
-	besser,	O	O	
+	Aufgabe	O	O	
+	besser	O	O	
+	,	O	O	
 	wenige	O	O	
 	ebenso	O	O	
 	gut	O	O	
 	zu	O	O	
-	eut-	O	O	
-	ledige»	O	O	
-	vermocht.	O	O	
+	entledigen	O	O	
+	vermocht	O	O	
+	.	O	O	
 	Der	O	O	
 	Saatenstand	O	O	
 	in	O	O	
-	Preußen.	O	O	
+	Preußen	O	O	
+	.	O	O	
 	Der	O	O	
 	Saatenstand	O	O	
 	in	O	O	
-	Preiisien	O	O	
+	Preußen	O	O	
 	um	O	O	
 	die	O	O	
 	Mitte	O	O	
 	des	O	O	
-	Plonats	O	O	
+	Monats	O	O	
 	November	O	O	
-	kst	O	O	
+	ist	O	O	
 	sl	O	O	
 	—	O	O	
 	sehr	O	O	
-	gut,	O	O	
+	gut	O	O	
+	,	O	O	
 	2	O	O	
 	=	O	O	
-	gut,	O	O	
+	gut	O	O	
+	,	O	O	
 	3	O	O	
 	=*»	O	O	
-	mittel,	O	O	
+	mittel	O	O	
+	,	O	O	
 	4	O	O	
 	=	O	O	
-	gering,	O	O	
+	gering	O	O	
+	,	O	O	
 	5	O	O	
 	=	O	O	
 	sehr	O	O	
-	gering):	O	O	
+	gering	O	O	
+	)	O	O	
+	:	O	O	
 	Novbr.	O	O	
 	1904	O	O	
 	Oklbr.	O	O	
@@ -198683,21 +198727,21 @@
 	der	O	O	
 	Statistischen	O	O	
 	Korrespondenz	O	O	
-	heibt	O	O	
-	es:	O	O	
+	heißt	O	O	
+	es	O	O	
+	:	O	O	
 	Obwohl	O	O	
 	vorübergehend	O	O	
 	rauhes	O	O	
 	und	O	O	
-	stürinischrs	O	O	
-	Weiter	O	O	
+	stürmisches	O	O	
+	Wetter	O	O	
 	sowie	O	O	
-	Nacht-	O	O	
-	sröste	O	O	
+	Nachtfröste	O	O	
 	und	O	O	
 	vereinzelt	O	O	
 	auch	O	O	
-	Echneesall	O	O	
+	Schneefall	O	O	
 	das	O	O	
 	Ausgehen	O	O	
 	und	O	O	
@@ -198705,38 +198749,42 @@
 	Entwickelung	O	O	
 	der	O	O	
 	jungen	O	O	
-	Saaten,	O	O	
-	besoiiverS	O	O	
+	Saaten	O	O	
+	,	O	O	
+	besonders	O	O	
 	in	O	O	
 	den	O	O	
 	nordöstlichen	O	O	
-	Landesteilen,	O	O	
-	etivas	O	O	
-	hinderte»,	O	O	
+	Landesteilen	O	O	
+	,	O	O	
+	etwas	O	O	
+	hinderten	O	O	
+	,	O	O	
 	sei	O	O	
 	die	O	O	
 	Temperatur	O	O	
 	Während	O	O	
 	des	O	O	
-	v»r-	O	O	
-	flösse»«»	O	O	
-	BerichtSmonatS	O	O	
+	verflossenen	O	O	
+	Berichtsmonats	O	O	
 	doch	O	O	
 	im	O	O	
 	ganzen	O	O	
 	mild	O	O	
 	zu	O	O	
-	nennen,	O	O	
+	nennen	O	O	
+	,	O	O	
 	und	O	O	
 	die	O	O	
-	Klage»	O	O	
+	Klagen	O	O	
 	über	O	O	
 	Mangel	O	O	
 	an	O	O	
 	Feuchtigkeit	O	O	
 	seien	O	O	
-	säst	O	O	
-	versti»,»,,».	O	O	
+	fast	O	O	
+	verstimmt	O	O	
+	.	O	O	
 	Nur	O	O	
 	hier	O	O	
 	und	O	O	
@@ -198750,7 +198798,8 @@
 	der	O	O	
 	Berichte	O	O	
 	die	O	O	
-	Niederschläge,	O	O	
+	Niederschläge	O	O	
+	,	O	O	
 	welche	O	O	
 	seit	O	O	
 	Ansang	O	O	
@@ -198762,120 +198811,131 @@
 	zumeist	O	O	
 	auch	O	O	
 	reichlich	O	O	
-	e,n.	O	O	
-	getroffen	O	O	
-	seien,	O	O	
+	eingetroffen	O	O	
+	seien	O	O	
+	,	O	O	
 	den	O	O	
 	stark	O	O	
-	ausgelrockiieten	O	O	
+	ausgetrockneten	O	O	
 	Boden	O	O	
 	doch	O	O	
 	noch	O	O	
 	nicht	O	O	
 	genügend	O	O	
-	geiraiikt	O	O	
-	haben.	O	O	
+	getränkt	O	O	
+	haben	O	O	
+	.	O	O	
 	Auch	O	O	
 	hier	O	O	
-	dürste	O	O	
+	dürfte	O	O	
 	jedoch	O	O	
-	iiizwische»	O	O	
+	inzwischen	O	O	
 	Wandel	O	O	
 	eingetreten	O	O	
-	sei»,	O	O	
+	sein	O	O	
+	,	O	O	
 	und	O	O	
 	es	O	O	
 	sei	O	O	
 	allgemeiner	O	O	
-	Wunsch,	O	O	
-	dag	O	O	
+	Wunsch	O	O	
+	,	O	O	
+	daß	O	O	
 	das	O	O	
 	Erdreich	O	O	
 	noch	O	O	
 	einige	O	O	
 	Wochen	O	O	
 	offen	O	O	
-	bleibe,	O	O	
-	»n»	O	O	
-	soloohl	O	O	
+	bleibe	O	O	
+	,	O	O	
+	um	O	O	
+	sowohl	O	O	
 	die	O	O	
-	niancherorten	O	O	
+	mancherorten	O	O	
 	noch	O	O	
 	nicht	O	O	
 	ganz	O	O	
 	fertigen	O	O	
-	Bestelluiigsarbeiien	O	O	
-	z»	O	O	
+	Bestellungsarbeiten	O	O	
+	zu	O	O	
 	Sude	O	O	
 	suhle»	O	O	
 	zu	O	O	
-	könn«»,	O	O	
+	können	O	O	
+	,	O	O	
 	wie	O	O	
 	der	O	O	
-	letzle»	O	O	
+	letzten	O	O	
 	Einsaat	O	O	
 	dnS	O	O	
 	Ansuchen	O	O	
 	und	O	O	
-	genügeiide	O	O	
+	genügende	O	O	
 	Bestockung	O	O	
-	z»	O	O	
-	ermögliche».	O	O	
+	zu	O	O	
+	ermöglichen	O	O	
+	.	O	O	
 	Die	O	O	
-	i»	O	O	
+	in	O	O	
 	den	O	O	
-	Okloberverichten	O	O	
-	geführt«	O	O	
+	Oktoberberichten	O	O	
+	geführte	O	O	
 	Klage	O	O	
 	über	O	O	
 	tierische	O	O	
 	Schädlinge	O	O	
 	habe	O	O	
-	nachgelaffe».	O	O	
+	nachgelassen	O	O	
+	.	O	O	
 	Die	O	O	
-	Winlersaate»	O	O	
-	solle»,	O	O	
+	Wintersaaten	O	O	
+	sollen	O	O	
+	,	O	O	
 	soweit	O	O	
 	ihre	O	O	
 	Bestellung	O	O	
-	recht-	O	O	
-	zeitig	O	O	
-	ersolgte,	O	O	
-	baut	O	O	
+	rechtzeitig	O	O	
+	erfolgte	O	O	
+	,	O	O	
+	dank	O	O	
 	der	O	O	
 	günstigen	O	O	
 	Herbstwitternug	O	O	
 	im	O	O	
-	allgemeine»	O	O	
+	allgemeinen	O	O	
 	gut	O	O	
 	entwickelt	O	O	
-	sein.	O	O	
+	sein	O	O	
+	.	O	O	
 	Weizen	O	O	
 	sei	O	O	
 	in	O	O	
-	de»	O	O	
+	den	O	O	
 	Regierungsbezirken	O	O	
-	Königs,	O	O	
-	berg,	O	O	
+	Königsberg	O	O	
+	,	O	O	
 	Danzig	O	O	
 	und	O	O	
 	Marienwerder	O	O	
 	mehr	O	O	
 	als	O	O	
-	aiiderlveit	O	O	
+	anderweit	O	O	
 	noch	O	O	
 	nicht	O	O	
-	auf-	O	O	
-	gelaiifeii	O	O	
+	ausgelassen	O	O	
 	oder	O	O	
 	überhaupt	O	O	
 	noch	O	O	
-	liichi	O	O	
-	gesät.	O	O	
-	ES	O	O	
+	nicht	O	O	
+	gesät	O	O	
+	.	O	O	
+	Es	O	O	
 	heiße	O	O	
-	aiich,	O	O	
-	das,	O	O	
+	auch	O	O	
+	,	O	O	
+	das	O	O	
+	,	O	O	
 	in	O	O	
 	diesem	O	O	
 	Herbste	O	O	
@@ -198883,10 +198943,11 @@
 	Wintersrncht	O	O	
 	als	O	O	
 	in	O	O	
-	srüheren	O	O	
+	früheren	O	O	
 	Jahren	O	O	
 	bestellt	O	O	
-	werde.	O	O	
+	werde	O	O	
+	.	O	O	
 	Immerhin	O	O	
 	werde	O	O	
 	durch	O	O	
@@ -198898,84 +198959,93 @@
 	hier	O	O	
 	eine	O	O	
 	Besserung	O	O	
-	eintrete».	O	O	
-	Di«	O	O	
-	Roggenjaate»	O	O	
+	eintreten	O	O	
+	.	O	O	
+	Die	O	O	
+	Roggensaaten	O	O	
 	würden	O	O	
 	dagegen	O	O	
 	ohne	O	O	
 	Ausnahme	O	O	
 	als	O	O	
-	genügend,	O	O	
+	genügend	O	O	
+	,	O	O	
 	teils	O	O	
 	als	O	O	
 	schon	O	O	
 	sehr	O	O	
 	kräftig	O	O	
 	bestockt	O	O	
-	be	O	O	
-	zeichnet.	O	O	
-	Vielsach	O	O	
-	ivurde	O	O	
-	berichtet,	O	O	
-	dab	O	O	
+	bezeichnet	O	O	
+	.	O	O	
+	Vielfach	O	O	
+	wurde	O	O	
+	berichtet	O	O	
+	,	O	O	
+	daß	O	O	
 	der	O	O	
 	Roggen	O	O	
 	sich	O	O	
 	schon	O	O	
 	gelb	O	O	
-	z»	O	O	
+	zu	O	O	
 	färben	O	O	
-	beginne,	O	O	
-	v»rei»zelt	O	O	
-	auch,	O	O	
+	beginne	O	O	
+	,	O	O	
+	vereinzelt	O	O	
+	auch	O	O	
+	,	O	O	
 	und	O	O	
-	zivar	O	O	
-	an»	O	O	
+	zwar	O	O	
+	aus	O	O	
 	dem	O	O	
 	Regierungsbezirk	O	O	
-	Erfurt,	O	O	
-	dab	O	O	
-	er,	O	O	
+	Erfurt	O	O	
+	,	O	O	
+	daß	O	O	
+	er	O	O	
+	,	O	O	
 	weil	O	O	
-	verhältnisiiiabig	O	O	
+	verhältnismäßig	O	O	
 	bereits	O	O	
 	zu	O	O	
 	stark	O	O	
-	entivickeit	O	O	
+	entwickelt	O	O	
 	und	O	O	
 	zu	O	O	
-	taug,	O	O	
+	taug	O	O	
+	,	O	O	
 	abgehütet	O	O	
 	worden	O	O	
-	sei.	O	O	
+	sei	O	O	
+	.	O	O	
 	Könne	O	O	
 	also	O	O	
 	einfiiotilen	O	O	
 	die	O	O	
 	Lage	O	O	
 	nicht	O	O	
-	dlirchiveg	O	O	
-	besriedigend	O	O	
+	durchweg	O	O	
+	befriedigend	O	O	
 	genannt	O	O	
-	iveroeii,	O	O	
+	werden
+	,	O	O	
 	so	O	O	
 	sei	O	O	
 	doch	O	O	
 	von	O	O	
 	dem	O	O	
-	a».	O	O	
-	scheinend	O	O	
+	anscheinend	O	O	
 	noch	O	O	
 	länger	O	O	
-	danernden	O	O	
-	inittelfeuchte»	O	O	
-	Herbstwelter	O	O	
+	dauernden	O	O	
+	mittelfeuchten	O	O	
+	Herbstwetter	O	O	
 	eine	O	O	
 	günstige	O	O	
 	Beeinflussung	O	O	
 	des	O	O	
-	Wachstnui»	O	O	
+	Wachstums	O	O	
 	und	O	O	
 	damit	O	O	
 	eine	O	O	
@@ -198984,13 +199054,14 @@
 	Einwinterung	O	O	
 	der	O	O	
 	Saaten	O	O	
-	z»	O	O	
-	erhoffen.	O	O	
+	zu	O	O	
+	erhoffen	O	O	
+	.	O	O	
 	Die	O	O	
 	Begutachtungs.	O	O	
 	Ziffern	O	O	
 	für	O	O	
-	Wiiiterweizeu	O	O	
+	Winterweizen	O	O	
 	und	O	O	
 	Winterroggen	O	O	
 	seien	O	O	
@@ -199000,7 +199071,8 @@
 	1901	O	O	
 	durch	O	O	
 	2,2	O	O	
-	übertroffen.	O	O	
+	übertroffen	O	O	
+	.	O	O	
 	Hundert	O	O	
 	Tage	O	O	
 	find	O	O	
@@ -199008,44 +199080,47 @@
 	Postsendungen	O	O	
 	von	O	O	
 	Deutschland	O	O	
-	unterwegs.	O	O	
+	unterwegs	O	O	
+	,	O	O	
 	ehe	O	O	
-	ffe	O	O	
+	sie	O	O	
 	in	O	O	
 	die	O	O	
 	Hände	O	O	
 	der	O	O	
 	bei	O	O	
 	der	O	O	
-	sndivestafrikanische»	O	O	
+	südwestafrikanischen	O	O	
 	Truppe	O	O	
 	stehenden	O	O	
-	Euipsänger	O	O	
-	gelangen.	O	O	
+	Empfänger	O	O	
+	gelangen	O	O	
+	.	O	O	
 	Und	O	O	
 	das	O	O	
 	geht	O	O	
 	so	O	O	
-	zu:	O	O	
+	zu	O	O	
+	:	O	O	
 	Bei	O	O	
 	den	O	O	
-	militärischeii	O	O	
+	militärischen	O	O	
 	Operationen	O	O	
 	in	O	O	
 	Südwestafrika	O	O	
 	ist	O	O	
 	die	O	O	
-	Zu-	O	O	
-	führnng	O	O	
+	Zuführung	O	O	
 	der	O	O	
 	Postsendungen	O	O	
-	a»	O	O	
+	an	O	O	
 	die	O	O	
 	Truppen	O	O	
 	mit	O	O	
-	aiißerordeniliche»	O	O	
+	außerordentlichen	O	O	
 	Schwierigkeiten	O	O	
-	verknüpst,	O	O	
+	verknüpft	O	O	
+	,	O	O	
 	mit	O	O	
 	unendlich	O	O	
 	viel	O	O	
@@ -199056,20 +199131,21 @@
 	im	O	O	
 	Feldzug	O	O	
 	in	O	O	
-	Ostasien.	O	O	
+	Ostasien	O	O	
+	.	O	O	
 	Eisenbahnverbindung	O	O	
 	besteht	O	O	
 	nur	O	O	
-	«wischen	O	O	
+	zwischen	O	O	
 	Swakopmund	O	O	
-	»nd	O	O	
-	Windhuk.	O	O	
+	und	O	O	
+	Windhuk	O	O	
+	.	O	O	
 	Wegen	O	O	
 	der	O	O	
-	ungeniein	O	O	
-	groben	O	O	
-	Ent	O	O	
-	fernungen	O	O	
+	ungemein	O	O	
+	großen	O	O	
+	Entfernungen	O	O	
 	und	O	O	
 	der	O	O	
 	Unsicherheit	O	O	
@@ -199078,24 +199154,25 @@
 	ist	O	O	
 	es	O	O	
 	nicht	O	O	
-	möglich,	O	O	
-	regel	O	O	
-	mäßige	O	O	
-	Pvstverbindnngen	O	O	
-	zivische»	O	O	
-	de»	O	O	
+	möglich	O	O	
+	,	O	O	
+	regelmäßige	O	O	
+	Postverbindungen	O	O	
+	zwischen	O	O	
+	den	O	O	
 	letzten	O	O	
 	Eisenbahnstationen	O	O	
-	»nd	O	O	
+	und	O	O	
 	den	O	O	
 	operierenden	O	O	
 	Truppenteilen	O	O	
 	durch	O	O	
-	Postsuhrwerk	O	O	
+	Postfuhrwerk	O	O	
 	oder	O	O	
 	Bolenposten	O	O	
 	zu	O	O	
-	»liierhalten,	O	O	
+	unterhalten	O	O	
+	,	O	O	
 	wie	O	O	
 	dies	O	O	
 	bei	O	O	
@@ -199103,42 +199180,45 @@
 	europäischen	O	O	
 	Kriege	O	O	
 	geschehen	O	O	
-	lvürde.	O	O	
+	würde	O	O	
+	.	O	O	
 	Die	O	O	
-	Feldpvstanstalten	O	O	
-	i»	O	O	
-	Südlvestafrika	O	O	
+	Feldpostanstalten	O	O	
+	in	O	O	
+	Südwestafrika	O	O	
 	sind	O	O	
 	vielmehr	O	O	
-	snr	O	O	
+	für	O	O	
 	ihre	O	O	
-	Post-	O	O	
-	transporte	O	O	
-	aus	O	O	
+	Posttransporte	O	O	
+	auf	O	O	
 	die	O	O	
 	Anlehnung	O	O	
 	an	O	O	
 	militärische	O	O	
 	Beförderungen	O	O	
-	aiigeiviesen	O	O	
-	»»d	O	O	
-	zwar,	O	O	
+	angewiesen	O	O	
+	und	O	O	
+	zwar	O	O	
+	,	O	O	
 	da	O	O	
 	sie	O	O	
 	im	O	O	
-	weseiitiichcii	O	O	
+	wesentlichen	O	O	
 	nur	O	O	
 	mit	O	O	
-	Ochsenkarre»	O	O	
-	erfolge»,	O	O	
+	Ochsenkarren	O	O	
+	erfolgen	O	O	
+	,	O	O	
 	also	O	O	
 	sich	O	O	
 	nur	O	O	
 	langsam	O	O	
-	sortbeivege»	O	O	
-	können,	O	O	
+	fortbewegen	O	O	
+	können	O	O	
+	,	O	O	
 	meist	O	O	
-	aus	O	O	
+	auf	O	O	
 	die	O	O	
 	nicht	O	O	
 	allzu	O	O	
@@ -199146,80 +199226,87 @@
 	verkehrenden	O	O	
 	Proviant-	O	O	
 	und	O	O	
-	MnnitionStraniporte.	O	O	
+	Munitionstransporte	O	O	
+	.	O	O	
 	Je	O	O	
-	Weiler	O	O	
+	weiter	O	O	
 	nun	O	O	
 	die	O	O	
-	Truppe»,	O	O	
+	Truppen	O	O	
+	,	O	O	
 	namentlich	O	O	
 	in	O	O	
 	anhaltenden	O	O	
 	Piärjchrn.	O	O	
-	vordringen,	O	O	
-	nnd	O	O	
+	vordringen	O	O	
+	,	O	O	
+	und	O	O	
 	je	O	O	
 	todter	O	O	
 	sie	O	O	
-	anseinandergezogen	O	O	
-	werden,	O	O	
+	auseinandergezogen	O	O	
+	werden	O	O	
+	,	O	O	
 	desto	O	O	
 	langsamer	O	O	
-	nnd	O	O	
-	schivieri-	O	O	
-	ger	O	O	
-	mutz	O	O	
+	und	O	O	
+	schwieriger	O	O	
+	muss	O	O	
 	sich	O	O	
 	die	O	O	
 	Nachführung	O	O	
 	der	O	O	
 	Postsachen	O	O	
-	gestalten.	O	O	
+	gestalten	O	O	
+	.	O	O	
 	Diese	O	O	
 	können	O	O	
 	die	O	O	
 	rasch	O	O	
 	vordringenden	O	O	
-	Truppe»	O	O	
+	Truppen	O	O	
 	immer	O	O	
 	nur	O	O	
 	dann	O	O	
-	erreichen.	O	O	
+	erreichen	O	O	
+	,	O	O	
 	wenn	O	O	
-	a»	O	O	
+	an	O	O	
 	einem	O	O	
 	Orte	O	O	
-	ei»	O	O	
+	ein	O	O	
 	entsprechend	O	O	
 	langer	O	O	
 	Aufenthalt	O	O	
 	genommen	O	O	
-	lvird.	O	O	
-	Mer	O	O	
+	wird	O	O	
+	.	O	O	
+	Wer	O	O	
 	sich	O	O	
 	diese	O	O	
 	Sachlage	O	O	
-	vergegenioärtigt,	O	O	
+	vergegenwärtigt	O	O	
+	,	O	O	
 	wird	O	O	
 	es	O	O	
 	nicht	O	O	
 	ver	O	O	
 	wunderlich	O	O	
-	finden,	O	O	
-	dab	O	O	
-	a»ber	O	O	
+	finden	O	O	
+	,	O	O	
+	daß	O	O	
+	außer	O	O	
 	der	O	O	
 	3	O	O	
-	bi«	O	O	
+	bis	O	O	
 	4	O	O	
 	Wochen	O	O	
 	dauernden	O	O	
-	Be-	O	O	
-	sörderiiligsfrist	O	O	
+	Beförderungsfrist	O	O	
 	von	O	O	
-	Tentschland	O	O	
+	Deutschland	O	O	
 	nach	O	O	
-	Eivakopnnind	O	O	
+	Swakopmund	O	O	
 	noch	O	O	
 	derselbe	O	O	
 	und	O	O	
@@ -199228,44 +199315,46 @@
 	längerer	O	O	
 	Zeitraum	O	O	
 	erforderlich	O	O	
-	ist.	O	O	
+	ist	O	O	
+	.	O	O	
 	unter	O	O	
 	normalen	O	O	
-	Verhältiiiffen	O	O	
+	Verhältnissen	O	O	
 	die	O	O	
-	Seiidnngen	O	O	
+	Sendnngen	O	O	
 	von	O	O	
-	Elvalopmund	O	O	
+	Swakopmund	O	O	
 	bis	O	O	
 	zu	O	O	
 	dem	O	O	
-	Euipsänger	O	O	
+	Empfänger	O	O	
 	zu	O	O	
-	bringen.	O	O	
+	bringen	O	O	
+	.	O	O	
 	Ganz	O	O	
 	erhebliche	O	O	
 	Verzögerungen	O	O	
 	gegen	O	O	
 	die	O	O	
 	normale	O	O	
-	Beförderung»,	O	O	
-	dauer	O	O	
+	Beförderungsdauer	O	O	
 	treten	O	O	
 	aber	O	O	
 	ein	O	O	
 	durch	O	O	
-	Truppendetachierungen.	O	O	
+	Truppendetachierungen	O	O	
+	,	O	O	
 	durch	O	O	
-	Ab.	O	O	
-	koiiimaiidieruiig	O	O	
+	Abkommandierung	O	O	
 	von	O	O	
-	Mamischasten	O	O	
+	Mannschaften	O	O	
 	sowie	O	O	
 	durch	O	O	
-	soultige	O	O	
+	sonstige	O	O	
 	plötzliche	O	O	
-	»lililärische	O	O	
-	Anordnungen.	O	O	
+	militärische	O	O	
+	Anordnungen	O	O	
+	.	O	O	
 	Infolge	O	O	
 	einer	O	O	
 	solchen	O	O	
@@ -199273,13 +199362,14 @@
 	Beispiel	O	O	
 	für	O	O	
 	das	O	O	
-	2.	O	O	
+	2	O	O	
+	.	O	O	
 	Feldregiment	O	O	
 	ist	O	O	
 	die	O	O	
 	Aushändigung	O	O	
 	der	O	O	
-	Seiidnngen	O	O	
+	Sendungen	O	O	
 	erst	O	O	
 	80	O	O	
 	bis	O	O	
@@ -199289,16 +199379,16 @@
 	der	O	O	
 	Absendung	O	O	
 	von	O	O	
-	Denischland	O	O	
+	Deutschland	O	O	
 	möglich	O	O	
-	geloesen.	O	O	
+	gewesen	O	O	
+	.	O	O	
 	Bei	O	O	
 	den	O	O	
 	plötzlichen	O	O	
-	Enisend,ingen	O	O	
+	Einsendungen	O	O	
 	von	O	O	
-	Truppe»,	O	O	
-	teile»	O	O	
+	Truppenteilen	O	O	
 	nach	O	O	
 	dem	O	O	
 	Süden	O	O	
@@ -199309,8 +199399,7 @@
 	solche	O	O	
 	Fälle	O	O	
 	sich	O	O	
-	voraus,	O	O	
-	sichtlich	O	O	
+	voraussichtlich	O	O	
 	Iv	O	O	
 	i	O	O	
 	e	O	O	
@@ -199321,38 +199410,43 @@
 	o	O	O	
 	l	O	O	
 	e	O	O	
-	n.	O	O	
+	n	O	O	
+	.	O	O	
 	Demgegenüber	O	O	
 	soll	O	O	
 	nicht	O	O	
 	unerwähnt	O	O	
-	bleiben,	O	O	
-	dab	O	O	
+	bleiben	O	O	
+	,	O	O	
+	daß	O	O	
 	andere	O	O	
-	Truppenteile,	O	O	
+	Truppenteile	O	O	
+	,	O	O	
 	bei	O	O	
 	denen	O	O	
 	die	O	O	
 	Verhältnisse	O	O	
 	weniger	O	O	
 	ungünstig	O	O	
-	lagen,	O	O	
-	ihr«	O	O	
-	Postsache»	O	O	
+	lagen	O	O	
+	,	O	O	
+	ihre	O	O	
+	Postsachen	O	O	
 	vielfach	O	O	
 	bereits	O	O	
 	30	O	O	
 	bis	O	O	
 	40	O	O	
 	Tage	O	O	
-	»ach	O	O	
+	nach	O	O	
 	der	O	O	
-	Absendlliig	O	O	
+	Absendung	O	O	
 	von	O	O	
 	der	O	O	
 	Heimat	O	O	
-	erhallen	O	O	
-	haben.	O	O	
+	erhalten	O	O	
+	haben	O	O	
+	.	O	O	
 	Jedenfalls	O	O	
 	aber	O	O	
 	ist	O	O	
@@ -199362,38 +199456,46 @@
 	Benehmen	O	O	
 	mit	O	O	
 	der	O	O	
-	Schutztruppenveiwaltiiiig	O	O	
-	unansgesetzt	O	O	
-	beniüht,	O	O	
+	Schutztruppenverwaltung	O	O	
+	unausgesetzt	O	O	
+	bemüht	O	O	
+	,	O	O	
 	die	O	O	
 	infolge	O	O	
 	der	O	O	
-	dar»	O	O	
-	gelegte»	O	O	
+	dargelegten	O	O	
 	Umstände	O	O	
-	enlsleheiiden	O	O	
+	entstehenden	O	O	
 	Verzögerungen	O	O	
 	in	O	O	
 	der	O	O	
 	Ileberlunst	O	O	
 	der	O	O	
 	Posten	O	O	
-	aus	O	O	
-	daS	O	O	
-	Matz	O	O	
+	auf	O	O	
+	das	O	O	
+	Maß	O	O	
 	des	O	O	
-	Unvermeidliche»	O	O	
+	Unvermeidlichen	O	O	
 	zu	O	O	
-	beschränken.	O	O	
+	beschränken	O	O	
+	.	O	O	
 	preussischer	O	O	
-	Landtag.	O	O	
-	Abgeordnetenhaus.	O	O	
-	100.	O	O	
+	Landtag	O	O	
+	.	O	O	
+	Abgeordnetenhaus	O	O	
+	.	O	O	
+	100	O	O	
+	.	O	O	
 	Sitzung	O	O	
 	vom	O	O	
-	21.	O	O	
-	November.	O	O	
-	(Schluff)	O	O	
+	21	O	O	
+	.	O	O	
+	November	O	O	
+	.	O	O	
+	(	O	O	
+	Schluff	O	O	
+	)	O	O	
 	Auf	O	O	
 	der	O	O	
 	Tagesordnung	O	O	
