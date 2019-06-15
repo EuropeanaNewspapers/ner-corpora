@@ -174,19 +174,15 @@ L'Ouest-Éclair, 07-06-1939, 661644
 http://gallica.bnf.fr/ark:/12148/bpt6k661644p/f16.item  
 * [**L000??? - L000???**]  
 Le Siècle, 20-10-1916, 7502656  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000113949257?page=1  
 http://gallica.bnf.fr/ark:/12148/bpt6k7502656p/f1.item  
 * [**L000??? - L000???**]  
 Le Siècle, 20-10-1916, 7502656  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000113949257?page=2  
 http://gallica.bnf.fr/ark:/12148/bpt6k7502656p/f2.item  
 * [**L000??? - L000???**]  
 Le Siècle, 20-10-1916, 7502656  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000113949257?page=3  
 http://gallica.bnf.fr/ark:/12148/bpt6k7502656p/f3.item  
 * [**L000??? - L000???**]  
 Le Siècle, 20-10-1916, 7502656  
-http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000113949257?page=4  
 http://gallica.bnf.fr/ark:/12148/bpt6k7502656p/f4.item  
 * [**L000??? - L000???**]  
 Le Rappel, 23-10-1870, 7533168  
