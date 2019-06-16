@@ -35,9 +35,9 @@ Example:
 
 The data in this repository are based on digitized and OCRed historical newspapers sourced from these libraries:
 
-* [enp_DE](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_DE.onb.tsv) - newspapers from the [Austrian National Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01252), [Berlin State Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01606) and [Dr Friedrich Teßmann Library](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P02013)
-* [enp_FR](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_FR.bnf.tsv) - newspapers from the [National Library of France](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01190)
-* [enp_NL](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_NL.kb.tsv) - newspapers from the [National Library of the Netherlands](http://www.theeuropeanlibrary.org/tel4/newspapers/gallery?provider-id=P01350)
+* [enp_DE](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_DE.tsv) - newspapers from the [Austrian National Library](https://www.onb.ac.at/), [Berlin State Library](https://staatsbibliothek-berlin.de/) and [Dr Friedrich Teßmann Library](https://www.tessmann.it/)
+* [enp_FR](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_FR.tsv) - newspapers from the [National Library of France](https://www.bnf.fr/)
+* [enp_NL](https://github.com/EuropeanaNewspapers/ner-corpora/tree/master/enp_NL.tsv) - newspapers from the [National Library of the Netherlands](https://www.kb.nl/)
 
 ### License 
 
@@ -57,5 +57,5 @@ Proceedings of the 10th edition of the Language Resources and Evaluation Confere
 
 ### Known issues
 
-The way the data was produced, this corpus still contains many OCR errors, which is why further work is still needed to leverage it for demanding tasks like evaluation, 
-where gold standard quality is required. Further information on data quality issues and instructions for data cleaning can be found in the [wiki](https://github.com/EuropeanaNewspapers/ner-corpora/wiki).
+The corpus contains many OCR errors, so further work is still needed to leverage it for demanding tasks like evaluation, where gold standard quality is required. 
+Further information on data quality issues and instructions for data cleaning can be found in the [wiki](https://github.com/EuropeanaNewspapers/ner-corpora/wiki).
