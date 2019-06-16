@@ -35,9 +35,9 @@ Example:
 
 The data in this repository are based on digitized and OCRed historical newspapers sourced from these libraries:
 
-* [enp_DE](https://github.com/EuropeanaNewspapers/ner-corpora/blob/master/enp_DE.tsv) - newspapers from the [Austrian National Library](https://www.onb.ac.at/), [Berlin State Library](https://staatsbibliothek-berlin.de/) and [Dr Friedrich Teßmann Library](https://www.tessmann.it/)
-* [enp_FR](https://github.com/EuropeanaNewspapers/ner-corpora/blob/master/enp_FR.tsv) - newspapers from the [National Library of France](https://www.bnf.fr/)
-* [enp_NL](https://github.com/EuropeanaNewspapers/ner-corpora/blob/master/enp_NL.tsv) - newspapers from the [National Library of the Netherlands](https://www.kb.nl/)
+* ``enp_DE`` - newspapers from the [Austrian National Library](https://www.onb.ac.at/), [Berlin State Library](https://staatsbibliothek-berlin.de/) and [Dr Friedrich Teßmann Library](https://www.tessmann.it/)
+* ``enp_FR`` - newspapers from the [National Library of France](https://www.bnf.fr/)
+* ``enp_NL`` - newspapers from the [National Library of the Netherlands](https://www.kb.nl/)
 
 ### License 
 
