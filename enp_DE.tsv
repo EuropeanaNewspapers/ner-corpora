@@ -3776,74 +3776,91 @@
 68	83	O	O	
 69	)	O	O		
 70	,	O	O	
-	bvroz	O	O	
-	.	O	O	
-	Russen	O	O	
-	von	O	O	
-	1877	O	O	
-	00	O	O	
-	«!»j	O	O	
+71	5proz	O	O	
+72	.	O	O	
+73	Russen	O	O	
+74	von	O	O	
+75	1877	O	O	
+76	90	O	O	
+77	(	O	O	
+78	90	O	O	
+79	)	O	O	
+80	,	O	O	
+81	Russische	O	O	
+82	Prämien	O	O	
+83	-	O	O	
+84	Anl	O	O	
+85	.	O	O	
+86	von	O	O	
+87	1864	O	O	
+88	143	O	O	
+89	1/4	O	O	
+90	,	O	O	
+91	(	O	O	
+92	142	O	O	
+93	)	O	O	
+94	,	O	O	
+95	Russische	O	O	
+96	Präm	O	O	
+97	.	O	O	
+98	-	O	O	
+99	Anl	O	O	
+100	.	O	O	
+101	von	O	O	
+102	1866	O	O	
+	139	O	O	
+	1/8	O	O	
 	,	O	O	
-	Russische	O	O	
-	Prämien	O	O	
-	-	O	O	
-	Anl	O	O	
-	.	O	O	
-	von	O	O	
-	ISU	O	O	
-	143'/	O	O	
-	.	O	O	
-	<142'	O	O	
-	,	O	O	
-	.	O	O	
-	,	O	O	
-	»	O	O	
-	,	O	O	
-	Russische	O	O	
-	Präm	O	O	
-	.	O	O	
-	-	O	O	
-	Anl	O	O	
-	.	O	O	
-	von	O	O	
-	1866	O	O	
-	I3i»'/	O	O	
-	,	O	O	
-	UM'/.)	O	O	
+	(	O	O	
+	139	O	O	
+	1/4	O	O	
+	)	O	O	
 	,	O	O	
 	Russische	O	O	
 	grosse	O	O	
 	Eisenbahnen	O	O	
-	128'/	O	O	
+	128	O	O	
+	1/2	O	O	
 	,	O	O	
-	<I2N/,>	O	O	
+	(	O	O	
+	128	O	O	
+	5/8	O	O	
+	)	O	O	
 	,	O	O	
 	Russische	O	O	
 	I	O	O	
 	.	O	O	
 	Orient-Anleihe	O	O	
-	ö6v	O	O	
-	,	O	O	
-	)k>ü'/«>	O	O	
+	56	O	O	
+	1/6	O	O	
+	)	O	O	
+	55	O	O
+	1/4	O	O		
+	)	O	O	
+	,	O	O		
 	,	O	O	
 	Russische	O	O	
 	II	O	O	
 	.	O	O	
 	Orient-Anleihe	O	O	
-	b5'/	O	O	
-	,	O	O	
-	M	O	O	
+	55	O	O	
+	1/4	O	O	
+	(	O	O	
+	55	O	O		
 	)	O	O	
 	,	O	O	
-	bprozentige	O	O	
+	5pprozentige	O	O	
 	Türken	O	O	
 	von	O	O	
-	IvLS^/	O	O	
-	,	O	O	
+	1865	O	O	
+	7	O	O	
+	7/8	O	O	
 	(	O	O	
-	?'/.	O	O	
+	7	O	O	
+	7/8	O	O	
 	)	O	O	
 	.	O	O	
+
 	London	B-LOC	O	
 	,	O	O	
 	31	O	O	
