@@ -5156,8 +5156,8 @@
 	bei	O	O	
 	ihr	O	O	
 	der	O	O	
-	seste	O	O	
-	Ae	O	O	
+	feste	O	O	
+	Wille	O	O	
 	,	O	O	
 	in	O	O	
 	Sachsen	B-LOC	O	
@@ -5169,7 +5169,7 @@
 	wo	O	O	
 	bei	O	O	
 	den	O	O	
-	tat	O	O	
+	nächsten	O	O	
 	Landtagswahlen	O	O	
 	beide	O	O	
 	Parteien	O	O	
@@ -5180,35 +5180,38 @@
 	ein	O	O	
 	gutes	O	O	
 	,	O	O	
+	auf	O	O	
 	gegenseitiger	O	O	
 	Unterstützung	O	O	
 	und	O	O	
 	Rücksichtnahme	O	O	
 	beruhendes	O	O	
-	ahllaklisches	O	O	
+	wahltaktisches	O	O	
 	Verhältnis	O	O	
 	zu	O	O	
 	kommen	O	O	
 	.	O	O	
+
 	Die	O	O	
 	Gegner	O	O	
 	würden	O	O	
 	sich	O	O	
 	,	O	O	
-	«»	O	O	
+	wenn	O	O	
 	die	O	O	
 	Nationalliberalen	B-ORG	O	
 	einverstanden	O	O	
 	sind	O	O	
-	.	O	O	
+	,	O	O	
 	einer	O	O	
-	gechlossenen	O	O	
+	geschlossenen	O	O	
 	liberalen	O	O	
 	Front	O	O	
 	gegenübersehen	O	O	
 	.	O	O	
+
 	Aber	O	O	
-	"lüilich	O	O	
+	natürlich	O	O	
 	kann	O	O	
 	das	O	O	
 	nur	O	O	
@@ -5218,11 +5221,12 @@
 	der	O	O	
 	Parität	O	O	
 	und	O	O	
-	Anlenming	O	O	
+	Anerkennung	O	O	
 	berechtigter	O	O	
 	Forderungen	O	O	
 	geschehen	O	O	
 	.	O	O	
+
 	Das	O	O	
 	wird	O	O	
 	angesichts	O	O	
