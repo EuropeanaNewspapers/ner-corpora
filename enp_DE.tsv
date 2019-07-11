@@ -5069,33 +5069,33 @@
 	zwischen	O	O	
 	Vertretern	O	O	
 	der	O	O	
-	»Ilona	O	O	
-	l	O	O	
-	liberalen	O	O	
+	Nationalliberalen	O	O	
 	und	O	O	
 	der	O	O	
 	Fortschrittlichen	B-ORG	O	
-	Volksliriki	I-ORG	O	
+	Volkspartei	I-ORG	O	
 	über	O	O	
 	die	O	O	
 	Unterstützung	O	O	
 	der	O	O	
 	nationalliberalen	O	O	
 	Kandidatur	O	O	
+	im	O	O	
 	Landtagswahlkreis	O	O	
 	Groß-Schönau-Ebersbach	B-LOC	O	
-	sich	O	O	
+	durch	O	O	
 	die	O	O	
 	Fortschrittler	O	O	
 	unterhandelt	O	O	
 	.	O	O	
+
 	Die	O	O	
 	Frage	O	O	
 	ist	O	O	
 	wohl	O	O	
 	noch	O	O	
 	nicht	O	O	
-	tgiillig	O	O	
+	endültig	O	O	
 	entschieden	O	O	
 	,	O	O	
 	aber	O	O	
@@ -5105,13 +5105,12 @@
 	wurde	O	O	
 	auch	O	O	
 	das	O	O	
-	"	O	O	
-	shlabkon>nien	O	O	
+	Wahlabkommen	O	O	
 	zwischen	O	O	
 	Nationalliberalen	B-ORG	O	
 	und	O	O	
 	Volkspartei	B-ORG	O	
-	>i	O	O	
+	für	O	O	
 	die	O	O	
 	nächsten	O	O	
 	allgemeinen	O	O	
@@ -5121,12 +5120,13 @@
 	,	O	O	
 	und	O	O	
 	da	O	O	
+	der	O	O	
 	Stellungnahme	O	O	
 	in	O	O	
 	Groß-Schönau-Ebersbach	B-LOC	O	
 	gewisse	O	O	
 	prinzipielle	O	O	
-	ideuinng	O	O	
+	Bedeutung	O	O	
 	beigelegt	O	O	
 	wird	O	O	
 	,	O	O	
@@ -5138,7 +5138,7 @@
 	,	O	O	
 	die	O	O	
 	Richtlinien	O	O	
-	itjuleilen	O	O	
+	mitzuteilen	O	O	
 	,	O	O	
 	die	O	O	
 	die	O	O	
@@ -5146,10 +5146,11 @@
 	Volkspartei	I-ORG	O	
 	bei	O	O	
 	dem	O	O	
-	«hlabkonunen	O	O	
+	Wahlabkommen	O	O	
 	festzuhalten	O	O	
 	wünscht	O	O	
 	.	O	O	
+
 	Es	O	O	
 	besteht	O	O	
 	bei	O	O	
