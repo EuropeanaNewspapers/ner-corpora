@@ -4436,6 +4436,7 @@
 #	002	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19140118-1-3-0-0/full/full/0/default.jpg	
 #	1914-01-18	Berliner Tageblatt	27646518	
 
+	hoffen	O	O	
 	dürfen	O	O	
 	,	O	O	
 	daß	O	O	
@@ -4443,14 +4444,16 @@
 	Plenum	O	O	
 	dem	O	O	
 	bedauerlichen	O	O	
-	Vorschläge	O	O	
+	Vorschlage	O	O	
+	der	O	O	
 	Budgetkommission	O	O	
 	nicht	O	O	
-	sollen	O	O	
+	folgen	O	O	
 	wird	O	O	
 	.	O	O	
-	'	O	O	
-	wir	O	O	
+	"	O	O	
+
+	Wir	O	O	
 	haben	O	O	
 	keinen	O	O	
 	Zweifel	O	O	
@@ -4460,14 +4463,15 @@
 	daß	O	O	
 	wir	O	O	
 	eine	O	O	
-	Äisiung	O	O	
+	Bewilligung	O	O	
 	des	O	O	
 	Reichszuschusses	O	O	
 	zu	O	O	
 	den	O	O	
 	Olympischen	O	O	
 	Spielen	O	O	
-	-ich'r	O	O	
+	aus	O	O	
+	sehr	O	O	
 	zwingenden	O	O	
 	Gründen	O	O	
 	für	O	O	
@@ -4476,9 +4480,8 @@
 	,	O	O	
 	und	O	O	
 	wir	O	O	
-	L a	O	O	
-	Ciu	O	O	
-	cf)	O	O	
+	hoffen	O	O	
+	auch	O	O	
 	,	O	O	
 	daß	O	O	
 	das	O	O	
@@ -4488,10 +4491,7 @@
 	,	O	O	
 	nachdem	O	O	
 	alle	O	O	
-	not	O	O	
-	.	O	O	
-
-	Men	O	O	
+	notwendigen	O	O	
 	Garantien	O	O	
 	gegeben	O	O	
 	sein	O	O	
@@ -4500,14 +4500,17 @@
 	sich	O	O	
 	die	O	O	
 	Bedenken	O	O	
+	der	O	O	
 	Budgetkommissionsmehrheit	O	O	
 	nicht	O	O	
 	zu	O	O	
 	eigen	O	O	
 	machen	O	O	
 	wird	O	O	
-	,	O	O	
-	xz	O	O	
+	.	O	O	
+
+	Aber	O	O	
+	es	O	O	
 	gibt	O	O	
 	heute	O	O	
 	im	O	O	
@@ -4517,7 +4520,7 @@
 	,	O	O	
 	die	O	O	
 	viel	O	O	
-	verträglicher	O	O	
+	unerträglicher	O	O	
 	sind	O	O	
 	,	O	O	
 	als	O	O	
@@ -4525,7 +4528,7 @@
 	Bewilligung	O	O	
 	oder	O	O	
 	Ablehnung	O	O	
-	"	O	O	
+	von	O	O	
 	46OOO	O	O	
 	Mark	O	O	
 	für	O	O	
@@ -4533,35 +4536,36 @@
 	Sportfest	O	O	
 	.	O	O	
 
-	Lrblandmarschall	O	O	
-	v	O	O	
-	.	O	O	
-	Lützow	B-PER	O	
+	*	O	O	
+	Erblandmarschall	O	O	
+	v	B-PER	O	
+	.	I-PER	O	
+	Lützow	I-PER	O	
 	aus	O	O	
 	Eichhoff	B-LOC	O	
 	,	O	O	
-	dar	O	O	
+	das	O	O	
 	Haupt	O	O	
 	der	O	O	
-	schastlichrn	O	O	
-	meeklenburgischen	O	O	
+	ritterschaftlichen	O	O	
+	mecklenburgischen	O	O	
 	Fronde	O	O	
 	,	O	O	
 	ist	O	O	
 	einem	O	O	
-	Privataramm	O	O	
+	Privattelegramm	O	O	
 	aus	O	O	
 	Schwerin	B-LOC	O	
 	zufolge	O	O	
-	.	O	O	
+	,	O	O	
 	70	O	O	
 	Jahre	O	O	
 	alt	O	O	
-	.	O	O	
-	aus	O	O	
+	,	O	O	
+	aufs	O	O	
 	seinem	O	O	
 	Schloß	O	O	
-	rli»	O	O	
+	Labertin	O	O	
 	gestorben	O	O	
 	.	O	O	
 
@@ -4573,7 +4577,7 @@
 	die	O	O	
 	Seele	O	O	
 	des	O	O	
-	»MasNichcn	O	O	
+	ritterschaftlichen	O	O	
 	Widerstandes	O	O	
 	gegen	O	O	
 	die	O	O	
@@ -4581,37 +4585,39 @@
 	.	O	O	
 
 	Nach	O	O	
-	Hj„jä)eiden	O	O	
+	seinem	O	O	
+	Hinscheiden	O	O	
 	ist	O	O	
 	anzunehmen	O	O	
-	.	O	O	
+	,	O	O	
 	daß	O	O	
-	min	O	O	
+	nun	O	O	
 	die	O	O	
 	gemäßigte	O	O	
 	Richtung	O	O	
+	die	O	O	
 	Oberhand	O	O	
 	gewinnen	O	O	
 	wird	O	O	
 	.	O	O	
 
-	>	O	O	
-	xer	O	O	
+	*	O	O	
+	Der	O	O	
 	Reichstagsabgeordnete	O	O	
 	Dr	O	O	
 	.	O	O	
 	Pfleger	B-PER	O	
 	(	O	O	
-	Zentr	O	O	
+	Zentr	B-ORG	O	
 	.	O	O	
 	)	O	O	
 	hat	O	O	
 	sich	O	O	
 	in	O	O	
-	«»lkiiung	O	O	
+	Begleitung	O	O	
 	des	O	O	
 	Konteradmirals	O	O	
-	Dähnhardt B_PER	O	O	
+	Dähnhardt	B-PER	O	O	
 	vom	O	O	
 	Etatsdepartement	O	O	
 	des	O	O	
@@ -4622,8 +4628,7 @@
 	,	O	O	
 	um	O	O	
 	die	O	O	
-	Marine»	O	O	
-	»ia«kn	O	O	
+	Marineanlagen	O	O	
 	der	O	O	
 	Ostseestation	O	O	
 	in	O	O	
@@ -4640,32 +4645,29 @@
 	besichtigen	O	O	
 	.	O	O
 
-	.	O	O	
-	xcr	O	O	
-	Kausmann	B-PER	O	
-	Georg	I-PER	O	
-	Herold	O	O	
+	*	O	O	
+	Der	O	O	
+	Kaufmann	0	O	
+	Georg	B-PER	O	
+	Herold	I-PER	O	
 	in	O	O	
 	Düsseldorf	B-LOC	O	
 	,	O	O	
 	der	O	O	
-	.^jchjscher	O	O	
+	österreichischer	O	O	
 	Staatsangehöriger	O	O	
 	ist	O	O	
 	,	O	O	
 	ist	O	O	
 	einem	O	O	
 	Privat-Telegramm	O	O	
-	zu-	O	O	
-	tu	O	O	
-	c	O	O	
-	g	O	O	
-	ni	O	O	
+	zufolge	O	O	
+	wegen	O	O	
 	sozialdemokratischer	O	O	
 	Agitation	O	O	
 	durch	O	O	
 	die	O	O	
-	Mörser	O	O	
+	Düsseldorfer	O	O	
 	Polizei	O	O	
 	aus	O	O	
 	Preußen	B-LOC	O	
@@ -4673,7 +4675,8 @@
 	worden	O	O	
 	.	O	O
 
-	r>or	O	O	
+	*	O	O	
+	Vor	O	O	
 	dem	O	O	
 	Kaiserlichen	O	O	
 	Rat	O	O	
@@ -4682,18 +4685,16 @@
 	(	O	O	
 	Retursgericht	O	O	
 	)	O	O	
-	»rd«	O	O	
+	wurde	O	O	
 	gestern	O	O	
 	der	O	O	
 	Rekurs	O	O	
 	des	O	O	
 	Präsidenten	O	O	
 	des	O	O	
-	„	O	O	
-	Eouvenir	O	O	
-	Alsaeien-	O	O	
 	"	O	O	
-	trflft	O	O	
+	Souvenir	O	O	
+	Alsacien-Lorrain	O	O		
 	"	O	O	
 	gegen	O	O	
 	die	O	O	
@@ -4704,7 +4705,7 @@
 	.	O	O	
 
 	Wolffs	O	O	
-	.»au	O	O	
+	Bureau	O	O	
 	meldet	O	O	
 	darüber	O	O	
 	aus	O	O	
@@ -4714,50 +4715,48 @@
 	Rekursträger	O	O	
 	trat	O	O	
 	der	O	O	
-	k	O	O	
-	,	O	O	
-	»	O	O	
-	Präsident	O	O	
+	Vizepräsident	O	O	
 	des	O	O	
 	Vereins	O	O	
 	Rechtsanwalt	O	O	
-	Helmer-	B-PER	O	
-	Kolmar	I-PER	O	
-	aus	O	O	
+	Helmer-Kolmar	B-PER	O	
+	auf	O	O	
 	.	O	O
 
 	In	O	O	
-	nnnlialbstündiger	O	O	
+	eineinhalbstündiger	O	O	
 	Verhandlung	O	O	
 	wurde	O	O	
 	in	O	O	
 	ausführlicher	O	O	
 	Weise	O	O	
 	die	O	O	
-	Äigung	O	O	
+	Betätigung	O	O	
 	des	O	O	
-	.	O	O	
+	"	O	O	
 	Souvenir	O	O	
 	Francaise	O	O	
 	"	O	O	
 	und	O	O	
 	auch	O	O	
 	des	O	O	
+	"	O	O	
+	S	O	O	
+	.	O	O	
 	A	O	O	
 	.	O	O	
 	L	O	O	
 	.	O	O	
 	"	O	O	
 	zur	O	O	
-	xx-ekhe	O	O	
+	Sprache	O	O	
 	gebracht	O	O	
 	und	O	O	
 	von	O	O	
 	dem	O	O	
 	Anklagevertreter	O	O	
 	Geheimen	O	O	
-	Regieeheir	O	O	
-	"	O	O	
+	Regierungsrat	O	O	
 	Reinhard	B-PER	O	
 	zahlreiche	O	O	
 	Beweismittel	O	O	
@@ -4765,13 +4764,14 @@
 	.	O	O
 
 	Die	O	O	
-	toitruna	O	O	
+	Regierung	O	O	
 	hat	O	O	
 	die	O	O	
 	Ueberzeugung	O	O	
 	,	O	O	
 	daß	O	O	
 	der	O	O	
+	"	O	O	
 	.	O	O	
 	S	O	O	
 	.	O	O	
@@ -4781,11 +4781,14 @@
 	.	O	O	
 	"	O	O	
 	die	O	O	
-	F	O	O	
-	K>’	O	O	
-	2	O	O	
+	Fortsetzung	O	O	
+	des	O	O	
+	"	O	O	
+	S	O	O	
 	.	O	O	
-	j-'	O	O	
+	F	O	O	
+	.	O	O	
+	"	O	O	
 	war	O	O	
 	und	O	O	
 	ebenso	O	O	
@@ -4795,27 +4798,22 @@
 	ausschließlich	O	O	
 	die	O	O	
 	Pflege	O	O	
-	ingtral	O	O	
-	ührt	O	O	
-	.	O	O	
-	Forts	O	O	
-	ortsehung	O	O	
-	die	O	O	
-	Psll	O	O	
-	"z	O	O	
-	ieimkultus	O	O	
+	des	O	O	
+	Totenkultus	O	O	
 	bezweckte	O	O	
 	,	O	O	
 	sondern	O	O	
 	politische	O	O	
-	Bes	O	O	
-	kinc	O	O	
+	Bestrebungen	O	O	
+	,	O	O	
+	die	O	O	
+	eine	O	O	
 	Losreißung	O	O	
 	von	O	O	
 	dem	O	O	
 	deutschen	O	O	
 	Vaterlande	O	O	
-	rdiillihrcn	O	O	
+	herbeiführen	O	O	
 	sollte	O	O	
 	.	O	O	
 
@@ -4825,14 +4823,14 @@
 	sei	O	O	
 	auch	O	O	
 	am	O	O	
-	2g	O	O	
+	23	O	O	
 	.	O	O	
 	Januar	O	O	
-	Il>13	O	O	
-	e	O	O	
-	Auslösung	O	O	
+	1913	O	O	
+	die	O	O	
+	Auflösung	O	O	
 	des	O	O	
-	„	O	O	
+	"	O	O	
 	S	O	O	
 	.	O	O	
 	A	O	O	
@@ -4845,8 +4843,7 @@
 	.	O	O
 
 	Rechtsanwalt	O	O	
-	Hel-	O	O	
-	(i	O	O	
+	Helmer	B-PER	O	
 	wandte	O	O	
 	sich	O	O	
 	in	O	O	
@@ -4857,6 +4854,7 @@
 	gegen	O	O	
 	diese	O	O	
 	Auflösung	O	O	
+	und	O	O	
 	insbesondere	O	O	
 	gegen	O	O	
 	das	O	O	
@@ -4867,6 +4865,7 @@
 	,	O	O	
 	die	O	O	
 	am	O	O	
+	23	O	O	
 	.	O	O	
 	November	O	O	
 	1913	O	O	
@@ -4875,16 +4874,18 @@
 	des	O	O	
 	Schöffengerichts	O	O	
 	aufhob	O	O	
-	un	O	O	
-	Minreichung	O	O	
+	und	O	O	
+	wegen	O	O	
+	Nichteinreichung	O	O	
 	der	O	O	
 	Mitgliederliste	O	O	
 	den	O	O	
 	Präsidenten	O	O	
 	Herrn	O	O	
-	I	O	O	
-	i	O	O	
-	Nark	O	O	
+	Jean	B-PER	O	
+	zu	O	O	
+	50	O	O	
+	Mark	O	O	
 	Geldstrafe	O	O	
 	verurteilte	O	O	
 	.	O	O
@@ -4894,7 +4895,7 @@
 	erklärte	O	O	
 	in	O	O	
 	seiner	O	O	
-	rlmil	O	O	
+	Polemik	O	O	
 	gegen	O	O	
 	die	O	O	
 	Urteilsbegründung	O	O	
@@ -4912,7 +4913,7 @@
 	,	O	O	
 	das	O	O	
 	als	O	O	
-	Mend	O	O	
+	belastend	O	O	
 	für	O	O	
 	Herrn	O	O	
 	Jean	B-PER	O	
@@ -4921,8 +4922,7 @@
 	,	O	O	
 	hingegen	O	O	
 	seien	O	O	
-	Ent-	O	O	
-	«siMgsbeweise	O	O	
+	Entlastungsbeweise	O	O	
 	totgeschwiegen	O	O	
 	worden	O	O	
 	.	O	O
@@ -4930,7 +4930,7 @@
 	Der	O	O	
 	Anklagevertreter	O	O	
 	hielt	O	O	
-	01	O	O	
+	dem	O	O	
 	Rekursträger	O	O	
 	als	O	O	
 	Vizepräsident	O	O	
@@ -4939,8 +4939,8 @@
 	einen	O	O	
 	Brief	O	O	
 	von	O	O	
-	rmr	O	O	
-	band	O	O	
+	seiner	O	O	
+	Hand	O	O	
 	am	O	O	
 	24	O	O	
 	.	O	O	
@@ -4953,7 +4953,7 @@
 	er	O	O	
 	als	O	O	
 	ein	O	O	
-	^inmanöver	O	O	
+	Scheinmanöver	O	O	
 	bezeichnet	O	O	
 	,	O	O	
 	in	O	O	
@@ -4962,7 +4962,7 @@
 	ehemaligen	O	O	
 	Miedern	O	O	
 	des	O	O	
-	.	O	O	
+	"	O	O	
 	S	O	O	
 	.	O	O	
 	F	O	O	
@@ -4972,10 +4972,10 @@
 	Elsaß-Lothringen	B-LOC	O	
 	nahegelegt	O	O	
 	wurde	O	O	
-	.	O	O	
+	,	O	O	
 	Mitglied	O	O	
 	des	O	O	
-	„	O	O	
+	"	O	O	
 	S	O	O	
 	.	O	O	
 	A	O	O	
@@ -4990,7 +4990,7 @@
 	In	O	O	
 	diesem	O	O	
 	Brief	O	O	
-	sielst	O	O	
+	sieht	O	O	
 	der	O	O	
 	Anklage-Vertreter	O	O	
 	den	O	O	
@@ -4998,7 +4998,7 @@
 	,	O	O	
 	daß	O	O	
 	der	O	O	
-	.	O	O	
+	"	O	O	
 	S	O	O	
 	.	O	O	
 	A	O	O	
@@ -5009,22 +5009,22 @@
 	in	O	O	
 	Wirklichkeit	O	O	
 	die	O	O	
-	milktzung	O	O	
+	Fortsetzung	O	O	
 	des	O	O	
-	.	O	O	
+	"	O	O	
 	S	O	O	
 	.	O	O	
 	F	O	O	
 	.	O	O	
 	"	O	O	
 	sei	O	O	
-	.	O	O	
-	besten	O	O	
+	,	O	O	
+	dessen	O	O	
 	politische	O	O	
 	Bestrebungen	O	O	
 	zur	O	O	
-	Evidcn	O	O	
-	„itftn	O	O	
+	Evidenz	O	O	
+	erwiesen	O	O	
 	worden	O	O	
 	seien	O	O	
 	.	O	O
@@ -5032,37 +5032,36 @@
 	Die	O	O	
 	Urteilsverkündung	O	O	
 	wurde	O	O	
-	am	O	O	
+	auf	O	O	
+	den	O	O	
 	11	O	O	
 	.	O	O	
 	Januar	O	O	
-	scstgesrht	O	O	
+	festgesetzt	O	O	
 	.	O	O	
 
-	*	O	O	
-	)	O	O	
-	ic	O	O	
-	fortschrittlich	O	O	
-	*	O	O	
-	nationalliberalen	O	O	
+	Die	O	O	
+	fortschrittlich-nationalliberalen	O	O	
 	Wahlverhandlungen	O	O	
 	in	O	O	
-	Sachsen	O	O	
+	Sachsen	B-LOC	O	
 	.	O	O	
+
 	(	O	O	
 	Telegramm	O	O	
 	unseres	O	O	
 	Korrespondenten	O	O	
 	.	O	O	
-	)	O	O	
-	cKz	O	O	
+	)	O	O		
+
 	Dresden	B-LOC	O	
 	,	O	O	
 	17	O	O	
 	.	O	O	
 	Januar	O	O	
 	.	O	O	
-	btulc	O	O	
+
+	Heute	O	O	
 	abend	O	O	
 	wurde	O	O	
 	in	O	O	
