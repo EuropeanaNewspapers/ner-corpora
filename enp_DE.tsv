@@ -5776,7 +5776,7 @@
 	Zeit	O	O	
 	bestrebt	O	O	
 	ist	O	O	
-	.	O	O	
+	,	O	O	
 	dem	O	O	
 	internationalen	O	O	
 	Postpaketverkehr	O	O	
@@ -5825,6 +5825,7 @@
 	werden	O	O	
 	soll	O	O	
 	.	O	O	
+
 	Der	O	O	
 	Verkehr	O	O	
 	für	O	O	
@@ -5838,6 +5839,7 @@
 	nicht	O	O	
 	betroffen	O	O	
 	.	O	O	
+
 	Das	O	O	
 	russische	O	O	
 	Vorgehen	O	O	
@@ -5857,6 +5859,7 @@
 	beigetreten	O	O	
 	ist	O	O	
 	.	O	O	
+
 	Nach	O	O	
 	diesen	O	O	
 	Abmachungen	O	O	
@@ -5892,6 +5895,7 @@
 	Postdienst	O	O	
 	unterhält	O	O	
 	.	O	O	
+
 	Danach	O	O	
 	dürfte	O	O	
 	Rußland	B-LOC	O	
