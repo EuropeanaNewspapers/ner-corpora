@@ -5953,6 +5953,7 @@
 	uslöiung	O	O	
 	verfallen	O	O	
 	.	O	O	
+
 	Für	O	O	
 	Oktober	O	O	
 	dieses	O	O	
@@ -5984,6 +5985,7 @@
 	Auktion	O	O	
 	leiten	O	O	
 	.	O	O	
+
 	Die	O	O	
 	Katalogisierung	O	O	
 	der	O	O	
@@ -6007,6 +6009,7 @@
 	Falle	O	O	
 	dernommen	O	O	
 	.	O	O	
+
 	Die	O	O	
 	Gemäldesammlung	O	O	
 	enthält	O	O	
@@ -6065,6 +6068,7 @@
 	,	O	O	
 	"hö	O	O	
 	.	O	O	
+
 	Fn	O	O	
 	der	O	O	
 	kunstgewerblichen	O	O	
@@ -6098,6 +6102,7 @@
 	Hand	O	O	
 	"	O	O	
 	.	O	O	
+
 	Aus	O	O	
 	Newyork	B-LOC	O	
 	meldet	O	O	
@@ -6134,6 +6139,7 @@
 	plötzlich	O	O	
 	abzubrechen	O	O	
 	.	O	O	
+
 	Paderewski	B-PER	O	
 	wird	O	O	
 	lös	O	O	
