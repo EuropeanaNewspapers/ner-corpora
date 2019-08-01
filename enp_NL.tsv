@@ -1,39 +1,39 @@
-#	TOKEN 	NE-TAG	NE-EMB	
+#	TOKEN 	NE-TAG	NE-EMB
 
-#	001	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000010470:mpeg21:p002	
-#	16-11-1859	Dagblad van Zuidholland en 's Gravenhage	DDD_000010470_002	
-#	002	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000010472:mpeg21:p002	
-#	17-11-1859	Dagblad van Zuidholland en 's Gravenhage 	DDD_000010472_002	
-#	003	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000010472:mpeg21:p003	
+#	001	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000010470:mpeg21:p002
+#	16-11-1859	Dagblad van Zuidholland en 's Gravenhage	DDD_000010470_002
+#	002	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000010472:mpeg21:p002
+#	17-11-1859	Dagblad van Zuidholland en 's Gravenhage 	DDD_000010472_002
+#	003	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000010472:mpeg21:p003
 #	17-11-1859	Dagblad van Zuidholland en 's Gravenhage	DDD_000010472_003
-#	004	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000010472:mpeg21:p004	
-#	17-11-1859	Dagblad van Zuidholland en 's Gravenhage	DDD_000010472_004	
-#	005	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000010472:mpeg21:p006	
-#	17-11-1859	Dagblad van Zuidholland en 's Gravenhage	DDD_000010472_006	
-#	006	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000010474:mpeg21:p002	
-#	18-11-1859	Dagblad van Zuidholland en 's Gravenhage	DDD_000010474_002	
-#	007	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000011329:mpeg21:p002	
-#	01-01-1856	Dagblad van Zuidholland en 's Gravenhage	DDD_000011329_002	
+#	004	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000010472:mpeg21:p004
+#	17-11-1859	Dagblad van Zuidholland en 's Gravenhage	DDD_000010472_004
+#	005	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000010472:mpeg21:p006
+#	17-11-1859	Dagblad van Zuidholland en 's Gravenhage	DDD_000010472_006
+#	006	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000010474:mpeg21:p002
+#	18-11-1859	Dagblad van Zuidholland en 's Gravenhage	DDD_000010474_002
+#	007	https://zdb-katalog.de/title.xhtml?	http://resolver.kb.nl/resolve?urn=ddd:000011329:mpeg21:p002
+#	01-01-1856	Dagblad van Zuidholland en 's Gravenhage	DDD_000011329_002
 
-#	008	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 07-02-1859, DDD_000014128_001 http://resolver.kb.nl/resolve?urn=ddd:000014128:mpeg21:p001	
+#	008	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 07-02-1859, DDD_000014128_001 http://resolver.kb.nl/resolve?urn=ddd:000014128:mpeg21:p001
 
-#	009	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 07-02-1859, DDD_000014128_002 http://resolver.kb.nl/resolve?urn=ddd:000014128:mpeg21:p002	
+#	009	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 07-02-1859, DDD_000014128_002 http://resolver.kb.nl/resolve?urn=ddd:000014128:mpeg21:p002
 
-#	010	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 24-06-1859, DDD_000014177_001 http://resolver.kb.nl/resolve?urn=ddd:000014177:mpeg21:p001	
+#	010	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 24-06-1859, DDD_000014177_001 http://resolver.kb.nl/resolve?urn=ddd:000014177:mpeg21:p001
 
-#	011	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 24-06-1859, DDD_000014177_002 http://resolver.kb.nl/resolve?urn=ddd:000014177:mpeg21:p002	
+#	011	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 24-06-1859, DDD_000014177_002 http://resolver.kb.nl/resolve?urn=ddd:000014177:mpeg21:p002
 
-#	012	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 24-06-1859, DDD_000014177_003 http://resolver.kb.nl/resolve?urn=ddd:000014177:mpeg21:p003	
+#	012	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 24-06-1859, DDD_000014177_003 http://resolver.kb.nl/resolve?urn=ddd:000014177:mpeg21:p003
 
-#	013	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 24-06-1859, DDD_000014177_004 http://resolver.kb.nl/resolve?urn=ddd:000014177:mpeg21:p004	
+#	013	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 24-06-1859, DDD_000014177_004 http://resolver.kb.nl/resolve?urn=ddd:000014177:mpeg21:p004
 
-#	014	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 24-06-1859, DDD_000014177_005 http://resolver.kb.nl/resolve?urn=ddd:000014177:mpeg21:p005	
+#	014	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 24-06-1859, DDD_000014177_005 http://resolver.kb.nl/resolve?urn=ddd:000014177:mpeg21:p005
 
-#	015	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 24-06-1859, DDD_000014177_006 http://resolver.kb.nl/resolve?urn=ddd:000014177:mpeg21:p006	
+#	015	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 24-06-1859, DDD_000014177_006 http://resolver.kb.nl/resolve?urn=ddd:000014177:mpeg21:p006
 
-#	016	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 08-07-1859, DDD_000014183_003 http://resolver.kb.nl/resolve?urn=ddd:000014183:mpeg21:p003	
+#	016	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 08-07-1859, DDD_000014183_003 http://resolver.kb.nl/resolve?urn=ddd:000014183:mpeg21:p003
 
-#	017	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 18-11-1859, DDD_000014241_001 http://resolver.kb.nl/resolve?urn=ddd:000014241:mpeg21:p001	
+#	017	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 18-11-1859, DDD_000014241_001 http://resolver.kb.nl/resolve?urn=ddd:000014241:mpeg21:p001
 
 #	018	https://zdb-katalog.de/title.xhtml?	Provinciale Overĳsselsche en Zwolsche courant : staats-, handels-, nieuws- en advertentieblad, 18-11-1859, DDD_000014241_002 http://resolver.kb.nl/resolve?urn=ddd:000014241:mpeg21:p002
 
@@ -198,16 +198,16 @@ resolve?urn=ddd:000015813:mpeg21:p002
 
 #	098	https://zdb-katalog.de/title.xhtml?	Weekblad van Tilburg, 24-03-1866, DDD_000023667_002 http://resolver.kb.nl/resolve?urn=ddd:000023667:mpeg21:p002
 
-#	099	https://zdb-katalog.de/title.xhtml?	Weekblad van Tilburg, 24-03-1866, DDD_000023667_003 http://resolver.kb.nl/resolve?urn=ddd:000023667:mpeg21:p003  
+#	099	https://zdb-katalog.de/title.xhtml?	Weekblad van Tilburg, 24-03-1866, DDD_000023667_003 http://resolver.kb.nl/resolve?urn=ddd:000023667:mpeg21:p003
 
-	Indien	O	O	
-	men	O	O	
-	Italië	O	O	
-	in	O	O	
-	zijn	O	O	
-	geheel	O	O	
-	kon	O	O	
-	neutraliseren	O	O	
+	Indien	O	O
+	men	O	O
+	Italië	O	O
+	in	O	O
+	zijn	O	O
+	geheel	O	O
+	kon	O	O
+	neutraliseren	O	O
 	,	O	O
 	dan	O	O
 	zou	O	O
