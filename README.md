@@ -2,10 +2,12 @@
 
 ### ner-corpora
 Named Entity Recognition corpus for (historical) Dutch, French and German from [Europeana Newspapers](http://www.europeana-newspapers.eu/named-entity-recognition-for-digitised-newspapers/).
+#### version 0.2 (this version)
+#### [version 0.1](https://github.com/EuropeanaNewspapers/ner-corpora/releases/tag/v0.1)
 
 ### Introduction
 
-The corpus comprises of one ``.tsv`` file per language following the [GermEval2014](https://sites.google.com/site/germeval2014ner/data) data format. The format is a simple tab-separated-values format that divides texts into single tokens per line with tab-separated annotations. The 1st column contains the token position in the sentence. The 2nd column contains  the token itself. The third column contains the named entity annotation. The fourth column can contain an embedded named entity annotation. Sentence boundaries are indicated with new lines, comments start with ```#```.
+The corpus comprises of one ``.tsv`` file per language following the [GermEval2014](https://sites.google.com/site/germeval2014ner/data) data format. The format is a simple tab-separated-values format that divides texts into single tokens per line with tab-separated annotations. The first column contains the token position in the sentence. The second column contains  the token itself. The third column contains the named entity annotation. The fourth column can contain an embedded named entity annotation. Sentence boundaries are indicated with new lines, comments start with ```#```.
 
 The most commonly used categories for tags are ```PER``` (person), ```LOC``` (location) and ```ORG``` (organization) with a prefix of either ```B-``` (beginning of named entity) or ```I-``` (inside of named entity). ```O``` (outside of named entity) is used for tokens that are not a named entity.
 
