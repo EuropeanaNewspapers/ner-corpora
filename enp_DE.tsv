@@ -1,26 +1,24 @@
 #	TOKEN 	NE-TAG	NE-EMB
-
 #	001	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18800101-0-3-0-0/full/full/0/default.jpg
 #	1880-01-01	Berliner Tageblatt	27646518
-
 1	Donnerstag	O	O
 2	,	O	O
 3	1	O	O
 4	.	O	O
 5	Januar	O	O
 6	.	O	O
-
+			
 1	Berliner	B-ORG	O
 2	Tageblatt	I-ORG	O
 3	.	O	O
 4	Nr	O	O
 5	.	O	O
 6	1	O	O
-
+			
 1	Seite	O	O
 2	3	O	O
 3	.	O	O
-
+			
 1	Kampf	O	O
 2	,	O	O
 3	dessen	O	O
@@ -57,7 +55,7 @@
 34	herbeigeführt	O	O
 35	hätte	O	O
 36	.	O	O
-
+			
 1	Es	O	O
 2	scheint	O	O
 3	dem	O	O
@@ -109,7 +107,7 @@
 49	zu	O	O
 50	machen	O	O
 51	.	O	O
-
+			
 1	Sein	O	O
 2	Besuch	O	O
 3	bei	O	O
@@ -137,7 +135,7 @@
 25	erfolgt	O	O
 26	sein	O	O
 27	.	O	O
-
+			
 1	Was	O	O
 2	zwischen	O	O
 3	den	O	O
@@ -176,7 +174,7 @@
 36	anvertraut	O	O
 37	hat	O	O
 38	.	O	O
-
+			
 1	Abends	O	O
 2	im	O	O
 3	Theater	O	O
@@ -227,7 +225,7 @@
 48	gesehen	O	O
 49	hatten	O	O
 50	.	O	O
-
+			
 1	Der	O	O
 2	Erfolg	O	O
 3	dieser	O	O
@@ -253,7 +251,7 @@
 23	ableugnen	O	O
 24	wollte	O	O
 25	.	O	O
-
+			
 1	Herr	O	O
 2	Lepère	B-PER	O
 3	,	O	O
@@ -297,7 +295,7 @@
 41	bleiben	O	O
 42	dürfe	O	O
 43	.	O	O
-
+			
 1	Gleichzeitig	O	O
 2	wurde	O	O
 3	Herrn	O	O
@@ -322,7 +320,7 @@
 22	er	O	O
 23	aus	O	O
 24	.	O	O
-
+			
 1	Von	O	O
 2	allen	O	O
 3	diesen	O	O
@@ -336,14 +334,14 @@
 11	Nachmittagsstunde	O	O
 12	Kenntniß	O	O
 13	.	O	O
-
+			
 1	Sein	O	O
 2	Entschluß	O	O
 3	war	O	O
 4	sofort	O	O
 5	gefaßt	O	O
 6	.	O	O
-
+			
 1	Gegen	O	O
 2	6	O	O
 3	Uhr	O	O
@@ -361,7 +359,7 @@
 15	Hände	O	O
 16	zurück	O	O
 17	.	O	O
-
+			
 1	Da	O	O
 2	zwei	O	O
 3	Stunden	O	O
@@ -391,7 +389,7 @@
 27	angenommen	O	O
 28	sein	O	O
 29	.	O	O
-
+			
 1	Aber	O	O
 2	,	O	O
 3	so	O	O
@@ -408,7 +406,7 @@
 14	gehen	O	O
 15	sollen	O	O
 16	?	O	O
-
+			
 1	Lachen	O	O
 2	Sie	O	O
 3	nicht	O	O
@@ -427,7 +425,7 @@
 16	—	O	O
 17	riechen	O	O
 18	.	O	O
-
+			
 1	Der	O	O
 2	jetzige	O	O
 3	Minister	B-PER	O
@@ -449,7 +447,7 @@
 19	des	O	O
 20	Rauchens	O	O
 21	.	O	O
-
+			
 1	Und	O	O
 2	wenn	O	O
 3	er	O	O
@@ -463,7 +461,7 @@
 11	rauchen	O	O
 12	wollte	O	O
 13	!	O	O
-
+			
 1	Allein	O	O
 2	die	O	O
 3	kann	O	O
@@ -488,7 +486,7 @@
 22	Fach	O	O
 23	ist	O	O
 24	.	O	O
-
+			
 1	Herr	O	O
 2	Lepère	B-PER	O
 3	ist	O	O
@@ -522,7 +520,7 @@
 31	Tabakspfeife	O	O
 32	angewiesen	O	O
 33	.	O	O
-
+			
 1	Es	O	O
 2	ist	O	O
 3	WAHR	O	O
@@ -556,7 +554,7 @@
 31	getauft	O	O
 32	hat	O	O
 33	.	O	O
-
+			
 1	Im	O	O
 2	Gegentheil	O	O
 3	,	O	O
@@ -598,7 +596,7 @@
 39	nicht	O	O
 40	schämen	O	O
 41	.	O	O
-
+			
 1	Allein	O	O
 2	Herr	O	O
 3	Lepère	B-PER	O
@@ -658,7 +656,7 @@
 57	Ministerfrack	O	O
 58	fahren	O	O
 59	.	O	O
-
+			
 1	Indeß	O	O
 2	des	O	O
 3	Kammerpräsidenten	O	O
@@ -710,7 +708,7 @@
 49	Hände	O	O
 50	gehen	O	O
 51	.	O	O
-
+			
 1	Da	O	O
 2	ich	O	O
 3	so	O	O
@@ -743,7 +741,7 @@
 30	Nase	O	O
 31	zuschließt	O	O
 32	.	O	O
-
+			
 1	Da	O	O
 2	ist	O	O
 3	zuerst	O	O
@@ -755,7 +753,7 @@
 9	der	O	O
 10	Finanzminister	B-PER	O
 11	.	O	O
-
+			
 1	In	O	O
 2	der	O	O
 3	politischen	O	O
@@ -779,7 +777,7 @@
 21	Minister	O	O
 22	war	O	O
 23	.	O	O
-
+			
 1	Er	O	O
 2	gehörte	O	O
 3	nämlich	O	O
@@ -808,7 +806,7 @@
 26	daran	O	O
 27	erinnert	O	O
 28	.	O	O
-
+			
 1	Er	O	O
 2	ist	O	O
 3	,	O	O
@@ -823,7 +821,7 @@
 12	seines	O	O
 13	Vaters	O	O
 14	.	O	O
-
+			
 1	Da	O	O
 2	dieser	O	O
 3	Abgeordneter	O	O
@@ -859,7 +857,7 @@
 33	Stücken	O	O
 34	nachzuahmen	O	O
 35	.	O	O
-
+			
 1	Als	O	O
 2	er	O	O
 3	jünger	O	O
@@ -893,7 +891,7 @@
 31	Schönheit	O	O
 32	vorbei	O	O
 33	.	O	O
-
+			
 1	Seine	O	O
 2	Hauptverdienste	O	O
 3	sind	O	O
@@ -912,7 +910,7 @@
 16	Habet-Seite	O	O
 17	notirt	O	O
 18	.	O	O
-
+			
 1	Die	O	O
 2	neue	O	O
 3	Würde	O	O
@@ -930,7 +928,7 @@
 15	bequem	O	O
 16	sein	O	O
 17	.	O	O
-
+			
 1	Man	O	O
 2	hat	O	O
 3	denn	O	O
@@ -981,7 +979,7 @@
 48	gefunden	O	O
 49	sei	O	O
 50	.	O	O
-
+			
 1	Den	O	O
 2	Beinamen	O	O
 3	des	O	O
@@ -1006,7 +1004,7 @@
 22	Parlamentarier	O	O
 23	mischte	O	O
 24	.	O	O
-
+			
 1	Er	O	O
 2	war	O	O
 3	bis	O	O
@@ -1059,7 +1057,7 @@
 50	,	O	O
 51	gehört	O	O
 52	.	O	O
-
+			
 1	Aus	O	O
 2	diesem	O	O
 3	Strudel	O	O
@@ -1105,7 +1103,7 @@
 43	Parlament	O	O
 44	schickte	O	O
 45	.	O	O
-
+			
 1	Ein	O	O
 2	mehr	O	O
 3	pikantes	O	O
@@ -1161,7 +1159,7 @@
 53	verdanken	O	O
 54	sei	O	O
 55	.	O	O
-
+			
 1	An	O	O
 2	sich	O	O
 3	ist	O	O
@@ -1215,7 +1213,7 @@
 51	zu	O	O
 52	stellen	O	O
 53	.	O	O
-
+			
 1	Der	O	O
 2	ehemalige	O	O
 3	Gommeux	O	O
@@ -1243,7 +1241,7 @@
 25	verständigste	O	O
 26	Budget-Kritiker	O	O
 27	.	O	O
-
+			
 1	Ob	O	O
 2	er	O	O
 3	freilich	O	O
@@ -1291,7 +1289,7 @@
 45	zu	O	O
 46	vertauschen	O	O
 47	.	O	O
-
+			
 1	Von	O	O
 2	den	O	O
 3	andern	O	O
@@ -1303,7 +1301,7 @@
 9	zu	O	O
 10	sagen	O	O
 11	.	O	O
-
+			
 1	Cazol	B-PER	O
 2	,	O	O
 3	der	O	O
@@ -1323,7 +1321,7 @@
 17	garnicht	O	O
 18	bekannt	O	O
 19	.	O	O
-
+			
 1	Varroy	B-PER	O
 2	,	O	O
 3	der	O	O
@@ -1353,7 +1351,7 @@
 27	ziemlich	O	O
 28	geläufig	O	O
 29	.	O	O
-
+			
 1	General	O	O
 2	Farre	B-PER	O
 3	,	O	O
@@ -1380,7 +1378,7 @@
 24	Protektion	O	O
 25	Gambetta's	B-PER	O
 26	.	O	O
-
+			
 1	Er	O	O
 2	war	O	O
 3	es	O	O
@@ -1408,7 +1406,7 @@
 25	Faidherbe	B-PER	O
 26	fochten	O	O
 27	.	O	O
-
+			
 1	Charakteristisch	O	O
 2	ist	O	O
 3	,	O	O
@@ -1425,7 +1423,7 @@
 14	Polytechnique	I-ORG	O
 15	entstammen	O	O
 16	.	O	O
-
+			
 1	Unter	O	O
 2	den	O	O
 3	früheren	O	O
@@ -1488,7 +1486,7 @@
 60	vergeben	O	O
 61	werden	O	O
 62	.	O	O
-
+			
 1	Der	O	O
 2	"	O	O
 3	Bibel-Konflikt	O	O
@@ -1524,7 +1522,7 @@
 33	worden	O	O
 34	ist	O	O
 35	.	O	O
-
+			
 1	Die	O	O
 2	Angelegenheit	O	O
 3	hat	O	O
@@ -1545,7 +1543,7 @@
 18	verwickelt	O	O
 19	ist	O	O
 20	.	O	O
-
+			
 1	Der	O	O
 2	Thatbestand	O	O
 3	ist	O	O
@@ -1565,7 +1563,7 @@
 17	der	O	O
 18	folgende	O	O
 19	:	O	O
-
+			
 1	Im	O	O
 2	vergangenen	O	O
 3	September	O	O
@@ -1594,7 +1592,7 @@
 26	zu	O	O
 27	haben	O	O
 28	.	O	O
-
+			
 1	Drei	O	O
 2	Stunden	O	O
 3	nach	O	O
@@ -1639,7 +1637,7 @@
 42	Inhalts	O	O
 43	zurückhielt	O	O
 44	.	O	O
-
+			
 1	Am	O	O
 2	folgenden	O	O
 3	Tage	O	O
@@ -1669,7 +1667,7 @@
 27	wurde	O	O
 28	verschoben	O	O
 29	.	O	O
-
+			
 1	Der	O	O
 2	englische	O	O
 3	Botschafter	O	O
@@ -1694,7 +1692,7 @@
 22	Pforte	O	O
 23	verlangt	O	O
 24	.	O	O
-
+			
 1	Nachdem	O	O
 2	zwei	O	O
 3	auf	O	O
@@ -1816,7 +1814,7 @@
 119	geführt	O	O
 120	hatten	O	O
 121	.	O	O
-
+			
 1	Layard	B-PER	O
 2	erklärte	O	O
 3	,	O	O
@@ -1851,7 +1849,7 @@
 32	aufheben	O	O
 33	würde	O	O
 34	.	O	O
-
+			
 1	In	O	O
 2	Antwort	O	O
 3	auf	O	O
@@ -1919,7 +1917,7 @@
 65	beendigt	O	O
 66	worden	O	O
 67	.	O	O
-
+			
 1	Ueberdies	O	O
 2	hat	O	O
 3	die	O	O
@@ -1944,7 +1942,7 @@
 22	werden	O	O
 23	wird	O	O
 24	.	O	O
-
+			
 1	Man	O	O
 2	glaubt	O	O
 3	,	O	O
@@ -1970,7 +1968,7 @@
 23	haben	O	O
 24	werde	O	O
 25	.	O	O
-
+			
 1	Dies	O	O
 2	die	O	O
 3	Erklärung	O	O
@@ -2009,7 +2007,7 @@
 36	Botschafter	O	O
 37	zeigte	O	O
 38	.	O	O
-
+			
 1	Gegen	O	O
 2	diesen	O	O
 3	Vorwurf	O	O
@@ -2047,7 +2045,7 @@
 35	worden	O	O
 36	.	O	O
 37	"	O	O
-
+			
 1	Ferner	O	O
 2	sei	O	O
 3	es	O	O
@@ -2076,7 +2074,7 @@
 26	erkannt	O	O
 27	worden	O	O
 28	.	O	O
-
+			
 1	Er	O	O
 2	wurde	O	O
 3	verhaftet	O	O
@@ -2104,7 +2102,7 @@
 25	Islam	O	O
 26	enthielten	O	O
 27	.	O	O
-
+			
 1	Im	O	O
 2	Uebrigen	O	O
 3	soll	O	O
@@ -2130,7 +2128,7 @@
 23	zu	O	O
 24	erfahren	O	O
 25	.	O	O
-
+			
 1	Man	O	O
 2	glaubt	O	O
 3	um	O	O
@@ -2182,24 +2180,24 @@
 49	zu	O	O
 50	unterstützen	O	O
 51	.	O	O
-
+			
 1	Deutschland	B-LOC	O
 2	.	O	O
-
+			
 1	Berlin	B-LOC	O
 2	,	O	O
 3	31	O	O
 4	.	O	O
 5	Dezember	O	O
 6	.	O	O
-
+			
 1	(	O	O
 2	Wolffs	O	O
 3	Bür O	O
 4	.	O	O
 5	)	O	O
 6	.	O	O
-
+			
 1	Zufolge	O	O
 2	heute	O	O
 3	hier	O	O
@@ -2264,7 +2262,7 @@
 62	geregelt	O	O
 63	wird	O	O
 64	.	O	O
-
+			
 1	Das	O	O
 2	Zollkartell	O	O
 3	wird	O	O
@@ -2285,7 +2283,7 @@
 18	nicht	O	O
 19	entgegenstehen	O	O
 20	.	O	O
-
+			
 1	—	O	O
 2	Sicherem	O	O
 3	Vernehmen	O	O
@@ -2308,7 +2306,7 @@
 20	belassen	O	O
 21	werden	O	O
 22	.	O	O
-
+			
 1	*	O	O
 2	Nach	O	O
 3	einer	O	O
@@ -2346,12 +2344,12 @@
 35	gewähren	O	O
 36	ist	O	O
 37	:	O	O
-
+			
 1	mit	O	O
 2	Brot	O	O
 3	ohne	O	O
 4	Brot	O	O
-
+			
 1	a	O	O
 2	.	O	O
 3	für	O	O
@@ -2368,7 +2366,7 @@
 14	70	O	O
 15	Pf	O	O
 16	.	O	O
-
+			
 1	b	O	O
 2	.	O	O
 3	"	O	O
@@ -2383,7 +2381,7 @@
 12	.	O	O
 13	38	O	O
 14	"	O	O
-
+			
 1	c	O	O
 2	.	O	O
 3	"	O	O
@@ -2399,7 +2397,7 @@
 13	.	O	O
 14	21	O	O
 15	"	O	O
-
+			
 1	d	O	O
 2	.	O	O
 3	"	O	O
@@ -2414,11 +2412,11 @@
 12	.	O	O
 13	11	O	O
 14	"	O	O
-
+			
 1	*	O	O
 2	Schiffsnachrichten	O	O
 3	.	O	O
-
+			
 1	Die	O	O
 2	Glattdecks-Korvette	O	O
 3	"	O	O
@@ -2446,7 +2444,7 @@
 25	Montevideo	B-LOC	O
 26	eingetroffen	O	O
 27	.	O	O
-
+			
 1	—	O	O
 2	Die	O	O
 3	Glattdecks-Korvette	O	O
@@ -2491,14 +2489,14 @@
 42	in	O	O
 43	Barbadoes	B-LOC	O
 44	.	O	O
-
+			
 1	Letzte	O	O
 2	Nachrichten	O	O
 3	.	O	O
-
+			
 1	Oesterreich-Ungarn	B-LOC	O
 2	.	O	O
-
+			
 1	T	O	O
 2	.	O	O
 3	Wien	B-LOC	O
@@ -2507,7 +2505,7 @@
 6	.	O	O
 7	Dezember	O	O
 8	.	O	O
-
+			
 1	(	O	O
 2	Privat-Telegr	O	O
 3	.	O	O
@@ -2516,7 +2514,7 @@
 6	Tageblatts	I-ORG	O
 7	.	O	O
 8	)	O	O
-
+			
 1	Aus	O	O
 2	Prag	B-LOC	O
 3	wird	O	O
@@ -2550,7 +2548,7 @@
 31	verlangen	O	O
 32	werden	O	O
 33	.	O	O
-
+			
 1	"	O	O
 2	Wir	O	O
 3	werden	O	O
@@ -2593,15 +2591,14 @@
 40	drohende	O	O
 41	Rede	O	O
 42	.	O	O
-
-1	□	O	O
-2	Wien	B-LOC	O
-3	,	O	O
-4	31	O	O
-5	.	O	O
-6	Dezember	O	O
-7	.	O	O
-
+			
+1	Wien	B-LOC	O
+2	,	O	O
+3	31	O	O
+4	.	O	O
+5	Dezember	O	O
+6	.	O	O
+			
 1	(	O	O
 2	Privat	O	O
 3	-	O	O
@@ -2611,7 +2608,7 @@
 7	Tageblatts	I-ORG	O
 8	.	O	O
 9	)	O	O
-
+			
 1	Das	O	O
 2	Attentat	O	O
 3	gegen	O	O
@@ -2624,7 +2621,7 @@
 10	Theilnahme	O	O
 11	erweckt	O	O
 12	.	O	O
-
+			
 1	Die	O	O
 2	Verdammung	O	O
 3	des	O	O
@@ -2639,7 +2636,7 @@
 12	ist	O	O
 13	allgemein	O	O
 14	.	O	O
-
+			
 1	Der	O	O
 2	Kaiser	O	O
 3	und	O	O
@@ -2657,7 +2654,7 @@
 15	erretteten	O	O
 16	Königspaar	O	O
 17	.	O	O
-
+			
 1	Hier	O	O
 2	empfängt	O	O
 3	die	O	O
@@ -2665,7 +2662,7 @@
 5	zahlreiche	O	O
 6	Gratulationen	O	O
 7	.	O	O
-
+			
 1	Der	O	O
 2	deutsche	O	O
 3	Kaiser	O	O
@@ -2684,7 +2681,7 @@
 16	herzlich	O	O
 17	gratulirt	O	O
 18	.	O	O
-
+			
 1	—	O	O
 2	Der	O	O
 3	austro-deutsche	O	O
@@ -2695,7 +2692,7 @@
 8	unterzeichnet	O	O
 9	worden	O	O
 10	.	O	O
-
+			
 1	—	O	O
 2	Zufolge	O	O
 3	Andringens	O	O
@@ -2723,7 +2720,7 @@
 25	der	O	O
 26	Gusinjefrage	O	O
 27	.	O	O
-
+			
 1	Fürst	B-PER	O
 2	Nikolaus	I-PER	O
 3	hat	O	O
@@ -2733,7 +2730,7 @@
 7	Abwarten	O	O
 8	zugesagt	O	O
 9	.	O	O
-
+			
 1	Es	O	O
 2	wird	O	O
 3	eine	O	O
@@ -2741,7 +2738,7 @@
 5	Regelung	O	O
 6	erhofft	O	O
 7	.	O	O
-
+			
 1	Wien	B-LOC	O
 2	,	O	O
 3	31	O	O
@@ -2753,7 +2750,7 @@
 9	Bür	O	O
 10	.	O	O
 11	)	O	O
-
+			
 1	Meldung	O	O
 2	der	O	O
 3	"	O	O
@@ -2784,7 +2781,7 @@
 28	verschoben	O	O
 29	worden	O	O
 30	.	O	O
-
+			
 1	Gestern	O	O
 2	Abend	O	O
 3	hatte	O	O
@@ -2808,7 +2805,7 @@
 21	bezweifeln	O	O
 22	ist	O	O
 23	.	O	O
-
+			
 1	Sobald	O	O
 2	die	O	O
 3	Beilegung	O	O
@@ -2848,7 +2845,7 @@
 37	worden	O	O
 38	ist	O	O
 39	.	O	O
-
+			
 1	Wien	B-LOC	O
 2	,	O	O
 3	31	O	O
@@ -2860,7 +2857,7 @@
 9	Bür	O	O
 10	.	O	O
 11	)	O	O
-
+			
 1	Die	O	O
 2	"	O	O
 3	Politische	B-ORG	O
@@ -2937,7 +2934,7 @@
 74	verlängert	O	O
 75	wird	O	O
 76	.	O	O
-
+			
 1	—	O	O
 2	Das	O	O
 3	morgen	O	O
@@ -2953,7 +2950,7 @@
 13	Veredelungsverkehr	O	O
 14	publiziren	O	O
 15	.	O	O
-
+			
 1	Für	O	O
 2	die	O	O
 3	Veredlung	O	O
@@ -2966,7 +2963,7 @@
 10	Bestimmungen	O	O
 11	bestehen	O	O
 12	.	O	O
-
+			
 1	Für	O	O
 2	Gewebe	O	O
 3	,	O	O
@@ -3017,7 +3014,7 @@
 48	aufrecht	O	O
 49	erhalten	O	O
 50	.	O	O
-
+			
 1	Nach	O	O
 2	den	O	O
 3	detaillirten	O	O
@@ -3068,7 +3065,7 @@
 48	ertheilt	O	O
 49	werden	O	O
 50	.	O	O
-
+			
 1	Die	O	O
 2	Kontrolmaßregeln	O	O
 3	sind	O	O
@@ -3076,7 +3073,7 @@
 5	geändert	O	O
 6	worden	O	O
 7	.	O	O
-
+			
 1	Durch	O	O
 2	eine	O	O
 3	weitere	O	O
@@ -3121,10 +3118,10 @@
 42	zu	O	O
 43	gestatten	O	O
 44	.	O	O
-
+			
 1	Frankreich	B-LOC	O
 2	.	O	O
-
+			
 1	○	O	O
 2	Paris	B-LOC	O
 3	,	O	O
@@ -3141,7 +3138,7 @@
 14	Tagebl	O	O
 15	.	O	O
 16	)	O	O
-
+			
 1	Der	O	O
 2	"	O	O
 3	Temps	B-ORG	O
@@ -3204,7 +3201,7 @@
 60	erbeten	O	O
 61	hätten	O	O
 62	.	O	O
-
+			
 1	Bezüglich	O	O
 2	Saint	B-PER	O
 3	Valliers	I-PER	O
@@ -3231,7 +3228,7 @@
 24	werden	O	O
 25	dürfte	O	O
 26	.	O	O
-
+			
 1	Saint	B-PER	O
 2	Vallier	I-PER	O
 3	hatte	O	O
@@ -3253,7 +3250,7 @@
 19	zu	O	O
 20	wollen	O	O
 21	.	O	O
-
+			
 1	Der	O	O
 2	abgegangene	O	O
 3	Minister	O	O
@@ -3266,7 +3263,7 @@
 10	Wortes	O	O
 11	entbunden	O	O
 12	.	O	O
-
+			
 1	Der	O	O
 2	diplomatische	O	O
 3	Eisgang	O	O
@@ -3294,7 +3291,7 @@
 25	ist	O	O
 26	ausgeschieden	O	O
 27	.	O	O
-
+			
 1	—	O	O
 2	Der	O	O
 3	deutsche	O	O
@@ -3323,7 +3320,7 @@
 26	Freycinet	B-PER	O
 27	ein	O	O
 28	.	O	O
-
+			
 1	—	O	O
 2	Waddington	B-PER	O
 3	soll	O	O
@@ -3358,7 +3355,7 @@
 32	gestrigen	O	O
 32	Figaro	B-ORG	O
 33	.	O	O
-
+			
 1	Derselbe	O	O
 2	bildete	O	O
 3	eine	O	O
@@ -3372,7 +3369,7 @@
 11	beschimpfenden	O	O
 12	Vorwürfen	O	O
 13	.	O	O
-
+			
 1	—	O	O
 2	Heute	O	O
 3	Vormittag	O	O
@@ -3414,7 +3411,7 @@
 39	schwer	O	O
 40	verwundet	O	O
 41	.	O	O
-
+			
 1	Paris	B-LOC	O
 2	,	O	O
 3	31	O	O
@@ -3426,7 +3423,7 @@
 9	Bür	O	O
 10	.	O	O
 11	)	O	O
-
+			
 1	Wie	O	O
 2	der	O	O
 3	"	O	O
@@ -3482,10 +3479,10 @@
 53	,	O	O
 54	versichert	O	O
 55	.	O	O
-
+			
 1	England	B-LOC	O
 2	.	O	O
-
+			
 1	Z	O	O
 2	.	O	O
 3	London	B-LOC	O
@@ -3503,7 +3500,7 @@
 15	Tageblatts	I-ORG	O
 16	.	O	O
 17	)	O	O
-
+			
 1	Zufolge	O	O
 2	eines	O	O
 3	Vortrages	O	O
@@ -3529,7 +3526,7 @@
 23	der	O	O
 24	Königin	O	O
 25	.	O	O
-
+			
 1	Bisher	O	O
 2	brauchte	O	O
 3	man	O	O
@@ -3539,7 +3536,7 @@
 7	als	O	O
 8	Dekoration	O	O
 9	.	O	O
-
+			
 1	Minister	O	O
 2	Croß	B-PER	O
 3	soll	O	O
@@ -3561,10 +3558,10 @@
 19	worden	O	O
 20	sein	O	O
 21	.	O	O
-
+			
 1	Serbien	B-LOC	O
 2	.	O	O
-
+			
 1	Nisch	O	O
 2	,	O	O
 3	31	O	O
@@ -3576,7 +3573,7 @@
 9	Bür	O	O
 10	.	O	O
 11	)	O	O
-
+			
 1	Die	O	O
 2	Skupschina	O	O
 3	hat	O	O
@@ -3586,7 +3583,7 @@
 7	Italien	B-LOC	O
 8	angenommen	O	O
 9	.	O	O
-
+			
 1	Von	O	O
 2	der	O	O
 3	Regierung	O	O
@@ -3599,10 +3596,10 @@
 10	Serbien	B-LOC	O
 11	vorgelegt	O	O
 12	.	O	O
-
+			
 1	Türkei	B-LOC	O
 2	.	O	O
-
+			
 1	Konstantinopel	B-LOC	O
 2	,	O	O
 3	31	O	O
@@ -3614,7 +3611,7 @@
 9	Bür	O	O
 10	.	O	O
 11	)	O	O
-
+			
 1	Von	O	O
 2	der	O	O
 3	angeblich	O	O
@@ -3636,7 +3633,7 @@
 19	nichts	O	O
 20	bekannt	O	O
 21	.	O	O
-
+			
 1	Amsterdam	B-LOC	O
 2	,	O	O
 3	31	O	O
@@ -3646,7 +3643,7 @@
 7	Schlußbericht	O	O
 8	.	O	O
 9	)	O	O
-
+			
 1	Weizen	O	O
 2	auf	O	O
 3	Termine	O	O
@@ -3657,7 +3654,7 @@
 8	März	O	O
 9	354	O	O
 10	.	O	O
-
+			
 1	Roggen	O	O
 2	loco	O	O
 3	unverändert	O	O
@@ -3674,7 +3671,7 @@
 14	Mai	O	O
 15	210	O	O
 16	.	O	O
-
+			
 1	Raps	O	O
 2	per	O	O
 3	Frühjahr	O	O
@@ -3696,14 +3693,14 @@
 19	35	O	O
 20	3/4	O	O
 21	.	O	O
-
+			
 1	Amsterdam	B-LOC	O
 2	,	O	O
 3	31	O	O
 4	.	O	O
 5	Dezember	O	O
 6	.	O	O
-
+			
 1	Oesterr	O	O
 2	.	O	O
 3	Papierrente	O	O
@@ -3860,7 +3857,7 @@
 152	7/8	O	O
 153	)	O	O
 154	.	O	O
-
+			
 1	London	B-LOC	O
 2	,	O	O
 3	31	O	O
@@ -3873,7 +3870,7 @@
 10	30	O	O
 11	Min	O	O
 12	.	O	O
-
+			
 1	Consols	O	O
 2	97	O	O
 3	13/18	O	O
@@ -3896,11 +3893,11 @@
 20	52	O	O
 21	7/16	O	O
 22	.	O	O
-
+			
 1	Schluß	O	O
 2	fest	O	O
 3	.	O	O
-
+			
 1	In	O	O
 2	die	O	O
 3	Bank	O	O
@@ -3911,17 +3908,17 @@
 8	.	O	O
 9	Sterl	O	O
 10	.	O	O
-
+			
 1	Hamburg	B-LOC	O
 2	,	O	O
 3	31	O	O
 4	.	O	O
 5	Dezember	O	O
 6	.	O	O
-
+			
 1	Abendbörse	O	O
 2	.	O	O
-
+			
 1	Oesterreichische	O	O
 2	Silberrente	O	O
 3	60	O	O
@@ -3985,7 +3982,7 @@
 61	Recht	O	O
 62	fest	O	O
 63	.	O	O
-
+			
 1	—	O	O
 2	Von	O	O
 3	Robert	B-PER	O
@@ -4008,7 +4005,7 @@
 20	"	O	O
 21	führt	O	O
 22	.	O	O
-
+			
 1	Jedenfalls	O	O
 2	eine	O	O
 3	interessante	O	O
@@ -4021,10 +4018,10 @@
 10	zurückkommen	O	O
 11	werden	O	O
 12	.	O	O
-
+			
 1	Lg	O	O
 2	.	O	O
-
+			
 1	Aus	O	O
 2	Paris	B-LOC	O
 3	wird	O	O
@@ -4119,7 +4116,7 @@
 92	gehen	O	O
 93	lassen	O	O
 94	.	O	O
-
+			
 1	Der	O	O
 2	Titel	O	O
 3	des	O	O
@@ -4190,7 +4187,7 @@
 68	Sterblichen	O	O
 69	sei	O	O
 70	.	O	O
-
+			
 1	Er	O	O
 2	ärgert	O	O
 3	,	O	O
@@ -4257,7 +4254,7 @@
 64	noch	O	O
 65	bestärkt	O	O
 66	.	O	O
-
+			
 1	Wie	O	O
 2	nun	O	O
 3	in	O	O
@@ -4306,7 +4303,7 @@
 46	errang	O	O
 47	.	O	O
 48	"	O	O
-
+			
 1	—
 2	Laube	O	O
 3	'	O	O
@@ -4326,7 +4323,7 @@
 17	Hallberger	I-ORG	O
 18	erscheinen	O	O
 19	.	O	O
-
+			
 1	Das	O	O
 2	Manuskript	O	O
 3	ist	O	O
@@ -4340,7 +4337,7 @@
 11	eingeschickt	O	O
 12	worden	O	O
 13	.	O	O
-
+			
 1	—	O	O
 2	Sacher	B-PER	O
 3	-	I-PER	O
@@ -4367,7 +4364,7 @@
 24	Aufführung	O	O
 25	kommen	O	O
 26	.	O	O
-
+			
 1	Direktor	O	O
 2	Robert	B-PER	O
 3	Müller	I-PER	O
@@ -4376,7 +4373,7 @@
 6	glänzend	O	O
 7	ausgestattet	O	O
 8	.	O	O
-
+			
 1	Die	O	O
 2	durch	O	O
 3	ihre	O	O
@@ -4392,7 +4389,7 @@
 13	die	O	O
 14	Fürstin	O	O
 15	.	O	O
-
+			
 1	+	O	O
 2	"	O	O
 3	Eine	O	O
@@ -4432,10 +4429,9 @@
 37	nicht	O	O
 38	verschwinden	O	O
 39	.	O	O
-
+			
 #	002	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19140118-1-3-0-0/full/full/0/default.jpg
 #	1914-01-18	Berliner Tageblatt	27646518
-
 1	hoffen	O	O
 2	dürfen	O	O
 3	,	O	O
@@ -4452,7 +4448,7 @@
 14	wird	O	O
 15	.	O	O
 16	"	O	O
-
+			
 1	Wir	O	O
 2	haben	O	O
 3	keinen	O	O
@@ -4508,7 +4504,7 @@
 53	machen	O	O
 54	wird	O	O
 55	.	O	O
-
+			
 1	Aber	O	O
 2	es	O	O
 3	gibt	O	O
@@ -4535,7 +4531,7 @@
 24	ein	O	O
 25	Sportfest	O	O
 26	.	O	O
-
+			
 1	*	O	O
 2	Erblandmarschall	O	O
 3	v	B-PER	O
@@ -4568,7 +4564,7 @@
 30	Labertin	O	O
 31	gestorben	O	O
 32	.	O	O
-
+			
 1	Er	O	O
 2	war	O	O
 3	der	O	O
@@ -4583,7 +4579,7 @@
 12	die	O	O
 13	Verfassungsreform	O	O
 14	.	O	O
-
+			
 1	Nach	O	O
 2	seinem	O	O
 3	Hinscheiden	O	O
@@ -4600,7 +4596,7 @@
 14	gewinnen	O	O
 15	wird	O	O
 16	.	O	O
-
+			
 1	*	O	O
 2	Der	O	O
 3	Reichstagsabgeordnete	O	O
@@ -4644,7 +4640,7 @@
 41	zu	O	O
 42	besichtigen	O	O
 43	.	O	O
-
+			
 1	*	O	O
 2	Der	O	O
 3	Kaufmann	0	O
@@ -4674,7 +4670,7 @@
 27	ausgewiesen	O	O
 28	worden	O	O
 29	.	O	O
-
+			
 1	*	O	O
 2	Vor	O	O
 3	dem	O	O
@@ -4703,7 +4699,7 @@
 26	Vereins	O	O
 27	verhandelt	O	O
 28	.	O	O
-
+			
 1	Wolffs	O	O
 2	Bureau	O	O
 3	meldet	O	O
@@ -4722,7 +4718,7 @@
 16	Helmer-Kolmar	B-PER	O
 17	auf	O	O
 18	.	O	O
-
+			
 1	In	O	O
 2	eineinhalbstündiger	O	O
 3	Verhandlung	O	O
@@ -4762,7 +4758,7 @@
 37	Beweismittel	O	O
 38	aufgeführt	O	O
 39	.	O	O
-
+			
 1	Die	O	O
 2	Regierung	O	O
 3	hat	O	O
@@ -4816,7 +4812,7 @@
 51	herbeiführen	O	O
 52	sollte	O	O
 53	.	O	O
-
+			
 1	Auf	O	O
 2	Grund	O	O
 3	dessen	O	O
@@ -4841,7 +4837,7 @@
 22	verfügt	O	O
 23	worden	O	O
 24	.	O	O
-
+			
 1	Rechtsanwalt	O	O
 2	Helmer	B-PER	O
 3	wandte	O	O
@@ -4889,7 +4885,7 @@
 45	Geldstrafe	O	O
 46	verurteilte	O	O
 47	.	O	O
-
+			
 1	Der	O	O
 2	Verteidiger	O	O
 3	erklärte	O	O
@@ -4926,7 +4922,7 @@
 34	totgeschwiegen	O	O
 35	worden	O	O
 36	.	O	O
-
+			
 1	Der	O	O
 2	Anklagevertreter	O	O
 3	hielt	O	O
@@ -4986,7 +4982,7 @@
 57	zu	O	O
 58	werden	O	O
 59	.	O	O
-
+			
 1	In	O	O
 2	diesem	O	O
 3	Brief	O	O
@@ -5028,7 +5024,7 @@
 39	worden	O	O
 40	seien	O	O
 41	.	O	O
-
+			
 1	Die	O	O
 2	Urteilsverkündung	O	O
 3	wurde	O	O
@@ -5039,28 +5035,28 @@
 8	Januar	O	O
 9	festgesetzt	O	O
 10	.	O	O
-
+			
 1	Die	O	O
 2	fortschrittlich-nationalliberalen	O	O
 3	Wahlverhandlungen	O	O
 4	in	O	O
 5	Sachsen	B-LOC	O
 6	.	O	O
-
+			
 1	(	O	O
 2	Telegramm	O	O
 3	unseres	O	O
 4	Korrespondenten	O	O
 5	.	O	O
 6	)	O	O
-
+			
 1	Dresden	B-LOC	O
 2	,	O	O
 3	17	O	O
 4	.	O	O
 5	Januar	O	O
 6	.	O	O
-
+			
 1	Heute	O	O
 2	abend	O	O
 3	wurde	O	O
@@ -5088,7 +5084,7 @@
 25	Fortschrittler	O	O
 26	unterhandelt	O	O
 27	.	O	O
-
+			
 1	Die	O	O
 2	Frage	O	O
 3	ist	O	O
@@ -5150,7 +5146,7 @@
 59	festzuhalten	O	O
 60	wünscht	O	O
 61	.	O	O
-
+			
 1	Es	O	O
 2	besteht	O	O
 3	bei	O	O
@@ -5191,7 +5187,7 @@
 38	zu	O	O
 39	kommen	O	O
 40	.	O	O
-
+			
 1	Die	O	O
 2	Gegner	O	O
 3	würden	O	O
@@ -5209,7 +5205,7 @@
 15	Front	O	O
 16	gegenübersehen	O	O
 17	.	O	O
-
+			
 1	Aber	O	O
 2	natürlich	O	O
 3	kann	O	O
@@ -5226,7 +5222,7 @@
 14	Forderungen	O	O
 15	geschehen	O	O
 16	.	O	O
-
+			
 1	Das	O	O
 2	wird	O	O
 3	angesichts	O	O
@@ -5239,7 +5235,7 @@
 10	besonders	O	O
 11	betont	O	O
 12	.	O	O
-
+			
 1	Es	O	O
 2	wird	O	O
 3	bei	O	O
@@ -5264,7 +5260,7 @@
 22	Liberalen	O	O
 23	heranzuziehen	O	O
 24	.	O	O
-
+			
 1	Diese	O	O
 2	Aufgabe	O	O
 3	fällt	O	O
@@ -5286,7 +5282,7 @@
 19	Nationalliberalen	B-ORG	O
 20	besitzt	O	O
 21	.	O	O
-
+			
 1	Aus	O	O
 2	dieser	O	O
 3	Tatsache	O	O
@@ -5325,7 +5321,7 @@
 36	gesinnt	O	O
 37	sind	O	O
 38	.	O	O
-
+			
 1	Es	O	O
 2	ist	O	O
 3	erklärlich	O	O
@@ -5345,16 +5341,16 @@
 17	bringen	O	O
 18	sind	O	O
 19	.	O	O
-
+			
 1	Letzte	O	O
 2	Nachrichten	O	O
-
+			
 1	Ordenstafel	O	O
 2	im	O	O
 3	Berliner	B-LOC	O
 4	Schlosse	I-LOC	O
 5	.	O	O
-
+			
 1	Gestern	O	O
 2	abend	O	O
 3	8	O	O
@@ -5372,7 +5368,7 @@
 15	Tafel	O	O
 16	statt	O	O
 17	.	O	O
-
+			
 1	Prinz	B-PER	O
 2	Heinrich	I-PER	O
 3	von	I-PER	O
@@ -5400,7 +5396,7 @@
 25	genommen	O	O
 26	hatte	O	O
 27	.	O	O
-
+			
 1	Gegenüber	O	O
 2	saß	O	O
 3	der	O	O
@@ -5420,7 +5416,7 @@
 17	Bethmann	I-PER	O
 18	Hollweg	I-PER	O
 19	.	O	O
-
+			
 1	Neben	O	O
 2	dem	O	O
 3	Reichskanzler	O	O
@@ -5431,7 +5427,7 @@
 8	.	I-PER	O
 9	Wedel	I-PER	O
 10	.	O	O
-
+			
 1	—	O	O
 2	Die	O	O
 3	Kronprinzessin	O	O
@@ -5447,7 +5443,7 @@
 13	Mukhtar	I-PER	O
 14	Pascha	I-PER	O
 15	.	O	O
-
+			
 1	Darauf	O	O
 2	empfingen	O	O
 3	der	O	O
@@ -5471,7 +5467,7 @@
 21	siamesischen	O	O
 22	Gesandten	O	O
 23	.	O	O
-
+			
 1	Herzog	B-PER	O
 2	Ernst	I-PER	O
 3	Angust	I-PER	O
@@ -5491,7 +5487,7 @@
 17	Braunschweig	B-LOC	O
 18	zurückgereist	O	O
 19	.	O	O
-
+			
 1	Prinz	B-PER	O
 2	Eitel	I-PER	O
 3	Friedrich	I-PER	O
@@ -5515,14 +5511,14 @@
 21	eingefunden	O	O
 22	hatte	O	O
 23	.	O	O
-
+			
 1	London	B-LOC	O
 2	,	O	O
 3	17	O	O
 4	.	O	O
 5	Januar	O	O
 6	.	O	O
-
+			
 1	(	O	O
 2	W	O	O
 3	.	O	O
@@ -5531,7 +5527,7 @@
 6	B	O	O
 7	.	O	O
 8	)	O	O
-
+			
 1	Die	O	O
 2	Admiralität	O	O
 3	hat	O	O
@@ -5562,7 +5558,7 @@
 28	russischen	O	O
 29	Marineattaché	O	O
 30	.	O	O
-
+			
 1	Die	O	O
 2	Nachforschungen	O	O
 3	nach	O	O
@@ -5579,7 +5575,7 @@
 14	nachmittags	O	O
 15	unterbrochen	O	O
 16	.	O	O
-
+			
 1	Die	O	O
 2	Lage	O	O
 3	des	O	O
@@ -5589,19 +5585,19 @@
 7	nicht	O	O
 8	bestimmt	O	O
 9	.	O	O
-
+			
 1	Smyrna	B-LOC	O
 2	,	O	O
 3	17	O	O
 4	.	O	O
 5	Januar	O	O
 6	.	O	O
-
+			
 1	(	O	O
 2	Privat-Telegramm	O	O
 3	.	O	O
 4	)	O	O
-
+			
 1	Die	O	O
 2	türkische	O	O
 3	Presse	O	O
@@ -5617,7 +5613,7 @@
 13	lebenden	O	O
 14	Griechen	O	O
 15	.	O	O
-
+			
 1	Am	O	O
 2	griechischen	O	O
 3	Neujahrstag	O	O
@@ -5633,7 +5629,7 @@
 13	Nationalhymne	O	O
 14	spielten	O	O
 15	.	O	O
-
+			
 1	Der	O	O
 2	Boykott	O	O
 3	gegen	O	O
@@ -5645,20 +5641,20 @@
 9	zu	O	O
 10	wollen	O	O
 11	.	O	O
-
+			
 1	Nachspiel	O	O
 2	zum	O	O
 3	Kölner	O	O
 4	Polizeiprozeß	O	O
 5	.	O	O
-
+			
 1	Disziplinarverfahren	O	O
 2	gegen	O	O
 3	die	O	O
 4	kompromittierten	O	O
 5	Polizeiinspektoren	O	O
 6	.	O	O
-
+			
 1	Wie	O	O
 2	einer	O	O
 3	telegraphischen	O	O
@@ -5707,7 +5703,7 @@
 46	verfügt	O	O
 47	worden	O	O
 48	.	O	O
-
+			
 1	Ueber	O	O
 2	die	O	O
 3	gegen	O	O
@@ -5725,14 +5721,14 @@
 15	zu	O	O
 16	befinden	O	O
 17	.	O	O
-
+			
 1	Ein	O	O
 2	deutscher	O	O
 3	Protest	O	O
 4	in	O	O
 5	Petersburg	B-LOC	O
 6	.	O	O
-
+			
 1	Russische	O	O
 2	Eigenmächtigkeiten	O	O
 3	im	O	O
@@ -5740,7 +5736,7 @@
 5	mit	O	O
 6	Persien	B-LOC	O
 7	.	O	O
-
+			
 1	Von	O	O
 2	einem	O	O
 3	Protest	O	O
@@ -5761,7 +5757,7 @@
 18	Zeitung	I-ORG	O
 19	"	O	O
 20	.	O	O
-
+			
 1	Das	O	O
 2	Blatt	O	O
 3	schreibt	O	O
@@ -5826,7 +5822,7 @@
 62	werden	O	O
 63	soll	O	O
 64	.	O	O
-
+			
 1	Der	O	O
 2	Verkehr	O	O
 3	für	O	O
@@ -5840,7 +5836,7 @@
 11	nicht	O	O
 12	betroffen	O	O
 13	.	O	O
-
+			
 1	Das	O	O
 2	russische	O	O
 3	Vorgehen	O	O
@@ -5860,7 +5856,7 @@
 17	beigetreten	O	O
 18	ist	O	O
 19	.	O	O
-
+			
 1	Nach	O	O
 2	diesen	O	O
 3	Abmachungen	O	O
@@ -5896,7 +5892,7 @@
 33	Postdienst	O	O
 34	unterhält	O	O
 35	.	O	O
-
+			
 1	Danach	O	O
 2	dürfte	O	O
 3	Rußland	B-LOC	O
@@ -5943,7 +5939,7 @@
 44	Pakete	O	O
 45	einstellt	O	O
 46	.	O	O
-
+			
 1	Der	O	O
 2	Zweck	O	O
 3	der	O	O
@@ -5955,7 +5951,7 @@
 9	der	O	O
 10	Hand	O	O
 11	.	O	O
-
+			
 1	Der	O	O
 2	deutsche	O	O
 3	und	O	O
@@ -6001,7 +5997,7 @@
 43	unterbunden	O	O
 44	werden	O	O
 45	.	O	O
-
+			
 1	Um	O	O
 2	dieses	O	O
 3	Ziel	O	O
@@ -6020,7 +6016,7 @@
 16	nicht	O	O
 17	zurück	O	O
 18	.	O	O
-
+			
 1	Wie	O	O
 2	wir	O	O
 3	erfahren	O	O
@@ -6043,7 +6039,7 @@
 20	erhoben	O	O
 21	worden	O	O
 22	.	O	O
-
+			
 1	Da	O	O
 2	an	O	O
 3	dem	O	O
@@ -6081,7 +6077,7 @@
 35	anschließen	O	O
 36	werden	O	O
 37	.	O	O
-
+			
 1	Man	O	O
 2	darf	O	O
 3	hoffen	O	O
@@ -6109,19 +6105,19 @@
 25	Durchführung	O	O
 26	gelangt	O	O
 27	.	O	O
-
+			
 1	Der	O	O
 2	englische	O	O
 3	Schmiergeldprozeß	O	O
 4	.	O	O
-
+			
 1	Die	O	O
 2	Armeelieferungen	O	O
 3	der	O	O
 4	Firma	O	O
 5	Lipton	B-ORG	O
 6	.	O	O
-
+			
 1	—	O	O
 2	Acht	O	O
 3	englische	O	O
@@ -6131,21 +6127,21 @@
 7	der	O	O
 8	Bestechlichkeit	O	O
 9	.	O	O
-
+			
 1	(	O	O
 2	Telegramm	O	O
 3	unseres	O	O
 4	Korrespondenten	O	O
 5	.	O	O
 6	)	O	O
-
+			
 1	London	B-LOC	O
 2	,	O	O
 3	17	O	O
 4	.	O	O
 5	Januar	O	O
 6	.	O	O
-
+			
 1	Der	O	O
 2	große	O	O
 3	Schmiergelderprozeß	O	O
@@ -6181,7 +6177,7 @@
 33	Bow	B-LOC	O
 34	Street	I-LOC	O
 35	.	O	O
-
+			
 1	Das	O	O
 2	Verfahren	O	O
 3	richtet	O	O
@@ -6193,7 +6189,7 @@
 9	acht	O	O
 10	Zivilpersonen	O	O
 11	.	O	O
-
+			
 1	Die	O	O
 2	angeklagten	O	O
 3	Zivilisten	O	O
@@ -6211,7 +6207,7 @@
 15	City	B-LOC	O
 16	Road	I-LOC	O
 17	.	O	O
-
+			
 1	Für	O	O
 2	die	O	O
 3	Krone	O	O
@@ -6278,7 +6274,7 @@
 64	zu	O	O
 65	sichern	O	O
 66	.	O	O
-
+			
 1	Die	O	O
 2	anderen	O	O
 3	Angeklagten	O	O
@@ -6293,7 +6289,7 @@
 12	zu	O	O
 13	haben	O	O
 14	.	O	O
-
+			
 1	Von	O	O
 2	ihnen	O	O
 3	ist	O	O
@@ -6302,7 +6298,7 @@
 6	der	O	O
 7	Firma	O	O
 8	.	O	O
-
+			
 1	Craig	B-PER	O
 2	war	O	O
 3	früher	O	O
@@ -6315,7 +6311,7 @@
 10	in	O	O
 11	Irland	B-LOC	O
 12	.	O	O
-
+			
 1	Minto	B-PER	O
 2	war	O	O
 3	früher	O	O
@@ -6326,7 +6322,7 @@
 8	in	O	O
 9	London	B-LOC	O
 10	.	O	O
-
+			
 1	Die	O	O
 2	Dokumente	O	O
 3	und	O	O
@@ -6348,7 +6344,7 @@
 19	namens	O	O
 20	Sawyer	B-PER	O
 21	.	O	O
-
+			
 1	Die	O	O
 2	Schmiergelder	O	O
 3	hatten	O	O
@@ -6373,7 +6369,7 @@
 22	zu	O	O
 23	bekämpfen	O	O
 24	.	O	O
-
+			
 1	Die	O	O
 2	Firma	O	O
 3	Lipton	B-ORG	O
@@ -6417,7 +6413,7 @@
 41	recht	O	O
 42	erbaulich	O	O
 43	.	O	O
-
+			
 1	Die	O	O
 2	ganze	O	O
 3	Angelegenheit	O	O
@@ -6428,7 +6424,7 @@
 8	Jahre	O	O
 9	zurück	O	O
 10	.	O	O
-
+			
 1	Das	O	O
 2	Geschäft	O	O
 3	wurde	O	O
@@ -6461,7 +6457,7 @@
 30	Anzeige	O	O
 31	brachte	O	O
 32	.	O	O
-
+			
 1	Er	O	O
 2	wird	O	O
 3	jetzt	O	O
@@ -6469,7 +6465,7 @@
 5	Zeuge	O	O
 6	auftreten	O	O
 7	.	O	O
-
+			
 1	Nach	O	O
 2	Beendigung	O	O
 3	der	O	O
@@ -6482,7 +6478,7 @@
 10	Sonnabend	O	O
 11	vertagt	O	O
 12	.	O	O
-
+			
 1	Zunächst	O	O
 2	soll	O	O
 3	alle	O	O
@@ -6502,7 +6498,7 @@
 17	Woche	O	O
 18	dazukommen	O	O
 19	.	O	O
-
+			
 1	Ein	O	O
 2	neues	O	O
 3	Spionagedokument	O	O
@@ -6515,7 +6511,7 @@
 2	versteigerte	O	O
 3	Film	O	O
 4	.	O	O
-
+			
 1	—	O	O
 2	Ein	O	O
 3	photographierter	O	O
@@ -6524,21 +6520,21 @@
 6	österreichischen	O	O
 7	Thronfolgers	O	O
 8	.	O	O
-
+			
 1	(	O	O
 2	Telegramm	O	O
 3	unseres	O	O
 4	Korrespondenten	O	O
 5	.	O	O
 6	)	O	O
-
+			
 1	Prag	B-LOC	O
 2	,	O	O
 3	17	O	O
 4	.	O	O
 5	Januar	O	O
 6	.	O	O
-
+			
 1	Die	O	O
 2	Militärbehörden	O	O
 3	mußten	O	O
@@ -6557,7 +6553,7 @@
 16	Redl	B-PER	O
 17	beschäftigen	O	O
 18	.	O	O
-
+			
 1	Bei	O	O
 2	der	O	O
 3	Versteigerung	O	O
@@ -6610,7 +6606,7 @@
 50	seien	O	O
 51	unbenutzt	O	O
 52	.	O	O
-
+			
 1	Zu	O	O
 2	Hause	O	O
 3	stellte	O	O
@@ -6641,7 +6637,7 @@
 28	zu	O	O
 29	dürfen	O	O
 30	.	O	O
-
+			
 1	Der	O	O
 2	Professor	O	O
 3	erlaubte	O	O
@@ -6660,7 +6656,7 @@
 16	sein	O	O
 17	müsse	O	O
 18	.	O	O
-
+			
 1	Dabei	O	O
 2	ergab	O	O
 3	sich	O	O
@@ -6688,7 +6684,7 @@
 25	gekennzeichnet	O	O
 26	war	O	O
 27	.	O	O
-
+			
 1	Es	O	O
 2	war	O	O
 3	ein	O	O
@@ -6710,7 +6706,7 @@
 19	weittragender	O	O
 20	Bedeutung	O	O
 21	.	O	O
-
+			
 1	Redl	B-PER	O
 2	hatte	O	O
 3	offenbar	O	O
@@ -6732,7 +6728,7 @@
 19	zu	O	O
 20	können	O	O
 21	.	O	O
-
+			
 1	Der	O	O
 2	Professor	O	O
 3	teilte	O	O
@@ -6757,7 +6753,7 @@
 22	senden	O	O
 23	ließ	O	O
 24	.	O	O
-
+			
 1	Der	O	O
 2	Professor	O	O
 3	und	O	O
@@ -6769,27 +6765,27 @@
 9	Angelegenheit	O	O
 10	vernommen	O	O
 11	.	O	O
-
+			
 1	Dschawid	B-PER	O
 2	Beis	I-PER	O
 3	Pariser	O	O
 4	Verhandlungen	O	O
 5	.	O	O
-
+			
 1	(	O	O
 2	Telegramm	O	O
 3	unseres	O	O
 4	Korrespondenten	O	O
 5	.	O	O
 6	)	O	O
-
+			
 1	Paris	B-LOC	O
 2	,	O	O
 3	17	O	O
 4	.	O	O
 5	Januar	O	O
 6	.	O	O
-
+			
 1	Ministerpräsident	O	O
 2	und	O	O
 3	Minister	O	O
@@ -6809,7 +6805,7 @@
 17	französisch-türkischen	O	O
 18	Verhandlungen	O	O
 19	.	O	O
-
+			
 1	Wie	O	O
 2	der	O	O
 3	"	O	O
@@ -6844,7 +6840,7 @@
 32	bleiben	O	O
 33	müßten	O	O
 34	.	O	O
-
+			
 1	Frankreich	B-LOC	O
 2	,	O	O
 3	seine	O	O
@@ -6859,14 +6855,14 @@
 12	einer	O	O
 13	Meinung	O	O
 14	.	O	O
-
+			
 1	Belgrad	B-LOC	O
 2	,	O	O
 3	17	O	O
 4	.	O	O
 5	Januar	O	O
 6	.	O	O
-
+			
 1	(	O	O
 2	W	O	O
 3	.	O	O
@@ -6875,7 +6871,7 @@
 6	B	O	O
 7	.	O	O
 8	)	O	O
-
+			
 1	Der	O	O
 2	serbische	O	O
 3	Gesandte	O	O
@@ -6893,7 +6889,7 @@
 15	Paschitsch	B-PER	O
 16	empfangen	O	O
 17	.	O	O
-
+			
 1	Wie	O	O
 2	verlautet	O	O
 3	,	O	O
@@ -6909,19 +6905,19 @@
 13	bevollmächtigt	O	O
 14	werden	O	O
 15	.	O	O
-
+			
 1	X	O	O
 2	Belgrad	B-LOC	O
 3	,	O	O
 4	17	O	O
 5	Januar	O	O
 6	.	O	O
-
+			
 1	(	O	O
 2	Privat-Telegramm	O	O
 3	.	O	O
 4	)	O	O
-
+			
 1	Die	O	O
 2	Berliner	B-ORG	O
 3	Handelsgesellschaft	I-ORG	O
@@ -6949,7 +6945,7 @@
 25	Kommandite	O	O
 26	zurückgezogen	O	O
 27	.	O	O
-
+			
 1	—	O	O
 2	Die	O	O
 3	serbische	O	O
@@ -6969,7 +6965,7 @@
 17	ankaufen	O	O
 18	sollen	O	O
 19	.	O	O
-
+			
 1	Verantwortliche	O	O
 2	Redakteure	O	O
 3	:	O	O
@@ -7047,7 +7043,7 @@
 75	-	O	O
 76	Berlin	B-LOC	O
 77	.	O	O
-
+			
 1	Druck	O	O
 2	und	O	O
 3	Verlag	O	O
@@ -7057,12 +7053,12 @@
 7	in	O	O
 8	Berlin	B-LOC	O
 9	.	O	O
-
+			
 1	Hierzu	O	O
 2	14	O	O
 3	Beiblätter	O	O
 4	.	O	O
-
+			
 0	0	O	O
 0	Die	O	O
 0	Sammlungen	O	O
@@ -7086,7 +7082,7 @@
 0	uslöiung	O	O
 0	verfallen	O	O
 0	.	O	O
-
+			
 0	Für	O	O
 0	Oktober	O	O
 0	dieses	O	O
@@ -7118,7 +7114,7 @@
 0	Auktion	O	O
 0	leiten	O	O
 0	.	O	O
-
+			
 0	Die	O	O
 0	Katalogisierung	O	O
 0	der	O	O
@@ -7142,7 +7138,7 @@
 0	Falle	O	O
 0	dernommen	O	O
 0	.	O	O
-
+			
 0	Die	O	O
 0	Gemäldesammlung	O	O
 0	enthält	O	O
@@ -7201,7 +7197,7 @@
 0	,	O	O
 0	"hö	O	O
 0	.	O	O
-
+			
 0	Fn	O	O
 0	der	O	O
 0	kunstgewerblichen	O	O
@@ -7235,7 +7231,7 @@
 0	Hand	O	O
 0	"	O	O
 0	.	O	O
-
+			
 0	Aus	O	O
 0	Newyork	B-LOC	O
 0	meldet	O	O
@@ -7272,7 +7268,7 @@
 0	plötzlich	O	O
 0	abzubrechen	O	O
 0	.	O	O
-
+			
 0	Paderewski	B-PER	O
 0	wird	O	O
 0	lös	O	O
