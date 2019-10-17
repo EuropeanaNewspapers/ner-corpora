@@ -7959,10 +7959,9 @@
 0	Kurt	B-PER	O
 0	Herr	I-PER	O
 0	.	O	O
-0
-0	003	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19330409-0-6-0-0/full/full/0/default.jpg
-0	1933-04-09	Der Welt-Spiegel	27646518
-0
+			
+#	003	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19330409-0-6-0-0/full/full/0/default.jpg
+#	1933-04-09	Der Welt-Spiegel	27646518
 0	6	O	O
 0	V	O	O
 0	0	O	O
@@ -9923,10 +9922,9 @@
 0	wird	O	O
 0	Aufnahme	O	O
 0	Paramount-Studio	B-ORG	O
-0
-0	004	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19100104-2-3-0-0/full/full/0/default.jpg
-0	1910-01-04	Berliner Volks-Zeitung	27971740
-0
+			
+#	004	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19100104-2-3-0-0/full/full/0/default.jpg
+#	1910-01-04	Berliner Volks-Zeitung	27971740
 0	schule	O	O
 0	des	O	O
 0	Lettevereins	B-ORG	O
@@ -14015,10 +14013,9 @@
 0	Berlin	B-LOC	O
 0	SW	O	O
 0	.	O	O
-0
-0	005	https://zdb-katalog.de/title.xhtml?idn=1060035537	http://content.staatsbibliothek-berlin.de/zefys/SNP27974534-18900404-1-3-0-0/full/full/0/default.jpg
-0	1890-04-04	Berliner Volks-Zeitung	27974534
-0
+			
+#	005	https://zdb-katalog.de/title.xhtml?idn=1060035537	http://content.staatsbibliothek-berlin.de/zefys/SNP27974534-18900404-1-3-0-0/full/full/0/default.jpg
+#	1890-04-04	Berliner Volks-Zeitung	27974534
 0	fcli	O	O
 0	Sämmtliche	O	O
 0	Bureaus	O	O
@@ -18521,10 +18518,9 @@
 0	vorigen	O	O
 0	Jahre	O	O
 0	.	O	O
-0
-0	006	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18900512-0-20-0-0/full/full/0/default.jpg
-0	1890-05-12	Berliner Börsen-Zeitung	2436020X
-0
+			
+#	006	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18900512-0-20-0-0/full/full/0/default.jpg
+#	1890-05-12	Berliner Börsen-Zeitung	2436020X
 0	12	O	O
 0	Berliner	B-ORG	O
 0	Börsen-Zeitung	I-ORG	O
@@ -20801,10 +20797,9 @@
 0	Kronenstraase	B-LOC	O
 0	37	I-LOC	O
 0	.	O	O
-0
-0	007	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19300313-0-3-0-0/full/full/0/default.jpg
-0	1930-03-13	Berliner Börsen-Zeitung	2436020X
-0
+			
+#	007	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19300313-0-3-0-0/full/full/0/default.jpg
+#	1930-03-13	Berliner Börsen-Zeitung	2436020X
 0	1*80	O	O
 0	Berliner	B-ORG	O
 0	Börsen-Zeitung	I-ORG	O
@@ -23358,10 +23353,9 @@
 0	,	O	O
 0	i	O	O
 0	t	O	O
-0
-0	008	https://zdb-katalog.de/title.xhtml?idn=1031781625	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19400514-6-1-0-0/full/full/0/default.jpg
-0	1940-05-14	Deutsches Nachrichtenbüro	27058621
-0
+			
+#	008	https://zdb-katalog.de/title.xhtml?idn=1031781625	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19400514-6-1-0-0/full/full/0/default.jpg
+#	1940-05-14	Deutsches Nachrichtenbüro	27058621
 0	Zweite	O	O
 0	Mittags-Ausgabe	O	O
 0	.	O	O
@@ -26008,10 +26002,9 @@
 0	.	O	O
 0	,	O	O
 0	Berlin	B-LOC	O
-0
-0	009	https://zdb-katalog.de/title.xhtml?idn=1063048109	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18800831-0-1-0-0/full/full/0/default.jpg
-0	1880-08-31	Norddeutsche allgemeine Zeitung	28028685
-0
+			
+#	009	https://zdb-katalog.de/title.xhtml?idn=1063048109	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18800831-0-1-0-0/full/full/0/default.jpg
+#	1880-08-31	Norddeutsche allgemeine Zeitung	28028685
 0	a..^'	O	O
 0	'	O	O
 0	<>	O	O
@@ -30549,10 +30542,9 @@
 0	folgt	O	O
 0	.	O	O
 0	)	O	O
-0
-0	010	https://zdb-katalog.de/title.xhtml?idn=1065342381	http://content.staatsbibliothek-berlin.de/zefys/SNP2807323X-19231013-1-1-0-0/full/full/0/default.jpg
-0	1923-10-13	Deutsche allgemeine Zeitung	2807323X
-0
+			
+#	010	https://zdb-katalog.de/title.xhtml?idn=1065342381	http://content.staatsbibliothek-berlin.de/zefys/SNP2807323X-19231013-1-1-0-0/full/full/0/default.jpg
+#	1923-10-13	Deutsche allgemeine Zeitung	2807323X
 0	Ausgabe	O	O
 0	für	O	O
 0	Groß-Berlin	B-LOC	O
@@ -35957,10 +35949,9 @@
 0	ein	O	O
 0	Segen	O	O
 0	sei	O	O
-0
-0	011	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19070103-0-1-0-0/full/full/0/default.jpg
-0	1907-01-03	Berliner Volkszeitung	27971740
-0
+			
+#	011	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19070103-0-1-0-0/full/full/0/default.jpg
+#	1907-01-03	Berliner Volkszeitung	27971740
 0	No	O	O
 0	.	O	O
 0	3	O	O
@@ -38758,10 +38749,9 @@
 0	der	O	O
 0	Betriebe	O	O
 0	«jtiUl.'	O	O
-0
-0	012	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19170105-0-2-0-0/full/full/0/default.jpg
-0	1917-01-05	Berliner Volkszeitung	27971740
-0
+			
+#	012	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19170105-0-2-0-0/full/full/0/default.jpg
+#	1917-01-05	Berliner Volkszeitung	27971740
 0	9	O	O
 0	f	O	O
 0	fcit-	O	O
@@ -42298,10 +42288,9 @@
 0	1	O	O
 0	Beiblatt	O	O
 0	.	O	O
-0
-0	013	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19170112-0-2-0-0/full/full/0/default.jpg
-0	1917-01-12	Berliner Volkszeitung	27971740
-0
+			
+#	013	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19170112-0-2-0-0/full/full/0/default.jpg
+#	1917-01-12	Berliner Volkszeitung	27971740
 0	Durch	O	O
 0	diese	O	O
 0	Ausdehnung	O	O
@@ -45502,10 +45491,9 @@
 0	Alle	O	O
 0	Angriffe	O	O
 0	wurden	O	O
-0
-0	014	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19271016-0-1-0-0/full/full/0/default.jpg
-0	1927-10-16	Berliner Volkszeitung	27971740
-0
+			
+#	014	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19271016-0-1-0-0/full/full/0/default.jpg
+#	1927-10-16	Berliner Volkszeitung	27971740
 0	«kg	O	O
 0	,	O	O
 0	16	O	O
@@ -47640,10 +47628,9 @@
 0	der	O	O
 0	Benennung	O	O
 0	dieser	O	O
-0
-0	015	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18770625-0-1-0-0/full/full/0/default.jpg
-0	1877-06-25	Berliner Tageblatt	27646518
-0
+			
+#	015	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18770625-0-1-0-0/full/full/0/default.jpg
+#	1877-06-25	Berliner Tageblatt	27646518
 0	Wag	O	O
 0	von	O	O
 0	Mols	O	O
@@ -50745,10 +50732,9 @@
 0	Probenummer	O	O
 0	.	O	O
 0	Hebd«mas»	O	O
-0
-0	016	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18920101-0-1-0-0/full/full/0/default.jpg
-0	1892-01-01	Berliner Tageblatt	27646518
-0
+			
+#	016	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18920101-0-1-0-0/full/full/0/default.jpg
+#	1892-01-01	Berliner Tageblatt	27646518
 0	4	O	O
 0	"	O	O
 0	Berliner	O	O
@@ -53762,10 +53748,9 @@
 0	.	O	O
 0	1	O	O
 0	.	O	O
-0
-0	017	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19140101-0-3-0-0/full/full/0/default.jpg
-0	1914-01-01	Berliner Tageblatt	27646518
-0
+			
+#	017	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19140101-0-3-0-0/full/full/0/default.jpg
+#	1914-01-01	Berliner Tageblatt	27646518
 0	Der	O	O
 0	Welt-Spiegel	O	O
 0	Nr	O	O
@@ -54621,10 +54606,9 @@
 0	Sorgfalt	O	O
 0	befleißigt	O	O
 0	.	O	O
-0
-0	018	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18800101-0-2-0-0/full/full/0/default.jpg
-0	1880-01-01	Berliner Tageblatt	27646518
-0
+			
+#	018	https://zdb-katalog.de/title.xhtml?idn=1049496809	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18800101-0-2-0-0/full/full/0/default.jpg
+#	1880-01-01	Berliner Tageblatt	27646518
 0	Set»»	O	O
 0	Berliner	O	O
 0	Tageblatt	O	O
@@ -58316,9 +58300,8 @@
 0	11«	O	O
 0	Jauuar	O	O
 0	angesetzt.	O	O
-0
-0	019	file:	F_SBB_00009_18940403_042_125_0_001
-0
+			
+#	019	file:	F_SBB_00009_18940403_042_125_0_001
 0	M	O	O
 0	125.	O	O
 0	Morgenilatt.	O	O
@@ -60971,9 +60954,8 @@
 0	sein	O	O
 0	neu	O	O
 0	einge-	O	O
-0
-0	020	file:	F_SBB_00009_18950101_043_001_0_003
-0
+			
+#	020	file:	F_SBB_00009_18950101_043_001_0_003
 0	Mt	O	O
 0	Angelegenheit	O	O
 0	ab«	O	O
@@ -64420,9 +64402,8 @@
 0	kein	O	O
 0	Schaden	O	O
 0	angeiichtet.	O	O
-0
-0	021	file:	F_SBB_00009_18991023_047_498_0_003
-0
+			
+#	021	file:	F_SBB_00009_18991023_047_498_0_003
 0	f	O	O
 0	Set	O	O
 0	Ltadtd«rord»cte	O	O
@@ -69424,10 +69405,9 @@
 0	sämmllich	O	O
 0	in	O	O
 0	Berlin.	O	O
-0
-0	022	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19101120-3-1-0-0/full/full/0/default.jpg
-0	1910-11-20	Berliner Volkszeitung	27971740
-0
+			
+#	022	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19101120-3-1-0-0/full/full/0/default.jpg
+#	1910-11-20	Berliner Volkszeitung	27971740
 0	'orgert-Ausgabe	O	O
 0	.	O	O
 0	5^3	O	O
@@ -72967,10 +72947,9 @@
 0	Ylühbirnen	O	O
 0	sccnhast	O	O
 0	beleuchtet.	O	O
-0
-0	023	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19101120-3-1-0-0/full/full/0/default.jpg
-0	1910-11-20	Berliner Volkszeitung	27971740
-0
+			
+#	023	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19101120-3-1-0-0/full/full/0/default.jpg
+#	1910-11-20	Berliner Volkszeitung	27971740
 0	'orgert-Ausgabe	O	O
 0	.	O	O
 0	5^3	O	O
@@ -76510,10 +76489,9 @@
 0	Ylühbirnen	O	O
 0	sccnhast	O	O
 0	beleuchtet.	O	O
-0
-0	024	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19230929-2-3-0-0/full/full/0/default.jpg
-0	1923-09-29	Berliner Volkszeitung	27971740
-0
+			
+#	024	https://zdb-katalog.de/title.xhtml?idn=1059900556	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19230929-2-3-0-0/full/full/0/default.jpg
+#	1923-09-29	Berliner Volkszeitung	27971740
 0	\	O	O
 0	Ifinbcrtr,	O	O
 0	müsien	O	O
@@ -79195,9 +79173,8 @@
 0	I	O	O
 0	I	O	O
 0	1	O	O
-0
-0	025	file:	F_SBB_00009_19300101_078_001_4_001
-0
+			
+#	025	file:	F_SBB_00009_19300101_078_001_4_001
 0	Auf	O	O
 0	den	O	O
 0	Hund	O	O
@@ -81201,10 +81178,9 @@
 0	Woche	O	O
 0	des	O	O
 0	Jahres	O	O
-0
-0	026	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18720405-1-5-0-0/full/full/0/default.jpg
-0	1872-04-05	Berliner Börsen-Zeitung	2436020X
-0
+			
+#	026	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18720405-1-5-0-0/full/full/0/default.jpg
+#	1872-04-05	Berliner Börsen-Zeitung	2436020X
 0	Beilage	O	O
 0	der	O	O
 0	"Berliner	O	O
@@ -82984,10 +82960,9 @@
 0	steht,	O	O
 0	ist	O	O
 0	"eingetragen;"	O	O
-0
-0	027	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18780420-0-24-0-0/full/full/0/default.jpg
-0	1878-04-20	Berliner Börsen-Zeitung	2436020X
-0
+			
+#	027	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18780420-0-24-0-0/full/full/0/default.jpg
+#	1878-04-20	Berliner Börsen-Zeitung	2436020X
 0	N	O	O
 0	Concurs	O	O
 0	-	O	O
@@ -84295,10 +84270,9 @@
 0	W.,	O	O
 0	Kroueüaksuw«	O	O
 0	37.	O	O
-0
-0	028	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18850518-0-3-0-0/full/full/0/default.jpg
-0	1885-05-18	Berliner Börsen-Zeitung	2436020X
-0
+			
+#	028	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18850518-0-3-0-0/full/full/0/default.jpg
+#	1885-05-18	Berliner Börsen-Zeitung	2436020X
 0	3	O	O
 0	cartell	O	O
 0	beigetretest	O	O
@@ -86445,10 +86419,9 @@
 0	auf	O	O
 0	No,	O	O
 0	45479.	O	O
-0
-0	029	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18990402-0-2-0-0/full/full/0/default.jpg
-0	1899-04-02	Berliner Börsen-Zeitung	2436020X
-0
+			
+#	029	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18990402-0-2-0-0/full/full/0/default.jpg
+#	1899-04-02	Berliner Börsen-Zeitung	2436020X
 0	Berliner	O	O
 0	Börsen-Zeitung	O	O
 0	Nr.	O	O
@@ -88675,10 +88648,9 @@
 0	Vorbereitung,	O	O
 0	ein	O	O
 0	L	O	O
-0
-0	030	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19070428-0-14-0-0/full/full/0/default.jpg
-0	1907-04-28	Berliner Börsen-Zeitung	2436020X
-0
+			
+#	030	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19070428-0-14-0-0/full/full/0/default.jpg
+#	1907-04-28	Berliner Börsen-Zeitung	2436020X
 0	14	O	O
 0	Berliner	O	O
 0	Börseir-ZeltunA	O	O
@@ -90895,10 +90867,9 @@
 0	Erde	O	O
 0	übergebene	O	O
 0	Frühjahrssaat-	O	O
-0
-0	031	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19140621-0-5-0-0/full/full/0/default.jpg
-0	1914-06-21	Berliner Börsen-Zeitung	2436020X
-0
+			
+#	031	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19140621-0-5-0-0/full/full/0/default.jpg
+#	1914-06-21	Berliner Börsen-Zeitung	2436020X
 0	,	O	O
 0	Beilage	O	O
 0	der	O	O
@@ -92962,10 +92933,9 @@
 0	Adrianopel	O	O
 0	vollständig	O	O
 0	ausgehört.	O	O
-0
-0	032	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19210712-1-5-0-0/full/full/0/default.jpg
-0	1921-07-12	Berliner Börsen-Zeitung	2436020X
-0
+			
+#	032	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19210712-1-5-0-0/full/full/0/default.jpg
+#	1921-07-12	Berliner Börsen-Zeitung	2436020X
 0	II.	O	O
 0	Beilage	O	O
 0	der	O	O
@@ -97575,10 +97545,9 @@
 0	vor	O	O
 0	I	O	O
 0	A	O	O
-0
-0	033	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19270227-0-2-0-0/full/full/0/default.jpg
-0	1927-02-27	Berliner Börsen-Zeitung	2436020X
-0
+			
+#	033	https://zdb-katalog.de/title.xhtml?idn=989489027	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19270227-0-2-0-0/full/full/0/default.jpg
+#	1927-02-27	Berliner Börsen-Zeitung	2436020X
 0	Berliner	O	O
 0	BSrseii-Zeltung	O	O
 0	Nr.	O	O
@@ -101094,9 +101063,8 @@
 0	drei	O	O
 0	Beilage	O	O
 0	I	O	O
-0
-0	034	file:	F_SBB_00007_19310103_070_003_0_006
-0
+			
+#	034	file:	F_SBB_00007_19310103_070_003_0_006
 0	a	O	O
 0	<	O	O
 0	—^	O	O
@@ -106858,9 +106826,8 @@
 0	57%—64%.	O	O
 0	Marktverlauf:	O	O
 0	ruhig»	O	O
-0
-0	035	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19360605-2-1-0-0/full/full/0/default.jpg
-0
+				
+#	035	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19360605-2-1-0-0/full/full/0/default.jpg
 0	?>'X7'k	O	O
 0	Mls	O	O
 0	Manuskript	O	O
@@ -109380,9 +109347,8 @@
 0	Nachrichtenbüro	O	O
 0	G.m.b.H.,	O	O
 0	Berlin.	O	O
-0
-0	036	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19370710-3-1-0-0/full/full/0/default.jpg
-0
+				
+#	036	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19370710-3-1-0-0/full/full/0/default.jpg
 0	Erste	O	O
 0	Mittags	O	O
 0	-Ausgabe.	O	O
@@ -111740,9 +111706,8 @@
 0	Nachrichtenbüro	O	O
 0	G.m.b.H.,	O	O
 0	Berlin.	O	O
-0
-0	037	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19381012-1-1-0-0/full/full/0/default.jpg
-0
+				
+#	037	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19381012-1-1-0-0/full/full/0/default.jpg
 0	Zweite	O	O
 0	Morgen-Ausgabe.	O	O
 0	Deutsches	O	O
@@ -114145,9 +114110,8 @@
 0	H.,	O	O
 0	Be	O	O
 0	rlin	O	O
-0
-0	038	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19391031-2-1-0-0/full/full/0/default.jpg
-0
+				
+#	038	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19391031-2-1-0-0/full/full/0/default.jpg
 0	Vormittags-	O	O
 0	und	O	O
 0	Mittags-Ausgabe.	O	O
@@ -116466,9 +116430,8 @@
 0	b.	O	O
 0	H..	O	O
 0	Berlin,	O	O
-0
-0	039	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19400222-0-1-0-0/full/full/0/default.jpg
-0
+				
+#	039	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27058621-19400222-0-1-0-0/full/full/0/default.jpg
 0	Morgen-Ausgabe.	O	O
 0	Deutsches	O	O
 0	Nachrichtenbüro	O	O
@@ -118792,9 +118755,8 @@
 0	b.	O	O
 0	H.,	O	O
 0	Berlin..	O	O
-0
-0	040	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18790720-0-5-0-0/full/full/0/default.jpg
-0
+			
+#	040	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18790720-0-5-0-0/full/full/0/default.jpg
 0	Norddeutsche	O	O
 0	Allgemeine	O	O
 0	Zeitung	O	O
@@ -124251,9 +124213,8 @@
 0	(Fortsetzung	O	O
 0	folgt.)	O	O
 0	T?	O	O
-0
-0	041	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18861105-1-2-0-0/full/full/0/default.jpg
-0
+			
+#	041	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18861105-1-2-0-0/full/full/0/default.jpg
 0	an	O	O
 0	deren	O	O
 0	Parteien	O	O
@@ -129356,9 +129317,8 @@
 0	zugänglich	O	O
 0	gemacht	O	O
 0	wird.	O	O
-0
-0	042	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18930820-0-1-0-0/full/full/0/default.jpg
-0
+				
+#	042	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-18930820-0-1-0-0/full/full/0/default.jpg
 0	I	O	O
 0	Nor-dmtscheUllgmlMeIeilmg.	O	O
 0	'	O	O
@@ -133187,9 +133147,8 @@
 0	Armen.	O	O
 0	(Fortsetzung	O	O
 0	folgt.)	O	O
-0
-0	043	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-19010830-0-2-0-0/full/full/0/default.jpg
-0
+			
+#	043	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-19010830-0-2-0-0/full/full/0/default.jpg
 0	»	O	O
 0	saufen	O	O
 0	auch	O	O
@@ -139017,9 +138976,8 @@
 0	Männer	O	O
 0	aufgegttffen	O	O
 0	wurden.	O	O
-0
-0	044	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-19080724-0-5-0-0/full/full/0/default.jpg
-0
+			
+#	044	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-19080724-0-5-0-0/full/full/0/default.jpg
 0	hat.	O	O
 0	Welche	O	O
 0	Fülle	O	O
@@ -144405,9 +144363,8 @@
 0	Fr.	O	O
 0	erhältlich.	O	O
 0	\.	O	O
-0
-0	045	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-19150813-0-2-0-0/full/full/0/default.jpg
-0
+			
+#	045	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP28028685-19150813-0-2-0-0/full/full/0/default.jpg
 0	Die	O	O
 0	Behandlung	O	O
 0	der	O	O
@@ -148870,9 +148827,8 @@
 0	"Reich."""	O	O
 0	Ottovon	O	O
 0	Gottberg.	O	O
-0
-0	046	file:	F_SBB_00007_19221015_061_445_0_013
-0
+			
+#	046	file:	F_SBB_00007_19221015_061_445_0_013
 0	-	O	O
 0	\y/	O	O
 0	iJ.	O	O
@@ -153643,9 +153599,8 @@
 0	Tel.	O	O
 0	Zentrum	O	O
 0	,1Z49	O	O
-0
-0	047	file:	F_SBB_00007_19280828_067_402_0_002
-0
+			
+#	047	file:	F_SBB_00007_19280828_067_402_0_002
 0	f	O	O
 0	1	O	O
 0	i	O	O
@@ -159442,9 +159397,8 @@
 0	wieder	O	O
 0	mti-	O	O
 0	I	O	O
-0
-0	048	file:	F_SBB_00007_19301023_069_495_0_002
-0
+			
+#	048	file:	F_SBB_00007_19301023_069_495_0_002
 0	Deutsche	O	O
 0	«Allgemeine	O	O
 0	Aeilung	O	O
@@ -162708,9 +162662,8 @@
 0	der	O	O
 0	Erde	O	O
 0	stützt.	O	O
-0
-0	049	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19340722-0-4-0-0/full/full/0/default.jpg
-0
+			
+#	049	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19340722-0-4-0-0/full/full/0/default.jpg
 0	4	O	O
 0	Sclnverl,	O	O
 0	Spiegel	O	O
@@ -163380,9 +163333,8 @@
 0	W61^	O	O
 0	Fechtwei*	O	O
 0	-Nil	O	O
-0
-0	050	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19260506-2-2-0-0/full/full/0/default.jpg
-0
+			
+#	050	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19260506-2-2-0-0/full/full/0/default.jpg
 0	»bend	O	O
 0	In	O	O
 0	sämtlichen	O	O
@@ -166484,9 +166436,8 @@
 0	inkarnirren	O	O
 0	sich	O	O
 0	ar	O	O
-0
-0	051	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19180625-0-9-0-0/full/full/0/default.jpg
-0
+			
+#	051	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19180625-0-9-0-0/full/full/0/default.jpg
 0	Jtr	O	O
 0	319	O	O
 0	jtN-taa,	O	O
@@ -169618,9 +169569,8 @@
 0	halb	O	O
 0	nach	O	O
 0	den	O	O
-0
-0	052	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19081114-0-32-0-0/full/full/0/default.jpg
-0
+			
+#	052	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-19081114-0-32-0-0/full/full/0/default.jpg
 0	410	O	O
 0	E.	O	O
 0	M.,	O	O
@@ -171060,9 +171010,8 @@
 0	und	O	O
 0	ft«n»	O	O
 0	rt«n-	O	O
-0
-0	053	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18960612-1-3-0-0/full/full/0/default.jpg
-0
+			
+#	053	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18960612-1-3-0-0/full/full/0/default.jpg
 0	Mehrere	O	O
 0	Athener	O	O
 0	Blätter	O	O
@@ -174574,9 +174523,8 @@
 0	welch«	O	O
 0	di,	O	O
 0	Schuld	O	O
-0
-0	054	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18841016-1-2-0-0/full/full/0/default.jpg
-0
+			
+#	054	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18841016-1-2-0-0/full/full/0/default.jpg
 0	Toite	O	O
 0	2	O	O
 0	Verliner	O	O
@@ -178150,9 +178098,8 @@
 0	ösi	O	O
 0	lich	O	O
 0	"rügen."""	O	O
-0
-0	055	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18730517-1-1-0-0/full/full/0/default.jpg
-0
+			
+#	055	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18730517-1-1-0-0/full/full/0/default.jpg
 0	Abend'	O	O
 0	lerllo,	O	O
 0	Sonnabend,	O	O
@@ -179993,9 +179940,8 @@
 0	die	O	O
 0	Auflösung	O	O
 0	de«	O	O
-0
-0	056	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18920803-0-12-0-0/full/full/0/default.jpg
-0
+			
+#	056	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-18920803-0-12-0-0/full/full/0/default.jpg
 0	“P*“™	O	O
 0	-	O	O
 0	™	O	O
@@ -182015,9 +181961,8 @@
 0	W"	O	O
 0	Kronenstraßc	O	O
 0	37.	O	O
-0
-0	057	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19000218-0-9-0-0/full/full/0/default.jpg
-0
+			
+#	057	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19000218-0-9-0-0/full/full/0/default.jpg
 0	II.	O	O
 0	Beilage	O	O
 0	der	O	O
@@ -183892,9 +183837,8 @@
 0	Geschäftsjahr	O	O
 0	1899	O	O
 0	ins	O	O
-0
-0	058	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19091113-1-1-0-0/full/full/0/default.jpg
-0
+			
+#	058	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19091113-1-1-0-0/full/full/0/default.jpg
 0	Berlin,	O	O
 0	Sonnabend,	O	O
 0	Die	O	O
@@ -185298,9 +185242,8 @@
 0	Haler	O	O
 0	in	O	O
 0	guter	O	O
-0
-0	059	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19150710-1-13-0-0/full/full/0/default.jpg
-0
+			
+#	059	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19150710-1-13-0-0/full/full/0/default.jpg
 0	,i	O	O
 0	m	O	O
 0	Bete	O	O
@@ -187195,9 +187138,8 @@
 0	Durch	O	O
 0	Gesellschafferbeschiuss	O	O
 0	vom	O	O
-0
-0	060	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19201216-0-6-0-0/full/full/0/default.jpg
-0
+			
+#	060	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19201216-0-6-0-0/full/full/0/default.jpg
 0	\	O	O
 0	.	O	O
 0	—	O	O
@@ -191057,9 +190999,8 @@
 0	Baak	O	O
 0	Filiale	O	O
 0	fioslir.	O	O
-0
-0	061	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19271126-0-8-0-0/full/full/0/default.jpg
-0
+			
+#	061	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP2436020X-19271126-0-8-0-0/full/full/0/default.jpg
 0	I	O	O
 0	/	O	O
 0	1	O	O
@@ -196055,9 +195996,8 @@
 0	sehr	O	O
 0	schön	O	O
 0	"aati."""	O	O
-0
-0	062	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19201015-0-3-0-0/full/full/0/default.jpg
-0
+			
+#	062	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19201015-0-3-0-0/full/full/0/default.jpg
 0	)	O	O
 0	»	O	O
 0	Kassel	O	O
@@ -198447,9 +198387,8 @@
 0	1	O	O
 0	Beiblatt	O	O
 0	.	O	O
-0
-0	063	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19041122-0-2-0-0/full/full/0/default.jpg
-0
+			
+#	063	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19041122-0-2-0-0/full/full/0/default.jpg
 0	Darmstadt	O	O
 0	,	O	O
 0	21	O	O
@@ -201941,9 +201880,8 @@
 0	sie	O	O
 0	folgte	O	O
 0	ihnen	O	O
-0
-0	064	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19221201-1-2-0-0/full/full/0/default.jpg
-0
+			
+#	064	file:	http://content.staatsbibliothek-berlin.de/zefys/SNP27971740-19221201-1-2-0-0/full/full/0/default.jpg
 0	Die	O	O
 0	Auflösung	O	O
 0	der	O	O
